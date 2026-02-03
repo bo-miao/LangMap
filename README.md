@@ -3,11 +3,14 @@
 
 ## LangMap: A Hierarchical Benchmark for Open-Vocabulary Goal Navigation
 
+![task](figures/Fig1_demo.png "motivation")
 
 
 ## 🏠 Introduction
 
+
 HieraNav is an open-vocabulary language-conditioned goal navigation task where agents reach targets across four semantic levels: scene, room, region, and instance.
+
 
 Language as a Map (LangMap) is the first large-scale benchmark for this task with comprehensive human-verified contrastive annotations.
 
@@ -26,8 +29,6 @@ Language as a Map (LangMap) is the first large-scale benchmark for this task wit
 
 ## ⭐ HieraNav
 
-
-![task](figures/Fig1_demo.png "motivation")
 
 ![task2](figures/hieranav_framework.png "demonstration")
 
