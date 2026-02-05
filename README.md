@@ -1,6 +1,9 @@
 [![License](https://img.shields.io/badge/license-CC--BY%204.0-blue)](https://creativecommons.org/licenses/by/4.0/)
 [![arXiv](https://img.shields.io/badge/cs.CV-%09arXiv%3A2205.00823-red)](https://arxiv.org/html/2602.02220v1)
 
+[![Project](https://img.shields.io/badge/🌐-Project%20Page-blue)](https://bo-miao.github.io/LangMap/)
+[![Demo](https://img.shields.io/badge/🤗-Interactive%20Contrastive%20Visualization-yellow)](https://huggingface.co/spaces/bo-miao/LangMap)
+
 ## LangMap: A Hierarchical Benchmark for Open-Vocabulary Goal Navigation
 
 ![task2](figures/hieranav_framework.png "demonstration")
