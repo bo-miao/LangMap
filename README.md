@@ -20,7 +20,7 @@ Language as a Map (LangMap) is the first large-scale benchmark for this task wit
 ## ⭐ Highlights
 
 - Built on real-world HM3D indoor scans.
-
+  
 - Human-verified region labels with discriminative descriptions.
 
 - Discriminative instance descriptions covering 414 object categories.
@@ -29,13 +29,13 @@ Language as a Map (LangMap) is the first large-scale benchmark for this task wit
 
 
 
+## ⭐ LangMap
+
+**🚀 Release Status.** The full benchmark is planned for public release in early June 2026.
+
+
+
 ## ⭐ HieraNav
 
 ![task](figures/Fig1_demo.png "motivation")
 
-
-
-## ⭐ LangMap
-
-
-The full benchmark will be released.
