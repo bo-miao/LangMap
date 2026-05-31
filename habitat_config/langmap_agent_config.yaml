@@ -1,0 +1,17 @@
+rgb_sensor:
+  width: 640
+  height: 480
+  hfov: 120
+  position: [0, 1.31, 0]
+depth_sensor:
+  width: 640
+  height: 480
+  hfov: 120
+  position: [0, 1.31, 0]
+height: 1.41
+radius: 0.17
+turn_angle: 30.0
+tilt_angle: 30.0
+step_size: 0.25
+
+# Maybe prefer h=w=512, hfov=60, position=1.0

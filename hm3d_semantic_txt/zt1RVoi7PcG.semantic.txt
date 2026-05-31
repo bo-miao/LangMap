@@ -1,0 +1,826 @@
+HM3D Semantic Annotations
+1,343058,"ceiling",1
+2,6D690D,"floor",1
+3,7A04DA,"wall",1
+4,54CBA1,"wall",1
+5,11BD9E,"wall",1
+6,B35089,"door",1
+7,632B4E,"wall",1
+8,6363D4,"wall",1
+9,CDC86E,"wall",1
+10,FE09D8,"door",1
+11,E02C05,"wall electronics",1
+12,2837E8,"ceiling vent",1
+13,67AB69,"chandelier",1
+14,96B2D7,"bed",1
+15,D780FB,"pillow",1
+16,01CA82,"pillow",1
+17,9E0287,"pillow",1
+18,ABC514,"pillow",1
+19,443BC6,"pillow",1
+20,53725B,"pillow",1
+21,1FF029,"painting",1
+22,D915FF,"bedside lamp",1
+23,BF72DA,"unknown",1
+24,7FA093,"bedside lamp",1
+25,28CFBC,"book",1
+26,0B4F16,"book",1
+27,F8D01E,"storage box",1
+28,A1DF21,"mirror",1
+29,B4C3A5,"door frame",1
+30,683FDA,"sensor",1
+31,5B070D,"window frame",1 
+32,DC82BC,"window curtain",1
+33,455108,"window",1
+34,13572B,"bag",1
+35,FAA8C9,"desk lamp",1
+36,63D568,"unknown",1
+37,1636AB,"monitor",1
+38,79B2D1,"keyboard",1
+39,C41D23,"computer mouse",1
+40,0A9562,"computer desk",1
+41,5D7F47,"tv",1
+42,A22320,"cabinet",1
+43,9AB116,"unknown",1
+44,9045EF,"ceiling",2
+45,437B79,"chandelier",2
+46,0A8776,"ceiling",2
+47,7FDE23,"wall",2
+48,BEF174,"painting",2
+49,9294FF,"wall",2
+50,8A3439,"picture",2
+51,853884,"sensor",2
+52,D8CC7A,"ceiling vent",2
+53,CF46D9,"sensor",2
+54,856E98,"ceiling lamp",2
+55,EFF42F,"attic door",2
+56,F0531F,"floor",2
+57,E986BA,"rug",2
+58,9E60E6,"table",2
+59,21881C,"couch",2
+60,7C1391,"pillow",2
+61,B8747B,"pillow",2
+62,EF9FA7,"pillow",2
+63,EC5758,"wall",2
+64,4CB732,"blinds",2
+65,73008E,"blinds",2
+66,988721,"board",2
+67,9EC68A,"snack",2
+68,80B47D,"snack",2
+69,8D0115,"snack",2
+70,FB458C,"snack",2
+71,9CF4BC,"snack",2
+72,3739CA,"snack",2
+73,5C2A8F,"snack",2
+74,0EC453,"snack",2
+75,EB67DF,"snack",2
+76,065A55,"snack",2
+77,ACC0D7,"snack",2
+78,E3225B,"snack",2
+79,A9D612,"snack",2
+80,36D775,"snack",2
+81,A30667,"snack",2
+82,EBD2A9,"snack",2
+83,3B055C,"snack",2
+84,93B6E2,"snack",2
+85,43162E,"snack",2
+86,43CC48,"snack",2
+87,1541A6,"snack",2
+88,7ADD2C,"snack",2
+89,FF3B5F,"snack",2
+90,DF11A3,"snack",2
+91,D6041A,"snack",2
+92,922101,"snack",2
+93,98507C,"snack",2
+94,9BA2E4,"snack",2
+95,AB76F7,"wall",2
+96,A234B1,"door frame",2
+97,7AC5F0,"door",2
+98,16C6C4,"wall electronics",2
+99,2C9482,"wall hanging decoration",2
+100,8F5BB7,"wall",2
+101,F405E1,"wall hanging decoration",2
+102,D90BD0,"wall hanging decoration",2
+103,8722C6,"door frame",2
+104,D3C7FB,"tv",2
+105,5AEAE5,"tv stand",2
+106,865830,"media console",2
+107,E79291,"media console",2
+108,5771D3,"media console",2
+109,49536D,"media console",2
+110,120E15,"unknown",2
+111,2D159D,"unknown",2
+112,4A7F9D,"unknown",2
+113,9ED4BF,"unknown",2
+114,BC1834,"machine",2
+115,274902,"mini fridge",2
+116,720DED,"armchair",2 
+117,F1F1E8,"chair",2
+118,342871,"cabinet",2
+119,571A96,"arcade game",2
+120,2E8385,"arcade game",2
+121,F284DF,"unknown",2
+122,85EA1E,"unknown",2
+123,61CBD7,"cardboard box",2
+124,9C4B67,"exercise machine",2
+125,A932F2,"unknown",2
+126,1048C2,"basket",2
+127,B1CC1A,"plush toy",2
+128,861F2E,"wall electronics",2
+129,10FF8A,"door frame",2
+130,9D7B89,"ceiling",3
+131,B62AB3,"ceiling vent",3
+132,A65F83,"sensor",3
+133,FACAB0,"chandelier",3
+134,E8B91F,"wall",3
+135,08566C,"wall",3
+136,4D3C74,"wall",3
+137,57C9E5,"door",3
+138,847DCC,"wall",3
+139,C5D9C9,"floor",3
+140,BA075D,"bed",3
+141,772730,"towel",3
+142,7B2053,"pillow",3
+143,0D96FF,"pillow",3
+144,89B6A2,"pillow",3
+145,038969,"pillow",3
+146,8EE012,"wall clock",3
+147,299338,"tv",3
+148,8B44C6,"wall hanging decoration",3
+149,F3AABA,"wall hanging decoration",3
+150,255441,"wall",3
+151,1CF310,"picture",3
+152,CBB7A9,"trashcan",3
+153,DF407A,"bed table",3
+154,F0DEEA,"picture",3
+155,1CC322,"picture",3
+156,DE408F,"wall electronics",3
+157,AE21D7,"wall electronics",3
+158,4A27EB,"cabinet",3
+159,F5DED9,"curtain",3
+160,0609E3,"shutter",3
+161,6EA25F,"curtain rod",3
+162,86C3D9,"unknown",3 
+163,D25FD5,"cabinet",3
+164,6B622F,"cardboard box",3
+165,81525F,"unknown",3
+166,CE2C9C,"cardboard box",3
+167,1ABBC1,"cardboard box",3
+168,901496,"unknown",3
+169,D71836,"unknown",3
+170,792F4A,"unknown",3
+171,7717AE,"unknown",3
+172,A601D4,"unknown",3
+173,81A6D0,"unknown",3
+174,710F26,"desk",3
+175,75806F,"monitor",3
+176,2E5229,"pad",3
+177,CC7039,"pad",3
+178,4E0E45,"computer equipment",3
+179,B96FF1,"computer mouse",3
+180,2CBEAC,"paper",3
+181,85E9C8,"computer chair",3
+182,2F988B,"wall lamp",3
+183,B70D0B,"door",3
+184,29D663,"ceiling",4
+185,9A859F,"ceiling vent",4
+186,C97EF0,"floor",4
+187,92533D,"wall",4
+188,43AAA8,"painting",4
+189,BAAAFB,"wall",4
+190,21D220,"door",4
+191,ED534D,"tv",4
+192,DAB2E9,"wall",4
+193,786E10,"painting",4
+194,1FE5C0,"painting",4
+195,021992,"wall",4
+196,EAF2C9,"trashcan",4
+197,E1263A,"door",4
+198,E4A0D8,"bed",4
+199,786AA9,"chandelier",4
+200,85214B,"pillow",4
+201,4A7936,"pillow",4
+202,D39907,"pillow",4
+203,30CD8D,"pillow",4
+204,8E8719,"pillow",4
+205,353BBF,"pillow",4
+206,622478,"pillow",4
+207,2576C9,"wall shelf",4
+208,863774,"unknown",4
+209,FCC1A2,"unknown",4
+210,F6355F,"flower",4
+211,BFCB22,"unknown",4
+212,8183F0,"curtain",4
+213,39C566,"curtain",4
+214,1914C8,"blinds",4
+215,D38A06,"window",4
+216,936D51,"window frame",4
+217,2A4184,"wall electronics",4
+218,4A00F1,"door frame",4
+219,E24882,"ceiling",4
+220,8DA067,"ceiling vent",5
+221,A500D7,"chandelier",5
+222,77960A,"sensor",5
+223,A641DA,"unknown",5
+224,DEBB1F,"wall",5
+225,513D61,"wall",5
+226,FEB00A,"wall",5
+227,65A5E4,"floor",5 
+228,8E077B,"wall",5
+229,56A454,"wall",5
+230,252796,"wall electronics",5
+231,D5CC03,"wall electronics",5
+232,C8F906,"door",5
+233,E179F9,"wall",5
+234,4CF910,"wall",5
+235,108DAC,"painting",5
+236,0D3F75,"floor",5
+237,4B3378,"wall",5
+238,615BFC,"wall",5
+239,339B5B,"door frame",5
+240,A6163C,"door frame",5
+241,2D3166,"chandelier",5
+242,AF2AD7,"staircase handrail",5
+243,2641E8,"stairs",5
+244,C055FE,"stairs",5
+245,F44782,"floor",6
+246,A473DC,"ceiling",6
+247,0CF518,"ceiling vent",6
+248,242A1D,"sensor",6
+249,953C36,"ceiling vent",6
+250,617ABA,"ceiling vent",6
+251,4F77A3,"ceiling vent",6
+252,41595D,"chandelier",6
+253,32694F,"wall",6
+254,58C8C6,"wall",6
+255,6EDDDB,"wall",6
+256,790363,"wall",6
+257,C65A7B,"bed small",6
+258,DB84D5,"pillow",6
+259,A4D7D5,"pillow",6
+260,5BFF46,"pillow",6
+261,7A0254,"blanket",6
+262,6E1270,"wall",6
+263,E7FBAB,"painting",6
+264,B6E7F3,"wall",6
+265,9FD9DB,"wall hanging decoration",6
+266,53CD76,"wall hanging decoration",6
+267,CA982E,"wall hanging decoration",6
+268,60B1E5,"wall hanging decoration",6
+269,2C391E,"wall hanging decoration",6
+270,BAD0D0,"wall hanging decoration",6
+271,D5ACE5,"wall hanging decoration",6
+272,7C5A66,"wall hanging decoration",6
+273,DD88CF,"wall hanging decoration",6
+274,294D97,"wall hanging decoration",6
+275,E7FFCE,"wall hanging decoration",6
+276,569F00,"floor lamp",6
+277,0D0990,"wall hanging decoration",6
+278,9F5A6E,"wall hanging decoration",6
+279,5071BA,"wall hanging decoration",6
+280,8DF392,"coffee table",6
+281,5BC53B,"book",6
+282,B3761D,"couch",6
+283,026B9C,"pillow",6
+284,B5EE87,"pillow",6
+285,AF1F34,"unknown",6
+286,ECDAF5,"dog bed",6
+287,D82AC1,"chair",6
+288,52CA8C,"pillow",6
+289,8B012F,"chair",6
+290,AD09F0,"pillow",6
+291,8420C4,"wall hanging decoration",6
+292,7B0ED4,"wall electronics",6
+293,34A422,"wall electronics",6
+294,8445E7,"mirror",6
+295,351CBF,"cabinet",6
+296,06CDD7,"photo",6
+297,C265CA,"unknown",6
+298,87A996,"unknown",6
+299,D7AE22,"lamp table",6
+300,2438BD,"tv",6
+301,7042E3,"cabinet",6
+302,D01B22,"book",6
+303,02E54F,"unknown",6
+304,F52122,"unknown",6
+305,D43D7D,"unknown",6
+306,6B3D6B,"unknown",6
+307,13B343,"unknown",6
+308,E3A310,"unknown",6
+309,B69A17,"photo",6
+310,11DBD2,"photo",6
+311,7CF333,"photo",6
+312,89DE51,"photo",6
+313,5883F0,"rug",6
+314,857298,"footstool",6
+315,C40912,"bed",6
+316,3E946C,"pillow",6
+317,839883,"pillow",6
+318,5E71B4,"pillow",6
+319,1CCE3A,"pillow",6
+320,948764,"pillow",6
+321,6F482D,"pillow",6
+322,3B6242,"pillow",6
+323,42EBA8,"pillow",6
+324,1B5D68,"pillow",6
+325,6E70E6,"bedside lamp",6
+326,585D2A,"bed table",6
+327,3B541C,"bed table",6
+328,FD3B6E,"bedside lamp",6
+329,B4B686,"book",6
+330,D24FD0,"blinds",6
+331,98D9AE,"window",6
+332,BCCA2E,"window frame",6
+333,E9D6BE,"blinds",6
+334,03AB05,"window",6
+335,CD9877,"window frame",6
+336,78155E,"blinds",6
+337,DBCBCE,"window",6
+338,3F0F77,"window frame",6
+339,77BCCD,"blinds",6
+340,385CD0,"window",6
+341,DB8815,"window frame",6
+342,D2CC43,"door frame",6
+343,870190,"door",6
+344,2629E2,"door",6
+345,2ABA24,"ceiling",7
+346,58B0BE,"ceiling vent",7
+347,C572F8,"ceiling vent",7
+348,75C4EF,"ceiling lamp",7
+349,EA1DA5,"ceiling lamp",7
+350,4F7176,"floor",7
+351,214C2F,"wall",7
+352,3846B3,"towel",7
+353,D98FC7,"towel bar",7
+354,D9E4FC,"wall",7
+355,DC24C2,"wall lamp",7
+356,E22BE3,"wall",7
+357,3C6706,"towel",7
+358,3469F0,"towel bar",7
+359,7A6807,"wall hanging decoration",7
+360,1D041D,"wall",7
+361,EA9933,"door",7
+362,3C3AE6,"unknown",7
+363,EEEF69,"bath cabinet",7
+364,4C4061,"sink",7
+365,FA1F40,"sink",7
+366,2DA6C7,"unknown",7
+367,0536CC,"unknown",7
+368,E30D13,"unknown",7
+369,45CE0B,"unknown",7
+370,C52CF5,"tap",7
+371,C76CA6,"tap",7
+372,8C5FB4,"wall",7
+373,58E93C,"door frame",7
+374,0937A1,"towel",7
+375,76D7FB,"towel",7
+376,6CC57A,"bath wall",7
+377,59B75E,"bathtub",7
+378,2DD67B,"bath wall",7
+379,3DA9E5,"bathroom accessory",7
+380,0FDA02,"bathroom accessory",7
+381,A70387,"bath faucet",7
+382,858714,"blinds",7
+383,EBF590,"window frame",7
+384,A5C6B8,"window",7
+385,15C895,"shower wall",7
+386,23B665,"shower wall",7
+387,D24D97,"shower floor",7
+388,A9F7C6,"shower door frame",7
+389,D17B1A,"door",7
+390,55110C,"shower dial",7
+391,6187D1,"shelf",7
+392,8609D5,"shelf",7
+393,126A2F,"bath utensil",7
+394,56C307,"bath utensil",7
+395,3B8B56,"shelf",7
+396,1211FF,"flower",7
+397,A314A4,"unknown",7
+398,85574F,"unknown",7
+399,AC3E19,"ceiling",8
+400,4E0F79,"ceiling vent",8
+401,752A0E,"chandelier",8
+402,A9461D,"chandelier",8
+403,BE199A,"floor",8
+404,05022A,"wall",8
+405,D35715,"wall",8
+406,11B01A,"wall",8
+407,50B98C,"door",8
+408,95EFC9,"basket of something",8
+409,9B115B,"shoe",8
+410,E22E9F,"shoe",8
+411,D4CF37,"shoe",8
+412,3A8529,"clothes",8
+413,8A3466,"wall",8
+414,8EAB66,"wall",8
+415,ECD218,"box",8
+416,5C7013,"box",8
+417,95C090,"box",8
+418,2965DB,"box",8
+419,7AEA95,"box",8
+420,6E671A,"box",8
+421,35FF25,"box",8
+422,906EC7,"unknown",8
+423,F42C2B,"unknown",8
+424,B24362,"bag",8
+425,BC320D,"shelf",8
+426,2F6EC7,"clothes hanger",8
+427,0452C3,"clothes",8
+428,FB3F7D,"box",8
+429,A710B9,"box",8
+430,692A10,"box",8
+431,3B4107,"shelf",8
+432,4A1D65,"cabinet",8
+433,94FAF5,"box",8
+434,1E5E8F,"unknown",8
+435,9B8F02,"picture",8
+436,822C1E,"brush",8
+437,310FEB,"brush",8
+438,4B398E,"unknown",8
+439,66A71B,"unknown",8
+440,D8A20A,"ceiling",9
+441,2B59D5,"ceiling vent",9
+442,8B9209,"ceiling vent",9
+443,4C73C7,"ceiling lamp",9
+444,D19EB7,"floor",9
+445,E6E9FD,"wall",9
+446,A732A9,"wall",9
+447,54C0F8,"wall",9
+448,0E804B,"wall",9
+449,5D3C21,"wall lamp",9
+450,479F19,"wall electronics",9
+451,73D294,"shelf",9
+452,E111B8,"unknown",9
+453,2D3B6A,"unknown",9
+454,91345A,"unknown",9
+455,71479A,"shelf",9
+456,585FCC,"toilet paper",9
+457,3CCDEF,"toilet paper",9
+458,60637E,"toilet paper",9
+459,817353,"toilet paper",9
+460,3073AF,"door",9
+461,DD415F,"door frame",9
+462,E68205,"toilet",9
+463,B9C172,"soap",9
+464,3FE624,"shower curtain",9
+465,614A87,"bath cabinet",9
+466,8EF726,"bath sink",9
+467,598705,"bath sink",9
+468,706F2A,"tap",9
+469,0DF6BE,"tap",9
+470,1BB1AE,"unknown",9
+471,5C447E,"unknown",9
+472,EB25A8,"unknown",9
+473,47244F,"wall",9
+474,BC5334,"ceiling",10
+475,0EC9F6,"ceiling lamp",10
+476,3B6814,"ceiling vent",10
+477,D9C60E,"wall",10
+478,02A144,"wall",10
+479,7A338D,"clothes",10
+480,CC5217,"clothes",10
+481,66502E,"clothes",10
+482,3E4A44,"floor",10
+483,8C32B3,"door",10
+484,F086E8,"unknown",10
+485,43CE68,"ceiling",11
+486,FDB8AE,"floor",11
+487,15F3F3,"wall",11
+488,8D8F1B,"ceiling",11 
+489,DA057C,"chandelier",11
+490,DA5FE5,"wall",11
+491,729839,"wall",11
+492,5DEEBB,"wall hanging decoration",11
+493,E1E3FD,"wall hanging decoration",11
+494,E3C67A,"wall hanging decoration",11
+495,671BC7,"wall hanging decoration",11
+496,F6F38B,"wall hanging decoration",11
+497,227D53,"wall hanging decoration",11
+498,3B9C0D,"wall hanging decoration",11
+499,A112FE,"wall hanging decoration",11
+500,C4BCD9,"wall hanging decoration",11
+501,1B773F,"wall hanging decoration",11
+502,BA910A,"wall hanging decoration",11
+503,5E53CA,"wall hanging decoration",11
+504,D9761F,"wall hanging decoration",11
+505,817E7A,"wall hanging decoration",11
+506,B0BDB5,"wall hanging decoration",11
+507,68B89A,"wall hanging decoration",11
+508,D6AE70,"wall hanging decoration",11
+509,1AB689,"wall",11
+510,E8625F,"wall hanging decoration",11
+511,D5B956,"ceiling vent",11
+512,6BDF79,"tv",11
+513,59F9BF,"unknown",11
+514,398CD3,"coffee table",11
+515,1B5822,"unknown",11
+516,537429,"table",11
+517,14CAC5,"flower",11
+518,E791BB,"couch",11
+519,B72D94,"pillow",11
+520,4BC724,"pillow",11
+521,A70A73,"pillow",11
+522,90FE00,"pillow",11
+523,0043DB,"pillow",11
+524,67CD11,"pillow",11
+525,6F330D,"chest",11
+526,D38EBB,"plush toy",11
+527,EE4393,"throw blanket",11
+528,16A7E6,"wall electronics",11
+529,890A56,"blinds",11
+530,D9B3F5,"blinds",11
+531,3FE52B,"fireplace wall",11
+532,4BA597,"shelf",11
+533,000826,"lamp",11
+534,F02DE2,"lamp",11
+535,F3B99D,"decoration",11
+536,0024D7,"decoration",11
+537,C48B38,"decoration",11
+538,872FBE,"decoration",11
+539,7CD744,"decoration",11
+540,FDA459,"decoration",11
+541,BEA3D1,"decoration",11
+542,5D55F3,"wall hanging decoration",11
+543,A9E9FF,"wall hanging decoration",11
+544,CE705A,"wall hanging decoration",11
+545,08488D,"decoration",11
+546,F77576,"decoration",11
+547,B59E88,"decoration",11
+548,8DF5E7,"decoration",11
+549,364CF3,"decoration",11
+550,752D94,"decoration",11 
+551,06CC0E,"fireplace",11 
+552,1E8A5A,"folding chair",11
+553,D95D63,"floor",12
+554,17948F,"ceiling",12
+555,2270C3,"ceiling vent",12
+556,4EB30F,"ceiling vent",12
+557,D41820,"ceiling lamp",12
+558,406518,"ceiling lamp",12
+559,B82211,"ceiling lamp",12
+560,EEAFFF,"ceiling lamp",12
+561,0BA6B1,"ceiling lamp",12
+562,B7DD93,"ceiling",12
+563,5CB00F,"wall",12
+564,7144B2,"wall",12
+565,8AB9F0,"wall",12
+566,098D1A,"kitchen island",12
+567,E0DEB9,"bowl of fruit",12
+568,B0CBDE,"wall",12
+569,5A902C,"wall",12
+570,42D036,"highchair",12
+571,248F87,"highchair",12
+572,756D32,"highchair",12
+573,10DFB9,"highchair",12
+574,E8E9FD,"kitchen cabinet",12
+575,7BF3B8,"kitchen cabinet",12
+576,434A89,"kitchen cabinet",12
+577,FA0E95,"kitchen cabinet",12
+578,ED2A6E,"washing machine",12
+579,04A0B3,"microwave",12
+580,9512E2,"book",12
+581,8E3147,"unknown",12
+582,B99C27,"unknown",12
+583,790C7D,"sink",12
+584,0FF448,"tap",12
+585,8EAE41,"microwave",12
+586,66CB89,"refrigerator",12
+587,E7C0FE,"stove",12
+588,4F1C62,"towel",12
+589,AF466E,"door frame",12
+590,3DD497,"window",12
+591,AD9787,"window frame",12
+592,DD3005,"wall hanging decoration",12
+593,400CF4,"coffee machine",12
+594,A82DF0,"ceiling",13
+595,B1A917,"ceiling vent",13
+596,ED9915,"ceiling",13
+597,D7532B,"wall",13
+598,9659BC,"wall",13
+599,0F3E9C,"wall",13
+600,9CD525,"wall",13
+601,C84B11,"wall",13
+602,5AE870,"wall",13
+603,46A9B2,"floor",13
+604,EBB4E0,"rug",13
+605,661E2A,"wall hanging decoration",13
+606,C8E0C2,"wall hanging decoration",13
+607,095C74,"wall hanging decoration",13
+608,01F990,"wall hanging decoration",13
+609,FF7D84,"wall hanging decoration",13
+610,2AB380,"wall hanging decoration",13
+611,5A5585,"painting",13
+612,5AD007,"shelf",13
+613,C0F445,"decoration",13
+614,B02B2A,"unknown",13
+615,A14C0D,"unknown",13
+616,4AD767,"unknown",13
+617,967571,"computer desk",13
+618,6449C4,"computer mouse",13
+619,FBAD19,"pad",13
+620,87FFBD,"keyboard",13
+621,CF0047,"laptop",13
+622,F6B83F,"printer",13
+623,01284A,"monitor",13
+624,7648F8,"chair",13
+625,DF4E4B,"paper",13
+626,6B3126,"toy",13
+627,5F645B,"cabinet",13
+628,584622,"unknown",13
+629,D29B97,"printer",13
+630,F945BD,"stack of papers",13
+631,F2A231,"unknown",13
+632,5B317B,"cabinet",13
+633,C9499D,"computer desk",13
+634,613E5A,"keyboard",13
+635,FA9715,"laptop",13
+636,CF491D,"monitor",13
+637,FD325A,"monitor",13
+638,209815,"pad",13
+639,B9D880,"pad",13
+640,11A5D9,"computer mouse",13
+641,B1B40F,"computer chair",13
+642,01F73D,"hanger",13
+643,FA566B,"unknown",13
+644,C6403C,"unknown",13
+645,974CB7,"curtain",13
+646,619CBE,"blinds",13
+647,93C493,"door",13
+648,818726,"door frame",13
+649,AF9D0C,"file cabinet",13
+650,C6395F,"stack of papers",13
+651,001F87,"unknown",13
+652,D167A8,"unknown",13
+653,E33E2C,"unknown",13
+654,0D8E41,"unknown",13
+655,351C1E,"bag",13
+656,4FD78B,"ceiling",14
+657,792680,"ceiling vent",14
+658,16524B,"wall",14
+659,D5B6CE,"wall",14
+660,08F80E,"wall",14
+661,CF7FC4,"wall",14
+662,88C214,"floor",14
+663,AE2FE6,"painting",14
+664,47FFAF,"wall hanging decoration",14
+665,C6BEB5,"wall hanging decoration",14
+666,195F89,"wall hanging decoration",14
+667,EC99D3,"wall hanging decoration",14
+668,D6CA5F,"wall hanging decoration",14
+669,B4A731,"wall hanging decoration",14
+670,4A4CEC,"wall hanging decoration",14
+671,96141D,"wall hanging decoration",14
+672,B50833,"wall hanging decoration",14
+673,205885,"wall hanging decoration",14
+674,6DB5E8,"wall hanging decoration",14
+675,9B6617,"couch",14
+676,86EBAA,"pillow",14
+677,493BE5,"pillow",14
+678,E5AC09,"pillow",14
+679,FC978D,"floor lamp",14
+680,F58CFB,"table",14
+681,F762CD,"tv",14
+682,050F12,"table",14
+683,26726D,"speaker",14
+684,450226,"speaker",14
+685,BDD35B,"speaker",14
+686,0A8CD2,"unknown",14
+687,C0488A,"window",14
+688,991E8A,"window frame",14
+689,F30EC8,"window",14
+690,F3CE42,"window frame",14
+691,0BA9FC,"shelf",14
+692,3EB859,"unknown",14
+693,50CA3B,"unknown",14
+694,701D9F,"unknown",14
+695,99A932,"door",14
+696,FF6B2B,"door",14
+697,5E3355,"door frame",14
+698,B64C17,"ceiling",15
+699,2E10C4,"ceiling vent",15
+700,24CDD9,"chandelier",15
+701,DC9FCF,"wall",15
+702,DFBE46,"wall",15
+703,AC0EAB,"wall",15
+704,0E0379,"wall",15
+705,6A04FC,"floor",15
+706,22BF32,"wall hanging decoration",15
+707,6CF241,"wall hanging decoration",15
+708,989700,"wall hanging decoration",15
+709,697123,"wall hanging decoration",15
+710,737704,"wall hanging decoration",15
+711,CCE01C,"wall",15
+712,073920,"wall",15
+713,CE3031,"door",15
+714,436C5E,"door frame",15
+715,7321F1,"floor",15
+716,219F72,"ceiling",15
+717,A222F3,"mirror",15
+718,5443DB,"wall hanging decoration",15
+719,334159,"food stand",15
+720,FB0868,"cabinet",15
+721,1F9F25,"unknown",15
+722,FC5596,"unknown",15
+723,23A780,"unknown",15
+724,AFE9E0,"unknown",15
+725,B0C042,"curtain",15
+726,66810B,"curtain",15
+727,21B510,"window",15
+728,13727B,"curtain rod",15
+729,1AF245,"dining table",15
+730,E212FB,"chair",15
+731,CAADB7,"chair",15
+732,2F5E02,"chair",15
+733,4018F6,"chair",15
+734,629E02,"chair",15
+735,FB6D3E,"chair",15
+736,6D3811,"rug",15
+737,CD6965,"floor",16
+738,BFF587,"wall",16
+739,A85EFE,"wall",16
+740,14DE60,"wall",16
+741,E852D1,"ceiling",16
+742,0E0FCA,"door",16
+743,D56164,"door",16
+744,1F92EB,"ceiling lamp",16
+745,B87AD9,"ventilation hood",16
+746,E2F84C,"door frame",16
+747,BE229F,"floor",17
+748,D4EA9C,"wall",17
+749,9DD06F,"wall",17
+750,CA6A85,"ceiling",17
+751,E7C8D1,"toilet",17
+752,854C9E,"wall toilet paper",17
+753,E3721D,"towel",17
+754,E75555,"wall hanging decoration",17
+755,45179E,"unknown",17
+756,C99744,"tap",17
+757,467BE6,"sink",17
+758,A141BD,"wall lamp",17
+759,5309D1,"door",17
+760,B28CE2,"door frame",17
+761,DF7DF5,"ceiling",17
+762,7DD581,"ceiling lamp",18
+763,0445B3,"ceiling lamp",18
+764,A9DF39,"sensor",18
+765,9A7225,"ceiling",18
+766,E72907,"ceiling vent",18
+767,3411F1,"ceiling lamp",18
+768,98D0E1,"wall",18
+769,2610CE,"sensor",18
+770,AECB3C,"clock",18
+771,6E5ADE,"sensor",18
+772,FD9B9A,"wall electronics",18
+773,169052,"wall electronics",18
+774,268019,"wall electronics",18
+775,DB8971,"wall",18
+776,1EDD39,"door frame",18
+777,FE2161,"wall",18
+778,131A65,"door",18
+779,10A5AA,"wall",18
+780,6BE4B5,"wall",18
+781,D451B9,"door",18
+782,00B759,"floor",18
+783,042CC9,"photo",18
+784,349DBD,"photo",18
+785,F5D71C,"photo",18
+786,968E9F,"photo",18
+787,BDFACA,"photo",18
+788,683460,"photo",18
+789,D2D580,"photo",18
+790,8F4CAD,"photo",18
+791,0D78B9,"photo",18
+792,FCA379,"photo",18
+793,B1C423,"photo",18
+794,518787,"photo",18
+795,920ED0,"photo",18
+796,E050C6,"photo",18
+797,30D25D,"photo",18
+798,11388F,"photo",18
+799,A63140,"photo",18
+800,95BF1C,"photo",18
+801,A8ACA9,"sensor",18
+802,10F365,"wall hanging decoration",18
+803,059425,"door frame",18
+804,11C8B9,"cabinet",18
+805,8BFC8B,"cabinet table",18
+806,630259,"decoration",18
+807,77AB0E,"decoration",18
+808,B1A224,"decoration",18
+809,497A3D,"decoration",18
+810,9F284F,"decoration",18
+811,9966F5,"decoration",18
+812,8EC87F,"decoration",18
+813,F9A1E0,"decoration",18
+814,99EDF5,"decoration",18
+815,8CA134,"decoration",18
+816,CD2659,"wall",18
+817,18ECBA,"wall",18
+818,B42A73,"wall",18
+819,48B356,"curtain rail",4 
+820,6F9EC5,"cabinet",11
+821,202B97,"unknown",11
+822,078C8A,"unknown",11
+823,E9193E,"unknown",11
+824,BB2674,"unknown",11
+825,E11AF3,"decoration",15

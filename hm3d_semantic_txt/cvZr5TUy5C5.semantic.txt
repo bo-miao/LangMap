@@ -1,0 +1,899 @@
+HM3D Semantic Annotations
+1,0E5A9A,"floor",1
+2,9A805E,"wall",1
+3,AD0D1C,"decorative mask",1
+4,B699EC,"door",1
+5,7692C8,"window",1
+6,225ED3,"wall",1
+7,97F138,"wall",1
+8,62B015,"painting",1
+9,EDDD53,"wall",1
+10,20A41D,"door frame",1
+11,3A38AC,"recessed wall",1
+12,FE5953,"recessed wall",1
+13,5B6BBC,"wall lamp",1
+14,CC50BA,"wall",1
+15,61B38A,"wall",1
+16,1DC89D,"statue",1
+17,4CB14E,"wall",1
+18,3B0567,"door",1
+19,E03AD6,"wall",1
+20,70B36C,"art frame",1
+21,DFEC17,"wall",1
+22,97E684,"door",1
+23,6F5AA3,"wall",1
+24,7C3D84,"door frame",1
+25,38E965,"wall",1
+26,1A4511,"painting",1
+27,F24593,"lamp table",1
+28,D19D24,"table lamp",1
+29,5B4F27,"wall",1
+30,F52B9F,"carpet",1
+31,201808,"armchair",1
+32,A70D39,"pillow",1
+33,E97E64,"armchair",1
+34,50BBE3,"pillow",1
+35,4F6F0B,"wall",1
+36,615510,"ceiling wall",1
+37,754F85,"ceiling",1
+38,F6CF72,"wall",1
+39,08B615,"wall",1
+40,1451B7,"wall",1
+41,F1ACF5,"wall",1
+42,A6A972,"picture",1
+43,59E44D,"window",1
+44,00AEE9,"window",1
+45,16431F,"window",1
+46,F65A3B,"window",1
+47,47FA25,"curtain",1
+48,1A9BC5,"curtain",1
+49,B242A4,"curtain",1
+50,B9F758,"curtain",1
+51,BC07C0,"table",1
+52,CD7214,"lamp",1
+53,849DC0,"can",1
+54,E8C17C,"can",1
+55,F94938,"couch",1
+56,B4C358,"pillow",1
+57,D1355A,"pillow",1
+58,011662,"stairs",1
+59,8DDA54,"stairs railing",1
+60,91CD73,"wall",1
+61,721C29,"stairs railing",1
+62,FF3E38,"window",1
+63,07800D,"curtain",1
+64,5F64F3,"wall",1
+65,99CD17,"wall",1
+66,1DE998,"ceiling",1
+67,FAB32D,"floor",1
+68,634B9D,"rug",1
+69,89ECE1,"lamp",1
+70,BC87F0,"wall",1
+71,F5C962,"door frame",1
+72,730911,"wall",1
+73,CF762E,"wall",1
+74,95FFEA,"wall",1
+75,2C7DC3,"wall",1
+76,F51F3C,"door frame",1
+77,560BE9,"wall",1
+78,9B70D5,"wall",1
+79,5048A3,"wall",1
+80,E55995,"wall",1
+81,7FB3B9,"door",1
+82,1B2891,"door frame",1
+83,7F7097,"wall",1
+84,1B8EC4,"picture",1
+85,282439,"railing",1
+86,8E3619,"ceiling",1
+87,736276,"table",1
+88,4E7707,"ceiling",1
+89,BBDF4E,"attic door",1
+90,53ADBA,"door frame",1
+91,B5A031,"wall",1
+92,FB921E,"pillar",1
+93,2A0379,"pillar",1
+94,D90C3C,"wall",1
+95,2672FC,"wall",1
+96,4D935E,"wall",2
+97,F2FD87,"wall",2
+98,F9C749,"wall",2
+99,9D57E5,"art frame",2
+100,027CDA,"painting",2
+101,B7E48B,"wall",2
+102,F46E81,"curtain",2
+103,C3FBEB,"curtain",2
+104,A043D0,"window",2
+105,48C3B0,"ceiling",2
+106,FEE856,"door frame",2
+107,A276C1,"floor",2
+108,308977,"chair",2
+109,A87F93,"chair",2
+110,1C41A6,"chair",2
+111,39A2E3,"chair",2
+112,482F76,"chair",2
+113,C000BD,"chair",2
+114,9AEAEF,"table",2
+115,232558,"flower vase",2
+116,E206D0,"ceiling",3
+117,41B04D,"wall",3
+118,F86E93,"wall",3
+119,EEB0B5,"door",3
+120,AA34BD,"calendar",3
+121,D30B34,"kitchen shelf",3
+122,E66865,"kitchen shelf",3
+123,125482,"refrigerator",3
+124,DF1B9A,"oven",3
+125,99F1DD,"wall",3
+126,0EDC95,"kitchen shelf",3
+127,83A661,"wall",3
+128,A9532A,"slab",3
+129,8BC758,"kitchen shelf",3
+130,0F0C22,"kitchen shelf",3
+131,2444AD,"kitchen shelf",3
+132,D4A80F,"floor",3
+133,C6DE6F,"dining table",3
+134,DB9BD2,"dining chair",3
+135,48734F,"dining chair",3
+136,86D6EB,"dining chair",3
+137,C831DB,"dining chair",3
+138,A6DB64,"dining chair",3
+139,8DA041,"dining chair",3
+140,AFB969,"slab",3
+141,189521,"kitchen shelf",3
+142,D56E4C,"chair",3
+143,06B1D9,"chair",3
+144,64C9E2,"kitchen shelf",3
+145,E5B9D2,"stove",3
+146,0024AC,"microwave",3
+147,12CD09,"kitchen shelf",3
+148,1664C8,"kitchen shelf",3
+149,12E46B,"kitchen shelf",3
+150,7D920B,"kitchen shelf",3
+151,BF712C,"kitchen shelf",3
+152,806FDE,"wall",3
+153,6B643E,"mirror",3
+154,A587A8,"kitchen shelf",3
+155,0DEFE4,"mirror",3
+156,465669,"door",3
+157,DCC0CC,"wall",3
+158,17A597,"wall",3
+159,2647D4,"mirror",3
+160,F85E0C,"wall",3
+161,026D83,"wall",3
+162,85C463,"wall",3
+163,3F7512,"toaster",3
+164,F86E3B,"coffee machine",3
+165,468522,"kettle",3
+166,E0EECC,"kitchen shelf",3
+167,7672E9,"kitchen shelf",3
+168,B8DBBD,"kitchen shelf",3
+169,188BA3,"dishwasher",3
+170,4EE59E,"kitchen shelf",3
+171,593BB9,"sink",3
+172,13C595,"faucet",3
+173,2DDBF7,"washing stuff",3
+174,D8AB94,"cutting board",3
+175,F52EB8,"unknown",3
+176,167DB7,"ceiling lamp",3
+177,C6435C,"unknown",3
+178,DFF765,"wall",4
+179,EF5A18,"wall",4
+180,36616B,"wall",4
+181,ECD478,"wall",4
+182,753E9A,"mirror",4
+183,D24A0F,"art frame",4
+184,8A0B64,"art frame",4
+185,851A7D,"bookshelf",4
+186,715829,"statue",4
+187,5B944C,"box with books",4
+188,4A015C,"box with books",4
+189,AED10C,"box with books",4
+190,D6202E,"box with books",4
+191,B7ADBA,"box with books",4
+192,74C84D,"box with books",4
+193,DF94C3,"box with books",4
+194,9B4D10,"box with books",4
+195,63FCD8,"box with books",4
+196,C99B10,"box with books",4
+197,DE28F4,"box with books",4
+198,22B994,"door",4
+199,4BC266,"door",4
+200,2668DF,"printer",4
+201,D86297,"shelf",4
+202,BBD216,"cabinet",4
+203,DC4E50,"art frame",4
+204,CF415D,"mirror",4
+205,E78854,"computer desk",4
+206,E91EC1,"computer chair",4
+207,F50351,"computer",4
+208,6C0FF6,"floor",4
+209,CDC393,"beam",4
+210,870AEA,"ceiling",4
+211,429DD0,"ceiling lamp",4
+212,FEFCF4,"smoke alarm",4
+213,E38DE9,"wall",5
+214,543F91,"art frame",5
+215,99862A,"door",5
+216,9727EA,"wall",5
+217,5D1C07,"wall",5
+218,2B8D8E,"wall",5
+219,8013B4,"wall",5
+220,F04EF0,"wall",5
+221,5665C8,"ceiling",5
+222,794F21,"ceiling fan",5
+223,F17DD3,"wall tv",5
+224,BAC45D,"wall",5
+225,58341E,"wall",5
+226,812A9B,"wall",5
+227,2657EA,"window",5
+228,8F0D31,"mirror",5
+229,3EC1E9,"floor",5
+230,8D12AD,"bed",5
+231,6D8611,"pillow",5
+232,2B9874,"pillow",5
+233,265BA6,"bed light",5
+234,EF2B1E,"bed table",5
+235,C36499,"door",5
+236,F85763,"door frame",5
+237,86BBED,"cabinet",5
+238,6136D4,"ceiling",5
+239,C95B1A,"wall",6
+240,6890EF,"art frame",6
+241,A283AF,"wall",6
+242,0CA2C2,"wardrobe",6
+243,6F713C,"wall",6
+244,268A6D,"wall",6
+245,E11171,"wall",6
+246,EBE0AF,"wall",6
+247,A50846,"mirror",6
+248,CC2338,"door",6
+249,E09777,"ceiling",6
+250,293D30,"wall",6
+251,E2FE9D,"art frame",6
+252,10B348,"art frame",6
+253,B234D7,"bed",6
+254,D99429,"pillow",6
+255,D4201C,"pillow",6
+256,37EEE4,"floor",6
+257,611681,"cabinet",6
+258,997FE0,"door",6
+259,E0C7A6,"door frame",6
+260,4E0429,"ceiling fan",6
+261,A72FE9,"art frame",6
+262,16D6A3,"lamp",6
+263,678A4E,"wall",7
+264,9359A1,"wall",7
+265,75CDA9,"door",7
+266,CCCD21,"floor",7
+267,E8D187,"wall",7
+268,074276,"mirror",7
+269,D762F3,"toilet",7
+270,EE2D06,"towel",7
+271,1FB686,"bath",7
+272,4ECA9A,"curtain",7
+273,864F80,"sink cabinet",7
+274,1B2FBD,"toilet paper",7
+275,4D7BD4,"ceiling",7
+276,1B4A1C,"wall",7
+277,24EE80,"wall",8
+278,C77E40,"mirror",8
+279,C10884,"wall",8
+280,CA6B9E,"wall",8
+281,3CC698,"wall",8
+282,47A3D1,"floor",8
+283,65A62A,"ceiling",8
+284,65D66D,"toilet",8
+285,4D3DD9,"wall",8
+286,FB8EC7,"curtain",8
+287,92047E,"bath",8
+288,23EDC8,"floor",8
+289,AE7EFE,"bath mat",8
+290,457012,"ceiling",8
+291,AB9B09,"window",8
+292,56F784,"door frame",8
+293,A950EF,"door frame",8
+294,7D11FC,"ceiling",8
+295,EB961D,"wall",8
+296,342DC7,"art frame",8
+297,AA00E1,"art frame",8
+298,275706,"wall",8
+299,6BC692,"window",8
+300,A7BC6A,"wall",8
+301,392198,"art frame",8
+302,81A966,"floor",8
+303,7DFD5B,"wall",8
+304,41520B,"art frame",8
+305,B8E6D6,"cabinet",8
+306,EB06CF,"sofa chair",8
+307,916B5F,"door",8
+308,55A93E,"sofa chair",8
+309,F289C7,"wall",9
+310,9A3C56,"wall",9
+311,329040,"wall",9
+312,7C9BB1,"art frame",9
+313,13F48C,"wall",9
+314,81A752,"door frame",9
+315,06A059,"wall",9
+316,0A1F4E,"wall tv",9
+317,F31FD9,"wall",9
+318,ABDDE8,"art frame",9
+319,F41FCF,"pillow",9
+320,27F2B7,"art frame",9
+321,ADF391,"wall",9
+322,520942,"window",9
+323,C82873,"window",9
+324,368683,"wall",9
+325,9A776A,"wall",9
+326,302094,"window",9
+327,ADB5C2,"mirror",9
+328,A38497,"cabinet",9
+329,747A25,"lamp",9
+330,10C553,"lamp",9
+331,6B3C12,"sofa set",9
+332,D09791,"pillow",9
+333,43DB27,"pillow",9
+334,67D12E,"pillow",9
+335,623667,"pillow",9
+336,663202,"pillow",9
+337,D3924F,"pillow",9
+338,3ECA5F,"bed table",9
+339,12223E,"bed table",9
+340,50C527,"bedside lamp",9
+341,E8C595,"bedside lamp",9
+342,BE923B,"bed",9
+343,FD02FD,"pillow",9
+344,251857,"pillow",9
+345,C937F8,"pillow",9
+346,7652EC,"pillow",9
+347,31177C,"wall",9
+348,1ACDCF,"ceiling",9
+349,8A14C0,"door",9
+350,991DC8,"fire alarm",9
+351,9A065A,"wall",9
+352,766DEE,"chandelier",9
+353,EC33D7,"door",9
+354,AE7803,"floor",9
+355,584417,"wall",10
+356,167B67,"mirror",10
+357,47DC3D,"wall",10
+358,0EC760,"wall",10
+359,075C8A,"wall",10
+360,4AFD54,"wall",10
+361,FEED70,"wall",10
+362,909AAD,"wall",10
+363,EC4762,"window",10
+364,1B6A89,"wall",10
+365,54470E,"ceiling",10
+366,FE6199,"door",10
+367,9C40D4,"door",10
+368,A146B3,"floor",10
+369,01B9B7,"carpet",10
+370,FAEDE6,"circular sofa",10
+371,4FEF32,"sink cabinet",10
+372,052CA0,"mirror",10
+373,06EFE3,"wall",10
+374,4C7172,"clock",10
+375,C04FC4,"towel",10
+376,CF065B,"flower vase",10
+377,55F3F0,"candle holder",10
+378,F88A4F,"wall",10
+379,8173F2,"window",10
+380,D8611C,"mirror",10
+381,2CD319,"wall lamp",10
+382,FE073E,"candle holder",10
+383,9B1D10,"candle holder",10
+384,C5C5DC,"sink cabinet",10
+385,CF297E,"wall",10
+386,138227,"mirror",10
+387,4B99E3,"wall",10
+388,B849B7,"door",10
+389,2F6EA5,"wall",10
+390,12CED4,"door frame",10
+391,5DC24F,"lamp",10
+392,D6746D,"bath",10
+393,9E85BC,"towel",10
+394,1FAB1C,"pillar",10
+395,D78A0B,"pillar",10
+396,1B9AF3,"door frame",10
+397,F0E3A6,"wall",10
+398,D424C6,"wall",10
+399,D4895D,"wall",10
+400,AB4AC8,"unknown",10
+401,05B9E7,"wall",10
+402,D7A140,"wall",10
+403,B6A704,"wall",10
+404,7271C7,"wall",10
+405,965C06,"toilet",10
+406,079688,"trashcan",10
+407,B1361A,"toilet paper",10
+408,33ED3B,"wall",10
+409,5B42F5,"art frame",10
+410,16565C,"art frame",10
+411,2FFC29,"art frame",10
+412,3E1863,"wall",10
+413,2C3471,"mirror",10
+414,FB46B5,"door",10
+415,89380B,"ceiling",10
+416,2B71B4,"wall",10
+417,85D4A3,"wall",11
+418,7696A3,"wall",11
+419,ADB583,"wall",11
+420,91B7E6,"wall",11
+421,223F40,"wall",11
+422,76C693,"ceiling",11
+423,40F0C7,"ceiling lamp",11
+424,090E6D,"door",11
+425,FBDD3F,"floor",11
+426,4A91D4,"basket",11
+427,475DD7,"box",11
+428,D3DB2A,"hat",11
+429,A948A5,"hat",11
+430,589EBF,"hat",11
+431,524974,"hat",11
+432,8AE818,"clothes",11
+433,52B986,"clothes",11
+434,EB52B4,"pillow",11
+435,1B273B,"pillow",11
+436,B8BDFC,"blanket",11
+437,0D7E28,"bag",11
+438,69CAC4,"cloth",11
+439,412491,"shoe",11
+440,2FE2E6,"shoe",11
+441,C8E635,"shoe",11
+442,0C584B,"box",11
+443,DC6221,"box",11
+444,0ABDF6,"case",11
+445,97C30B,"box",11
+446,75B128,"cloth",11
+447,E31EA3,"cloth",11
+448,D1B4ED,"cloth",11
+449,8117E2,"carpet",11
+450,36945B,"shoe",11
+451,CB83BD,"box",11
+452,5D37D8,"box",11
+453,20ECAB,"clothes",11
+454,C02CF3,"clothes",11
+455,0B57A5,"wall",11
+456,FEEFB9,"clothes rack",11
+457,82CF88,"clothes hanger",11
+458,E0C22D,"clothes hanger",11
+459,E78CA2,"clothes rack",11
+460,0AD526,"clothes rack",11
+461,7C9C88,"clothes rack",11
+462,4655D8,"clothes rack",11
+463,2F3224,"wall",12
+464,1BB0B4,"wall",12
+465,C91467,"clock",12
+466,EE18A4,"wall",12
+467,FEC7DF,"window",12
+468,F2A490,"curtain",12
+469,06B9B9,"plant",12
+470,9D842A,"wall",12
+471,382439,"painting",12
+472,7ACBB6,"window",12
+473,83FD0D,"window",12
+474,717A1C,"plant",12
+475,B162E8,"wall",12
+476,3B172D,"window",12
+477,2A1198,"curtain",12
+478,D33685,"wall tv",12
+479,F4EE08,"cabinet",12
+480,9FF3A0,"vase",12
+481,8A6410,"vase",12
+482,21ABAA,"wall",12
+483,1DD566,"floor lamp",12
+484,9C9F77,"fireplace",12
+485,A9FF32,"fruit bowl",12
+486,90F97E,"circular sofa",12
+487,4E38CC,"sofa chair",12
+488,FDD2B5,"sofa chair",12
+489,4F08A4,"sofa seat",12
+490,E18C28,"pillow",12
+491,EB5BAD,"pillow",12
+492,C18812,"pillow",12
+493,1457A7,"pillow",12
+494,1E868F,"pillow",12
+495,3E4758,"table",12
+496,101060,"sofa seat",12
+497,AA8FF7,"sofa seat",12
+498,AB5835,"table",12
+499,33F9D3,"cabinet",12
+500,CA1B4B,"cloth",12
+501,B41BED,"pillow",12
+502,86B8A1,"pillow",12
+503,8A9D3B,"floor",12
+504,B20ADE,"carpet",12
+505,97E9B5,"carpet",12
+506,C3F2FA,"ceiling fan",12
+507,64C023,"ceiling",12
+508,6AA8C0,"wall",12
+509,60256D,"wall",12
+510,D346F4,"wall",12
+511,5F4353,"ceiling",12
+512,415F90,"curtain",12
+513,8DC79F,"unknown",12
+514,BD9737,"art frame",12
+515,EBF4D3,"wall",12
+516,AB8896,"wall",12
+517,C7EFFC,"wall",12
+518,7809C5,"wall",12
+519,31B771,"unknown",12
+520,FEB7CC,"bed",8
+521,69F5ED,"pillow",8
+522,C24572,"pillow",8
+523,2FD355,"door",8
+524,B687BC,"sink cabinet",8
+525,AA6D9F,"wall",12
+526,4A8CC2,"wall",12
+527,038D7A,"mirror",12
+528,561D66,"wall",12
+529,3448DD,"door frame",12
+530,61032B,"door",12
+531,4C15FE,"door",13
+532,0C5D66,"door frame",13
+533,DD6D6F,"wall",13
+534,87B95A,"wall",12
+535,FC7F15,"wall",12
+536,F22FE7,"wall",12
+537,2D06C2,"wall",12
+538,50EBB9,"wall",12
+539,7F105C,"wall",12
+540,0D6229,"wall",12
+541,76D917,"wall",12
+542,E19BB9,"lamp",12
+543,827B47,"wall",12
+544,06871E,"wall",12
+545,364BFC,"alarm control",12
+546,799738,"wall",12
+547,D78820,"door",12
+548,359234,"door frame",12
+549,873F61,"wall",13
+550,DD9BA6,"window",13
+551,9C96CB,"wall",13
+552,FAF170,"wall",13
+553,FAEA2F,"wall",13
+554,71FFDF,"art frame",13
+555,714332,"wall",13
+556,ACADC2,"ceiling",13
+557,DC7916,"ceiling lamp",13
+558,EF1365,"sink cabinet",13
+559,B40F1A,"washing machine",13
+560,5B65CC,"washing machine",13
+561,0DDD96,"wall",14
+562,F3D3CA,"toilet paper",14
+563,55D547,"art frame",14
+564,9EAC61,"wall",14
+565,0170FB,"towel",14
+566,01635E,"toilet",14
+567,297F81,"lamp",14
+568,651054,"wall",14
+569,8CBD09,"mirror",14
+570,DE6013,"wall",14
+571,44016C,"towel",14
+572,00D7D7,"mirror",14
+573,DFB686,"door",14
+574,FEED92,"wall",14
+575,8A0614,"wall",14
+576,BE39DF,"art frame",14
+577,041B5C,"art frame",14
+578,9D462B,"art frame",14
+579,1C937D,"art frame",14
+580,BAEB97,"sink cabinet",14
+581,624576,"ceiling",14
+582,AF6168,"shelf",13
+583,DA2C04,"stairs",15
+584,496288,"wall",15
+585,DCC7D1,"door",15
+586,C35F94,"wall",15
+587,BDF281,"wall",15
+588,4E6A98,"wall",15
+589,FE1A7B,"wall",15
+590,53ABAC,"wall",15
+591,61B01A,"wall",15
+592,6D984E,"ceiling",15
+593,F59A05,"ceiling",15
+594,6DADC3,"wall",15
+595,9516E1,"ceiling",15
+596,A185DC,"wall",15
+597,CC62CC,"wall",15
+598,8D71E6,"wall",15
+599,894D5C,"wall",15
+600,A6E852,"floor",15
+601,CA315A,"wall",15
+602,CA76A0,"window frame",15
+603,B3CC47,"wall",15
+604,9BF5C8,"wall",15
+605,C34B8B,"window frame",15
+606,3D97B3,"wall",15
+607,1E9AF2,"wall",15
+608,EE0469,"wall",15
+609,74A0B8,"wall",15
+610,F4AA80,"wall",15
+611,8785B3,"wall",15
+612,F2304E,"wall",15
+613,47FF17,"wall",15
+614,788791,"wall",15
+615,336BB9,"wall",15
+616,2355DF,"wall",15
+617,3CE600,"wall",15
+618,23E107,"window",15
+619,6BF58E,"wall",15
+620,8DE59E,"armchair",15
+621,A9AD20,"armchair",15
+622,B53FA6,"table",15
+623,135C75,"wall",15
+624,90251F,"tv",15
+625,B5EB4A,"tv stand",15
+626,0EA7F5,"wall",15
+627,774B90,"pillar",15
+628,DCC55F,"wall",15
+629,E5320D,"stairs railing",15
+630,D2728F,"stairs railing",15
+631,0CE764,"wall",15
+632,99A0FF,"wall",15
+633,C01D0F,"wall",15
+634,910D2C,"ceiling",15
+635,2F965B,"wall",15
+636,001088,"ceiling",15
+637,880932,"wall",15
+638,EF9101,"wall",15
+639,F50A46,"floor",15
+640,B5C224,"wall",15
+641,C76FF3,"wall",15
+642,8426CD,"wall",15
+643,9F8303,"ceiling",15
+644,C7BF1A,"wall",15
+645,DF1756,"wall",15
+646,5B7D67,"wall",15
+647,127792,"wall",15
+648,0826F5,"wall",15
+649,25B0F1,"ceiling",15
+650,946A57,"ceiling",15
+651,901FED,"ceiling",15
+652,444584,"ceiling",15
+653,F34887,"ceiling",15
+654,867F6F,"ceiling",15
+655,119F07,"wall",15
+656,091ADA,"wall",15
+657,755E24,"ceiling lamp",15
+658,1B73F5,"ceiling lamp",15
+659,6F14CF,"ceiling lamp",15
+660,8A7F29,"ceiling lamp",15
+661,849E1C,"ceiling lamp",15
+662,F0BF0D,"smoke alarm",15
+663,827580,"ceiling lamp",15
+664,98C019,"ceiling lamp",15
+665,32BF58,"ceiling lamp",15
+666,6444B5,"ceiling lamp",15
+667,B19D11,"ceiling lamp",15
+668,6C8430,"ceiling lamp",15
+669,699E83,"ceiling lamp",15
+670,8D3F97,"ceiling lamp",15
+671,D6AB54,"ceiling lamp",15
+672,C4D894,"ceiling lamp",15
+673,E56191,"ceiling lamp",15
+674,E5DC05,"wall",15
+675,AE6E4E,"wall",15
+676,C031C7,"wall",15
+677,1BB4F7,"wall",15
+678,F47082,"wall",15
+679,49D15B,"wall",15
+680,E75522,"wall",15
+681,AF1D4A,"wall",15
+682,E7FF5B,"wall",15
+683,908FEA,"wall",15
+684,5C662F,"ceiling lamp",15
+685,7D4831,"ceiling lamp",15
+686,61711D,"ceiling lamp",15
+687,0DDD1B,"wall",15
+688,2C11B4,"art frame",15
+689,59F5E0,"art frame",15
+690,A2EBD3,"art frame",15
+691,9E23BE,"wall",15
+692,95AF16,"wall",15
+693,29192D,"wall",15
+694,195FE1,"window",15
+695,B8EA67,"window",15
+696,012B7E,"tv",15
+697,502363,"speaker",15
+698,A0F910,"speaker",15
+699,EE6880,"speaker",15
+700,982BBD,"guitar",15
+701,5209C2,"guitar",15
+702,5D482F,"wall",15
+703,C96B12,"wall",15
+704,CF350E,"wall",15
+705,E19029,"wall",15
+706,F6B577,"wall",15
+707,E6C4FA,"wall",15
+708,482943,"wall",15
+709,D0AE26,"couch",15
+710,5EA77D,"pillow",15
+711,FF595A,"pillow",15
+712,9AC1CA,"table",15
+713,33BDEA,"wall",15
+714,3B7A43,"wall",15
+715,578063,"art frame",15
+716,79A31F,"art frame",15
+717,C57B0C,"art frame",15
+718,48218D,"art frame",15
+719,AA260E,"wall",15
+720,68F6BF,"art frame",15
+721,901149,"art frame",15
+722,735077,"art frame",15
+723,F91D9D,"art frame",15
+724,F990B9,"wall",15
+725,F43987,"wall",15
+726,FBDE58,"ceiling",15
+727,9D12E9,"toy",15
+728,51B73E,"wall",15
+729,7A6F39,"wall",15
+730,CC29B4,"wall",15
+731,130D6E,"wall",15
+732,BF075E,"wall",15
+733,C1F0B7,"toy",15
+734,DA0E64,"wall",15
+735,0259A5,"wall",15
+736,CB8CC0,"wall",15
+737,B1EABE,"wall",15
+738,C669CF,"toy",15
+739,C6F1A4,"wall",15
+740,598528,"wall",15
+741,C0731E,"wall",15
+742,5EB8BC,"wall",15
+743,72196A,"wall",15
+744,3F8E64,"toy",15
+745,325D10,"wall",15
+746,47A20E,"wall",15
+747,57C16E,"wall",15
+748,1EEB71,"wall",15
+749,4F88AA,"wall",15
+750,2D1A08,"toy",15
+751,15B1DB,"toy",15
+752,EF261F,"toy",15
+753,7B48CC,"wall",15
+754,05E4B3,"wall",15
+755,B9826D,"wall",15
+756,64F9B7,"wall",15
+757,432B4D,"wall",15
+758,8ADEE6,"wall",15
+759,332050,"wall",15
+760,9C20C4,"toy",15
+761,AED06D,"wall",15
+762,B48646,"wall",15
+763,F68124,"wall",15
+764,2AD299,"wall",15
+765,BC2A88,"wall",15
+766,E32349,"toy",15
+767,5368FA,"toy",15
+768,05422C,"toy",15
+769,CF336B,"toy",15
+770,C7A668,"toy",15
+771,B7516A,"toy",15
+772,CFE0B0,"toy",15
+773,B88B2B,"statue",15
+774,64A235,"device",15
+775,4A7D6A,"shelf",15
+776,586279,"toy",15
+777,46CC36,"toy",15
+778,61FEE1,"toy",15
+779,5D2ED8,"toy",15
+780,897D3D,"toy",15
+781,61EC33,"toy",15
+782,14ACF2,"toy",15
+783,4635F5,"toy",15
+784,F3E062,"toy",15
+785,EFE320,"toy",15
+786,4CB135,"toy",15
+787,DC2492,"toy",15
+788,F7B469,"toy",15
+789,A9AC5D,"toy",15
+790,CA2BEF,"toy",15
+791,C91F9D,"toy",15
+792,90E835,"toy",15
+793,9A570F,"ceiling lamp",15
+794,A547F6,"toy",15
+795,5CB360,"toy",15
+796,B14355,"boxes with books",15
+797,B63CCA,"boxes with books",15
+798,705543,"boxes with books",15
+799,2E833B,"boxes with books",15
+800,2D545D,"boxes with books",15
+801,197C6F,"boxes with books",15
+802,95D2A9,"boxes with books",15
+803,B334D1,"boxes with books",15
+804,DC0248,"file cabinet",15
+805,56E5FA,"statue",15
+806,70B321,"desk",15
+807,3700DB,"desk chair",15
+808,11DAFE,"table",15
+809,D61B43,"box",15
+810,5B7926,"toy",15
+811,117860,"toy",15
+812,65FAA7,"toy",15
+813,1975A5,"toy",15
+814,C12431,"toy",15
+815,DBC375,"toy",15
+816,6640F1,"toy",15
+817,131531,"toy",15
+818,FB562C,"toy",15
+819,0B05C5,"toy",15
+820,4F5699,"toy",15
+821,9FFDC3,"toy",15
+822,D079EC,"window",15
+823,2948F8,"shelf",15
+824,7BC12F,"toy",15
+825,4AF706,"toy",15
+826,FC65AD,"toy",15
+827,5BBEFF,"toy",15
+828,D24BEF,"toy",15
+829,82B6F2,"toy",15
+830,EEC0B4,"toy",15
+831,FFAE8B,"toy",15
+832,E5F86E,"toy",15
+833,0732DC,"wall",15
+834,7BB4C5,"toy",15
+835,46E661,"toy",15
+836,A9BC59,"toy",15
+837,56C764,"toy",15
+838,EEC136,"toy",15
+839,6BE511,"toy",15
+840,F49DAA,"toy",15
+841,E639BF,"toy",15
+842,BABB97,"door",15
+843,487CC1,"door",15
+844,F1080B,"door",15
+845,ABB2E4,"door frame",15
+846,AFE4FA,"wall",15
+847,E8266B,"wall",15
+848,5859C3,"wall",15
+849,AEE68C,"wall",15
+850,28D90E,"wall",15
+851,89980B,"wall",15
+852,AC7B64,"wall",15
+853,183C4E,"ceiling",15
+854,D5EA99,"wall",15
+855,CBB3E5,"towel",15
+856,86C718,"towel",15
+857,0E32FF,"paper towel",15
+858,37E463,"toilet",15
+859,37E2CC,"trashcan",15
+860,800411,"urinal",15
+861,89584C,"wall",15
+862,F126BA,"wall",15
+863,8C9207,"door frame",15
+864,516827,"floor",15
+865,2B2DA5,"towel",15
+866,2314BB,"wall",15
+867,836535,"mirror",15
+868,24D9A9,"ceiling",15
+869,CEF3EE,"towel",15
+870,A00D01,"sink",15
+871,C2412A,"cabinet",15
+872,2FBBD2,"cabinet",15
+873,9E7BA6,"cabinet",15
+874,6A7F96,"shower wall",15
+875,48EFDB,"shower wall",15
+876,AF67E3,"shower wall",15
+877,28DB9E,"shower floor",15
+878,BD7327,"shower rod",15
+879,11E218,"shower soap shelf",15
+880,AE6A3D,"shower soap shelf",15
+881,11C607,"wall",10
+882,2E7D06,"wall",10
+883,61995B,"toy",10
+884,C96AB6,"ceiling lamp",10
+885,520138,"ceiling lamp",10
+886,8DB883,"wall",10
+887,381A6E,"wall",1
+888,EE2B24,"wall",1
+889,4BE5EE,"wall",3
+890,B87C6E,"wall",3
+891,730A49,"wall",15
+892,5CB24C,"wall",15
+893,75A180,"wall",15
+894,24439E,"ceiling",15
+895,B2B322,"shower curtain rod",15
+896,D8D297,"wall",10
+897,5F2C3A,"wall",14
+898,7C2636,"wall",13

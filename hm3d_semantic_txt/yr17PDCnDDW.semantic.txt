@@ -1,0 +1,671 @@
+HM3D Semantic Annotations
+1,2D5099,"floor",1
+2,02E549,"ceiling",1
+3,F8A84F,"wall",1
+4,C0269A,"unknown",1
+5,5C44F9,"floor",1
+6,127CBD,"trashcan",1
+7,48A242,"door",1
+8,9BE8A9,"door",1
+9,E81A09,"ceiling",1
+10,7FF0A4,"door",1
+11,F86DA9,"soap dispenser",1
+12,620C12,"bin",1
+13,D5466F,"umbrella",1
+14,3E0815,"umbrella",1
+15,FB68EA,"cabinet",1
+16,E5E6E1,"door frame",1
+17,D130F3,"exit sign",1
+18,8E7880,"door frame",1
+19,BE0001,"wall",1
+20,C679DF,"wall",1
+21,399E30,"wall",1
+22,E38FBD,"unknown",1
+23,2BD107,"window frame",1
+24,57E919,"wall",1
+25,10E728,"diploma",1
+26,353FA2,"diploma",1
+27,2744D1,"diploma",1
+28,3410E2,"diploma",1
+29,95958E,"diploma",1
+30,7BF82D,"floor",2
+31,8183AF,"table",2
+32,51E377,"plant",2
+33,F6162F,"pot",2
+34,79B72C,"cabinet",2
+35,7688FE,"cabinet",2
+36,4CD0DF,"ceiling",2
+37,867BCA,"wall",2
+38,0A51A0,"partition",2
+39,847E98,"chair",2
+40,704C3B,"desk",2
+41,F5102B,"bin",2
+42,2BE9C5,"binder",2
+43,10BA61,"wall",2
+44,895188,"cabinet",2
+45,3A5056,"cabinet",2
+46,BC17C3,"cabinet",2
+47,1C6477,"cabinet",2
+48,98B8E4,"cabinet",2
+49,E452A4,"cabinet",2
+50,63BD5E,"partition",2
+51,6D8BE9,"board",2
+52,A1EBE9,"cabinet",2
+53,47D121,"unknown",2
+54,5F7C3B,"desk",2
+55,3C062D,"unknown",2
+56,7F70BE,"unknown",2
+57,3B7AE0,"box",2
+58,B97F57,"clutter",2
+59,1DC8A5,"stand",2
+60,D1B1F0,"box",2
+61,D351B6,"shelf",2
+62,103651,"shelf",2
+63,DDCC70,"unknown",2
+64,678E27,"unknown",2
+65,67077C,"clutter",2
+66,5BCBFA,"clutter",2
+67,2832BD,"table",2
+68,9DFF1F,"unknown",2
+69,75FB1C,"wall",2
+70,DABE2D,"partition",2
+71,109370,"stand",2
+72,58C068,"window frame",2
+73,EB22BE,"window",2
+74,980B4F,"window",2
+75,7A3DA1,"wall",2
+76,331C24,"partition",2
+77,9E993D,"floor",3
+78,FD3622,"floor mat",3
+79,524C11,"microwave",3
+80,0377B0,"coffee machine",3
+81,041C6F,"kitchen countertop item",3
+82,EBB93A,"kitchen countertop item",3
+83,77B3DD,"kitchen countertop item",3
+84,28C315,"basket",3
+85,713759,"clock",3
+86,F45BF6,"box",3
+87,50DF6C,"kitchen shelf",3
+88,26ACF0,"kitchen lower cabinet",3
+89,BB8CE3,"kitchen lower cabinet",3
+90,C0F081,"sink",3
+91,C89073,"vase",3
+92,AB3C14,"flower",3
+93,64B84A,"jar",3
+94,719279,"jar",3
+95,D8E0FA,"container",3
+96,E8C715,"container",3
+97,2C88E1,"container",3
+98,09796A,"container",3
+99,CB0806,"container",3
+100,F2FE35,"container",3
+101,66C166,"cabinet",3
+102,536546,"wall",3
+103,F8504C,"picture",3
+104,95C77F,"magazine",3
+105,E69711,"chair",3
+106,E7DCE0,"chair",3
+107,A669B5,"chair",3
+108,9AC0D0,"chair",3
+109,6893EC,"chair",3
+110,0A8E18,"chair",3
+111,697241,"table",3
+112,4E2E68,"wall",3
+113,DA2454,"towel",3
+114,967132,"wall",3
+115,75882C,"wall",3
+116,2CF5FA,"window frame",3
+117,D520A9,"window frame",3
+118,4FEA20,"window frame",3
+119,F797B9,"lamp",3
+120,79D58C,"lamp",3
+121,549C5A,"ceiling",3
+122,A010DF,"wall",4
+123,BA33EB,"armchair",4
+124,454449,"couch",4
+125,43221B,"armchair",4
+126,7A933B,"plant",4
+127,30A0D7,"pot",4
+128,CD969F,"brochure",4
+129,7B52C7,"brochure",4
+130,CCBB8D,"cabinet",4
+131,AF990A,"plant",4
+132,D597CA,"pot",4
+133,5737D5,"unknown",4
+134,1893D6,"plant",4
+135,6EDD97,"vase",4
+136,5E94EA,"pot",4
+137,322EFD,"pot",4
+138,4DD406,"plant",4
+139,163218,"plant",4
+140,813E4F,"pot",4
+141,8CAD78,"plant",4
+142,125F05,"cabinet",4
+143,84B890,"stand",4
+144,4CC19F,"stand",4
+145,1C05D6,"pillar",4
+146,D16ACD,"wall",4
+147,34DB43,"wall",4
+148,9CC6FE,"wall",4
+149,4DE3C5,"wall",4
+150,82C066,"floor",5
+151,5BF0F8,"brochure",5
+152,ABB92B,"plant",5
+153,9797BD,"tv",5
+154,49B147,"wall",5
+155,CF581B,"chair",5
+156,F96E56,"wall",5
+157,3337A8,"wall",5
+158,58D238,"wall",5
+159,6483BF,"wall",5
+160,7F064C,"unknown",5
+161,E8F570,"wall",5
+162,92DA47,"table",5
+163,3259D1,"floor",6
+164,3EB6EF,"pillar",6
+165,0F85CD,"pillar",6
+166,C1A1EB,"pillar",6
+167,EB2079,"pillar",6
+168,155AAF,"pillar",6
+169,CD6345,"plant",6
+170,EC5056,"door",6
+171,F3D593,"door",6
+172,55BB5C,"door frame",6
+173,16D072,"door frame",6
+174,5D2004,"wall",6
+175,618803,"door",6
+176,1BC574,"fire extinguisher",6
+177,F3D841,"stairs",6
+178,7DD0A3,"handrail",6
+179,900713,"handrail",6
+180,A66A77,"table",6
+181,4203FA,"wall",6
+182,7EEA6D,"wall",6
+183,3B236F,"wall",6
+184,088B83,"wall",6
+185,6BA229,"ceiling",6
+186,52BDD6,"lamp",6
+187,25DBF0,"lamp",6
+188,25AD83,"lamp",6
+189,F7F156,"lamp",6
+190,B50FCD,"lamp",6
+191,DB892C,"lamp",6
+192,CD839B,"lamp",6
+193,D726AF,"lamp",6
+194,C76E07,"lamp",6
+195,E96C34,"lamp",6
+196,855D42,"lamp",6
+197,9313DE,"lamp",6
+198,7A5D22,"lamp",6
+199,2B5428,"lamp",6
+200,74D5EC,"lamp",6
+201,63B87A,"lamp",6
+202,964E75,"lamp",6
+203,E6B3D9,"lamp",6
+204,DA592E,"lamp",6
+205,9D1B45,"lamp",6
+206,F54AF4,"lamp",6
+207,3AB346,"lamp",6
+208,D62354,"lamp",6
+209,6289EC,"lamp",6
+210,0C7D4F,"lamp",6
+211,62E90E,"lamp",6
+212,39B8FE,"lamp",6
+213,AEE3D5,"lamp",6
+214,783B32,"exit sign",6
+215,D75568,"exit sign",6
+216,88A627,"exit sign",6
+217,F1886E,"exit sign",6
+218,907C4E,"security camera",6
+219,1293C0,"security camera",6
+220,E33B56,"unknown",6
+221,A8096F,"ceiling",6
+222,278736,"wall",6
+223,6A5316,"door/window frame",6
+224,2632DB,"rack",6
+225,9D1F42,"table",6
+226,9DD47B,"unknown",6
+227,A85D6B,"unknown",6
+228,79536C,"diploma",6
+229,6489A4,"brochure",6
+230,3D7AA3,"table",6
+231,2C014D,"table",6
+232,8DF81F,"partition",6
+233,AF9235,"plant",6
+234,8A8DA2,"pot",6
+235,F65378,"stand",6
+236,5F39E2,"stand",6
+237,4AC349,"unknown",6
+238,140350,"table",6
+239,A4FFEB,"chair",6
+240,876BFE,"chair",6
+241,49F9ED,"chair",6
+242,C92977,"box",6
+243,B564BB,"box",6
+244,6A089D,"brochure",6
+245,521CBB,"cabinet",6
+246,3CE45C,"unknown",6
+247,2A89C8,"unknown",6
+248,C62702,"table",6
+249,C0A155,"brochure",6
+250,F8770F,"partition",6
+251,BD3783,"fire extinguisher",6
+252,4048BB,"cabinet",6
+253,93DCF0,"door",6
+254,5B9E0F,"door frame",6
+255,192A62,"wall",6
+256,F2C9F2,"cabinet",6
+257,43C9CC,"case",6
+258,67E33F,"jacket",6
+259,5B3707,"stand",6
+260,886A9F,"cabinet",6
+261,8F0800,"cabinet",6
+262,7F20C0,"wall",6
+263,0EE6DA,"wall",6
+264,8C577B,"cabinet",6
+265,A01817,"plant",6
+266,2B4655,"plant",6
+267,A34049,"pot",6
+268,733398,"cabinet",6
+269,F85C26,"wall",6
+270,824629,"frame",6
+271,ECF055,"frame",6
+272,741503,"frame",6
+273,3C289B,"desk",6
+274,B35ECA,"stool",6
+275,84842E,"stool",6
+276,CF7F43,"plant",6
+277,90C222,"vase",6
+278,9152AC,"chair",6
+279,E5B215,"chair",6
+280,5BC790,"chair",6
+281,F63856,"box",6
+282,84BF63,"box",6
+283,AEACBC,"box",6
+284,576ECF,"box",6
+285,68B58B,"chair",6
+286,032AB3,"bin",6
+287,BF947E,"box",6
+288,9E12EF,"box",6
+289,A450F5,"chair",6
+290,52A74C,"chair",6
+291,4DA754,"table",6
+292,20FA4D,"chair",6
+293,B48252,"window",6
+294,BD12EC,"window frame",6
+295,6DDB84,"window",6
+296,24F570,"window frame",6
+297,7C0756,"window frame",6
+298,93045C,"window",6
+299,1A8A6F,"window frame",6
+300,4FA5CF,"cabinet",6
+301,E8EFBE,"cabinet",6
+302,8DF3A5,"cabinet",6
+303,F8B27D,"cabinet",6
+304,BA1B09,"security camera",6
+305,2856F2,"monitor",6
+306,260480,"monitor",6
+307,04BBB3,"monitor",6
+308,7182C5,"monitor",6
+309,F67517,"monitor",6
+310,8DAABF,"partition",6
+311,F2E5DC,"partition",6
+312,961525,"partition",6
+313,F1565D,"wall",6
+314,C83457,"desk",6
+315,F69DBF,"desk",6
+316,2E9C73,"keyboard",6
+317,516F1A,"keyboard",6
+318,6B121E,"keyboard",6
+319,AB6F45,"keyboard",6
+320,794914,"keyboard",6
+321,8F1D3D,"keyboard",6
+322,381DF8,"computer mouse",6
+323,A8917C,"computer mouse",6
+324,ABD761,"computer mouse",6
+325,0BFB34,"telephone",6
+326,F98EB6,"telephone",6
+327,85B55D,"telephone",6
+328,C405F1,"floor",7
+329,2CDB66,"partition",7
+330,C412BD,"plant",7
+331,0F2ED9,"unknown",7
+332,73C0C6,"unknown",7
+333,2337F7,"unknown",7
+334,BA935B,"unknown",7
+335,818FF5,"cabinet",7
+336,24E8F3,"wall",7
+337,6AA8B1,"picture",7
+338,EFAA41,"cabinet",7
+339,3A9EB5,"shelf",7
+340,0D9696,"unknown",7
+341,78E229,"cabinet",7
+342,FFD97F,"cabinet",7
+343,2C33F3,"box",7
+344,DBF997,"partition",7
+345,AAEA08,"plant",7
+346,5E868D,"vase",7
+347,DC3A88,"plant",7
+348,1164A5,"vase",7
+349,79F5B1,"box",7
+350,39EDA8,"partition",7
+351,E4FFA7,"cabinet",7
+352,39D351,"cabinet",7
+353,58A512,"armchair",7
+354,684234,"box",7
+355,0FD285,"cabinet",7
+356,A50B94,"wall",7
+357,4D6252,"lamp",7
+358,B4F648,"chair",7
+359,7083AB,"chair",7
+360,46970B,"bin",7
+361,169D79,"cabinet",7
+362,B3422B,"cabinet",7
+363,3445DC,"printer",7
+364,1BF356,"monitor",7
+365,EE24E6,"monitor",7
+366,2619CB,"monitor",7
+367,F852E5,"monitor",7
+368,265FDF,"stack of papers",7
+369,DDAF8E,"telephone",7
+370,2784A6,"telephone",7
+371,8EB3A0,"keyboard",7
+372,FC6521,"partition",7
+373,56E9C5,"bin",7
+374,AFF12D,"clutter",7
+375,1458C5,"desk",7
+376,6CDE2A,"brochure",7
+377,7918EC,"computer mouse",7
+378,473C01,"keyboard",7
+379,59DF01,"desk clutter",7
+380,C0394E,"desk clutter",7
+381,77F300,"window",7
+382,3C13B3,"window",7
+383,D1F664,"window",7
+384,2D3F3E,"window",7
+385,40D9CD,"window frame",7
+386,7535A4,"window frame",7
+387,20A7E4,"window frame",7
+388,B4F051,"wall",7
+389,65C216,"wall",7
+390,2B64AD,"ceiling",7
+391,5728DD,"board",8
+392,2765E6,"wall",8
+393,F6F53C,"pillar",8
+394,54E02E,"wall",8
+395,85B009,"ceiling",8
+396,BCA7C5,"floor",8
+397,135266,"rack",8
+398,D416B3,"plant",8
+399,B67AC4,"pot",8
+400,9EB027,"rack",8
+401,30031A,"printer",8
+402,97C42F,"cabinet",8
+403,219915,"stand",8
+404,0AF980,"bin",8
+405,858321,"wall",8
+406,BDADC4,"cabinet",8
+407,3AFE4B,"cabinet",8
+408,B7D479,"wall",8
+409,3E0EC1,"wall",8
+410,0224F9,"ceiling",8
+411,DCA7C4,"unknown",8
+412,7061B6,"lamp",8
+413,E950C2,"lamp",8
+414,02A44A,"window shutter",8
+415,B91E6F,"window shutter",8
+416,C31C85,"window shutter",8
+417,09377E,"window",8
+418,3ACDA2,"window",8
+419,0555B6,"window",8
+420,37AA25,"window",8
+421,FF41FF,"window frame",8
+422,4C35E1,"window frame",8
+423,E2DF46,"chair",8
+424,FB883D,"chair",8
+425,8ABA22,"chair",8
+426,ABA772,"chair",8
+427,51BEBB,"monitor",8
+428,BED45B,"monitor",8
+429,AEC733,"monitor",8
+430,C22D65,"monitor",8
+431,953588,"cabinet",8
+432,43DB71,"cabinet",8
+433,F6CBBC,"cabinet",8
+434,88D7B8,"box",8
+435,F2121C,"clutter",8
+436,32C771,"partition",8
+437,434BCF,"stack of papers",8
+438,3EAA79,"unknown",8
+439,63B9CF,"stack of papers",8
+440,928372,"stack of papers",8
+441,627D64,"stack of papers",8
+442,3ED030,"telephone",8
+443,D9C83E,"unknown",8
+444,9C481A,"desk clutter",8
+445,CA2425,"desk clutter",8
+446,3E934C,"desk clutter",8
+447,67B4E8,"computer mouse",8
+448,EFBC1D,"desk clutter",8
+449,FC913D,"desk",8
+450,F018A7,"keyboard",8
+451,8CEB40,"keyboard",8
+452,F47032,"keyboard",8
+453,FB7EE3,"floor",9
+454,04CFE2,"cabinet",9
+455,E78C0B,"cabinet",9
+456,B906D6,"lamp",9
+457,4EB84D,"lamp",9
+458,60D383,"plant",9
+459,0256B4,"vase",9
+460,AF016E,"plant",9
+461,195B8A,"vase",9
+462,1F0B29,"cabinet",9
+463,26136F,"cabinet",9
+464,3A4631,"wall",9
+465,0CBF5B,"plant",9
+466,305EC5,"vase",9
+467,C02B3C,"box",9
+468,8D6D3A,"bin",9
+469,18F7CB,"rack",9
+470,37F0BB,"wall",9
+471,EB4941,"wall",9
+472,A8C54D,"ceiling",9
+473,616DD7,"window frame",9
+474,CAB09E,"window frame",9
+475,98BE8E,"chair",9
+476,937979,"chair",9
+477,F0DE79,"cabinet",9
+478,68D043,"binder",9
+479,FA81FB,"stack of papers",9
+480,1934CF,"monitor",9
+481,B215ED,"monitor",9
+482,710D03,"binder",9
+483,431B06,"telephone",9
+484,DC39DC,"telephone",9
+485,F2F5A2,"keyboard",9
+486,5D874D,"keyboard",9
+487,BB07C2,"computer mouse",9
+488,D33341,"computer mouse",9
+489,E881E8,"unknown",9
+490,CE89D4,"desk clutter",9
+491,723C38,"partition",9
+492,9AD9CA,"desk",9
+493,0D8C78,"board",10
+494,2FFBBA,"projector",10
+495,BCC075,"plant",10
+496,8CDFEA,"pot",10
+497,2ECC32,"pot",10
+498,3088B3,"unknown",10
+499,B2DA2F,"wall",10
+500,2B6AE8,"projector screen",10
+501,71C971,"board",10
+502,9DCBD3,"stand",10
+503,4E79EB,"plant",10
+504,F945D6,"vase",10
+505,E13C9C,"stand",10
+506,2650E4,"bin",10
+507,ECB53E,"shelf",10
+508,9FB89C,"shelf",10
+509,54A2C1,"plant",10
+510,B356C0,"vase",10
+511,72C988,"window curtain",10
+512,5AD653,"wall",10
+513,777616,"ceiling",10
+514,2C8BAD,"floor",10
+515,3B2003,"chair",10
+516,FEF75F,"table",10
+517,17BEEA,"chair",10
+518,C42108,"chair",10
+519,AAD705,"chair",10
+520,B17FB2,"chair",10
+521,FFB545,"chair",10
+522,20FB6D,"chair",10
+523,FA525F,"chair",10
+524,D6C841,"chair",10
+525,E0F65C,"chair",10
+526,5CBF8D,"chair",10
+527,FAC4A5,"chair",10
+528,061093,"wall",10
+529,00653B,"wall",10
+530,54F8F6,"wall",10
+531,6404AC,"wall",10
+532,73E2E3,"ceiling",10
+533,554CED,"handrail",11
+534,39C0AE,"pillar",11
+535,167D77,"pillar",11
+536,C7B1F9,"pillar",11
+537,593B9D,"handrail",11
+538,6B5CBF,"wall hanging decoration",11
+539,997C01,"door",11
+540,68615C,"door frame",11
+541,6971FB,"wall",11
+542,7F9D9A,"fire extinguisher",11
+543,7C075E,"plant",11
+544,597921,"vase",11
+545,B548BE,"door",11
+546,DFBBD9,"door",11
+547,9A8D3C,"door frame",11
+548,169D9F,"door frame",11
+549,B4E097,"door",11
+550,7ED083,"door frame",11
+551,E60D83,"wall",11
+552,C9D730,"cabinet",11
+553,D1010B,"stand",11
+554,E3B05B,"wall",11
+555,114750,"door",11
+556,A582DF,"door frame",11
+557,74DE49,"wall",11
+558,D54C68,"floor",11
+559,B99527,"ceiling",11
+560,0F7F87,"frame",11
+561,436A4A,"wall",11
+562,C74EF7,"wall",11
+563,6580ED,"wall",11
+564,DA5F5B,"wall",11
+565,CEA57C,"lamp",1
+566,277D6E,"lamp",1
+567,3AB2E7,"lamp",1
+568,3154F7,"lamp",1
+569,A982AA,"lamp",1
+570,CE3D6C,"lamp",1
+571,B00BEF,"tap",3
+572,A6C4EC,"floor mat",6
+573,CC17E7,"unknown",6
+574,D2C21E,"tablet",6
+575,69EEB4,"wall sign",6
+576,CD0CF9,"wall sign",6
+577,A0042D,"wall sign",6
+578,20760D,"lamp",8
+579,26124C,"lamp",8
+580,01F48F,"lamp",8
+581,39CFA0,"magazine",8
+582,D49BCB,"magazine",8
+583,A91F61,"magazine",8
+584,1CC28B,"magazine",8
+585,F94593,"magazine",8
+586,669110,"magazine",8
+587,283749,"magazine",8
+588,B8BA2B,"magazine",8
+589,CB94E1,"magazine",8
+590,E6C8DD,"magazine",8
+591,0A0D1F,"magazine",8
+592,323DA0,"magazine",8
+593,CD68B7,"magazine",8
+594,8992CE,"magazine",8
+595,94C53C,"magazine",8
+596,8731CB,"magazine",8
+597,62CC13,"lamp",10
+598,E5C824,"lamp",10
+599,9DF40A,"lamp",10
+600,83B8A7,"lamp",10
+601,2A94EA,"lamp",11
+602,4AF31C,"lamp",11
+603,01311D,"lamp",11
+604,50C390,"lamp",11
+605,12E601,"lamp",11
+606,622878,"lamp",11
+607,533F6E,"lamp",11
+608,35C8EB,"lamp",11
+609,6C1BDE,"lamp",11
+610,E59C4A,"lamp",11
+611,803BFB,"lamp",11
+612,54A93B,"lamp",11
+613,DF292F,"lamp",11
+614,674B3E,"lamp",11
+615,EAB650,"lamp",11
+616,7F48D7,"lamp",11
+617,2EE736,"lamp",11
+618,4AFC8E,"lamp",11
+619,ADEA7C,"exit sign",11
+620,11B08F,"exit sign",11
+621,E467A7,"exit sign",11
+622,6852EE,"exit sign",11
+623,DA9BC4,"shelf with clutter",8
+624,45F510,"shelf with clutter",8
+625,D1C37F,"shelf with clutter",8
+626,6416F4,"shelf with clutter",8
+627,DD6E8F,"shelf with clutter",9
+628,95CB99,"shelf with clutter",9
+629,EDA8EA,"shelf with clutter",9
+630,411006,"shelf with clutter",9
+631,252384,"shelf with clutter",9
+632,806A03,"shelf with clutter",9
+633,AA3859,"shelf with clutter",9
+634,0BD369,"shelf with clutter",9
+635,924088,"shelf with clutter",9
+636,641ED1,"shelf with clutter",9
+637,34D784,"shelf with clutter",9
+638,9CD198,"shelf with clutter",9
+639,F773B2,"shelf with clutter",9
+640,2567DE,"shelf with clutter",9
+641,BB6A49,"shelf with clutter",9
+642,06C593,"shelf with clutter",9
+643,199C6A,"shelf with clutter",9
+644,D7EF80,"shelf with clutter",9
+645,0FC7CB,"shelf with clutter",9
+646,1329B5,"shelf with clutter",9
+647,B536B1,"shelf with clutter",9
+648,D0FDAB,"shelf with clutter",9
+649,AFFAA3,"shelf with clutter",9
+650,7F3B88,"shelf with clutter",9
+651,55F4DD,"shelf with clutter",9
+652,CBAC80,"shelf with clutter",9
+653,98DA49,"shelf with clutter",9
+654,CDF7C3,"shelf with clutter",9
+655,C2DA83,"shelf with clutter",9
+656,B15135,"shelf with clutter",9
+657,EC133C,"shelf with clutter",9
+658,B247E3,"shelf with clutter",9
+659,D93A02,"shelf with clutter",9
+660,F5C980,"shelf with clutter",9
+661,53389E,"shelf with clutter",9
+662,D8D465,"shelf with clutter",9
+663,46F699,"shelf with clutter",9
+664,E25599,"shelf with clutter",9
+665,EA59EF,"shelf with clutter",9
+666,7144C8,"shelf with clutter",9
+667,E706D6,"wall",2
+668,F370F7,"desk",6
+669,16DBF9,"monitor",8
+670,765E7F,"sign",11
