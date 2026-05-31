@@ -3,7 +3,7 @@
 [![Project](https://img.shields.io/badge/project-Project%20Page-green)](https://bo-miao.github.io/LangMap/)
 [![Demo](https://img.shields.io/badge/demo-Interactive%20Visualization-green)](https://huggingface.co/spaces/bo-miao/LangMap)
 
-# LangMap: A Human-Verified Benchmark for Hierarchical Goal Navigation
+# LangMap: A Human-Verified Benchmark for Hierarchical Open-Vocabulary Goal Navigation
 
 ![framework](figures/hieranav_framework.png)
 
