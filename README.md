@@ -7,7 +7,7 @@
 
 ![framework](figures/hieranav_framework.png)
 
-We introduce HieraNav, a hierarchical open-vocabulary goal navigation task, and LangMap, a human-verified benchmark providing region labels, discriminative descriptions, and navigation tasks across object, room, region, and instance levels.
+We introduce HieraNav, a hierarchical open-vocabulary goal navigation task, and LangMap, a large-scale human-verified benchmark providing region labels, discriminative descriptions, and navigation tasks across object, room, region, and instance levels.
 
 We also introduce PlaNaVid, an RGB-only navigation baseline that uses bounded diverse memory without depth, 3D maps, oracle paths, or object masks.
 
@@ -33,7 +33,7 @@ We also introduce PlaNaVid, an RGB-only navigation baseline that uses bounded di
 
 ## Data
 
-Download LangMap annotations from [Google Drive].
+LangMap annotations can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1C8CVptKwQVX-8bMzkWQ8MtljrwfvBqkT?usp=drive_link).
 
 Download HM3D and HM3D-Sem from Habitat:
 
@@ -132,7 +132,6 @@ Metrics:
 - Single-goal: overall SR/SPL and SR/SPL by object, room, region, and instance levels.
 - Multi-goal: overall SR/SPL and SeqSR@k.
 
-[//]: # (- SeqSR@k: the sequence is successful only if the first k subgoals are completed in order.)
 
 ## Citation
 
