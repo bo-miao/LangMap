@@ -1,5 +1,5 @@
 [![License](https://img.shields.io/badge/license-CC--BY%204.0-blue)](https://creativecommons.org/licenses/by/4.0/)
-[![arXiv](https://img.shields.io/badge/arXiv-2602.02220-red)](https://arxiv.org/html/2602.02220v1)
+[![arXiv](https://img.shields.io/badge/arXiv-2602.02220-red)](https://arxiv.org/html/2602.02220v2)
 [![Project](https://img.shields.io/badge/project-Project%20Page-green)](https://bo-miao.github.io/LangMap/)
 [![Demo](https://img.shields.io/badge/demo-Interactive%20Visualization-green)](https://huggingface.co/spaces/bo-miao/LangMap)
 
