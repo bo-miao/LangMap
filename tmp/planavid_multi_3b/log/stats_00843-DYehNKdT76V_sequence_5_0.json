@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 11.186288096010685,
+    "id": "00843-DYehNKdT76V_sequence_5_0",
+    "instruction": "Find the beige couch in tie: dining room & living room",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.27858
+}

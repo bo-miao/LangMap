@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.009635,
+    "path_length": 5.492597743868828,
+    "id": "00877-4ok3usBNeis_sequence_7_1",
+    "instruction": "Find the refrigerator in the storage room that has freezers",
+    "navigation_type": "region",
+    "final_goal_dist": 0.16661
+}

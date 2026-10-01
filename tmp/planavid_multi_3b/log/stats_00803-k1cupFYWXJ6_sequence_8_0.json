@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 1.647484004497528,
+    "id": "00803-k1cupFYWXJ6_sequence_8_0",
+    "instruction": "Find the tall white cloth-draped table",
+    "navigation_type": "instance",
+    "final_goal_dist": 2.57162
+}

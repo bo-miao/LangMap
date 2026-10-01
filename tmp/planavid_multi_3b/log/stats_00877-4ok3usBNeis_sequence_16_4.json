@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.7142638970940935,
+    "path_length": 4.5000001192092896,
+    "id": "00877-4ok3usBNeis_sequence_16_4",
+    "instruction": "Find the desk chair",
+    "navigation_type": "object",
+    "final_goal_dist": 0.12776
+}

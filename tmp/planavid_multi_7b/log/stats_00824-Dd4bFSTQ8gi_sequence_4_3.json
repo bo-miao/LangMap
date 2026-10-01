@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 78.11071813199669,
+    "id": "00824-Dd4bFSTQ8gi_sequence_4_3",
+    "instruction": "Find the fireplace in the living room that has fireplace against brick wall",
+    "navigation_type": "region",
+    "final_goal_dist": 14.6285
+}

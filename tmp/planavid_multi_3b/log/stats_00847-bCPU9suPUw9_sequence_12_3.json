@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.2887190358451477,
+    "path_length": 6.250002235174179,
+    "id": "00847-bCPU9suPUw9_sequence_12_3",
+    "instruction": "Find the rug in the dining room that has round dining table",
+    "navigation_type": "region",
+    "final_goal_dist": 0.15438
+}

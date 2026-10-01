@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.04574394947323658,
+    "path_length": 5.748464152216911,
+    "id": "00849-a8BtkwhxdRV_sequence_17_1",
+    "instruction": "Find the table in the tie: dining room & living room that has two red couches, 'Tie: A & B' means the area spans both rooms A and B",
+    "navigation_type": "region",
+    "final_goal_dist": 0.05531
+}

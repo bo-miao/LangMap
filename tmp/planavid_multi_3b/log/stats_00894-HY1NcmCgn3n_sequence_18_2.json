@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 90.23387645184994,
+    "id": "00894-HY1NcmCgn3n_sequence_18_2",
+    "instruction": "Find the decorative plant in the Hall",
+    "navigation_type": "room",
+    "final_goal_dist": 5.2893
+}

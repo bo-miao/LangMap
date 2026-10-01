@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.7119289437175798,
+    "path_length": 13.535702519118786,
+    "id": "00844-q5QZSEeHe5g_region_138",
+    "instruction": "Find the kitchen island in the kitchen that has white refrigerator",
+    "final_goal_dist": 0.12807
+}

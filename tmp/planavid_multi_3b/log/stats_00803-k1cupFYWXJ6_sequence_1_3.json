@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.04094694698080262,
+    "path_length": 9.749999567866325,
+    "id": "00803-k1cupFYWXJ6_sequence_1_3",
+    "instruction": "Find the armchair in the Hall",
+    "navigation_type": "room",
+    "final_goal_dist": 0.15106
+}

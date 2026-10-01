@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 11.765516340732574,
+    "id": "00832-qyAac8rV8Zk_sequence_12_3",
+    "instruction": "Find the media console in the Bedroom",
+    "navigation_type": "room",
+    "final_goal_dist": 0.31945
+}

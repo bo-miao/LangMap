@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.239321,
+    "path_length": 7.99999737739563,
+    "id": "00891-cvZr5TUy5C5_sequence_7_1",
+    "instruction": "Find the sofa seat",
+    "navigation_type": "object",
+    "final_goal_dist": 0.10005
+}

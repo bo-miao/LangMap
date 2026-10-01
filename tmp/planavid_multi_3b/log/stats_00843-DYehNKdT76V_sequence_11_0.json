@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 40.86643219739199,
+    "id": "00843-DYehNKdT76V_sequence_11_0",
+    "instruction": "Find the purple knife holder",
+    "navigation_type": "instance",
+    "final_goal_dist": 5.41868
+}

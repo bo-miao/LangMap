@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.239731,
+    "path_length": 51.78951930254698,
+    "id": "00832-qyAac8rV8Zk_sequence_7_0",
+    "instruction": "Find the beige towel on metal bar",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.17859
+}

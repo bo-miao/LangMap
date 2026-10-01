@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 90.91384130716324,
+    "id": "00810-CrMo8WxCyVb_sequence_19_4",
+    "instruction": "Find the cabinet",
+    "navigation_type": "object",
+    "final_goal_dist": 0.12935
+}

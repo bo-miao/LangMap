@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.7847707671031223,
+    "path_length": 13.765938743948936,
+    "id": "00843-DYehNKdT76V_sequence_18_3",
+    "instruction": "Find the microwave in the kitchen that has stainless oven",
+    "navigation_type": "region",
+    "final_goal_dist": 0.19788
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 22.372316494584084,
+    "id": "00871-VBzV5z6i1WS_sequence_16_4",
+    "instruction": "Find the blanket in the living room that has two beige couches",
+    "navigation_type": "region",
+    "final_goal_dist": 1.74938
+}

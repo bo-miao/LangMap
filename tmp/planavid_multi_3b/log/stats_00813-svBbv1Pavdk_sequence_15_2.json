@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.26999032231668657,
+    "path_length": 28.186257779598236,
+    "id": "00813-svBbv1Pavdk_sequence_15_2",
+    "instruction": "Find the kitchen sink in the Kitchen",
+    "navigation_type": "room",
+    "final_goal_dist": 0.10405
+}

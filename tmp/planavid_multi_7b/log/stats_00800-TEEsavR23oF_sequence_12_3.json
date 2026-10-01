@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.751396,
+    "path_length": 11.751724153757095,
+    "id": "00800-TEEsavR23oF_sequence_12_3",
+    "instruction": "Find the bed",
+    "navigation_type": "object",
+    "final_goal_dist": 0.10747
+}

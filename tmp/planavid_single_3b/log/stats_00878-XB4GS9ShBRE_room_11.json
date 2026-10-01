@@ -1,0 +1,8 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 10.047156634740531,
+    "id": "00878-XB4GS9ShBRE_room_11",
+    "instruction": "Find the picture in the Tie: Dining room & Living room, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 2.85416
+}

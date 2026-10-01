@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.2695107714112718,
+    "path_length": 31.316025745123625,
+    "id": "00832-qyAac8rV8Zk_region_19",
+    "instruction": "Find the trashcan in the tie: kitchen & living room that has island with granite countertop, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 0.12031
+}

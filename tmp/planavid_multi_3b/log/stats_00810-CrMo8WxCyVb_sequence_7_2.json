@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.6361779558945466,
+    "path_length": 1.249999463558197,
+    "id": "00810-CrMo8WxCyVb_sequence_7_2",
+    "instruction": "Find the toilet in the Bathroom",
+    "navigation_type": "room",
+    "final_goal_dist": 0.10596
+}

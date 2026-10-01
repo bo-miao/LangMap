@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.6081988287601442,
+    "path_length": 12.735255241394043,
+    "id": "00813-svBbv1Pavdk_sequence_6_4",
+    "instruction": "Find the sink in the bathroom that has white shower curtain",
+    "navigation_type": "region",
+    "final_goal_dist": 0.14633
+}

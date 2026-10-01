@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.11512085610122194,
+    "path_length": 2.750000238418579,
+    "id": "00861-GLAQ4DNUx5U_sequence_14_2",
+    "instruction": "Find the storage cabinet in the walk-in closet that has cream closet cabinets",
+    "navigation_type": "region",
+    "final_goal_dist": 0.11638
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.8245681690985092,
+    "path_length": 17.81217573583126,
+    "id": "00853-5cdEh9F2hJL_sequence_5_4",
+    "instruction": "Find the calendar in the Kitchen",
+    "navigation_type": "room",
+    "final_goal_dist": 0.13237
+}

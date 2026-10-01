@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 29.231497824192047,
+    "id": "00823-7MXmsvcQjpJ_sequence_16_0",
+    "instruction": "Find the right-side kettle on stovetop",
+    "navigation_type": "instance",
+    "final_goal_dist": 8.43015
+}

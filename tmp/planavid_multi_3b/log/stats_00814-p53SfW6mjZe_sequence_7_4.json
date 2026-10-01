@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 18.434831969439983,
+    "id": "00814-p53SfW6mjZe_sequence_7_4",
+    "instruction": "Find the mantel in the Living room",
+    "navigation_type": "room",
+    "final_goal_dist": 0.9388
+}

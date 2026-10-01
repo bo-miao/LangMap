@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 6.051430881023407,
+    "id": "00827-BAbdmeyTvMZ_sequence_18_1",
+    "instruction": "Find the rug in the Living room",
+    "navigation_type": "room",
+    "final_goal_dist": 0.79285
+}

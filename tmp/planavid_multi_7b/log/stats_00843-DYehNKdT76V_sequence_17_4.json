@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 65.76032827049494,
+    "id": "00843-DYehNKdT76V_sequence_17_4",
+    "instruction": "Find the built-in microwave",
+    "navigation_type": "instance",
+    "final_goal_dist": 11.96143
+}

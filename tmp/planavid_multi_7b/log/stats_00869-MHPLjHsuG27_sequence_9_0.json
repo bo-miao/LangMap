@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.282905,
+    "path_length": 30.181050717830658,
+    "id": "00869-MHPLjHsuG27_sequence_9_0",
+    "instruction": "Find the left most kitchen cabinet",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.08138
+}

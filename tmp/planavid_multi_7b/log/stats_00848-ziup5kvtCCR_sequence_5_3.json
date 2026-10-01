@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 36.38168077170849,
+    "id": "00848-ziup5kvtCCR_sequence_5_3",
+    "instruction": "Find the armchair in the bedroom that has brown headboard",
+    "navigation_type": "region",
+    "final_goal_dist": 7.59687
+}

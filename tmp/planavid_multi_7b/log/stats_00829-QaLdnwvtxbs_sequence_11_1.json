@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.164064,
+    "path_length": 29.86900259554386,
+    "id": "00829-QaLdnwvtxbs_sequence_11_1",
+    "instruction": "Find the fire extinguisher in the bedroom that has bed and TV",
+    "navigation_type": "region",
+    "final_goal_dist": 0.1025
+}

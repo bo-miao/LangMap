@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 16.13222049176693,
+    "id": "00800-TEEsavR23oF_sequence_18_0",
+    "instruction": "Find the plant left of black three-seater couch under staircase",
+    "navigation_type": "instance",
+    "final_goal_dist": 3.28934
+}

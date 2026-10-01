@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.64804,
+    "path_length": 15.649339314550161,
+    "id": "00861-GLAQ4DNUx5U_sequence_9_0",
+    "instruction": "Find the rectangle cream dining table",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.02693
+}

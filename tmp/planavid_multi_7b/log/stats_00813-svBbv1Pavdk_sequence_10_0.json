@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 77.93789122626185,
+    "id": "00813-svBbv1Pavdk_sequence_10_0",
+    "instruction": "Find the wall-mounted ironing board",
+    "navigation_type": "instance",
+    "final_goal_dist": 10.72344
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.44743395071241715,
+    "path_length": 41.633604779839516,
+    "id": "00853-5cdEh9F2hJL_sequence_4_1",
+    "instruction": "Find the shelf in the kitchen that has dark kitchen island",
+    "navigation_type": "region",
+    "final_goal_dist": 0.06745
+}

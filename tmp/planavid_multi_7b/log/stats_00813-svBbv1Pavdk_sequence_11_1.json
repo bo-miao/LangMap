@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 86.99999089539051,
+    "id": "00813-svBbv1Pavdk_sequence_11_1",
+    "instruction": "Find the ironing board in the Walk-in closet",
+    "navigation_type": "room",
+    "final_goal_dist": 7.23706
+}

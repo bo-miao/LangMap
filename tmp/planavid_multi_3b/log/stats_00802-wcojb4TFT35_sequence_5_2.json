@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.1567709532971021,
+    "path_length": 16.162809252738953,
+    "id": "00802-wcojb4TFT35_sequence_5_2",
+    "instruction": "Find the cabinet in the Bedroom",
+    "navigation_type": "room",
+    "final_goal_dist": 0.18216
+}

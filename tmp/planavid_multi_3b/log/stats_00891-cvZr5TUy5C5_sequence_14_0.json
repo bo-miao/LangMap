@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 45.21023426949978,
+    "id": "00891-cvZr5TUy5C5_sequence_14_0",
+    "instruction": "Find the wood-framed damask sofa chair by door",
+    "navigation_type": "instance",
+    "final_goal_dist": 10.16349
+}

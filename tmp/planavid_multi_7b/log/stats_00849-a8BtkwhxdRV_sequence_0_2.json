@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 5.499999761581421,
+    "id": "00849-a8BtkwhxdRV_sequence_0_2",
+    "instruction": "Find the bathtub in the bathroom that has corner bathtub",
+    "navigation_type": "region",
+    "final_goal_dist": 13.22497
+}

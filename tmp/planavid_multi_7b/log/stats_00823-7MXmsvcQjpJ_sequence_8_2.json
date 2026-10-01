@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 32.209564223885536,
+    "id": "00823-7MXmsvcQjpJ_sequence_8_2",
+    "instruction": "Find the picture in the bedroom that has burgundy and blue walls",
+    "navigation_type": "region",
+    "final_goal_dist": 1.37754
+}

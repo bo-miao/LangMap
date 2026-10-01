@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.382472,
+    "path_length": 18.52360320952721,
+    "id": "00827-BAbdmeyTvMZ_sequence_11_0",
+    "instruction": "Find the toilet by geometric shower curtain",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.20082
+}

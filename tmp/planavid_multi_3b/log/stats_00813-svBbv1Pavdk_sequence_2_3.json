@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.29116146295895373,
+    "path_length": 16.250003322958946,
+    "id": "00813-svBbv1Pavdk_sequence_2_3",
+    "instruction": "Find the picture",
+    "navigation_type": "object",
+    "final_goal_dist": 0.08046
+}

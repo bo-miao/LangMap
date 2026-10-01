@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.047796933110470466,
+    "path_length": 44.096056029200554,
+    "id": "00873-bxsVRursffK_sequence_8_3",
+    "instruction": "Find the handbag in the Walk-in closet",
+    "navigation_type": "room",
+    "final_goal_dist": 0.10262
+}

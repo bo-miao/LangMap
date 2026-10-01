@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 16.249998405575752,
+    "id": "00815-h1zeeAwLh9Z_sequence_11_1",
+    "instruction": "Find the decorative plant in the Hall",
+    "navigation_type": "room",
+    "final_goal_dist": 9.78292
+}

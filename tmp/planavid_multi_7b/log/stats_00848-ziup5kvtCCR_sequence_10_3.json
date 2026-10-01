@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 34.21050329506397,
+    "id": "00848-ziup5kvtCCR_sequence_10_3",
+    "instruction": "Find the cabinet in the hall that has entry door with wreath",
+    "navigation_type": "region",
+    "final_goal_dist": 7.07814
+}

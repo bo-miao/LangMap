@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 49.08013394474983,
+    "id": "00848-ziup5kvtCCR_sequence_11_4",
+    "instruction": "Find the bin in the tie: kitchen & living room that has curved kitchen island, 'Tie: A & B' means the area spans both rooms A and B",
+    "navigation_type": "region",
+    "final_goal_dist": 2.70733
+}

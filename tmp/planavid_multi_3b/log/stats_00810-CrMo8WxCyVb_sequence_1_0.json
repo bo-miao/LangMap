@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.29164812036564314,
+    "path_length": 53.52186535671353,
+    "id": "00810-CrMo8WxCyVb_sequence_1_0",
+    "instruction": "Find the toilet near double-sink vanity",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.13257
+}

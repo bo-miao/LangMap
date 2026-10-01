@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.2152205138594968,
+    "path_length": 31.457192592322826,
+    "id": "00829-QaLdnwvtxbs_sequence_16_0",
+    "instruction": "Find the dining table with white chairs",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.17201
+}

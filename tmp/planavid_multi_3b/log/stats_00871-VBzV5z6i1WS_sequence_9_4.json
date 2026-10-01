@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 9.767194092273712,
+    "id": "00871-VBzV5z6i1WS_sequence_9_4",
+    "instruction": "Find the desk chair in the bedroom that has white headboard",
+    "navigation_type": "region",
+    "final_goal_dist": 14.27408
+}

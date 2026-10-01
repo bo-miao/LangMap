@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.46528523235896746,
+    "path_length": 17.750002114102244,
+    "id": "00848-ziup5kvtCCR_room_11",
+    "instruction": "Find the couch in the Tie: Kitchen & Living room, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 0.16238
+}

@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.4023266804953601,
+    "path_length": 22.12372948601842,
+    "id": "00873-bxsVRursffK_region_10",
+    "instruction": "Find the sink in the bathroom that has double-sink bath vanity",
+    "final_goal_dist": 0.12839
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.2900538604836275,
+    "path_length": 54.00000359117985,
+    "id": "00821-eF36g7L6Z9M_sequence_5_4",
+    "instruction": "Find the sideboard in the Kitchen",
+    "navigation_type": "room",
+    "final_goal_dist": 0.115
+}

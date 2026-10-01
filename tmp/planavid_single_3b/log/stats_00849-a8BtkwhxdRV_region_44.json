@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.6808857073119439,
+    "path_length": 9.003200873732567,
+    "id": "00849-a8BtkwhxdRV_region_44",
+    "instruction": "Find the cabinet in the tie: dining room & living room that has two red couches, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 0.10005
+}

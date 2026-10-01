@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 6.262520521048785,
+    "id": "00802-wcojb4TFT35_sequence_15_2",
+    "instruction": "Find the decorative plant in the Living room",
+    "navigation_type": "room",
+    "final_goal_dist": 7.8936
+}

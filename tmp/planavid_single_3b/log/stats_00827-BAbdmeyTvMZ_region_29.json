@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.2923929221791269,
+    "path_length": 18.600100019946694,
+    "id": "00827-BAbdmeyTvMZ_region_29",
+    "instruction": "Find the shelf in the bedroom that has bed with white pillows",
+    "final_goal_dist": 0.1695
+}

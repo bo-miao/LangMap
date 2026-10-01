@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 28.239273503422737,
+    "id": "00891-cvZr5TUy5C5_sequence_14_3",
+    "instruction": "Find the carpet in the bathroom that has brown bathtub platform",
+    "navigation_type": "region",
+    "final_goal_dist": 8.82232
+}

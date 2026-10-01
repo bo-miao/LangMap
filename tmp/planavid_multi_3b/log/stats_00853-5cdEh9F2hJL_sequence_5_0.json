@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 40.54514524526894,
+    "id": "00853-5cdEh9F2hJL_sequence_5_0",
+    "instruction": "Find the nightstand with a TED book",
+    "navigation_type": "instance",
+    "final_goal_dist": 15.06324
+}

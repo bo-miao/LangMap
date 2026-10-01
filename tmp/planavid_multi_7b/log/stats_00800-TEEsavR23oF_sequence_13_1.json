@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.105459,
+    "path_length": 86.14262861013412,
+    "id": "00800-TEEsavR23oF_sequence_13_1",
+    "instruction": "Find the doormat in the hall that has brown-framed sailboats painting",
+    "navigation_type": "region",
+    "final_goal_dist": 0.16292
+}

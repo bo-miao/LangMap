@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.022726,
+    "path_length": 82.49189246445894,
+    "id": "00876-mv2HUxq3B53_sequence_10_3",
+    "instruction": "Find the vase in the hall that has vases below decorative plates",
+    "navigation_type": "region",
+    "final_goal_dist": 0.14634
+}

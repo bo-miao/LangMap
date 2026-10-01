@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.49893955274280466,
+    "path_length": 2.7545685172080994,
+    "id": "00832-qyAac8rV8Zk_sequence_11_4",
+    "instruction": "Find the countertop in the Bathroom",
+    "navigation_type": "room",
+    "final_goal_dist": 0.177
+}

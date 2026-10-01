@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.402322,
+    "path_length": 7.000000685453415,
+    "id": "00839-zt1RVoi7PcG_sequence_3_1",
+    "instruction": "Find the cabinet in the bedroom that has two beds",
+    "navigation_type": "region",
+    "final_goal_dist": 0.1187
+}

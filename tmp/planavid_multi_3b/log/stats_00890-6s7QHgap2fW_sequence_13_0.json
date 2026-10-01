@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 13.849994108080864,
+    "id": "00890-6s7QHgap2fW_sequence_13_0",
+    "instruction": "Find the trashcan beside kitchen cabinets",
+    "navigation_type": "instance",
+    "final_goal_dist": 20.08148
+}

@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.40153569865110916,
+    "path_length": 23.498735576868057,
+    "id": "00861-GLAQ4DNUx5U_region_34",
+    "instruction": "Find the table in the kitchen that has stainless oven",
+    "final_goal_dist": 0.15227
+}

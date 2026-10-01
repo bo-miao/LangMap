@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.4357255559014829,
+    "path_length": 4.485837996006012,
+    "id": "00802-wcojb4TFT35_room_88",
+    "instruction": "Find the trashcan in the Garage",
+    "final_goal_dist": 0.16197
+}

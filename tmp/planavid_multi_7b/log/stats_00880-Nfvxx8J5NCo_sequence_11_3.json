@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 76.5810751914978,
+    "id": "00880-Nfvxx8J5NCo_sequence_11_3",
+    "instruction": "Find the washing machine in the laundry room that has washing machine",
+    "navigation_type": "region",
+    "final_goal_dist": 2.93543
+}

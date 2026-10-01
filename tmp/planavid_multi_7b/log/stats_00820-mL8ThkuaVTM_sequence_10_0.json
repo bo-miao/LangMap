@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 6.5000014659017324,
+    "id": "00820-mL8ThkuaVTM_sequence_10_0",
+    "instruction": "Find the white microwave",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.84506
+}

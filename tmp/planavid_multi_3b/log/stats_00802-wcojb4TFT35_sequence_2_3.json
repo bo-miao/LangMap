@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.596776760110432,
+    "path_length": 4.250000640749931,
+    "id": "00802-wcojb4TFT35_sequence_2_3",
+    "instruction": "Find the blanket in the bedroom that has brown quilt with teal blanket",
+    "navigation_type": "region",
+    "final_goal_dist": 0.16093
+}

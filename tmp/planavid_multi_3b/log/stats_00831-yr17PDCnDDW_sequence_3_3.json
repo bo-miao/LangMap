@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.017538516005871908,
+    "path_length": 37.639137387275696,
+    "id": "00831-yr17PDCnDDW_sequence_3_3",
+    "instruction": "Find the desk in the Office",
+    "navigation_type": "room",
+    "final_goal_dist": 0.07671
+}

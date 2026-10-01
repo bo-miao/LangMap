@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 6.724793357774615,
+    "id": "00848-ziup5kvtCCR_sequence_12_0",
+    "instruction": "Find the dishwasher",
+    "navigation_type": "instance",
+    "final_goal_dist": 11.69211
+}

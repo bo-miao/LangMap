@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.279083,
+    "path_length": 29.837883964180946,
+    "id": "00873-bxsVRursffK_sequence_18_4",
+    "instruction": "Find the bench in the hall that has gray-cushioned bench",
+    "navigation_type": "region",
+    "final_goal_dist": 0.06253
+}

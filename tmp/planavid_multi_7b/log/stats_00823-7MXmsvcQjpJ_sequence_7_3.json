@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 9.728399321436882,
+    "id": "00823-7MXmsvcQjpJ_sequence_7_3",
+    "instruction": "Find the flowerpot in the Bathroom",
+    "navigation_type": "room",
+    "final_goal_dist": 0.36828
+}

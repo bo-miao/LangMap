@@ -1,0 +1,8 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 10.228851288557053,
+    "id": "00869-MHPLjHsuG27_region_0",
+    "instruction": "Find the tv in the tie: dining room & living room that has glass dining table, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 0.2598
+}

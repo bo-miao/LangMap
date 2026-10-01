@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.04603038748831961,
+    "path_length": 2.667465552687645,
+    "id": "00861-GLAQ4DNUx5U_sequence_1_3",
+    "instruction": "Find the oven",
+    "navigation_type": "object",
+    "final_goal_dist": 0.19742
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.469054,
+    "path_length": 13.315154705196619,
+    "id": "00827-BAbdmeyTvMZ_sequence_9_0",
+    "instruction": "Find the light-colored bathroom cabinet near geometric shower curtain",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.15072
+}

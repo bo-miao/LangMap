@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 8.513114631175995,
+    "id": "00824-Dd4bFSTQ8gi_sequence_10_1",
+    "instruction": "Find the sink",
+    "navigation_type": "object",
+    "final_goal_dist": 0.62956
+}

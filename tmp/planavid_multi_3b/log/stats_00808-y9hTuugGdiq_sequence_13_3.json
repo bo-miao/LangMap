@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 73.89942064881325,
+    "id": "00808-y9hTuugGdiq_sequence_13_3",
+    "instruction": "Find the fan in the bedroom that has TV above brown dresser",
+    "navigation_type": "region",
+    "final_goal_dist": 7.77789
+}

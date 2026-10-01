@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.18276752144270955,
+    "path_length": 17.250004014000297,
+    "id": "00820-mL8ThkuaVTM_sequence_14_0",
+    "instruction": "Find the stainless refrigerator",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.09745
+}

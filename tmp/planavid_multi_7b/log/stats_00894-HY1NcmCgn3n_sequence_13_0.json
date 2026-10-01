@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 22.58293579518795,
+    "id": "00894-HY1NcmCgn3n_sequence_13_0",
+    "instruction": "Find the base pedestal supporting two smaller pedestals",
+    "navigation_type": "instance",
+    "final_goal_dist": 14.62238
+}

@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.1269557243484759,
+    "path_length": 51.66742168366909,
+    "id": "00808-y9hTuugGdiq_region_1",
+    "instruction": "Find the flowerpot in the bedroom that has bed with red pillows",
+    "final_goal_dist": 0.15526
+}

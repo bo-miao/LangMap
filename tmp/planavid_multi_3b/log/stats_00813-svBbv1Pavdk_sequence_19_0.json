@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 6.050000470131636,
+    "id": "00813-svBbv1Pavdk_sequence_19_0",
+    "instruction": "Find the tall plant with dried branches in kitchen",
+    "navigation_type": "instance",
+    "final_goal_dist": 10.77953
+}

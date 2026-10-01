@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.8006224098124424,
+    "path_length": 9.760882399976254,
+    "id": "00824-Dd4bFSTQ8gi_region_40",
+    "instruction": "Find the kitchen counter in the tie: kitchen & living room that has couch near oven and curved bench, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 0.11906
+}

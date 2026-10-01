@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.567385,
+    "path_length": 18.499998554587364,
+    "id": "00808-y9hTuugGdiq_sequence_1_1",
+    "instruction": "Find the bathtub platform",
+    "navigation_type": "object",
+    "final_goal_dist": 0.1563
+}

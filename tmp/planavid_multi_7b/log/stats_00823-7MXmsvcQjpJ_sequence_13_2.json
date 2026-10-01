@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.169481,
+    "path_length": 8.994886964559555,
+    "id": "00823-7MXmsvcQjpJ_sequence_13_2",
+    "instruction": "Find the flowerpot in the Dining room",
+    "navigation_type": "room",
+    "final_goal_dist": 0.13019
+}

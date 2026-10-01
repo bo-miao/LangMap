@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.39192628184982464,
+    "path_length": 17.95662795007229,
+    "id": "00869-MHPLjHsuG27_room_30",
+    "instruction": "Find the oven in the Kitchen",
+    "final_goal_dist": 0.04288
+}

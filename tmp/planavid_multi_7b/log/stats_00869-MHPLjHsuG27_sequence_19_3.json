@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.550458,
+    "path_length": 11.998392820358276,
+    "id": "00869-MHPLjHsuG27_sequence_19_3",
+    "instruction": "Find the picture in the bedroom that has red-striped double bed",
+    "navigation_type": "region",
+    "final_goal_dist": 0.19949
+}

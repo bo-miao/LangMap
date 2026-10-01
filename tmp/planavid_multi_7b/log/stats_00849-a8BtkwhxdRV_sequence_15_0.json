@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 49.325458543375134,
+    "id": "00849-a8BtkwhxdRV_sequence_15_0",
+    "instruction": "Find the textured teapot in china cabinet",
+    "navigation_type": "instance",
+    "final_goal_dist": 8.10918
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.112217,
+    "path_length": 35.72939804196358,
+    "id": "00813-svBbv1Pavdk_sequence_14_1",
+    "instruction": "Find the bathtub",
+    "navigation_type": "object",
+    "final_goal_dist": 0.05958
+}

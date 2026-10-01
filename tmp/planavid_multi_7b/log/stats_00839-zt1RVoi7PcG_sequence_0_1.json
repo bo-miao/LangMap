@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 77.7368285804987,
+    "id": "00839-zt1RVoi7PcG_sequence_0_1",
+    "instruction": "Find the photo in the bedroom that has two beds",
+    "navigation_type": "region",
+    "final_goal_dist": 7.21535
+}

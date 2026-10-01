@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 71.96702431887388,
+    "id": "00847-bCPU9suPUw9_sequence_11_4",
+    "instruction": "Find the shower curtain in the bathroom that has brown shower curtain",
+    "navigation_type": "region",
+    "final_goal_dist": 15.60227
+}

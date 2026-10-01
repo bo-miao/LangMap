@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.13005685435347508,
+    "path_length": 71.84262658655643,
+    "id": "00891-cvZr5TUy5C5_region_128",
+    "instruction": "Find the desk chair in the tie: bathroom & rec room that has heart-shaped wall-shelf, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 0.09618
+}

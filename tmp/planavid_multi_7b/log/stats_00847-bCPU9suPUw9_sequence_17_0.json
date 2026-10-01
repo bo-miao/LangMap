@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 30.628849759697914,
+    "id": "00847-bCPU9suPUw9_sequence_17_0",
+    "instruction": "Find the cube cabinet by sliding door in kitchen",
+    "navigation_type": "instance",
+    "final_goal_dist": 1.07683
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 33.025121584534645,
+    "id": "00853-5cdEh9F2hJL_sequence_16_4",
+    "instruction": "Find the firewood holder in the Dining room",
+    "navigation_type": "room",
+    "final_goal_dist": 12.07798
+}

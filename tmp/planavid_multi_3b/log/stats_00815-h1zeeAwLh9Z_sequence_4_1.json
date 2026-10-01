@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.7779462864452956,
+    "path_length": 7.510526031255722,
+    "id": "00815-h1zeeAwLh9Z_sequence_4_1",
+    "instruction": "Find the flowerpot in the kitchen that has microwave and oven",
+    "navigation_type": "region",
+    "final_goal_dist": 0.17799
+}

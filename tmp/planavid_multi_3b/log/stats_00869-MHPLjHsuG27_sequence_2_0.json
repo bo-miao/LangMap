@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.4394108806299294,
+    "path_length": 16.250001773238182,
+    "id": "00869-MHPLjHsuG27_sequence_2_0",
+    "instruction": "Find the wire lounge chair",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.11187
+}

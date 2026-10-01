@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 12.759241864085197,
+    "id": "00823-7MXmsvcQjpJ_sequence_18_0",
+    "instruction": "Find the white and orange kitchen towels",
+    "navigation_type": "instance",
+    "final_goal_dist": 2.99297
+}

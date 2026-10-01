@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.8595959473317996,
+    "path_length": 19.78759278357029,
+    "id": "00876-mv2HUxq3B53_region_52",
+    "instruction": "Find the oven and stove in the tie: kitchen & living room that has dining table, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 0.05806
+}

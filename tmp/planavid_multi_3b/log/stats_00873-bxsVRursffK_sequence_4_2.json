@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 9.79845829308033,
+    "id": "00873-bxsVRursffK_sequence_4_2",
+    "instruction": "Find the nightstand in the bedroom that has blue\u2011quilted bed",
+    "navigation_type": "region",
+    "final_goal_dist": 8.04788
+}

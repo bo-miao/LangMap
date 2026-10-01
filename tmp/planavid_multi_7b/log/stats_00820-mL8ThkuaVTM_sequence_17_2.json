@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.018608,
+    "path_length": 59.28451246023178,
+    "id": "00820-mL8ThkuaVTM_sequence_17_2",
+    "instruction": "Find the cabinet",
+    "navigation_type": "object",
+    "final_goal_dist": 0.12903
+}

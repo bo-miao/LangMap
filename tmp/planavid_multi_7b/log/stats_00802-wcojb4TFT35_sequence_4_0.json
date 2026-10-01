@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.429805,
+    "path_length": 9.570176884531975,
+    "id": "00802-wcojb4TFT35_sequence_4_0",
+    "instruction": "Find the toilet with seascape print",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.13205
+}

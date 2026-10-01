@@ -1,0 +1,8 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 18.919856980443,
+    "id": "00853-5cdEh9F2hJL_region_55",
+    "instruction": "Find the table in the tie: living room & office that has white fireplace, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 8.46388
+}

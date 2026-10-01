@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 8.453133791685104,
+    "id": "00877-4ok3usBNeis_sequence_11_1",
+    "instruction": "Find the wood chair in office",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.39768
+}

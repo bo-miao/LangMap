@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.2976176709759862,
+    "path_length": 35.65142039954662,
+    "id": "00800-TEEsavR23oF_region_57",
+    "instruction": "Find the coffee machine in the kitchen that has refrigerator and granite countertop",
+    "final_goal_dist": 0.17997
+}

@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.5008928111073903,
+    "path_length": 18.999913511797786,
+    "id": "00848-ziup5kvtCCR_room_21",
+    "instruction": "Find the kitchen counter in the Tie: Kitchen & Living room, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 0.15538
+}

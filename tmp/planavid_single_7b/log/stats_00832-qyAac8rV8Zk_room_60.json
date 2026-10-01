@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.2568702850888072,
+    "path_length": 26.750332545489073,
+    "id": "00832-qyAac8rV8Zk_room_60",
+    "instruction": "Find the printer in the Living room",
+    "final_goal_dist": 0.17246
+}

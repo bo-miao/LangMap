@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.244627,
+    "path_length": 16.469595804810524,
+    "id": "00844-q5QZSEeHe5g_sequence_7_3",
+    "instruction": "Find the picture in the hall that has slatted bench and scale",
+    "navigation_type": "region",
+    "final_goal_dist": 0.11311
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 1.3500043004751205,
+    "id": "00810-CrMo8WxCyVb_sequence_12_0",
+    "instruction": "Find the gray armchair with white throw beside fireplace",
+    "navigation_type": "instance",
+    "final_goal_dist": 10.08526
+}

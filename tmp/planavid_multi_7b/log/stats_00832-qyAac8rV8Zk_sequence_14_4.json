@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 15.150633746758103,
+    "id": "00832-qyAac8rV8Zk_sequence_14_4",
+    "instruction": "Find the table in the tie: living room & office that has steam locomotive pictures, 'Tie: A & B' means the area spans both rooms A and B",
+    "navigation_type": "region",
+    "final_goal_dist": 1.4032
+}

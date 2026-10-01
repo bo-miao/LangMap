@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 36.29985846579075,
+    "id": "00831-yr17PDCnDDW_sequence_7_1",
+    "instruction": "Find the shelf",
+    "navigation_type": "object",
+    "final_goal_dist": 3.66465
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 8.750000581145287,
+    "id": "00891-cvZr5TUy5C5_sequence_4_2",
+    "instruction": "Find the desk chair",
+    "navigation_type": "object",
+    "final_goal_dist": 0.76816
+}

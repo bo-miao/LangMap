@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 14.320083141326904,
+    "id": "00853-5cdEh9F2hJL_sequence_19_2",
+    "instruction": "Find the bathroom towel in the bathroom that has brown bath vanity",
+    "navigation_type": "region",
+    "final_goal_dist": 17.0832
+}

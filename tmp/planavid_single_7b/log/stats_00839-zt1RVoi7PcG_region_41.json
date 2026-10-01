@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.5626676186002074,
+    "path_length": 13.899997159838676,
+    "id": "00839-zt1RVoi7PcG_region_41",
+    "instruction": "Find the table in the dining room that has dark dining table",
+    "final_goal_dist": 0.19462
+}

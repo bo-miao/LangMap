@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 8.01009962335229,
+    "id": "00823-7MXmsvcQjpJ_sequence_15_1",
+    "instruction": "Find the display cabinet in the living room that has wood piano",
+    "navigation_type": "region",
+    "final_goal_dist": 2.18637
+}

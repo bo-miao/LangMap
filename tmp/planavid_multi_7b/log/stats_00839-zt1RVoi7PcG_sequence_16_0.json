@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 17.377685613930225,
+    "id": "00839-zt1RVoi7PcG_sequence_16_0",
+    "instruction": "Find the dark bed table left of gray-quilted bed",
+    "navigation_type": "instance",
+    "final_goal_dist": 3.87336
+}

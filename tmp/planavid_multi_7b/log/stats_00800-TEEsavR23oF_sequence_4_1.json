@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 2.0097257047891617,
+    "id": "00800-TEEsavR23oF_sequence_4_1",
+    "instruction": "Find the table in the Office",
+    "navigation_type": "room",
+    "final_goal_dist": 0.371
+}

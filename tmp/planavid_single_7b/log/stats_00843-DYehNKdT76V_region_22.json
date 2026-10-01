@@ -1,0 +1,8 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 5.599996857345104,
+    "id": "00843-DYehNKdT76V_region_22",
+    "instruction": "Find the armchair in the tie: dining room & living room that has glass dining table, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 2.06201
+}

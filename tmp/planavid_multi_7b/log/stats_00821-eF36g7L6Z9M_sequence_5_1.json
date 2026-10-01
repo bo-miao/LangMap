@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 26.805794268846512,
+    "id": "00821-eF36g7L6Z9M_sequence_5_1",
+    "instruction": "Find the lounge chair in the Dining room",
+    "navigation_type": "room",
+    "final_goal_dist": 20.59045
+}

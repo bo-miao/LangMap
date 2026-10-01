@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.7950138107800782,
+    "path_length": 8.476183250546455,
+    "id": "00800-TEEsavR23oF_sequence_3_2",
+    "instruction": "Find the shower curtain",
+    "navigation_type": "object",
+    "final_goal_dist": 0.1917
+}

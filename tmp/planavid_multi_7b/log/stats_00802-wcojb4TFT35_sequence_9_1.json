@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.518487,
+    "path_length": 11.024322181940079,
+    "id": "00802-wcojb4TFT35_sequence_9_1",
+    "instruction": "Find the piano",
+    "navigation_type": "object",
+    "final_goal_dist": 0.10117
+}

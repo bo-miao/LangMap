@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 25.757955074310303,
+    "id": "00862-LT9Jq6dN3Ea_sequence_7_1",
+    "instruction": "Find the sink in the bathroom that has blue single-sink bath vanity",
+    "navigation_type": "region",
+    "final_goal_dist": 12.51782
+}

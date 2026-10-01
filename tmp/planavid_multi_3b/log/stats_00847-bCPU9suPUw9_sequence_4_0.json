@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.6587626769802387,
+    "path_length": 9.050002560019493,
+    "id": "00847-bCPU9suPUw9_sequence_4_0",
+    "instruction": "Find the white cabinet by staircase",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.16546
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.16562888368269615,
+    "path_length": 54.17233099043369,
+    "id": "00813-svBbv1Pavdk_sequence_9_1",
+    "instruction": "Find the microwave",
+    "navigation_type": "object",
+    "final_goal_dist": 0.15191
+}

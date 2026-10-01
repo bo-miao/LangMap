@@ -1,0 +1,8 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 11.296965554356575,
+    "id": "00873-bxsVRursffK_instance_5",
+    "instruction": "Find the left sink of the dark double-sink vanity",
+    "final_goal_dist": 0.30824
+}

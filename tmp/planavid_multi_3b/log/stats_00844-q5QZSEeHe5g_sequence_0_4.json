@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.18939399929179007,
+    "path_length": 38.253113970160484,
+    "id": "00844-q5QZSEeHe5g_sequence_0_4",
+    "instruction": "Find the highchair in the bedroom that has metal-framed bed",
+    "navigation_type": "region",
+    "final_goal_dist": 0.07153
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 23.62680535763502,
+    "id": "00843-DYehNKdT76V_sequence_17_0",
+    "instruction": "Find the silver kettle",
+    "navigation_type": "instance",
+    "final_goal_dist": 1.28244
+}

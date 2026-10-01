@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.7720000078701463,
+    "path_length": 6.746105510741472,
+    "id": "00835-q3zU7Yy5E5s_region_40",
+    "instruction": "Find the sink in the bathroom that has blue bathtub",
+    "final_goal_dist": 0.07499
+}

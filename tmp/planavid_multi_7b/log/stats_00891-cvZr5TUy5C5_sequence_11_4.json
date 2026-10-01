@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 24.039005517959595,
+    "id": "00891-cvZr5TUy5C5_sequence_11_4",
+    "instruction": "Find the sofa seat in the Bathroom",
+    "navigation_type": "room",
+    "final_goal_dist": 7.62378
+}

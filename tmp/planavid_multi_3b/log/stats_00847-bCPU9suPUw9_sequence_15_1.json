@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.1989943709537925,
+    "path_length": 17.611214622855186,
+    "id": "00847-bCPU9suPUw9_sequence_15_1",
+    "instruction": "Find the cabinet in the dining room that has round dining table",
+    "navigation_type": "region",
+    "final_goal_dist": 0.18099
+}

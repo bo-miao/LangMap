@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 72.13219300657511,
+    "id": "00814-p53SfW6mjZe_sequence_6_4",
+    "instruction": "Find the book in the living room that has stone fireplace",
+    "navigation_type": "region",
+    "final_goal_dist": 0.29244
+}

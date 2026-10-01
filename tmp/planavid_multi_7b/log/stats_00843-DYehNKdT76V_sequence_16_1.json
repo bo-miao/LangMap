@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 76.93006499670446,
+    "id": "00843-DYehNKdT76V_sequence_16_1",
+    "instruction": "Find the cabinet",
+    "navigation_type": "object",
+    "final_goal_dist": 1.04799
+}

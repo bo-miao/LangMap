@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 5.75767364166677,
+    "id": "00847-bCPU9suPUw9_sequence_14_3",
+    "instruction": "Find the floor mat in the Dining room",
+    "navigation_type": "room",
+    "final_goal_dist": 1.40537
+}

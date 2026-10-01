@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.044533,
+    "path_length": 2.249999925494194,
+    "id": "00861-GLAQ4DNUx5U_sequence_0_4",
+    "instruction": "Find the decorative plant in the hall that has tall grasses near entry door",
+    "navigation_type": "region",
+    "final_goal_dist": 0.21345
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.791635,
+    "path_length": 22.999998331069946,
+    "id": "00876-mv2HUxq3B53_sequence_19_2",
+    "instruction": "Find the ventilation hood",
+    "navigation_type": "object",
+    "final_goal_dist": 0.06924
+}

@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.4785348338763725,
+    "path_length": 20.682918936014175,
+    "id": "00891-cvZr5TUy5C5_room_115",
+    "instruction": "Find the file cabinet in the Rec room",
+    "final_goal_dist": 0.10498
+}

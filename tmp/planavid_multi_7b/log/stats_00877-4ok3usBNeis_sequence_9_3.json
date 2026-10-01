@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 31.484981819987297,
+    "id": "00877-4ok3usBNeis_sequence_9_3",
+    "instruction": "Find the rack",
+    "navigation_type": "object",
+    "final_goal_dist": 7.13097
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.7209794936717743,
+    "path_length": 11.75080942362547,
+    "id": "00849-a8BtkwhxdRV_sequence_10_2",
+    "instruction": "Find the pot",
+    "navigation_type": "object",
+    "final_goal_dist": 0.20242
+}

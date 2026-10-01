@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 21.78773322701454,
+    "id": "00843-DYehNKdT76V_sequence_2_0",
+    "instruction": "Find the white closet shelf with stack of colorful towels",
+    "navigation_type": "instance",
+    "final_goal_dist": 9.71338
+}

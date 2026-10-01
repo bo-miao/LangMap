@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 66.55343790352345,
+    "id": "00843-DYehNKdT76V_sequence_17_2",
+    "instruction": "Find the cabinet in the Bathroom",
+    "navigation_type": "room",
+    "final_goal_dist": 8.18958
+}

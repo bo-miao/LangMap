@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 3.513688564300537,
+    "id": "00894-HY1NcmCgn3n_sequence_11_3",
+    "instruction": "Find the shelf in the hall that has Jesus sculpture and portrait",
+    "navigation_type": "region",
+    "final_goal_dist": 1.42283
+}

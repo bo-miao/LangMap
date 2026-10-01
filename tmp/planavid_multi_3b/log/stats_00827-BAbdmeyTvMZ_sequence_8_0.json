@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 69.91137085109949,
+    "id": "00827-BAbdmeyTvMZ_sequence_8_0",
+    "instruction": "Find the cabinet with clock near black leather couches",
+    "navigation_type": "instance",
+    "final_goal_dist": 1.23722
+}

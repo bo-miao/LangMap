@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.39136923985310734,
+    "path_length": 18.86665676534176,
+    "id": "00862-LT9Jq6dN3Ea_room_1",
+    "instruction": "Find the tv in the Living room",
+    "final_goal_dist": 0.16732
+}

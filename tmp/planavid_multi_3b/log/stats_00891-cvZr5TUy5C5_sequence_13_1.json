@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.4193026461818735,
+    "path_length": 14.205465864390135,
+    "id": "00891-cvZr5TUy5C5_sequence_13_1",
+    "instruction": "Find the nightstand in the Bedroom",
+    "navigation_type": "room",
+    "final_goal_dist": 0.14173
+}

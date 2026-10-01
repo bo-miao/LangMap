@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 92.11636786349118,
+    "id": "00814-p53SfW6mjZe_sequence_15_2",
+    "instruction": "Find the refrigerator in the Laundry room",
+    "navigation_type": "room",
+    "final_goal_dist": 17.54715
+}

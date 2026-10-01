@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.42551951381688863,
+    "path_length": 13.030072093009949,
+    "id": "00877-4ok3usBNeis_sequence_4_4",
+    "instruction": "Find the towel in the bathroom that has vanity by brown mat",
+    "navigation_type": "region",
+    "final_goal_dist": 0.11985
+}

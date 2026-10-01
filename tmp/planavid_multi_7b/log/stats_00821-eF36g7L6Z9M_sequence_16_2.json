@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.167747,
+    "path_length": 4.000000357627869,
+    "id": "00821-eF36g7L6Z9M_sequence_16_2",
+    "instruction": "Find the couch",
+    "navigation_type": "object",
+    "final_goal_dist": 0.11406
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.81695,
+    "path_length": 13.245201483368874,
+    "id": "00853-5cdEh9F2hJL_sequence_19_0",
+    "instruction": "Find the round end table with lamp beside brown couch",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.1152
+}

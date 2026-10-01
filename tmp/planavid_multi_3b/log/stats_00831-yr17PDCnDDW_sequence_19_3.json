@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 91.51132905483246,
+    "id": "00831-yr17PDCnDDW_sequence_19_3",
+    "instruction": "Find the coffee machine in the kitchen that has microwave on white cabinet",
+    "navigation_type": "region",
+    "final_goal_dist": 11.22866
+}

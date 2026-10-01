@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 14.762728945817798,
+    "id": "00823-7MXmsvcQjpJ_sequence_11_0",
+    "instruction": "Find the white heater below mirror in dining room",
+    "navigation_type": "instance",
+    "final_goal_dist": 6.6313
+}

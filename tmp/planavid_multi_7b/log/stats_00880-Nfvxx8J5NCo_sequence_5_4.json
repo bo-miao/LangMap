@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 76.01080602407455,
+    "id": "00880-Nfvxx8J5NCo_sequence_5_4",
+    "instruction": "Find the ironing board in the laundry room that has washing machine",
+    "navigation_type": "region",
+    "final_goal_dist": 16.66229
+}

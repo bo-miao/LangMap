@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 71.18937898427248,
+    "id": "00827-BAbdmeyTvMZ_sequence_18_0",
+    "instruction": "Find the black coffee machine",
+    "navigation_type": "instance",
+    "final_goal_dist": 6.15513
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 43.14300671219826,
+    "id": "00839-zt1RVoi7PcG_sequence_3_3",
+    "instruction": "Find the desk in the bedroom that has bed with orange geometric throw",
+    "navigation_type": "region",
+    "final_goal_dist": 8.14532
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 65.45198801159859,
+    "id": "00844-q5QZSEeHe5g_sequence_14_3",
+    "instruction": "Find the shower curtain in the bathroom that has gray bathrobe",
+    "navigation_type": "region",
+    "final_goal_dist": 8.54463
+}

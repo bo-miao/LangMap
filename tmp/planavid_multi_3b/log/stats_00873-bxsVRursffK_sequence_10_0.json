@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 73.87742006406188,
+    "id": "00873-bxsVRursffK_sequence_10_0",
+    "instruction": "Find the open closet near blue\u2011quilted bed",
+    "navigation_type": "instance",
+    "final_goal_dist": 10.7919
+}

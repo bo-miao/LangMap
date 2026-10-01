@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 85.8663719369832,
+    "id": "00831-yr17PDCnDDW_sequence_18_2",
+    "instruction": "Find the floor mat in the Kitchen",
+    "navigation_type": "room",
+    "final_goal_dist": 6.96334
+}

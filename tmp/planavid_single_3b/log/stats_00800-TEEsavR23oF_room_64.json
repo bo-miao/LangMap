@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.3151910063090517,
+    "path_length": 19.011338010430336,
+    "id": "00800-TEEsavR23oF_room_64",
+    "instruction": "Find the bath sink in the Bathroom",
+    "final_goal_dist": 0.20504
+}

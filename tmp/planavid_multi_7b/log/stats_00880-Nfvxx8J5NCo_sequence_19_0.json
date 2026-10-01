@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.505497,
+    "path_length": 5.649998888373375,
+    "id": "00880-Nfvxx8J5NCo_sequence_19_0",
+    "instruction": "Find the turquoise towel on shower cabin bar",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.20162
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 0.4999999403953552,
+    "id": "00820-mL8ThkuaVTM_sequence_19_1",
+    "instruction": "Find the rug in the bedroom that has lighthouse print",
+    "navigation_type": "region",
+    "final_goal_dist": 6.54135
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 8.84759271144867,
+    "id": "00831-yr17PDCnDDW_sequence_12_1",
+    "instruction": "Find the flowerpot",
+    "navigation_type": "object",
+    "final_goal_dist": 3.39681
+}

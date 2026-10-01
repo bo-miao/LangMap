@@ -1,0 +1,8 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 6.978043302893639,
+    "id": "00814-p53SfW6mjZe_region_41",
+    "instruction": "Find the couch in the tie: hall & living room that has burgundy leather couch, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 10.09051
+}

@@ -1,0 +1,8 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 25.005477903410792,
+    "id": "00848-ziup5kvtCCR_region_4",
+    "instruction": "Find the armchair in the tie: kitchen & living room that has curved kitchen island, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 2.89682
+}

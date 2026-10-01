@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 3.5000003576278687,
+    "id": "00848-ziup5kvtCCR_sequence_6_1",
+    "instruction": "Find the armchair in the Bedroom",
+    "navigation_type": "room",
+    "final_goal_dist": 15.09836
+}

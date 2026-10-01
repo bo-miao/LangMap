@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.122162,
+    "path_length": 0.9999998211860657,
+    "id": "00829-QaLdnwvtxbs_sequence_13_2",
+    "instruction": "Find the desk in the bedroom that has bed and TV",
+    "navigation_type": "region",
+    "final_goal_dist": 0.15406
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.561655,
+    "path_length": 19.750602334737778,
+    "id": "00820-mL8ThkuaVTM_sequence_6_2",
+    "instruction": "Find the couch in the tie: kitchen & living room that has TV and dining table, 'Tie: A & B' means the area spans both rooms A and B",
+    "navigation_type": "region",
+    "final_goal_dist": 0.13175
+}

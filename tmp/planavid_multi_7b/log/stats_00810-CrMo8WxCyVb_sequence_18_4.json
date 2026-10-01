@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 27.250004202127457,
+    "id": "00810-CrMo8WxCyVb_sequence_18_4",
+    "instruction": "Find the book in the living room that has fireplace below TV",
+    "navigation_type": "region",
+    "final_goal_dist": 1.13417
+}

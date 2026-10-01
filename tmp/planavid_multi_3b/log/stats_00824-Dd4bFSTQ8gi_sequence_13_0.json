@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 20.97940542548895,
+    "id": "00824-Dd4bFSTQ8gi_sequence_13_0",
+    "instruction": "Find the white kitchen cabinet with sink",
+    "navigation_type": "instance",
+    "final_goal_dist": 1.94368
+}

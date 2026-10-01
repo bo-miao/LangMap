@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.328912,
+    "path_length": 24.08845642209053,
+    "id": "00827-BAbdmeyTvMZ_sequence_19_1",
+    "instruction": "Find the picture",
+    "navigation_type": "object",
+    "final_goal_dist": 0.15552
+}

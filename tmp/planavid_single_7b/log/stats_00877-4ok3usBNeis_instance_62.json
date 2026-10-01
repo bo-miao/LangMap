@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.9218778967076664,
+    "path_length": 10.250002965331078,
+    "id": "00877-4ok3usBNeis_instance_62",
+    "instruction": "Find the lower kitchen cabinet left of white oven and beside drawers",
+    "final_goal_dist": 0.21194
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 4.3000034391880035,
+    "id": "00824-Dd4bFSTQ8gi_sequence_9_0",
+    "instruction": "Find the red desk chair",
+    "navigation_type": "instance",
+    "final_goal_dist": 6.968
+}

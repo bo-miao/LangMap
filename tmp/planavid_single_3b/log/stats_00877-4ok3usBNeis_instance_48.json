@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.5089677190179047,
+    "path_length": 16.2500052601099,
+    "id": "00877-4ok3usBNeis_instance_48",
+    "instruction": "Find the kitchen cabinet on the left side above base cabinet with drawers",
+    "final_goal_dist": 0.13493
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.5020719820102552,
+    "path_length": 33.59938611090183,
+    "id": "00862-LT9Jq6dN3Ea_sequence_7_0",
+    "instruction": "Find the stone fireplace wall with TV",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.12116
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 16.500002279877663,
+    "id": "00862-LT9Jq6dN3Ea_sequence_12_1",
+    "instruction": "Find the blanket in the dining room that has rectangular dining table",
+    "navigation_type": "region",
+    "final_goal_dist": 4.1982
+}

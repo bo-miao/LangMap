@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.5882399309716083,
+    "path_length": 12.250002667307854,
+    "id": "00824-Dd4bFSTQ8gi_region_30",
+    "instruction": "Find the coffee table in the tie: kitchen & living room that has couch near oven and curved bench, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 0.14944
+}

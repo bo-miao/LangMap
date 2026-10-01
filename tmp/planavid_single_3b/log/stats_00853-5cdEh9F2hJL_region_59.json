@@ -1,0 +1,8 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 16.764819948002696,
+    "id": "00853-5cdEh9F2hJL_region_59",
+    "instruction": "Find the wall tv in the tie: living room & office that has white fireplace, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 13.61205
+}

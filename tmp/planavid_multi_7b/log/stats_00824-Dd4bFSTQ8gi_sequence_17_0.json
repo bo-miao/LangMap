@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.727372,
+    "path_length": 13.300002977252007,
+    "id": "00824-Dd4bFSTQ8gi_sequence_17_0",
+    "instruction": "Find the white kitchen cabinet below printed text",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.11557
+}

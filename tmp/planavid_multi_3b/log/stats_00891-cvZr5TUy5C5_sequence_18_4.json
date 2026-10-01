@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 18.24999649822712,
+    "id": "00891-cvZr5TUy5C5_sequence_18_4",
+    "instruction": "Find the picture in the dining room that has round dining table",
+    "navigation_type": "region",
+    "final_goal_dist": 0.62435
+}

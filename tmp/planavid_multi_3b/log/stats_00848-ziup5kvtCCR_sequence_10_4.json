@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.04202380144198677,
+    "path_length": 31.50000651180744,
+    "id": "00848-ziup5kvtCCR_sequence_10_4",
+    "instruction": "Find the cooker",
+    "navigation_type": "object",
+    "final_goal_dist": 0.1494
+}

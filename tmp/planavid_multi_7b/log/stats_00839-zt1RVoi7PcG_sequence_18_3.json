@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 20.250001654028893,
+    "id": "00839-zt1RVoi7PcG_sequence_18_3",
+    "instruction": "Find the bath sink in the Bathroom",
+    "navigation_type": "room",
+    "final_goal_dist": 7.89972
+}

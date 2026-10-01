@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.4878227145961129,
+    "path_length": 10.59999917447567,
+    "id": "00802-wcojb4TFT35_room_30",
+    "instruction": "Find the hand towel in the Bathroom",
+    "final_goal_dist": 0.12528
+}

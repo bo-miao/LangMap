@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.8327157702823905,
+    "path_length": 9.461446233093739,
+    "id": "00844-q5QZSEeHe5g_region_145",
+    "instruction": "Find the dishwasher in the kitchen that has white refrigerator",
+    "final_goal_dist": 0.24476
+}

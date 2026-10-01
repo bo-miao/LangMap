@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 10.500006541609764,
+    "id": "00831-yr17PDCnDDW_sequence_7_0",
+    "instruction": "Find the brown flowerpot between tall white book rack and red box",
+    "navigation_type": "instance",
+    "final_goal_dist": 14.19792
+}

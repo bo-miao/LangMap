@@ -1,0 +1,8 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 71.13854348659515,
+    "id": "00844-q5QZSEeHe5g_region_104",
+    "instruction": "Find the heater in the tie: hall & laundry room that has washing machine, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 0.47518
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 18.24999561905861,
+    "id": "00861-GLAQ4DNUx5U_sequence_4_2",
+    "instruction": "Find the sink",
+    "navigation_type": "object",
+    "final_goal_dist": 8.91333
+}

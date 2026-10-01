@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 0.0,
+    "id": "00832-qyAac8rV8Zk_sequence_12_4",
+    "instruction": "Find the desk in the Bedroom",
+    "navigation_type": "room",
+    "final_goal_dist": 6.79988
+}

@@ -1,0 +1,8 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 7.980793356895447,
+    "id": "00849-a8BtkwhxdRV_region_43",
+    "instruction": "Find the pot in the tie: dining room & living room that has two red couches, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 2.82795
+}

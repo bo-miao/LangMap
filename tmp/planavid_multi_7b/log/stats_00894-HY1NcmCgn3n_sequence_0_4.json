@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.054757,
+    "path_length": 25.250003024935722,
+    "id": "00894-HY1NcmCgn3n_sequence_0_4",
+    "instruction": "Find the decorative plant in the hall that has Virgin Mary paintings",
+    "navigation_type": "region",
+    "final_goal_dist": 0.14415
+}

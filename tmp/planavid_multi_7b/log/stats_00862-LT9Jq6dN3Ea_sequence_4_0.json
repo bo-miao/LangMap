@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 92.49723257124424,
+    "id": "00862-LT9Jq6dN3Ea_sequence_4_0",
+    "instruction": "Find the blue single-sink bathroom cabinet",
+    "navigation_type": "instance",
+    "final_goal_dist": 8.84375
+}

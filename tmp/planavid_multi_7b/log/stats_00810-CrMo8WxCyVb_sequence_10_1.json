@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 70.82689609378576,
+    "id": "00810-CrMo8WxCyVb_sequence_10_1",
+    "instruction": "Find the flower vase in the kitchen that has dining table and refrigerator",
+    "navigation_type": "region",
+    "final_goal_dist": 0.3463
+}

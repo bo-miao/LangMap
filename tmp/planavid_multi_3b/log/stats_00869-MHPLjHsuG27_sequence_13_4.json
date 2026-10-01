@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 7.749999761581421,
+    "id": "00869-MHPLjHsuG27_sequence_13_4",
+    "instruction": "Find the dishwasher in the kitchen that has blue-gray kitchen cabinets",
+    "navigation_type": "region",
+    "final_goal_dist": 1.15645
+}

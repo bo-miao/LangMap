@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 4.734107479453087,
+    "id": "00802-wcojb4TFT35_sequence_6_1",
+    "instruction": "Find the towel in the bathroom that has beige-tiled bathtub",
+    "navigation_type": "region",
+    "final_goal_dist": 0.25912
+}

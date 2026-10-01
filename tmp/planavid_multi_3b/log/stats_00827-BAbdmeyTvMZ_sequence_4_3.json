@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.195889301133326,
+    "path_length": 37.0802301838994,
+    "id": "00827-BAbdmeyTvMZ_sequence_4_3",
+    "instruction": "Find the table in the living room that has stone fireplace",
+    "navigation_type": "region",
+    "final_goal_dist": 0.18932
+}

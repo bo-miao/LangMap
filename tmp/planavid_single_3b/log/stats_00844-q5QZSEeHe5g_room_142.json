@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.6968331227446934,
+    "path_length": 5.750005051493645,
+    "id": "00844-q5QZSEeHe5g_room_142",
+    "instruction": "Find the tank in the Storage room",
+    "final_goal_dist": 0.07048
+}

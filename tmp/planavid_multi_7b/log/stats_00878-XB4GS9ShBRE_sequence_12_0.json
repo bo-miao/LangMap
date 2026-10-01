@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.578484,
+    "path_length": 8.295104742050171,
+    "id": "00878-XB4GS9ShBRE_sequence_12_0",
+    "instruction": "Find the beige fabric couch",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.211
+}

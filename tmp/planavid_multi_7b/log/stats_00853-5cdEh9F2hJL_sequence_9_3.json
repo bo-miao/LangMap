@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.793079,
+    "path_length": 17.318023532629013,
+    "id": "00853-5cdEh9F2hJL_sequence_9_3",
+    "instruction": "Find the shower wall cubby in the bathroom that has bathtub",
+    "navigation_type": "region",
+    "final_goal_dist": 0.15691
+}

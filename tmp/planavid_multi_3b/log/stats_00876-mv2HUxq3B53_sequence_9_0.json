@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 68.6956084780395,
+    "id": "00876-mv2HUxq3B53_sequence_9_0",
+    "instruction": "Find the telephone on kitchen island",
+    "navigation_type": "instance",
+    "final_goal_dist": 17.18977
+}

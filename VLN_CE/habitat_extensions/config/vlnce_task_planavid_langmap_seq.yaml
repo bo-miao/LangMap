@@ -1,0 +1,46 @@
+ENVIRONMENT:
+  MAX_EPISODE_STEPS: 500
+SIMULATOR:
+  ACTION_SPACE_CONFIG: v0
+  AGENT_0:
+    SENSORS: [RGB_SENSOR]
+  FORWARD_STEP_SIZE: 0.25
+  TURN_ANGLE: 30
+  HABITAT_SIM_V0:
+    GPU_DEVICE_ID: 0
+    ALLOW_SLIDING: True
+  # The navmesh is rebuilt from the scene GLB after loading (navmesh_utils.py): stretch (default) | legacy
+  NAVMESH:
+    PRESET: stretch
+  RGB_SENSOR:
+    WIDTH: 640
+    HEIGHT: 480
+    HFOV: 120
+    TYPE: HabitatSimRGBSensor
+    POSITION: [0, 1.25, 0]
+
+TASK:
+  TYPE: VLN-v0
+  SUCCESS_DISTANCE: 0.25  
+  SENSORS: [INSTRUCTION_SENSOR]
+  INSTRUCTION_SENSOR_UUID: instruction
+  POSSIBLE_ACTIONS: [STOP, MOVE_FORWARD, TURN_LEFT, TURN_RIGHT]
+  MEASUREMENTS: [
+    DISTANCE_TO_GOAL,
+    SUCCESS,
+    SPL,
+    PATH_LENGTH,
+    ORACLE_SUCCESS,
+    STEPS_TAKEN
+  ]
+  SUCCESS:
+    SUCCESS_DISTANCE: 0.25
+  SPL:
+    SUCCESS_DISTANCE: 0.25
+
+DATASET:
+  TYPE: LangMap-VLN-Seq-v1
+  SPLIT: val_unseen
+  DATA_PATH: data/LangMap/annotations
+  SCENES_DIR: data/hm3d/val/
+

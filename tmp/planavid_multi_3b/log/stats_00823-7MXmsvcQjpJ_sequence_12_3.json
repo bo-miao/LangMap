@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.8037949777972492,
+    "path_length": 8.495230361819267,
+    "id": "00823-7MXmsvcQjpJ_sequence_12_3",
+    "instruction": "Find the dining table in the Dining room",
+    "navigation_type": "room",
+    "final_goal_dist": 0.0948
+}

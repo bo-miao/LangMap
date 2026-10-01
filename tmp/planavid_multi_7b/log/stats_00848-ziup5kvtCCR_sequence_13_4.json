@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 21.500004276633263,
+    "id": "00848-ziup5kvtCCR_sequence_13_4",
+    "instruction": "Find the blanket in the tie: kitchen & living room that has curved kitchen island, 'Tie: A & B' means the area spans both rooms A and B",
+    "navigation_type": "region",
+    "final_goal_dist": 4.74115
+}

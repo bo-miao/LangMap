@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 24.066990345716476,
+    "id": "00876-mv2HUxq3B53_sequence_5_3",
+    "instruction": "Find the granite-top dressing table near rectangular bathtub platform",
+    "navigation_type": "instance",
+    "final_goal_dist": 1.44694
+}

@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.5520517595718203,
+    "path_length": 11.250006839632988,
+    "id": "00877-4ok3usBNeis_region_44",
+    "instruction": "Find the dining table in the kitchen that has white oven",
+    "final_goal_dist": 0.08499
+}

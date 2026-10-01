@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.4572224649780938,
+    "path_length": 19.067159473896027,
+    "id": "00808-y9hTuugGdiq_room_31",
+    "instruction": "Find the couch in the Kitchen",
+    "final_goal_dist": 0.14575
+}

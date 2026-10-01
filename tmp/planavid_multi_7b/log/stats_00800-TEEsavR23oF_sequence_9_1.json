@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 2.2569401282817125,
+    "id": "00800-TEEsavR23oF_sequence_9_1",
+    "instruction": "Find the tv in the Bedroom",
+    "navigation_type": "room",
+    "final_goal_dist": 2.4875
+}

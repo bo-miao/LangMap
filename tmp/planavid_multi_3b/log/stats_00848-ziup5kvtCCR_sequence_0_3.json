@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.07137010524807622,
+    "path_length": 44.88947206735611,
+    "id": "00848-ziup5kvtCCR_sequence_0_3",
+    "instruction": "Find the bathroom cabinet in the bathroom that has bathtub platform",
+    "navigation_type": "region",
+    "final_goal_dist": 0.07272
+}

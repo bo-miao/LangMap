@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.2163717898187463,
+    "path_length": 23.59843542292832,
+    "id": "00802-wcojb4TFT35_room_56",
+    "instruction": "Find the book in the Living room",
+    "final_goal_dist": 0.1619
+}

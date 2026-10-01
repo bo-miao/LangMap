@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.313449,
+    "path_length": 14.65755564533174,
+    "id": "00869-MHPLjHsuG27_sequence_7_1",
+    "instruction": "Find the radiator in the Living room",
+    "navigation_type": "room",
+    "final_goal_dist": 0.15307
+}

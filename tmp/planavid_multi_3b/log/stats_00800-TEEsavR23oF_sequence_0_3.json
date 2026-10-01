@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 5.250000506639481,
+    "id": "00800-TEEsavR23oF_sequence_0_3",
+    "instruction": "Find the side table in the Office",
+    "navigation_type": "room",
+    "final_goal_dist": 5.28422
+}

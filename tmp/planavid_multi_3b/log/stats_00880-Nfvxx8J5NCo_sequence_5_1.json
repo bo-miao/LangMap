@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 16.396680623292923,
+    "id": "00880-Nfvxx8J5NCo_sequence_5_1",
+    "instruction": "Find the dresser in the bedroom that has orange-quilted bed",
+    "navigation_type": "region",
+    "final_goal_dist": 6.6244
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.651647,
+    "path_length": 11.444860653951764,
+    "id": "00827-BAbdmeyTvMZ_sequence_4_0",
+    "instruction": "Find the wire shelf above clothes near dark-framed bed",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.17558
+}

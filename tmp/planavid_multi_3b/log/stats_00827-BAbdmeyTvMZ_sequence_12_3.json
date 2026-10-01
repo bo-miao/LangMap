@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.8642325325446353,
+    "path_length": 7.3405009508132935,
+    "id": "00827-BAbdmeyTvMZ_sequence_12_3",
+    "instruction": "Find the table in the Kitchen",
+    "navigation_type": "room",
+    "final_goal_dist": 0.14925
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.04008286832336203,
+    "path_length": 2.250000387430191,
+    "id": "00820-mL8ThkuaVTM_sequence_2_4",
+    "instruction": "Find the cabinet in the bedroom that has bed with patterned pillows",
+    "navigation_type": "region",
+    "final_goal_dist": 0.07202
+}

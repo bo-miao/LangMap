@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.206209,
+    "path_length": 34.32537742331624,
+    "id": "00835-q3zU7Yy5E5s_sequence_9_0",
+    "instruction": "Find the firewood in living room",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.10757
+}

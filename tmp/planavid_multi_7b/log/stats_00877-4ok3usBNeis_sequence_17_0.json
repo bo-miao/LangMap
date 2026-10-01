@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.622056,
+    "path_length": 14.000005543231964,
+    "id": "00877-4ok3usBNeis_sequence_17_0",
+    "instruction": "Find the kitchen cabinet right of window",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.16476
+}

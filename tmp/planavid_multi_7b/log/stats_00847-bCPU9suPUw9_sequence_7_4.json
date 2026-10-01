@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 3.249999761581421,
+    "id": "00847-bCPU9suPUw9_sequence_7_4",
+    "instruction": "Find the towel in the kitchen that has black dishwasher",
+    "navigation_type": "region",
+    "final_goal_dist": 1.43845
+}

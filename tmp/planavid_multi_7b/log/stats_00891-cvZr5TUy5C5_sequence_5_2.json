@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.257265,
+    "path_length": 28.75245088338852,
+    "id": "00891-cvZr5TUy5C5_sequence_5_2",
+    "instruction": "Find the towel in the bathroom that has Eiffel Tower artwork",
+    "navigation_type": "region",
+    "final_goal_dist": 0.10793
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 24.616114132106304,
+    "id": "00862-LT9Jq6dN3Ea_sequence_5_0",
+    "instruction": "Find the blanket draped over armchair",
+    "navigation_type": "instance",
+    "final_goal_dist": 4.41537
+}

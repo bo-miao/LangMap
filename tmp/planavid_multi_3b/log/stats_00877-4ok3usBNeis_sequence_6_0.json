@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 7.785736441612244,
+    "id": "00877-4ok3usBNeis_sequence_6_0",
+    "instruction": "Find the washbasin in laundry room",
+    "navigation_type": "instance",
+    "final_goal_dist": 3.60788
+}

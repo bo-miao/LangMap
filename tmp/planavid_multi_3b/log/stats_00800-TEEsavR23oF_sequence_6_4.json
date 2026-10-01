@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.22056390773743448,
+    "path_length": 32.50085328519344,
+    "id": "00800-TEEsavR23oF_sequence_6_4",
+    "instruction": "Find the bathroom cabinet in the bathroom that has blue shower curtain",
+    "navigation_type": "region",
+    "final_goal_dist": 0.15776
+}

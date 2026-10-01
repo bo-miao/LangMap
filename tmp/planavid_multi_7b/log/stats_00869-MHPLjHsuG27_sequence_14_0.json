@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 24.71974416077137,
+    "id": "00869-MHPLjHsuG27_sequence_14_0",
+    "instruction": "Find the wooden cutting board",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.97179
+}

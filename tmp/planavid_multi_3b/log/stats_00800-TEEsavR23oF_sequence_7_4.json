@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 83.13655103743076,
+    "id": "00800-TEEsavR23oF_sequence_7_4",
+    "instruction": "Find the photo in the office that has computer desk beside couch",
+    "navigation_type": "region",
+    "final_goal_dist": 22.43441
+}

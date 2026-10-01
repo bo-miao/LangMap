@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 13.736291274428368,
+    "id": "00823-7MXmsvcQjpJ_sequence_14_3",
+    "instruction": "Find the couch in the living room that has wood piano",
+    "navigation_type": "region",
+    "final_goal_dist": 1.08131
+}

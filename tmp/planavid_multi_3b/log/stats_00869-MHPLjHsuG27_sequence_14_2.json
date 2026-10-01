@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 9.191617205739021,
+    "id": "00869-MHPLjHsuG27_sequence_14_2",
+    "instruction": "Find the sink in the kitchen that has blue-gray kitchen cabinets",
+    "navigation_type": "region",
+    "final_goal_dist": 1.56036
+}

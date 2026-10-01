@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.13561930721080384,
+    "path_length": 72.64333017542958,
+    "id": "00891-cvZr5TUy5C5_room_110",
+    "instruction": "Find the toy in the Rec room",
+    "final_goal_dist": 0.19035
+}

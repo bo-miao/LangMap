@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 8.25000087916851,
+    "id": "00869-MHPLjHsuG27_sequence_6_1",
+    "instruction": "Find the recliner",
+    "navigation_type": "object",
+    "final_goal_dist": 0.69221
+}

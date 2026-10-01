@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.094301,
+    "path_length": 7.7499990016222,
+    "id": "00832-qyAac8rV8Zk_sequence_16_4",
+    "instruction": "Find the trashcan in the Kitchen",
+    "navigation_type": "room",
+    "final_goal_dist": 0.06489
+}

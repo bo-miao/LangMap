@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.18167890664114283,
+    "path_length": 40.65336821973324,
+    "id": "00844-q5QZSEeHe5g_region_31",
+    "instruction": "Find the cabinet in the dining room that has rectangle dining table",
+    "final_goal_dist": 0.18619
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.001664,
+    "path_length": 91.96540585160255,
+    "id": "00894-HY1NcmCgn3n_sequence_5_2",
+    "instruction": "Find the shelf in the Hall",
+    "navigation_type": "room",
+    "final_goal_dist": 0.09102
+}

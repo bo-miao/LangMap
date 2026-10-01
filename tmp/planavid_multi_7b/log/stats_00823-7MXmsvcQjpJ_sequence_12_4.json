@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 17.004725128412247,
+    "id": "00823-7MXmsvcQjpJ_sequence_12_4",
+    "instruction": "Find the heater in the kitchen that has white refrigerator",
+    "navigation_type": "region",
+    "final_goal_dist": 1.86799
+}

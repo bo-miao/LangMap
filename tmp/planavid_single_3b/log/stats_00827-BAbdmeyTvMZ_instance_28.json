@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.7181378958358288,
+    "path_length": 10.925386279821396,
+    "id": "00827-BAbdmeyTvMZ_instance_28",
+    "instruction": "Find the toilet near bathtub",
+    "final_goal_dist": 0.20723
+}

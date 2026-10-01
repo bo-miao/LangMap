@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 41.24054616689682,
+    "id": "00861-GLAQ4DNUx5U_sequence_1_2",
+    "instruction": "Find the refrigerator cabinet in the kitchen that has stainless oven",
+    "navigation_type": "region",
+    "final_goal_dist": 4.47156
+}

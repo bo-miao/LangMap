@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 40.1621670126915,
+    "id": "00821-eF36g7L6Z9M_sequence_12_0",
+    "instruction": "Find the blanket on white couch facing stone fireplace",
+    "navigation_type": "instance",
+    "final_goal_dist": 1.30733
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.465652,
+    "path_length": 8.25000262260437,
+    "id": "00814-p53SfW6mjZe_sequence_10_4",
+    "instruction": "Find the cutting board in the kitchen that has white cabinets and lake map",
+    "navigation_type": "region",
+    "final_goal_dist": 0.10071
+}

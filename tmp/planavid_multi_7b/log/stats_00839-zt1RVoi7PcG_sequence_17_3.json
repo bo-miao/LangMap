@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 21.74999789893627,
+    "id": "00839-zt1RVoi7PcG_sequence_17_3",
+    "instruction": "Find the towel in the Bedroom",
+    "navigation_type": "room",
+    "final_goal_dist": 11.93224
+}

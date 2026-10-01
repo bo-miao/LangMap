@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 4.023473545908928,
+    "id": "00827-BAbdmeyTvMZ_sequence_2_1",
+    "instruction": "Find the console table in the Living room",
+    "navigation_type": "room",
+    "final_goal_dist": 4.36374
+}

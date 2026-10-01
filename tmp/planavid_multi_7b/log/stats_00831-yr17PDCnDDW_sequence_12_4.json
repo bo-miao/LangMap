@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 87.58426648983732,
+    "id": "00831-yr17PDCnDDW_sequence_12_4",
+    "instruction": "Find the black microwave",
+    "navigation_type": "instance",
+    "final_goal_dist": 1.75745
+}

@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.7310997236624199,
+    "path_length": 8.050003036856651,
+    "id": "00847-bCPU9suPUw9_room_21",
+    "instruction": "Find the table in the Kitchen",
+    "final_goal_dist": 0.08248
+}

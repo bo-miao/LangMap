@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.682098,
+    "path_length": 7.0000021904706955,
+    "id": "00800-TEEsavR23oF_sequence_19_4",
+    "instruction": "Find the sink in the Kitchen",
+    "navigation_type": "room",
+    "final_goal_dist": 0.15042
+}

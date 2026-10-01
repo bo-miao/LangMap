@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.24552191374794713,
+    "path_length": 32.5087685440667,
+    "id": "00802-wcojb4TFT35_sequence_10_0",
+    "instruction": "Find the brick fireplace below TV",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.18161
+}

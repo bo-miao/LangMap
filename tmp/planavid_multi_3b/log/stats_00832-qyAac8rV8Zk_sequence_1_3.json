@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.5357655180092612,
+    "path_length": 3.984960675239563,
+    "id": "00832-qyAac8rV8Zk_sequence_1_3",
+    "instruction": "Find the picture in the bathroom that has double-sink bath vanity",
+    "navigation_type": "region",
+    "final_goal_dist": 0.1523
+}

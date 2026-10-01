@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.100076,
+    "path_length": 22.265120416879654,
+    "id": "00814-p53SfW6mjZe_sequence_5_4",
+    "instruction": "Find the refrigerator in the Kitchen",
+    "navigation_type": "room",
+    "final_goal_dist": 0.06667
+}

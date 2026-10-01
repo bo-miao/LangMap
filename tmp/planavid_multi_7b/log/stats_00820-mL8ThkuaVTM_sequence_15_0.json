@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.718787,
+    "path_length": 10.866288661956787,
+    "id": "00820-mL8ThkuaVTM_sequence_15_0",
+    "instruction": "Find the braided rug in bedroom",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.14749
+}

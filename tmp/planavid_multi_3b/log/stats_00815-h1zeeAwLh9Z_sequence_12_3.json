@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 22.73737558722496,
+    "id": "00815-h1zeeAwLh9Z_sequence_12_3",
+    "instruction": "Find the bucket in the hall that has fireplace below staircase",
+    "navigation_type": "region",
+    "final_goal_dist": 4.6203
+}

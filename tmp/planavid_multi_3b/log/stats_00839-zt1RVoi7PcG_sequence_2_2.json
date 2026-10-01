@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 18.234593883156776,
+    "id": "00839-zt1RVoi7PcG_sequence_2_2",
+    "instruction": "Find the board",
+    "navigation_type": "object",
+    "final_goal_dist": 11.5079
+}

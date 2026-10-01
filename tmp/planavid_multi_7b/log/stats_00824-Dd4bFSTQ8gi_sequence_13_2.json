@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 22.759848088026047,
+    "id": "00824-Dd4bFSTQ8gi_sequence_13_2",
+    "instruction": "Find the fan in the bedroom that has bed with white headboard",
+    "navigation_type": "region",
+    "final_goal_dist": 3.13886
+}

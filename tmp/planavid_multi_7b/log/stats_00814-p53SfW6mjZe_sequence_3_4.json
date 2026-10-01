@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 31.785122260451317,
+    "id": "00814-p53SfW6mjZe_sequence_3_4",
+    "instruction": "Find the shelf in the Rec room",
+    "navigation_type": "room",
+    "final_goal_dist": 6.79792
+}

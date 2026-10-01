@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 74.36880581825972,
+    "id": "00871-VBzV5z6i1WS_sequence_5_4",
+    "instruction": "Find the plush toy in the Bedroom",
+    "navigation_type": "room",
+    "final_goal_dist": 13.51318
+}

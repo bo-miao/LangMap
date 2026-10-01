@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 20.97410523891449,
+    "id": "00802-wcojb4TFT35_sequence_7_3",
+    "instruction": "Find the figure in the living room that has TV above fireplace",
+    "navigation_type": "region",
+    "final_goal_dist": 1.94981
+}

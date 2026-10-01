@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.124762,
+    "path_length": 40.05421204864979,
+    "id": "00878-XB4GS9ShBRE_sequence_9_1",
+    "instruction": "Find the tv in the bedroom that has light-gray bed headboard",
+    "navigation_type": "region",
+    "final_goal_dist": 0.096
+}

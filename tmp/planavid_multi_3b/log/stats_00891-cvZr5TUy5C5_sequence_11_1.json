@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.3766174047292133,
+    "path_length": 11.744167894124985,
+    "id": "00891-cvZr5TUy5C5_sequence_11_1",
+    "instruction": "Find the sink cabinet in the Bathroom",
+    "navigation_type": "room",
+    "final_goal_dist": 0.08762
+}

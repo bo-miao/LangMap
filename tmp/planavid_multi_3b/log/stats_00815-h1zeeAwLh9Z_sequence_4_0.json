@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 25.80000513419509,
+    "id": "00815-h1zeeAwLh9Z_sequence_4_0",
+    "instruction": "Find the white front-load washing machine",
+    "navigation_type": "instance",
+    "final_goal_dist": 1.07171
+}

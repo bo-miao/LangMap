@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.336269,
+    "path_length": 15.250000700354576,
+    "id": "00808-y9hTuugGdiq_sequence_14_1",
+    "instruction": "Find the refrigerator cabinet",
+    "navigation_type": "object",
+    "final_goal_dist": 0.17772
+}

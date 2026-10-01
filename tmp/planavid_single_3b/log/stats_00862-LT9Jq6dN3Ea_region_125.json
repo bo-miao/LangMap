@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.8075562466071091,
+    "path_length": 14.099999062716961,
+    "id": "00862-LT9Jq6dN3Ea_region_125",
+    "instruction": "Find the oven and stove in the kitchen that has stainless oven",
+    "final_goal_dist": 0.10623
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 72.1843373272568,
+    "id": "00853-5cdEh9F2hJL_sequence_3_0",
+    "instruction": "Find the ceramic vase in closet",
+    "navigation_type": "instance",
+    "final_goal_dist": 22.12122
+}

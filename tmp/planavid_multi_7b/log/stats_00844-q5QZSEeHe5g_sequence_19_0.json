@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 9.849996872246265,
+    "id": "00844-q5QZSEeHe5g_sequence_19_0",
+    "instruction": "Find the marble-top table in hall under staircase",
+    "navigation_type": "instance",
+    "final_goal_dist": 1.4774
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 41.48497588932514,
+    "id": "00891-cvZr5TUy5C5_sequence_4_1",
+    "instruction": "Find the table in the living room that has Maurin Quina poster",
+    "navigation_type": "region",
+    "final_goal_dist": 7.30156
+}

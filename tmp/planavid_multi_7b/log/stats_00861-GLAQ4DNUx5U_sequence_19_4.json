@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.025498,
+    "path_length": 13.24979493021965,
+    "id": "00861-GLAQ4DNUx5U_sequence_19_4",
+    "instruction": "Find the tv in the bedroom that has white bedding facing tv",
+    "navigation_type": "region",
+    "final_goal_dist": 0.09233
+}

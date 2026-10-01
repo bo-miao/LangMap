@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 62.571165949106216,
+    "id": "00821-eF36g7L6Z9M_sequence_5_0",
+    "instruction": "Find the black note on kitchen countertop",
+    "navigation_type": "instance",
+    "final_goal_dist": 16.57026
+}

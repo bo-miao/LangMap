@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 1.8654972612857819,
+    "id": "00827-BAbdmeyTvMZ_sequence_5_2",
+    "instruction": "Find the sink in the bathroom that has corner bathtub",
+    "navigation_type": "region",
+    "final_goal_dist": 8.82634
+}

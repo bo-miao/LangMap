@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.27253209424687913,
+    "path_length": 58.502355471253395,
+    "id": "00808-y9hTuugGdiq_sequence_5_0",
+    "instruction": "Find the fireplace near rectangular dining table",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.08564
+}

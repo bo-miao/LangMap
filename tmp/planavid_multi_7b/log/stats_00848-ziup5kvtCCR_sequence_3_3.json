@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.893577,
+    "path_length": 15.499999195337296,
+    "id": "00848-ziup5kvtCCR_sequence_3_3",
+    "instruction": "Find the picture in the Bedroom",
+    "navigation_type": "room",
+    "final_goal_dist": 0.16894
+}

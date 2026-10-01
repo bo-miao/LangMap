@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 25.215717062354088,
+    "id": "00880-Nfvxx8J5NCo_sequence_19_2",
+    "instruction": "Find the shelf in the tie: kitchen & living room that has white kitchen island, 'Tie: A & B' means the area spans both rooms A and B",
+    "navigation_type": "region",
+    "final_goal_dist": 1.59015
+}

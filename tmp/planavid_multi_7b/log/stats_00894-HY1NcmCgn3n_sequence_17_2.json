@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 84.94297969341278,
+    "id": "00894-HY1NcmCgn3n_sequence_17_2",
+    "instruction": "Find the bouquet in the Hall",
+    "navigation_type": "room",
+    "final_goal_dist": 5.5641
+}

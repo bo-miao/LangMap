@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 23.707279205322266,
+    "id": "00803-k1cupFYWXJ6_sequence_4_0",
+    "instruction": "Find the decorative plant on round table beside beige armchairs",
+    "navigation_type": "instance",
+    "final_goal_dist": 12.0165
+}

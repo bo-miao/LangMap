@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.464976,
+    "path_length": 15.750000417232513,
+    "id": "00877-4ok3usBNeis_sequence_17_2",
+    "instruction": "Find the towel",
+    "navigation_type": "object",
+    "final_goal_dist": 0.03086
+}

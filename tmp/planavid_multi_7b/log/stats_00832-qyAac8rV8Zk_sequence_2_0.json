@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 27.563120618462563,
+    "id": "00832-qyAac8rV8Zk_sequence_2_0",
+    "instruction": "Find the left washing machine under shelf",
+    "navigation_type": "instance",
+    "final_goal_dist": 1.23059
+}

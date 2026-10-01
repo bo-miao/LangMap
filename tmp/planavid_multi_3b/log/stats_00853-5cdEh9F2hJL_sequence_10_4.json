@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.2920022406299117,
+    "path_length": 59.933790400624275,
+    "id": "00853-5cdEh9F2hJL_sequence_10_4",
+    "instruction": "Find the dishwasher in the Kitchen",
+    "navigation_type": "room",
+    "final_goal_dist": 0.06192
+}

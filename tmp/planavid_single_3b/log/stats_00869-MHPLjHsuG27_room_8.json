@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.7474930073082746,
+    "path_length": 9.749998763203621,
+    "id": "00869-MHPLjHsuG27_room_8",
+    "instruction": "Find the heater in the Kitchen",
+    "final_goal_dist": 0.12322
+}

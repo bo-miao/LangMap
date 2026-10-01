@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 0.49999985098838806,
+    "id": "00820-mL8ThkuaVTM_sequence_15_4",
+    "instruction": "Find the bed table in the bedroom that has lighthouse print",
+    "navigation_type": "region",
+    "final_goal_dist": 0.44765
+}

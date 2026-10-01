@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.063615,
+    "path_length": 15.69786873459816,
+    "id": "00831-yr17PDCnDDW_sequence_0_3",
+    "instruction": "Find the cabinet in the Office",
+    "navigation_type": "room",
+    "final_goal_dist": 0.03359
+}

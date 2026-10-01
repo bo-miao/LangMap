@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 3.9936747550964355,
+    "id": "00843-DYehNKdT76V_sequence_1_0",
+    "instruction": "Find the white drawer cabinet",
+    "navigation_type": "instance",
+    "final_goal_dist": 7.82494
+}

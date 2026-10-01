@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.4684712271227892,
+    "path_length": 19.370058491826057,
+    "id": "00853-5cdEh9F2hJL_room_53",
+    "instruction": "Find the flowerpot in the Dining room",
+    "final_goal_dist": 0.12767
+}

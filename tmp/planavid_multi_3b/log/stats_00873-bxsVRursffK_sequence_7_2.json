@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 21.121650755405426,
+    "id": "00873-bxsVRursffK_sequence_7_2",
+    "instruction": "Find the closet in the bedroom that has gray floral bedding",
+    "navigation_type": "region",
+    "final_goal_dist": 5.49716
+}

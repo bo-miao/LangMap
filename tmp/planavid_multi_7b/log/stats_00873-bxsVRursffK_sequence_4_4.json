@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 8.8393030539155,
+    "id": "00873-bxsVRursffK_sequence_4_4",
+    "instruction": "Find the bed in the bedroom that has gray floral bedding",
+    "navigation_type": "region",
+    "final_goal_dist": 7.42079
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 54.6465752646327,
+    "id": "00876-mv2HUxq3B53_sequence_16_1",
+    "instruction": "Find the nightstand in the bedroom that has two beds",
+    "navigation_type": "region",
+    "final_goal_dist": 10.89784
+}

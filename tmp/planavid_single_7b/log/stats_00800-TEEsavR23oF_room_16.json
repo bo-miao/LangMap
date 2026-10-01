@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.14379688610310493,
+    "path_length": 50.65770676732063,
+    "id": "00800-TEEsavR23oF_room_16",
+    "instruction": "Find the cabinet in the Dining room",
+    "final_goal_dist": 0.16365
+}

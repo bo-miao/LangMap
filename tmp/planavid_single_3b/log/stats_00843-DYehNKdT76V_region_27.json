@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.32747168814900307,
+    "path_length": 34.823835007846355,
+    "id": "00843-DYehNKdT76V_region_27",
+    "instruction": "Find the kitchen cabinet in the kitchen that has stainless oven",
+    "final_goal_dist": 0.14259
+}

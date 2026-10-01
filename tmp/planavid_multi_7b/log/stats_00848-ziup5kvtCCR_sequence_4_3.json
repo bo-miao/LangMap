@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 14.625636756420135,
+    "id": "00848-ziup5kvtCCR_sequence_4_3",
+    "instruction": "Find the toilet in the bathroom that has bathtub platform",
+    "navigation_type": "region",
+    "final_goal_dist": 0.27331
+}

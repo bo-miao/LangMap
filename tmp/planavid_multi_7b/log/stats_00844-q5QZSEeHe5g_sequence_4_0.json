@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 67.25276501476765,
+    "id": "00844-q5QZSEeHe5g_sequence_4_0",
+    "instruction": "Find the white sink on brown countertop",
+    "navigation_type": "instance",
+    "final_goal_dist": 5.86933
+}

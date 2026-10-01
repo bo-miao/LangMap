@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 13.784735605120659,
+    "id": "00871-VBzV5z6i1WS_sequence_5_0",
+    "instruction": "Find the beige bed with pink quilt",
+    "navigation_type": "instance",
+    "final_goal_dist": 14.98011
+}

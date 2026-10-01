@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 33.71946094930172,
+    "id": "00823-7MXmsvcQjpJ_sequence_0_2",
+    "instruction": "Find the book in the Office",
+    "navigation_type": "room",
+    "final_goal_dist": 5.76441
+}

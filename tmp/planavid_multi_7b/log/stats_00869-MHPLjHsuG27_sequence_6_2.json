@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.889712,
+    "path_length": 7.500000789761543,
+    "id": "00869-MHPLjHsuG27_sequence_6_2",
+    "instruction": "Find the stove",
+    "navigation_type": "object",
+    "final_goal_dist": 0.09425
+}

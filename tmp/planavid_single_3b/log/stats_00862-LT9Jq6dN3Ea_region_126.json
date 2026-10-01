@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.38623349716369276,
+    "path_length": 27.873176477849483,
+    "id": "00862-LT9Jq6dN3Ea_region_126",
+    "instruction": "Find the kitchen extractor in the kitchen that has stainless oven",
+    "final_goal_dist": 0.20049
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 9.27341336151585,
+    "id": "00835-q3zU7Yy5E5s_sequence_7_2",
+    "instruction": "Find the bath sink",
+    "navigation_type": "object",
+    "final_goal_dist": 4.12719
+}

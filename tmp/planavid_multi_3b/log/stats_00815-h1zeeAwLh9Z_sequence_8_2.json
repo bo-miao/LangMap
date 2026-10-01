@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.014264890132295526,
+    "path_length": 5.750001788139343,
+    "id": "00815-h1zeeAwLh9Z_sequence_8_2",
+    "instruction": "Find the kitchen top in the Kitchen",
+    "navigation_type": "room",
+    "final_goal_dist": 0.058
+}

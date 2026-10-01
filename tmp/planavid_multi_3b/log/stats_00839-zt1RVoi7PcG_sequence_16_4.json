@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 85.27483958005905,
+    "id": "00839-zt1RVoi7PcG_sequence_16_4",
+    "instruction": "Find the cabinet in the Walk-in closet",
+    "navigation_type": "room",
+    "final_goal_dist": 11.91574
+}

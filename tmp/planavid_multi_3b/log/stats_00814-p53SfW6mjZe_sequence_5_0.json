@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 77.98637181520462,
+    "id": "00814-p53SfW6mjZe_sequence_5_0",
+    "instruction": "Find the blue striped bath mat by shower",
+    "navigation_type": "instance",
+    "final_goal_dist": 15.32442
+}

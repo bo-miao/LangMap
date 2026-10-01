@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.04131514283967813,
+    "path_length": 3.750000312924385,
+    "id": "00861-GLAQ4DNUx5U_sequence_2_1",
+    "instruction": "Find the refrigerator cabinet",
+    "navigation_type": "object",
+    "final_goal_dist": 0.03398
+}

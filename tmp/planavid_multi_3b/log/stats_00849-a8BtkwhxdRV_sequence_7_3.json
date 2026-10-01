@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.2562402280943033,
+    "path_length": 18.26132282614708,
+    "id": "00849-a8BtkwhxdRV_sequence_7_3",
+    "instruction": "Find the coffee table in the tie: dining room & living room that has two red couches, 'Tie: A & B' means the area spans both rooms A and B",
+    "navigation_type": "region",
+    "final_goal_dist": 0.03702
+}

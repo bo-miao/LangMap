@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.2057608499297911,
+    "path_length": 34.250543681904674,
+    "id": "00853-5cdEh9F2hJL_room_48",
+    "instruction": "Find the wall clock in the Dining room",
+    "final_goal_dist": 0.08239
+}

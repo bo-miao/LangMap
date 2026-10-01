@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.8550119908817732,
+    "path_length": 13.81885378062725,
+    "id": "00890-6s7QHgap2fW_sequence_12_0",
+    "instruction": "Find the kitchen cabinet with stove",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.12558
+}

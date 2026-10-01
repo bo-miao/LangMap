@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.1260839920871761,
+    "path_length": 19.664411425590515,
+    "id": "00827-BAbdmeyTvMZ_sequence_16_3",
+    "instruction": "Find the picture in the Living room",
+    "navigation_type": "room",
+    "final_goal_dist": 0.17697
+}

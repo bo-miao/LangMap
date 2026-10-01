@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 6.999998316168785,
+    "id": "00862-LT9Jq6dN3Ea_sequence_19_2",
+    "instruction": "Find the table in the bedroom that has gray paisley-patterned bedspread",
+    "navigation_type": "region",
+    "final_goal_dist": 13.40117
+}

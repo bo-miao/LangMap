@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.6101813003693041,
+    "path_length": 19.526134461164474,
+    "id": "00853-5cdEh9F2hJL_room_66",
+    "instruction": "Find the end table in the Living room",
+    "final_goal_dist": 0.09984
+}

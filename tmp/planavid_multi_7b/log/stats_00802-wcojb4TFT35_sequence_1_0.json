@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.658298,
+    "path_length": 8.100003004074097,
+    "id": "00802-wcojb4TFT35_sequence_1_0",
+    "instruction": "Find the white table near brown quilted bed with teal blanket",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.10495
+}

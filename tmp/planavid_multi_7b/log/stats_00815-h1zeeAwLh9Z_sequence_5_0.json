@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 11.800003927201033,
+    "id": "00815-h1zeeAwLh9Z_sequence_5_0",
+    "instruction": "Find the blue hand towel beside laundry sink",
+    "navigation_type": "instance",
+    "final_goal_dist": 7.02681
+}

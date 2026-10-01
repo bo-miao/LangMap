@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 30.726265713572502,
+    "id": "00839-zt1RVoi7PcG_sequence_18_4",
+    "instruction": "Find the bed small in the bedroom that has two beds",
+    "navigation_type": "region",
+    "final_goal_dist": 3.28265
+}

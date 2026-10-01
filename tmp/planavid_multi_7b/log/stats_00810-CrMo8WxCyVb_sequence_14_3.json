@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.144286,
+    "path_length": 14.248175144195557,
+    "id": "00810-CrMo8WxCyVb_sequence_14_3",
+    "instruction": "Find the table in the kitchen that has dining table and refrigerator",
+    "navigation_type": "region",
+    "final_goal_dist": 0.12393
+}

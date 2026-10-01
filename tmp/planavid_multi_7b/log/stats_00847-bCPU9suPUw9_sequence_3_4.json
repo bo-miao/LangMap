@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 11.002898707985878,
+    "id": "00847-bCPU9suPUw9_sequence_3_4",
+    "instruction": "Find the laundry basket in the bathroom that has white bath vanity",
+    "navigation_type": "region",
+    "final_goal_dist": 6.35622
+}

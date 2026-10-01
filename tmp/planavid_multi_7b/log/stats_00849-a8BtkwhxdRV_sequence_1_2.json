@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 12.885261207818985,
+    "id": "00849-a8BtkwhxdRV_sequence_1_2",
+    "instruction": "Find the toilet in the bathroom that has shower cabin against stone wall",
+    "navigation_type": "region",
+    "final_goal_dist": 11.19443
+}

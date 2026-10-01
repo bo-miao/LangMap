@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.2575276014914719,
+    "path_length": 27.0981454141438,
+    "id": "00844-q5QZSEeHe5g_sequence_11_2",
+    "instruction": "Find the dressing table in the bedroom that has dressing table with round mirror",
+    "navigation_type": "region",
+    "final_goal_dist": 0.11131
+}

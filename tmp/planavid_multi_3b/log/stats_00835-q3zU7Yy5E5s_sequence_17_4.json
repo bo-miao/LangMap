@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.6357348585967733,
+    "path_length": 4.74999925494194,
+    "id": "00835-q3zU7Yy5E5s_sequence_17_4",
+    "instruction": "Find the sink in the Kitchen",
+    "navigation_type": "room",
+    "final_goal_dist": 0.02547
+}

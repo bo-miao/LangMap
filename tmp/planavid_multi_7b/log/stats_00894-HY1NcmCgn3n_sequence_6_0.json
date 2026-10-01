@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 6.555342942476273,
+    "id": "00894-HY1NcmCgn3n_sequence_6_0",
+    "instruction": "Find the candlestick beside the painting depicting the Virgin Mary holding the infant Jesus",
+    "navigation_type": "instance",
+    "final_goal_dist": 13.14321
+}

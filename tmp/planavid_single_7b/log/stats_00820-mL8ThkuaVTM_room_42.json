@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.2663076956675541,
+    "path_length": 29.554503187537193,
+    "id": "00820-mL8ThkuaVTM_room_42",
+    "instruction": "Find the sauna heater in the Rec room",
+    "final_goal_dist": 0.11
+}

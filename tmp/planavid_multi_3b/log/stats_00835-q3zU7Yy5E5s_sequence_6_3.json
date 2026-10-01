@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.7585662579644471,
+    "path_length": 11.23155465722084,
+    "id": "00835-q3zU7Yy5E5s_sequence_6_3",
+    "instruction": "Find the fireplace",
+    "navigation_type": "object",
+    "final_goal_dist": 0.13045
+}

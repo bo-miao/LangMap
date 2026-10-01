@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.1868932489979839,
+    "path_length": 37.75001263618469,
+    "id": "00877-4ok3usBNeis_region_14",
+    "instruction": "Find the clock in the hall that has wall clock above stairs",
+    "final_goal_dist": 0.13243
+}

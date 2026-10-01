@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 83.2218297868967,
+    "id": "00848-ziup5kvtCCR_sequence_2_4",
+    "instruction": "Find the sideboard in the Tie: Kitchen & Living room, 'Tie: A & B' means the area spans both rooms A and B",
+    "navigation_type": "room",
+    "final_goal_dist": 1.10775
+}

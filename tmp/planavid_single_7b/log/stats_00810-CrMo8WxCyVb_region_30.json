@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.1317294130347863,
+    "path_length": 68.99870577454567,
+    "id": "00810-CrMo8WxCyVb_region_30",
+    "instruction": "Find the cabinet in the bathroom that has double-sink vanity",
+    "final_goal_dist": 0.12706
+}

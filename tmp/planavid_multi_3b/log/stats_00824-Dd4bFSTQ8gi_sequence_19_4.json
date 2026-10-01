@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 2.42676043137908,
+    "id": "00824-Dd4bFSTQ8gi_sequence_19_4",
+    "instruction": "Find the shelf in the Bedroom",
+    "navigation_type": "room",
+    "final_goal_dist": 13.77387
+}

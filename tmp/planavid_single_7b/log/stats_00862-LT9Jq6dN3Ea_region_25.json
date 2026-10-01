@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.5267001969897028,
+    "path_length": 16.15000407397747,
+    "id": "00862-LT9Jq6dN3Ea_region_25",
+    "instruction": "Find the sofa chair in the tie: dining room & living room that has oval dining table, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 0.15986
+}

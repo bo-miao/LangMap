@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.44915919999065246,
+    "path_length": 5.8268439918756485,
+    "id": "00827-BAbdmeyTvMZ_sequence_18_4",
+    "instruction": "Find the dishwasher",
+    "navigation_type": "object",
+    "final_goal_dist": 0.0711
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.092415,
+    "path_length": 30.750004202127457,
+    "id": "00821-eF36g7L6Z9M_sequence_12_1",
+    "instruction": "Find the tray",
+    "navigation_type": "object",
+    "final_goal_dist": 0.24135
+}

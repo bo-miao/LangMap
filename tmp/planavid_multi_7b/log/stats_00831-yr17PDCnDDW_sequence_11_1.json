@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.453321,
+    "path_length": 3.7695146799087524,
+    "id": "00831-yr17PDCnDDW_sequence_11_1",
+    "instruction": "Find the plant",
+    "navigation_type": "object",
+    "final_goal_dist": 0.10347
+}

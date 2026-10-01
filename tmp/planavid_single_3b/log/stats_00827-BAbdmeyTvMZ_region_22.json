@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.4971496664078222,
+    "path_length": 14.79375159740448,
+    "id": "00827-BAbdmeyTvMZ_region_22",
+    "instruction": "Find the console table in the kitchen that has stainless refrigerator",
+    "final_goal_dist": 0.09336
+}

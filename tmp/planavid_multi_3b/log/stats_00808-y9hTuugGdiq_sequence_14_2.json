@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 73.0184535086155,
+    "id": "00808-y9hTuugGdiq_sequence_14_2",
+    "instruction": "Find the bathtub platform in the Bathroom",
+    "navigation_type": "room",
+    "final_goal_dist": 9.25704
+}

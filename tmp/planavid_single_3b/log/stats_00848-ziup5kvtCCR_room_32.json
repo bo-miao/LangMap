@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.8936738754277213,
+    "path_length": 8.746402082964778,
+    "id": "00848-ziup5kvtCCR_room_32",
+    "instruction": "Find the washer-dryer in the Laundry room",
+    "final_goal_dist": 0.11163
+}

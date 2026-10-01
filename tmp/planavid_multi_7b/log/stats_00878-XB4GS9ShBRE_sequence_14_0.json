@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.888745,
+    "path_length": 3.390183288604021,
+    "id": "00878-XB4GS9ShBRE_sequence_14_0",
+    "instruction": "Find the large dining table",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.20481
+}

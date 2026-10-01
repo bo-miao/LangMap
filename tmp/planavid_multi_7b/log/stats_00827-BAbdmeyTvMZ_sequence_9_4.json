@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 74.5069889575243,
+    "id": "00827-BAbdmeyTvMZ_sequence_9_4",
+    "instruction": "Find the shelf in the Living room",
+    "navigation_type": "room",
+    "final_goal_dist": 3.43587
+}

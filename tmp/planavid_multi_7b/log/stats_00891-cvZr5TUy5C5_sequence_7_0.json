@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 85.52750334888697,
+    "id": "00891-cvZr5TUy5C5_sequence_7_0",
+    "instruction": "Find the coffee machine",
+    "navigation_type": "instance",
+    "final_goal_dist": 8.81381
+}

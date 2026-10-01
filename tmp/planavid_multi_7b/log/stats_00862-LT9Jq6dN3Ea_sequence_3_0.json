@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 90.55369583517313,
+    "id": "00862-LT9Jq6dN3Ea_sequence_3_0",
+    "instruction": "Find the toilet below two watercolor pictures",
+    "navigation_type": "instance",
+    "final_goal_dist": 11.01019
+}

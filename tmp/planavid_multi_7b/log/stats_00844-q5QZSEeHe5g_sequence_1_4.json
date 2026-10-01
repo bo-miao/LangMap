@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.111939,
+    "path_length": 11.250001206994057,
+    "id": "00844-q5QZSEeHe5g_sequence_1_4",
+    "instruction": "Find the board in the hall that has slatted bench and scale",
+    "navigation_type": "region",
+    "final_goal_dist": 0.19839
+}

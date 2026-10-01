@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.222208,
+    "path_length": 0.25000014901161194,
+    "id": "00891-cvZr5TUy5C5_sequence_17_3",
+    "instruction": "Find the dresser in the bedroom that has striped maroon bedspread",
+    "navigation_type": "region",
+    "final_goal_dist": 0.1157
+}

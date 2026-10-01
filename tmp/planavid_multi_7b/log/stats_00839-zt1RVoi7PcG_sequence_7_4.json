@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 14.251710057258606,
+    "id": "00839-zt1RVoi7PcG_sequence_7_4",
+    "instruction": "Find the tv in the Rec room",
+    "navigation_type": "room",
+    "final_goal_dist": 0.30912
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 79.97246576845646,
+    "id": "00824-Dd4bFSTQ8gi_sequence_0_2",
+    "instruction": "Find the oven",
+    "navigation_type": "object",
+    "final_goal_dist": 11.42296
+}

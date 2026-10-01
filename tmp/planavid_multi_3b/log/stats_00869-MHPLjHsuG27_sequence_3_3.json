@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.6357961949824019,
+    "path_length": 8.249998942017555,
+    "id": "00869-MHPLjHsuG27_sequence_3_3",
+    "instruction": "Find the table in the Living room",
+    "navigation_type": "room",
+    "final_goal_dist": 0.22647
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.15159422459100957,
+    "path_length": 19.924301967024803,
+    "id": "00813-svBbv1Pavdk_sequence_18_2",
+    "instruction": "Find the picture in the kitchen that has glass dining table",
+    "navigation_type": "region",
+    "final_goal_dist": 0.18527
+}

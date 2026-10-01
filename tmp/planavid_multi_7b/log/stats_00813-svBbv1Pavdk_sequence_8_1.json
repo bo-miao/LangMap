@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.820935,
+    "path_length": 5.0000016540288925,
+    "id": "00813-svBbv1Pavdk_sequence_8_1",
+    "instruction": "Find the toilet in the Bathroom",
+    "navigation_type": "room",
+    "final_goal_dist": 0.12788
+}

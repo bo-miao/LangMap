@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 3.0499996542930603,
+    "id": "00803-k1cupFYWXJ6_sequence_17_0",
+    "instruction": "Find the left purple damask armchair near carved arch and stairs",
+    "navigation_type": "instance",
+    "final_goal_dist": 3.846
+}

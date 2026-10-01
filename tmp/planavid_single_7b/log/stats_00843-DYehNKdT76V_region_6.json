@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.5947467288367935,
+    "path_length": 15.563280768692493,
+    "id": "00843-DYehNKdT76V_region_6",
+    "instruction": "Find the sink in the bathroom that has wall-mounted bath sink",
+    "final_goal_dist": 0.21724
+}

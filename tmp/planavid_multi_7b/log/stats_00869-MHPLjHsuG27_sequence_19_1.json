@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.508212,
+    "path_length": 5.485781475901604,
+    "id": "00869-MHPLjHsuG27_sequence_19_1",
+    "instruction": "Find the headboard",
+    "navigation_type": "object",
+    "final_goal_dist": 0.15169
+}

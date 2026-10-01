@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.728014060211933,
+    "path_length": 13.760376930236816,
+    "id": "00808-y9hTuugGdiq_region_52",
+    "instruction": "Find the table in the tie: kitchen & living room that has ping pong table, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 0.12082
+}

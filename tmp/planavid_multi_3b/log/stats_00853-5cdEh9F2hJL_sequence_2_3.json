@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 11.856935039162636,
+    "id": "00853-5cdEh9F2hJL_sequence_2_3",
+    "instruction": "Find the cabinet in the bedroom that has white headboard",
+    "navigation_type": "region",
+    "final_goal_dist": 4.25605
+}

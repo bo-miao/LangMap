@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.36370522540876277,
+    "path_length": 22.96599619090557,
+    "id": "00891-cvZr5TUy5C5_sequence_8_2",
+    "instruction": "Find the stove",
+    "navigation_type": "object",
+    "final_goal_dist": 0.1168
+}

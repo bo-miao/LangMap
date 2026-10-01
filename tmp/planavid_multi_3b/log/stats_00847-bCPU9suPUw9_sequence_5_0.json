@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.3828444301228298,
+    "path_length": 9.038278728723526,
+    "id": "00847-bCPU9suPUw9_sequence_5_0",
+    "instruction": "Find the dining table beside couch",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.19603
+}

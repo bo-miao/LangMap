@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.6303326894850603,
+    "path_length": 13.512366473674774,
+    "id": "00839-zt1RVoi7PcG_sequence_2_4",
+    "instruction": "Find the couch in the Bedroom",
+    "navigation_type": "room",
+    "final_goal_dist": 0.15246
+}

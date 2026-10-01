@@ -1,0 +1,8 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 7.402387380599976,
+    "id": "00849-a8BtkwhxdRV_region_0",
+    "instruction": "Find the sink in the bathroom that has corner bathtub",
+    "final_goal_dist": 13.34758
+}

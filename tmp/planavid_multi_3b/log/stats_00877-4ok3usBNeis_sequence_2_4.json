@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.7854962471219799,
+    "path_length": 8.995354697108269,
+    "id": "00877-4ok3usBNeis_sequence_2_4",
+    "instruction": "Find the boiler in the laundry room that has washing machine",
+    "navigation_type": "region",
+    "final_goal_dist": 0.16924
+}

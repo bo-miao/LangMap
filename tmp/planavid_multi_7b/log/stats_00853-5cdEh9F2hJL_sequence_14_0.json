@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 37.781083000823855,
+    "id": "00853-5cdEh9F2hJL_sequence_14_0",
+    "instruction": "Find the wall tv above brown cabinet",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.79208
+}

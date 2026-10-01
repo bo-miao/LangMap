@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.8162165783098895,
+    "path_length": 9.000001713633537,
+    "id": "00832-qyAac8rV8Zk_sequence_6_4",
+    "instruction": "Find the dresser in the Bedroom",
+    "navigation_type": "room",
+    "final_goal_dist": 0.21752
+}

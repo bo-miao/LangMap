@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 68.71467198431492,
+    "id": "00843-DYehNKdT76V_sequence_11_4",
+    "instruction": "Find the nightstand in the bedroom that has bed below forest picture",
+    "navigation_type": "region",
+    "final_goal_dist": 17.20906
+}

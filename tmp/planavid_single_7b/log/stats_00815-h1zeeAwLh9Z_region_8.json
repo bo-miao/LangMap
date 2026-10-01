@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.15164860823556797,
+    "path_length": 46.05000665411353,
+    "id": "00815-h1zeeAwLh9Z_region_8",
+    "instruction": "Find the cabinet in the laundry room that has washer and dryer",
+    "final_goal_dist": 0.08399
+}

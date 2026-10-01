@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 12.978584015043452,
+    "id": "00861-GLAQ4DNUx5U_sequence_11_2",
+    "instruction": "Find the tv in the Living room",
+    "navigation_type": "room",
+    "final_goal_dist": 0.28648
+}

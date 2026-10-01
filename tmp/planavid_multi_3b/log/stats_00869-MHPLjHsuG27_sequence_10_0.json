@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 36.262351885437965,
+    "id": "00869-MHPLjHsuG27_sequence_10_0",
+    "instruction": "Find the blue-gray kitchen cabinets under kettle",
+    "navigation_type": "instance",
+    "final_goal_dist": 1.65713
+}

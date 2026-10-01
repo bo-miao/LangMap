@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.7154275544219768,
+    "path_length": 14.500002175569534,
+    "id": "00829-QaLdnwvtxbs_sequence_3_3",
+    "instruction": "Find the tv in the tie: dining room & living room that has dining table and TV, 'Tie: A & B' means the area spans both rooms A and B",
+    "navigation_type": "region",
+    "final_goal_dist": 0.13168
+}

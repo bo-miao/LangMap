@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.6656023160439034,
+    "path_length": 17.012222576886415,
+    "id": "00824-Dd4bFSTQ8gi_region_24",
+    "instruction": "Find the desk in the office that has desk with red chair",
+    "final_goal_dist": 0.14635
+}

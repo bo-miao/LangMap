@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.2371562879739609,
+    "path_length": 40.15232779830694,
+    "id": "00862-LT9Jq6dN3Ea_sequence_6_0",
+    "instruction": "Find the stone fireplace",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.12666
+}

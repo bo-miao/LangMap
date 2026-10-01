@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 21.959219805896282,
+    "id": "00869-MHPLjHsuG27_sequence_12_1",
+    "instruction": "Find the chest of drawers in the Living room",
+    "navigation_type": "room",
+    "final_goal_dist": 3.99504
+}

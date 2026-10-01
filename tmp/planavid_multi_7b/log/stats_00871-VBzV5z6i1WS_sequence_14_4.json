@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 6.4999997317790985,
+    "id": "00871-VBzV5z6i1WS_sequence_14_4",
+    "instruction": "Find the bed in the bedroom that has white printer",
+    "navigation_type": "region",
+    "final_goal_dist": 14.93242
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.7324064967721505,
+    "path_length": 11.00000049173832,
+    "id": "00869-MHPLjHsuG27_sequence_4_0",
+    "instruction": "Find the microwave",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.11871
+}

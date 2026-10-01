@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 10.336958929896355,
+    "id": "00873-bxsVRursffK_sequence_5_1",
+    "instruction": "Find the picture in the bedroom that has striped quilted bedding",
+    "navigation_type": "region",
+    "final_goal_dist": 0.47617
+}

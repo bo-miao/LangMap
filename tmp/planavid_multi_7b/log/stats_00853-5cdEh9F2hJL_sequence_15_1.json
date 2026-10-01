@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 41.07411280274391,
+    "id": "00853-5cdEh9F2hJL_sequence_15_1",
+    "instruction": "Find the shelf in the walk-in closet that has clothes and shoes",
+    "navigation_type": "region",
+    "final_goal_dist": 20.96484
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 72.7549276612699,
+    "id": "00810-CrMo8WxCyVb_sequence_1_4",
+    "instruction": "Find the towel in the bathroom that has double-sink vanity",
+    "navigation_type": "region",
+    "final_goal_dist": 5.99488
+}

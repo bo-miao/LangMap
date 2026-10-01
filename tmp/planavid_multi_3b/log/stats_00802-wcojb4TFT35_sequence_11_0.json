@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 85.00425217300653,
+    "id": "00802-wcojb4TFT35_sequence_11_0",
+    "instruction": "Find the black-and-tan checkered chessboard on bookcase",
+    "navigation_type": "instance",
+    "final_goal_dist": 6.75239
+}

@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.7080597134968427,
+    "path_length": 9.204280823469162,
+    "id": "00873-bxsVRursffK_room_1",
+    "instruction": "Find the toilet in the Bathroom",
+    "final_goal_dist": 0.10637
+}

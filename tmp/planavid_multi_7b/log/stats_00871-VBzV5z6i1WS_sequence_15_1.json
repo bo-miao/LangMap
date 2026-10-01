@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 44.56301145628095,
+    "id": "00871-VBzV5z6i1WS_sequence_15_1",
+    "instruction": "Find the ceiling fan",
+    "navigation_type": "object",
+    "final_goal_dist": 0.26654
+}

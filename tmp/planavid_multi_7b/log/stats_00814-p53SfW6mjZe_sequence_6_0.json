@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.786475,
+    "path_length": 19.53372428379953,
+    "id": "00814-p53SfW6mjZe_sequence_6_0",
+    "instruction": "Find the stainless refrigerator near washing machines",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.11481
+}

@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.2776351719193626,
+    "path_length": 28.400000631809235,
+    "id": "00800-TEEsavR23oF_region_24",
+    "instruction": "Find the cabinet in the kitchen that has refrigerator and granite countertop",
+    "final_goal_dist": 0.19639
+}

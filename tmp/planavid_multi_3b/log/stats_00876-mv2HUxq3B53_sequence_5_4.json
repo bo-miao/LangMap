@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 6.187574887415394,
+    "id": "00876-mv2HUxq3B53_sequence_5_4",
+    "instruction": "Find the flower vase in the bathroom that has toilet below coastal print",
+    "navigation_type": "region",
+    "final_goal_dist": 15.56161
+}

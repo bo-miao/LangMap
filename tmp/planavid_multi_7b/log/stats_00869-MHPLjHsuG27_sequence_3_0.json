@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 10.216335237026215,
+    "id": "00869-MHPLjHsuG27_sequence_3_0",
+    "instruction": "Find the stainless kettle",
+    "navigation_type": "instance",
+    "final_goal_dist": 1.63344
+}

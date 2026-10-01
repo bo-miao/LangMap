@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.27269159558120454,
+    "path_length": 25.82977096736431,
+    "id": "00800-TEEsavR23oF_region_60",
+    "instruction": "Find the kitchen sink in the kitchen that has refrigerator and granite countertop",
+    "final_goal_dist": 0.20644
+}

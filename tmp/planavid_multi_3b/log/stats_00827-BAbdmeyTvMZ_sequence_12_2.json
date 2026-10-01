@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.5682853755375528,
+    "path_length": 12.57393041625619,
+    "id": "00827-BAbdmeyTvMZ_sequence_12_2",
+    "instruction": "Find the shower curtain in the bathroom that has geometric shower curtain",
+    "navigation_type": "region",
+    "final_goal_dist": 0.17091
+}

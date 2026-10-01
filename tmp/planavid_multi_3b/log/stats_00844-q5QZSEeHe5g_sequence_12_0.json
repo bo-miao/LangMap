@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 77.09190280735493,
+    "id": "00844-q5QZSEeHe5g_sequence_12_0",
+    "instruction": "Find the highchair against orange wall",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.9644
+}

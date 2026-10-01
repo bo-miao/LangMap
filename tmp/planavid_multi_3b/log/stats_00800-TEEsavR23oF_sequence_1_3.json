@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.7289670628499436,
+    "path_length": 11.748801559209824,
+    "id": "00800-TEEsavR23oF_sequence_1_3",
+    "instruction": "Find the bed in the bedroom that has white-sheeted bed",
+    "navigation_type": "region",
+    "final_goal_dist": 0.09762
+}

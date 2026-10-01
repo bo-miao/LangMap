@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.19073,
+    "path_length": 25.359432741999626,
+    "id": "00800-TEEsavR23oF_sequence_3_3",
+    "instruction": "Find the tv",
+    "navigation_type": "object",
+    "final_goal_dist": 0.09984
+}

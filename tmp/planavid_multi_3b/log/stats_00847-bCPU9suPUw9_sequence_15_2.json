@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 1.000000149011612,
+    "id": "00847-bCPU9suPUw9_sequence_15_2",
+    "instruction": "Find the sink",
+    "navigation_type": "object",
+    "final_goal_dist": 7.6038
+}

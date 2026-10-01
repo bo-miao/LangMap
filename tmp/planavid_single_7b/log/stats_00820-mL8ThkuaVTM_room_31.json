@@ -1,0 +1,8 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 27.472534080967307,
+    "id": "00820-mL8ThkuaVTM_room_31",
+    "instruction": "Find the coffee machine in the Tie: Kitchen & Living room, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 2.29594
+}

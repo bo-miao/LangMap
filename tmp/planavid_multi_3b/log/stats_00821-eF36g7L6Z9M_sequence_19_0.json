@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.2382902413884921,
+    "path_length": 33.85000503063202,
+    "id": "00821-eF36g7L6Z9M_sequence_19_0",
+    "instruction": "Find the off-white bath mat near freestanding bathtub",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.11145
+}

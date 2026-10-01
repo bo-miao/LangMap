@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.21653991893762833,
+    "path_length": 42.673814688809216,
+    "id": "00844-q5QZSEeHe5g_sequence_17_2",
+    "instruction": "Find the picture in the Bathroom",
+    "navigation_type": "room",
+    "final_goal_dist": 0.23303
+}

@@ -1,0 +1,8 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 35.65000078082085,
+    "id": "00800-TEEsavR23oF_region_49",
+    "instruction": "Find the fireplace in the tie: hall & living room that has TV above fireplace, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 1.13154
+}

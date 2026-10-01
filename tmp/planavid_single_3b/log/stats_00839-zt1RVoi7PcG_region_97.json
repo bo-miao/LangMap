@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.8432325933822646,
+    "path_length": 9.149995863437653,
+    "id": "00839-zt1RVoi7PcG_region_97",
+    "instruction": "Find the refrigerator in the kitchen that has stainless microwave",
+    "final_goal_dist": 0.18545
+}

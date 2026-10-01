@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 84.82869744300842,
+    "id": "00810-CrMo8WxCyVb_sequence_10_3",
+    "instruction": "Find the vase in the Kitchen",
+    "navigation_type": "room",
+    "final_goal_dist": 0.87071
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 56.86953954026103,
+    "id": "00848-ziup5kvtCCR_sequence_3_0",
+    "instruction": "Find the bowl of fruit on coffee table",
+    "navigation_type": "instance",
+    "final_goal_dist": 9.21329
+}

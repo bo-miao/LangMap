@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.28370961216955126,
+    "path_length": 52.809756368398666,
+    "id": "00808-y9hTuugGdiq_sequence_0_0",
+    "instruction": "Find the gray couch against teal wall",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.1009
+}

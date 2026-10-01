@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 31.16658414900303,
+    "id": "00815-h1zeeAwLh9Z_sequence_5_2",
+    "instruction": "Find the armchair in the living room that has TV on circular-motif cabinet",
+    "navigation_type": "region",
+    "final_goal_dist": 0.3753
+}

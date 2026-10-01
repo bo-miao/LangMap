@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.18301324242286096,
+    "path_length": 0.5020637512207031,
+    "id": "00873-bxsVRursffK_sequence_17_2",
+    "instruction": "Find the bath towel",
+    "navigation_type": "object",
+    "final_goal_dist": 0.16094
+}

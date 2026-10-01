@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 77.84238020703197,
+    "id": "00877-4ok3usBNeis_sequence_8_0",
+    "instruction": "Find the cylindrical boiler",
+    "navigation_type": "instance",
+    "final_goal_dist": 4.39048
+}

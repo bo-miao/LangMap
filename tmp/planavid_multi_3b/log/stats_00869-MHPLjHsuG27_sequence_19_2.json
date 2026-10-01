@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 51.05341550707817,
+    "id": "00869-MHPLjHsuG27_sequence_19_2",
+    "instruction": "Find the radiator in the Bedroom",
+    "navigation_type": "room",
+    "final_goal_dist": 5.6188
+}

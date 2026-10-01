@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.806335,
+    "path_length": 14.999999687075615,
+    "id": "00808-y9hTuugGdiq_sequence_19_4",
+    "instruction": "Find the fire screen",
+    "navigation_type": "object",
+    "final_goal_dist": 0.10073
+}

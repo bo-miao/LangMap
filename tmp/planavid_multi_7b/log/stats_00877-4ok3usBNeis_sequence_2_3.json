@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.538011,
+    "path_length": 2.000000461935997,
+    "id": "00877-4ok3usBNeis_sequence_2_3",
+    "instruction": "Find the refrigerator in the Storage room",
+    "navigation_type": "room",
+    "final_goal_dist": 0.06652
+}

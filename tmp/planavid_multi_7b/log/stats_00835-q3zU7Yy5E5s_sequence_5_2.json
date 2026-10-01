@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 12.16412153840065,
+    "id": "00835-q3zU7Yy5E5s_sequence_5_2",
+    "instruction": "Find the heater in the bedroom that has red floral-patterned bedding",
+    "navigation_type": "region",
+    "final_goal_dist": 2.07912
+}

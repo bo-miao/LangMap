@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.805177,
+    "path_length": 13.233677566051483,
+    "id": "00802-wcojb4TFT35_sequence_8_2",
+    "instruction": "Find the fireplace",
+    "navigation_type": "object",
+    "final_goal_dist": 0.18196
+}

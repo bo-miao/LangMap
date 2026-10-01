@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.3821164720526113,
+    "path_length": 21.7995010279119,
+    "id": "00824-Dd4bFSTQ8gi_region_34",
+    "instruction": "Find the cabinet in the tie: kitchen & living room that has couch near oven and curved bench, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 0.09859
+}

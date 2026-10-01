@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.6778462445719916,
+    "path_length": 17.248990550637245,
+    "id": "00829-QaLdnwvtxbs_sequence_18_4",
+    "instruction": "Find the tv stand",
+    "navigation_type": "object",
+    "final_goal_dist": 0.15044
+}

@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.7571073545251943,
+    "path_length": 10.790631264448166,
+    "id": "00877-4ok3usBNeis_region_21",
+    "instruction": "Find the washbasin in the bathroom that has vanity by brown mat",
+    "final_goal_dist": 0.11203
+}

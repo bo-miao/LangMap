@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 43.229324623942375,
+    "id": "00824-Dd4bFSTQ8gi_sequence_8_1",
+    "instruction": "Find the tray in the Kitchen",
+    "navigation_type": "room",
+    "final_goal_dist": 4.37197
+}

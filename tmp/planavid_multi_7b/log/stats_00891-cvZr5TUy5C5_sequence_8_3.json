@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.535099,
+    "path_length": 16.484951749444008,
+    "id": "00891-cvZr5TUy5C5_sequence_8_3",
+    "instruction": "Find the printer",
+    "navigation_type": "object",
+    "final_goal_dist": 0.19175
+}

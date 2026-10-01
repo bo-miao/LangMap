@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.13155180343826806,
+    "path_length": 56.68708863854408,
+    "id": "00890-6s7QHgap2fW_region_57",
+    "instruction": "Find the sink in the bathroom that has floating bath sink",
+    "final_goal_dist": 0.16795
+}

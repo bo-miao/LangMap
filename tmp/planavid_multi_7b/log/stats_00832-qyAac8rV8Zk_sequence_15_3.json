@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 30.676525752991438,
+    "id": "00832-qyAac8rV8Zk_sequence_15_3",
+    "instruction": "Find the desk in the Living room",
+    "navigation_type": "room",
+    "final_goal_dist": 4.43154
+}

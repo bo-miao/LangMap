@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 32.144030798226595,
+    "id": "00849-a8BtkwhxdRV_sequence_10_1",
+    "instruction": "Find the chest in the Hall",
+    "navigation_type": "room",
+    "final_goal_dist": 2.86625
+}

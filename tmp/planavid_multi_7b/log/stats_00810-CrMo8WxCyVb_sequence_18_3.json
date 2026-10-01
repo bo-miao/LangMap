@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.148572,
+    "path_length": 45.975103601813316,
+    "id": "00810-CrMo8WxCyVb_sequence_18_3",
+    "instruction": "Find the cabinet in the bathroom that has dark wood vanity by toilet",
+    "navigation_type": "region",
+    "final_goal_dist": 0.18595
+}

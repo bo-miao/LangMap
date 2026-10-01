@@ -1,0 +1,8 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 0.16526907682418823,
+    "id": "00878-XB4GS9ShBRE_region_39",
+    "instruction": "Find the dining table in the tie: dining room & living room that has beige fabric couch, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 5.11464
+}

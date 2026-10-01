@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.3039997561029606,
+    "path_length": 8.968909457325935,
+    "id": "00890-6s7QHgap2fW_sequence_8_1",
+    "instruction": "Find the table in the Kitchen",
+    "navigation_type": "room",
+    "final_goal_dist": 0.1497
+}

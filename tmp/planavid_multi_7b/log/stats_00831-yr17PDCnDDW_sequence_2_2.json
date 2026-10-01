@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.57112,
+    "path_length": 6.553462773561478,
+    "id": "00831-yr17PDCnDDW_sequence_2_2",
+    "instruction": "Find the plant in the Office",
+    "navigation_type": "room",
+    "final_goal_dist": 0.02432
+}

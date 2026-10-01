@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.33281109111040996,
+    "path_length": 25.73660270124674,
+    "id": "00820-mL8ThkuaVTM_sequence_17_0",
+    "instruction": "Find the tv below guitar",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.16755
+}

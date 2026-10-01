@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 7.603033599560149,
+    "id": "00849-a8BtkwhxdRV_sequence_4_0",
+    "instruction": "Find the radiator near shower cabin against stone wall",
+    "navigation_type": "instance",
+    "final_goal_dist": 1.19934
+}

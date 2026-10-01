@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.160986,
+    "path_length": 16.249997526407242,
+    "id": "00839-zt1RVoi7PcG_sequence_10_3",
+    "instruction": "Find the tv",
+    "navigation_type": "object",
+    "final_goal_dist": 0.20326
+}

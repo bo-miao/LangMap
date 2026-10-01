@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 77.29122135788202,
+    "id": "00839-zt1RVoi7PcG_sequence_8_1",
+    "instruction": "Find the mini fridge",
+    "navigation_type": "object",
+    "final_goal_dist": 8.35414
+}

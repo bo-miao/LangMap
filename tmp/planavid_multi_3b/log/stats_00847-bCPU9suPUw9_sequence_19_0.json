@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.2808185491732222,
+    "path_length": 23.399806663393974,
+    "id": "00847-bCPU9suPUw9_sequence_19_0",
+    "instruction": "Find the marble-top kitchen sink cabinet",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.21643
+}

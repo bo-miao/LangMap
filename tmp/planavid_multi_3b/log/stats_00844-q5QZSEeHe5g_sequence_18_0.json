@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 18.51718018949032,
+    "id": "00844-q5QZSEeHe5g_sequence_18_0",
+    "instruction": "Find the ceramic bowl in hall with stand under stairs",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.89605
+}

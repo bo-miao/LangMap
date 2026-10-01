@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.69947,
+    "path_length": 4.753479674458504,
+    "id": "00835-q3zU7Yy5E5s_sequence_5_1",
+    "instruction": "Find the bathtub in the bathroom that has blue bathtub",
+    "navigation_type": "region",
+    "final_goal_dist": 0.04882
+}

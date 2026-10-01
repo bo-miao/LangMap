@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 9.099999397993088,
+    "id": "00802-wcojb4TFT35_sequence_0_0",
+    "instruction": "Find the bottom line drawing picture in bedroom with red bookshelf",
+    "navigation_type": "instance",
+    "final_goal_dist": 3.71578
+}

@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.5975363213936408,
+    "path_length": 26.37899923324585,
+    "id": "00853-5cdEh9F2hJL_region_72",
+    "instruction": "Find the kitchen cabinet in the kitchen that has dark kitchen island",
+    "final_goal_dist": 0.1181
+}

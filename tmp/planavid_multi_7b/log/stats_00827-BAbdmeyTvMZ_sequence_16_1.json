@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.001604,
+    "path_length": 66.93872933834791,
+    "id": "00827-BAbdmeyTvMZ_sequence_16_1",
+    "instruction": "Find the console table in the Kitchen",
+    "navigation_type": "room",
+    "final_goal_dist": 0.14715
+}

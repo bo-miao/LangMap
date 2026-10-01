@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 80.23272089660168,
+    "id": "00880-Nfvxx8J5NCo_sequence_9_3",
+    "instruction": "Find the printer in the office that has foosball table",
+    "navigation_type": "region",
+    "final_goal_dist": 5.8467
+}

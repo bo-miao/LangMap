@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.008221,
+    "path_length": 13.787712410092354,
+    "id": "00802-wcojb4TFT35_sequence_16_4",
+    "instruction": "Find the piano bench",
+    "navigation_type": "object",
+    "final_goal_dist": 0.11113
+}

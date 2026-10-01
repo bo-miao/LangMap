@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.6864030818429321,
+    "path_length": 8.658733427524567,
+    "id": "00802-wcojb4TFT35_room_57",
+    "instruction": "Find the dining table in the Dining room",
+    "final_goal_dist": 0.06683
+}

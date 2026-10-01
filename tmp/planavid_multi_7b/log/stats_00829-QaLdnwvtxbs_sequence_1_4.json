@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.599405,
+    "path_length": 11.987485095858574,
+    "id": "00829-QaLdnwvtxbs_sequence_1_4",
+    "instruction": "Find the coffee table",
+    "navigation_type": "object",
+    "final_goal_dist": 0.14881
+}

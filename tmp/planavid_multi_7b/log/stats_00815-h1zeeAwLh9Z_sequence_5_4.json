@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.765437,
+    "path_length": 15.000000640749931,
+    "id": "00815-h1zeeAwLh9Z_sequence_5_4",
+    "instruction": "Find the decorative plant in the Kitchen",
+    "navigation_type": "room",
+    "final_goal_dist": 0.09778
+}

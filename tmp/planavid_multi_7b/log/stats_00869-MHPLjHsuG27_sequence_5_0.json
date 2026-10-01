@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 80.08914417028427,
+    "id": "00869-MHPLjHsuG27_sequence_5_0",
+    "instruction": "Find the rice cooker",
+    "navigation_type": "instance",
+    "final_goal_dist": 6.23792
+}

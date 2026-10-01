@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.7010301860829197,
+    "path_length": 10.013089284300804,
+    "id": "00823-7MXmsvcQjpJ_sequence_3_2",
+    "instruction": "Find the robe in the Bathroom",
+    "navigation_type": "room",
+    "final_goal_dist": 0.02179
+}

@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.8405033837802558,
+    "path_length": 5.777272209525108,
+    "id": "00847-bCPU9suPUw9_room_12",
+    "instruction": "Find the laundry basket in the Bathroom",
+    "final_goal_dist": 0.15648
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.2180475473076324,
+    "path_length": 15.262244254350662,
+    "id": "00815-h1zeeAwLh9Z_sequence_7_4",
+    "instruction": "Find the table in the dining room that has oval dining table",
+    "navigation_type": "region",
+    "final_goal_dist": 0.12643
+}

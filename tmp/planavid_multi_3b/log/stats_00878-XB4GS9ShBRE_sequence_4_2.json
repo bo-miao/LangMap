@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 5.410393342375755,
+    "id": "00878-XB4GS9ShBRE_sequence_4_2",
+    "instruction": "Find the throw blanket in the bedroom that has light-gray bed headboard",
+    "navigation_type": "region",
+    "final_goal_dist": 4.58833
+}

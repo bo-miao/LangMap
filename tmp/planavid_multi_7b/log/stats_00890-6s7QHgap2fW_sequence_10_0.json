@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 28.75256043113768,
+    "id": "00890-6s7QHgap2fW_sequence_10_0",
+    "instruction": "Find the baby changing table in dining room",
+    "navigation_type": "instance",
+    "final_goal_dist": 7.32269
+}

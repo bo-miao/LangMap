@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.48046761314938274,
+    "path_length": 19.504176691174507,
+    "id": "00824-Dd4bFSTQ8gi_region_42",
+    "instruction": "Find the shelf in the tie: kitchen & living room that has couch near oven and curved bench, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 0.19049
+}

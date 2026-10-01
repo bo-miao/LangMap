@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 6.758353754878044,
+    "id": "00844-q5QZSEeHe5g_sequence_14_0",
+    "instruction": "Find the shelf with sunflower on orange wall",
+    "navigation_type": "instance",
+    "final_goal_dist": 3.97015
+}

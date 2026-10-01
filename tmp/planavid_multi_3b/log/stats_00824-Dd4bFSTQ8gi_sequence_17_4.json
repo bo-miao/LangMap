@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 52.25000500679016,
+    "id": "00824-Dd4bFSTQ8gi_sequence_17_4",
+    "instruction": "Find the blanket in the Living room",
+    "navigation_type": "room",
+    "final_goal_dist": 11.8773
+}

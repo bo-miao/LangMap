@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 26.45746110379696,
+    "id": "00844-q5QZSEeHe5g_sequence_1_0",
+    "instruction": "Find the rolled towels on wall shelf",
+    "navigation_type": "instance",
+    "final_goal_dist": 1.10771
+}

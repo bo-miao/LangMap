@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.22352051320455746,
+    "path_length": 50.0316271558404,
+    "id": "00876-mv2HUxq3B53_sequence_8_0",
+    "instruction": "Find the steel toaster",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.24908
+}

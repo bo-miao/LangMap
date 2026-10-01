@@ -1,0 +1,8 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 7.7500019278377295,
+    "id": "00820-mL8ThkuaVTM_region_40",
+    "instruction": "Find the kitchen sink in the tie: kitchen & living room that has TV and dining table, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 1.37813
+}

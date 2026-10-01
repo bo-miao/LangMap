@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 33.24370667338371,
+    "id": "00869-MHPLjHsuG27_sequence_17_1",
+    "instruction": "Find the chest of drawers in the tie: dining room & living room that has glass dining table, 'Tie: A & B' means the area spans both rooms A and B",
+    "navigation_type": "region",
+    "final_goal_dist": 3.67958
+}

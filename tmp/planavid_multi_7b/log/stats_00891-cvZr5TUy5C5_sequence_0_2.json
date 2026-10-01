@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 22.249132096767426,
+    "id": "00891-cvZr5TUy5C5_sequence_0_2",
+    "instruction": "Find the shelf in the Office",
+    "navigation_type": "room",
+    "final_goal_dist": 14.36147
+}

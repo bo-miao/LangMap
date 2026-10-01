@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.2078783936504687,
+    "path_length": 30.531200721859932,
+    "id": "00853-5cdEh9F2hJL_sequence_8_3",
+    "instruction": "Find the picture in the Bedroom",
+    "navigation_type": "room",
+    "final_goal_dist": 0.05218
+}

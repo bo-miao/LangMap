@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 32.99841596931219,
+    "id": "00813-svBbv1Pavdk_sequence_0_3",
+    "instruction": "Find the flowerpot in the bedroom that has bed with patterned blanket",
+    "navigation_type": "region",
+    "final_goal_dist": 5.82847
+}

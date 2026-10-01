@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.130823,
+    "path_length": 31.04558165371418,
+    "id": "00831-yr17PDCnDDW_sequence_16_1",
+    "instruction": "Find the floor mat",
+    "navigation_type": "object",
+    "final_goal_dist": 0.15646
+}

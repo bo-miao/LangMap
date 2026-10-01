@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.19959270406447252,
+    "path_length": 28.08505815267563,
+    "id": "00820-mL8ThkuaVTM_sequence_18_1",
+    "instruction": "Find the picture in the Hall",
+    "navigation_type": "room",
+    "final_goal_dist": 0.19269
+}

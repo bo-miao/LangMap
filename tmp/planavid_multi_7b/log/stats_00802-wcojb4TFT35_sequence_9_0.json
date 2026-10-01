@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.274998,
+    "path_length": 36.687783770263195,
+    "id": "00802-wcojb4TFT35_sequence_9_0",
+    "instruction": "Find the tv above fireplace",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.17132
+}

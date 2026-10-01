@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.6945393635948586,
+    "path_length": 11.987524405121803,
+    "id": "00844-q5QZSEeHe5g_region_136",
+    "instruction": "Find the stove in the kitchen that has white refrigerator",
+    "final_goal_dist": 0.15058
+}

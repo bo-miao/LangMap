@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 49.624878972768784,
+    "id": "00891-cvZr5TUy5C5_sequence_13_2",
+    "instruction": "Find the art frame in the tie: bathroom & bedroom that has white-and-beige bedding near double-sink bath vanity, 'Tie: A & B' means the area spans both rooms A and B",
+    "navigation_type": "region",
+    "final_goal_dist": 5.02817
+}

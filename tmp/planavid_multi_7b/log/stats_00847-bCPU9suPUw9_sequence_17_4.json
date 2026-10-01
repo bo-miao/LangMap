@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.558709,
+    "path_length": 7.7416702806949615,
+    "id": "00847-bCPU9suPUw9_sequence_17_4",
+    "instruction": "Find the refrigerator in the dining room that has round dining table",
+    "navigation_type": "region",
+    "final_goal_dist": 0.17751
+}

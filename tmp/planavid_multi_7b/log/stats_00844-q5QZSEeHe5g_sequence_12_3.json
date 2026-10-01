@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.217335,
+    "path_length": 0.7500001788139343,
+    "id": "00844-q5QZSEeHe5g_sequence_12_3",
+    "instruction": "Find the dressing table",
+    "navigation_type": "object",
+    "final_goal_dist": 0.12489
+}

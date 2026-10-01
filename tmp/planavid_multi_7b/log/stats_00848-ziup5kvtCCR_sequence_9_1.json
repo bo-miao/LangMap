@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.085546,
+    "path_length": 5.249999836087227,
+    "id": "00848-ziup5kvtCCR_sequence_9_1",
+    "instruction": "Find the bath cabinet",
+    "navigation_type": "object",
+    "final_goal_dist": 0.10426
+}

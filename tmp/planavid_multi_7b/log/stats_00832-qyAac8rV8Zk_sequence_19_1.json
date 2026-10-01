@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.813521,
+    "path_length": 7.999999433755875,
+    "id": "00832-qyAac8rV8Zk_sequence_19_1",
+    "instruction": "Find the couch in the tie: living room & office that has steam locomotive pictures, 'Tie: A & B' means the area spans both rooms A and B",
+    "navigation_type": "region",
+    "final_goal_dist": 0.03224
+}

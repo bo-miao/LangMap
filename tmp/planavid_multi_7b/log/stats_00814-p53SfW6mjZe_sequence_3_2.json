@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 13.999991342425346,
+    "id": "00814-p53SfW6mjZe_sequence_3_2",
+    "instruction": "Find the pool stick in the Rec room",
+    "navigation_type": "room",
+    "final_goal_dist": 0.95381
+}

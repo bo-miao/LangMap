@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 75.46374449133873,
+    "id": "00877-4ok3usBNeis_sequence_19_2",
+    "instruction": "Find the dresser",
+    "navigation_type": "object",
+    "final_goal_dist": 5.39526
+}

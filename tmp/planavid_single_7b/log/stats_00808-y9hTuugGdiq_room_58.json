@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.5306898692808918,
+    "path_length": 18.024725764989853,
+    "id": "00808-y9hTuugGdiq_room_58",
+    "instruction": "Find the ice maker in the Living room",
+    "final_goal_dist": 0.07032
+}

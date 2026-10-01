@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.1200958481853738,
+    "path_length": 86.2400890737772,
+    "id": "00891-cvZr5TUy5C5_region_24",
+    "instruction": "Find the armchair in the tie: bathroom & rec room that has heart-shaped wall-shelf, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 0.18178
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.5066708759096694,
+    "path_length": 15.950390413403511,
+    "id": "00810-CrMo8WxCyVb_sequence_12_4",
+    "instruction": "Find the flower vase in the bathroom that has dark wood vanity by toilet",
+    "navigation_type": "region",
+    "final_goal_dist": 0.17094
+}

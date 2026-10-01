@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.706447,
+    "path_length": 9.82387401163578,
+    "id": "00810-CrMo8WxCyVb_sequence_19_0",
+    "instruction": "Find the oven and stove",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.15675
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.004186919486351882,
+    "path_length": 16.183393985033035,
+    "id": "00803-k1cupFYWXJ6_sequence_1_1",
+    "instruction": "Find the decorative plant in the hall that has beige patterned armchairs",
+    "navigation_type": "region",
+    "final_goal_dist": 0.06759
+}

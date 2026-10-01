@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.409817,
+    "path_length": 30.249995186924934,
+    "id": "00839-zt1RVoi7PcG_sequence_4_3",
+    "instruction": "Find the armchair in the rec room that has dark snack wall",
+    "navigation_type": "region",
+    "final_goal_dist": 0.11894
+}

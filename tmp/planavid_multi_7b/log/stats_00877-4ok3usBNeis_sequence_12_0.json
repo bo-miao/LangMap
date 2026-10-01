@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.601071,
+    "path_length": 11.727014169096947,
+    "id": "00877-4ok3usBNeis_sequence_12_0",
+    "instruction": "Find the tufted leather couch",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.15164
+}

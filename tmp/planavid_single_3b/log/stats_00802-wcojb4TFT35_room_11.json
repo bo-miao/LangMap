@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.6898864636277083,
+    "path_length": 9.972669437527657,
+    "id": "00802-wcojb4TFT35_room_11",
+    "instruction": "Find the bookshelf in the Living room",
+    "final_goal_dist": 0.16084
+}

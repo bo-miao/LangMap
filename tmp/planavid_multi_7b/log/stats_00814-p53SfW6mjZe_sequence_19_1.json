@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.518851,
+    "path_length": 9.055640831589699,
+    "id": "00814-p53SfW6mjZe_sequence_19_1",
+    "instruction": "Find the table in the dining room that has wood dining table with fruit",
+    "navigation_type": "region",
+    "final_goal_dist": 0.02692
+}

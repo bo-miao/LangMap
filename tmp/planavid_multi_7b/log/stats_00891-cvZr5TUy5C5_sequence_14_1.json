@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 38.24999789893627,
+    "id": "00891-cvZr5TUy5C5_sequence_14_1",
+    "instruction": "Find the toilet in the bathroom that has gray shower curtain",
+    "navigation_type": "region",
+    "final_goal_dist": 9.15675
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.596428,
+    "path_length": 5.466770529747009,
+    "id": "00820-mL8ThkuaVTM_sequence_6_0",
+    "instruction": "Find the black fireplace",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.1614
+}

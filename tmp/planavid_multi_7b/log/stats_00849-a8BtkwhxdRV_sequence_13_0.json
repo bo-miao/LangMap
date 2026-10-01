@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 52.41840706951916,
+    "id": "00849-a8BtkwhxdRV_sequence_13_0",
+    "instruction": "Find the black radiator beside lamp near rectangle dining table",
+    "navigation_type": "instance",
+    "final_goal_dist": 8.63744
+}

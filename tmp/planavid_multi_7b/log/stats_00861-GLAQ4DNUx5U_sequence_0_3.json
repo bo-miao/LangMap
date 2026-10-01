@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 42.74662794172764,
+    "id": "00861-GLAQ4DNUx5U_sequence_0_3",
+    "instruction": "Find the heater in the bathroom that has double-sink bath vanity",
+    "navigation_type": "region",
+    "final_goal_dist": 10.54499
+}

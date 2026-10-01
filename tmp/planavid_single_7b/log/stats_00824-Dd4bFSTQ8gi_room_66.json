@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.7196889149414804,
+    "path_length": 11.459019303321838,
+    "id": "00824-Dd4bFSTQ8gi_room_66",
+    "instruction": "Find the kitchen extractor in the Living room",
+    "final_goal_dist": 0.16082
+}

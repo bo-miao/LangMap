@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.35401889890103927,
+    "path_length": 19.476179461926222,
+    "id": "00832-qyAac8rV8Zk_room_36",
+    "instruction": "Find the sink in the Living room",
+    "final_goal_dist": 0.05332
+}

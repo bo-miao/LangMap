@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.7723661513299482,
+    "path_length": 9.69839271903038,
+    "id": "00823-7MXmsvcQjpJ_region_51",
+    "instruction": "Find the book in the living room that has wood piano",
+    "final_goal_dist": 0.02936
+}

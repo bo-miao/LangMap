@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.07352861586751686,
+    "path_length": 1.500000238418579,
+    "id": "00813-svBbv1Pavdk_sequence_5_1",
+    "instruction": "Find the flowerpot",
+    "navigation_type": "object",
+    "final_goal_dist": 0.13043
+}

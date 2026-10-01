@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.3819004287200741,
+    "path_length": 19.439811289310455,
+    "id": "00873-bxsVRursffK_sequence_9_1",
+    "instruction": "Find the bathtub",
+    "navigation_type": "object",
+    "final_goal_dist": 0.22497
+}

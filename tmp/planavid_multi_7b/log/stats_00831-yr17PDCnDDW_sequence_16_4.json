@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 24.89812907576561,
+    "id": "00831-yr17PDCnDDW_sequence_16_4",
+    "instruction": "Find the green bottle beside coffee machine",
+    "navigation_type": "instance",
+    "final_goal_dist": 2.01902
+}

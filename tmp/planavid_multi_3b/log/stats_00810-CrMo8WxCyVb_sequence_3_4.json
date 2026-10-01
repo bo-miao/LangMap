@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 67.10843458771706,
+    "id": "00810-CrMo8WxCyVb_sequence_3_4",
+    "instruction": "Find the toilet in the bathroom that has double-sink vanity",
+    "navigation_type": "region",
+    "final_goal_dist": 8.42258
+}

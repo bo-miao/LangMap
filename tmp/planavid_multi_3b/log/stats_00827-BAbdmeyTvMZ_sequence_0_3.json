@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.03543456209628344,
+    "path_length": 26.378576416522264,
+    "id": "00827-BAbdmeyTvMZ_sequence_0_3",
+    "instruction": "Find the rug",
+    "navigation_type": "object",
+    "final_goal_dist": 0.11689
+}

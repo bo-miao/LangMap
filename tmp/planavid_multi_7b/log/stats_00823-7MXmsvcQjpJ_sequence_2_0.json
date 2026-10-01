@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 25.904074400663376,
+    "id": "00823-7MXmsvcQjpJ_sequence_2_0",
+    "instruction": "Find the heater in bedroom near wood bench below wall mirror",
+    "navigation_type": "instance",
+    "final_goal_dist": 3.9581
+}

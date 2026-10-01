@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.3734745503556146,
+    "path_length": 7.00000025331974,
+    "id": "00803-k1cupFYWXJ6_sequence_14_4",
+    "instruction": "Find the teal carpet with white swirls",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.07652
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 81.34617459401488,
+    "id": "00890-6s7QHgap2fW_sequence_2_0",
+    "instruction": "Find the bookshelf near two dark couches",
+    "navigation_type": "instance",
+    "final_goal_dist": 22.19528
+}

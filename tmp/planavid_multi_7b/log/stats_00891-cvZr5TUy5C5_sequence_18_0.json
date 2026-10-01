@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 54.54999769479036,
+    "id": "00891-cvZr5TUy5C5_sequence_18_0",
+    "instruction": "Find the tall plant behind a paisley fabric couch",
+    "navigation_type": "instance",
+    "final_goal_dist": 3.74629
+}

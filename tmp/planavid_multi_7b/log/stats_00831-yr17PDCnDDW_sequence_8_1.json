@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 47.48160457611084,
+    "id": "00831-yr17PDCnDDW_sequence_8_1",
+    "instruction": "Find the armchair in the Living room",
+    "navigation_type": "room",
+    "final_goal_dist": 7.69354
+}

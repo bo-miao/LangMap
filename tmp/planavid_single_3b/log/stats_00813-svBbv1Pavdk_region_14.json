@@ -1,0 +1,8 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 11.657894309610128,
+    "id": "00813-svBbv1Pavdk_region_14",
+    "instruction": "Find the couch in the tie: living room & office that has gray couch below world map, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 7.07179
+}

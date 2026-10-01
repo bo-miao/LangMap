@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.341678,
+    "path_length": 24.732110012322664,
+    "id": "00814-p53SfW6mjZe_sequence_18_0",
+    "instruction": "Find the white kitchen cabinet above the toaster",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.22127
+}

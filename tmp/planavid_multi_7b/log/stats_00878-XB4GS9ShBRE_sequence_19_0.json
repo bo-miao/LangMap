@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.809523,
+    "path_length": 5.164978623390198,
+    "id": "00878-XB4GS9ShBRE_sequence_19_0",
+    "instruction": "Find the stainless double sink in kitchen",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.15087
+}

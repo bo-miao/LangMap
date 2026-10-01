@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.458388,
+    "path_length": 14.84382490068674,
+    "id": "00877-4ok3usBNeis_sequence_3_0",
+    "instruction": "Find the toilet below blue towel",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.06948
+}

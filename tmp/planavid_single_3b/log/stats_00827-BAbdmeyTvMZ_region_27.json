@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.5548122412362869,
+    "path_length": 13.86208088719286,
+    "id": "00827-BAbdmeyTvMZ_region_27",
+    "instruction": "Find the bed in the bedroom that has bed with turquoise pillows",
+    "final_goal_dist": 0.16044
+}

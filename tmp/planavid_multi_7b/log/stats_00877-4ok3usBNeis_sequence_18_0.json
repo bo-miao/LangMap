@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.524483,
+    "path_length": 20.750006154179573,
+    "id": "00877-4ok3usBNeis_sequence_18_0",
+    "instruction": "Find the kitchen cabinet above cutting board",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.03666
+}

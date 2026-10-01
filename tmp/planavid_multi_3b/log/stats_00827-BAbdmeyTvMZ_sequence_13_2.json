@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.5322044337822189,
+    "path_length": 22.051253708079457,
+    "id": "00827-BAbdmeyTvMZ_sequence_13_2",
+    "instruction": "Find the armchair",
+    "navigation_type": "object",
+    "final_goal_dist": 0.1867
+}

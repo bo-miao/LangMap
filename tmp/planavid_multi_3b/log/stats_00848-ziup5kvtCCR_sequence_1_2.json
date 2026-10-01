@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 6.500001460313797,
+    "id": "00848-ziup5kvtCCR_sequence_1_2",
+    "instruction": "Find the clock in the Bedroom",
+    "navigation_type": "room",
+    "final_goal_dist": 7.61934
+}

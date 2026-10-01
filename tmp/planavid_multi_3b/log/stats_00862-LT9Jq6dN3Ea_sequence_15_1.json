@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.7172412042409909,
+    "path_length": 17.826175272464752,
+    "id": "00862-LT9Jq6dN3Ea_sequence_15_1",
+    "instruction": "Find the speaker in the Living room",
+    "navigation_type": "room",
+    "final_goal_dist": 0.15215
+}

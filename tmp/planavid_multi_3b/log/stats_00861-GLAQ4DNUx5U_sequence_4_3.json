@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.68151177779591,
+    "path_length": 14.985006779432297,
+    "id": "00861-GLAQ4DNUx5U_sequence_4_3",
+    "instruction": "Find the decorative plant",
+    "navigation_type": "object",
+    "final_goal_dist": 0.05165
+}

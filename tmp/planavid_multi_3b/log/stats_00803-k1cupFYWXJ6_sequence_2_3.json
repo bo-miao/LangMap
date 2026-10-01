@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 8.02606712281704,
+    "id": "00803-k1cupFYWXJ6_sequence_2_3",
+    "instruction": "Find the bust in the hall that has beige patterned armchairs",
+    "navigation_type": "region",
+    "final_goal_dist": 3.80268
+}

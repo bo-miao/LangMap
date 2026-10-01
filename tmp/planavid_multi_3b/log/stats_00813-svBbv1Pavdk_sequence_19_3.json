@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.25078031829601843,
+    "path_length": 11.75000049173832,
+    "id": "00813-svBbv1Pavdk_sequence_19_3",
+    "instruction": "Find the couch in the Living room",
+    "navigation_type": "room",
+    "final_goal_dist": 0.05427
+}

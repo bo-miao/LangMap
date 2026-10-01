@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.011688,
+    "path_length": 9.24999414384365,
+    "id": "00815-h1zeeAwLh9Z_sequence_3_1",
+    "instruction": "Find the piano",
+    "navigation_type": "object",
+    "final_goal_dist": 0.10066
+}

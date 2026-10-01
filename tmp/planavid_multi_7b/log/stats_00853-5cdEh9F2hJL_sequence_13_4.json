@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 18.75721363723278,
+    "id": "00853-5cdEh9F2hJL_sequence_13_4",
+    "instruction": "Find the wall tv in the Dining room",
+    "navigation_type": "room",
+    "final_goal_dist": 8.01163
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 23.51448394358158,
+    "id": "00869-MHPLjHsuG27_sequence_18_2",
+    "instruction": "Find the plush toy in the Bedroom",
+    "navigation_type": "room",
+    "final_goal_dist": 4.22857
+}

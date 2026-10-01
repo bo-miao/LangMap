@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.6962944847113578,
+    "path_length": 11.962898820638657,
+    "id": "00844-q5QZSEeHe5g_instance_102",
+    "instruction": "Find the white stove in kitchen",
+    "final_goal_dist": 0.19286
+}

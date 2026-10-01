@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.04677485368219096,
+    "path_length": 2.502283290028572,
+    "id": "00847-bCPU9suPUw9_sequence_6_2",
+    "instruction": "Find the oven in the kitchen that has black dishwasher",
+    "navigation_type": "region",
+    "final_goal_dist": 0.14043
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 1.4999996423721313,
+    "id": "00843-DYehNKdT76V_sequence_13_1",
+    "instruction": "Find the cabinet in the bathroom that has single-sink brown bath cabinet",
+    "navigation_type": "region",
+    "final_goal_dist": 2.52516
+}

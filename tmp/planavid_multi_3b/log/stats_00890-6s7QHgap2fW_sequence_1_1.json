@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.6880920915000691,
+    "path_length": 24.933571442961693,
+    "id": "00890-6s7QHgap2fW_sequence_1_1",
+    "instruction": "Find the range hood in the kitchen that has white kitchen cabinets",
+    "navigation_type": "region",
+    "final_goal_dist": 0.0987
+}

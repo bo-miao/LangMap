@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 59.08993507921696,
+    "id": "00821-eF36g7L6Z9M_sequence_7_0",
+    "instruction": "Find the metal fireplace utensil by stone fireplace",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.51376
+}

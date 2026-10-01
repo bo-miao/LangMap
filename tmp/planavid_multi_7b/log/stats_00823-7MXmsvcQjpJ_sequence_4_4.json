@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.208654,
+    "path_length": 0.09914904832839966,
+    "id": "00823-7MXmsvcQjpJ_sequence_4_4",
+    "instruction": "Find the board in the Office",
+    "navigation_type": "room",
+    "final_goal_dist": 0.07846
+}

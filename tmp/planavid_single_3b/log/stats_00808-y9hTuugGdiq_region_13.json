@@ -1,0 +1,8 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 81.95321986079216,
+    "id": "00808-y9hTuugGdiq_region_13",
+    "instruction": "Find the picture in the tie: dining room & living room that has dining table and teal wall, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 2.31564
+}

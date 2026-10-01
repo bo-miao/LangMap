@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 78.24921774864197,
+    "id": "00877-4ok3usBNeis_sequence_16_1",
+    "instruction": "Find the dresser in the Office",
+    "navigation_type": "room",
+    "final_goal_dist": 0.2907
+}

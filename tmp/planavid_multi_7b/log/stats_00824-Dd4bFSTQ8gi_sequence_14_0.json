@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.415634,
+    "path_length": 19.55000437796116,
+    "id": "00824-Dd4bFSTQ8gi_sequence_14_0",
+    "instruction": "Find the white kitchen cabinet with stove",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.09015
+}

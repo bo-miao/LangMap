@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.43636979413780996,
+    "path_length": 6.89221028983593,
+    "id": "00823-7MXmsvcQjpJ_sequence_5_4",
+    "instruction": "Find the chest in the bedroom that has cowboy horse cartoon poster",
+    "navigation_type": "region",
+    "final_goal_dist": 0.17326
+}

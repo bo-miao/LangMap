@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.324101,
+    "path_length": 15.728621438145638,
+    "id": "00891-cvZr5TUy5C5_sequence_2_4",
+    "instruction": "Find the dining table in the kitchen that has stainless refrigerator",
+    "navigation_type": "region",
+    "final_goal_dist": 0.09741
+}

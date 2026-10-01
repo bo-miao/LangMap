@@ -1,0 +1,8 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 22.742358162999153,
+    "id": "00873-bxsVRursffK_region_24",
+    "instruction": "Find the book in the tie: kitchen & living room that has dark kitchen island, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 1.76233
+}

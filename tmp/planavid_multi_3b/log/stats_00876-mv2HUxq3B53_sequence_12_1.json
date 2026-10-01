@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 17.752960234880447,
+    "id": "00876-mv2HUxq3B53_sequence_12_1",
+    "instruction": "Find the stool below two blue-and-beige paintings",
+    "navigation_type": "instance",
+    "final_goal_dist": 11.39017
+}

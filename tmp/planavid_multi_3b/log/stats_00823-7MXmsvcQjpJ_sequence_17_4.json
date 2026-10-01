@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.7535618059686197,
+    "path_length": 15.49495704472065,
+    "id": "00823-7MXmsvcQjpJ_sequence_17_4",
+    "instruction": "Find the table in the kitchen that has white refrigerator",
+    "navigation_type": "region",
+    "final_goal_dist": 0.1852
+}

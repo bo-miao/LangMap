@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 7.958364170044661,
+    "id": "00873-bxsVRursffK_sequence_1_0",
+    "instruction": "Find the bath towel beside double-sink vanity",
+    "navigation_type": "instance",
+    "final_goal_dist": 8.67435
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.378585,
+    "path_length": 18.474935814738274,
+    "id": "00878-XB4GS9ShBRE_sequence_3_4",
+    "instruction": "Find the iron board in the walk-in closet that has iron board",
+    "navigation_type": "region",
+    "final_goal_dist": 0.09177
+}

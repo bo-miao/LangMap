@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 9.652499914169312,
+    "id": "00843-DYehNKdT76V_sequence_4_0",
+    "instruction": "Find the double-sink bath cabinet",
+    "navigation_type": "instance",
+    "final_goal_dist": 6.65624
+}

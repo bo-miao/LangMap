@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 2.9807652682065964,
+    "id": "00878-XB4GS9ShBRE_sequence_7_4",
+    "instruction": "Find the cabinet in the bedroom that has black headboard",
+    "navigation_type": "region",
+    "final_goal_dist": 5.75247
+}

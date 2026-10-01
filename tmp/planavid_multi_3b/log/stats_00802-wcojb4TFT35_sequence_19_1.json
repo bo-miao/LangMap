@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.24051681915752057,
+    "path_length": 13.388423085212708,
+    "id": "00802-wcojb4TFT35_sequence_19_1",
+    "instruction": "Find the table in the Living room",
+    "navigation_type": "room",
+    "final_goal_dist": 0.16494
+}

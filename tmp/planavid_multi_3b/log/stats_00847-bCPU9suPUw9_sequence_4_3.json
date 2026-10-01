@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.49093574393561557,
+    "path_length": 2.7500003278255463,
+    "id": "00847-bCPU9suPUw9_sequence_4_3",
+    "instruction": "Find the table",
+    "navigation_type": "object",
+    "final_goal_dist": 0.13923
+}

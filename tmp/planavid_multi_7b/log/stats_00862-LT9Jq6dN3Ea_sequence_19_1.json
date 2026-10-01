@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.498247,
+    "path_length": 2.4999998658895493,
+    "id": "00862-LT9Jq6dN3Ea_sequence_19_1",
+    "instruction": "Find the sink",
+    "navigation_type": "object",
+    "final_goal_dist": 0.22561
+}

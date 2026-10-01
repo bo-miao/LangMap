@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 33.673174008727074,
+    "id": "00853-5cdEh9F2hJL_sequence_1_4",
+    "instruction": "Find the end table in the Office",
+    "navigation_type": "room",
+    "final_goal_dist": 11.05095
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.464063,
+    "path_length": 20.03022140264511,
+    "id": "00814-p53SfW6mjZe_sequence_2_3",
+    "instruction": "Find the coffee table in the tie: hall & living room that has burgundy leather couch, 'Tie: A & B' means the area spans both rooms A and B",
+    "navigation_type": "region",
+    "final_goal_dist": 0.12049
+}

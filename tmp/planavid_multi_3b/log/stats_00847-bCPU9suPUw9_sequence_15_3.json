@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 38.49013643339276,
+    "id": "00847-bCPU9suPUw9_sequence_15_3",
+    "instruction": "Find the floor mat",
+    "navigation_type": "object",
+    "final_goal_dist": 1.27231
+}

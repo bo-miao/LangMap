@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 34.157809279859066,
+    "id": "00821-eF36g7L6Z9M_sequence_13_2",
+    "instruction": "Find the washbasin in the Bathroom",
+    "navigation_type": "room",
+    "final_goal_dist": 5.42263
+}

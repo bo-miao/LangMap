@@ -1,0 +1,8 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 81.36622627079487,
+    "id": "00880-Nfvxx8J5NCo_region_28",
+    "instruction": "Find the coffee machine in the tie: kitchen & living room that has white kitchen island, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 3.74491
+}

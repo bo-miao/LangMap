@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 21.270719826221466,
+    "id": "00891-cvZr5TUy5C5_sequence_1_0",
+    "instruction": "Find the left brown leather armchair below Maurin Quina poster",
+    "navigation_type": "instance",
+    "final_goal_dist": 12.51676
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 3.2224295400083065,
+    "id": "00849-a8BtkwhxdRV_sequence_7_4",
+    "instruction": "Find the desk in the dining room that has rectangle dining table",
+    "navigation_type": "region",
+    "final_goal_dist": 6.67992
+}

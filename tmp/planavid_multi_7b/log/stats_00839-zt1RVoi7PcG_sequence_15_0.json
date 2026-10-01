@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 0.09999673813581467,
+    "id": "00839-zt1RVoi7PcG_sequence_15_0",
+    "instruction": "Find the wall-mounted tv near a child bed",
+    "navigation_type": "instance",
+    "final_goal_dist": 9.38408
+}

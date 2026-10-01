@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.286688,
+    "path_length": 24.500004053115845,
+    "id": "00877-4ok3usBNeis_sequence_1_0",
+    "instruction": "Find the dresser in storage room",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.09711
+}

@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.7108694841466612,
+    "path_length": 12.257759138941765,
+    "id": "00808-y9hTuugGdiq_room_72",
+    "instruction": "Find the kitchen counter in the Living room",
+    "final_goal_dist": 0.13465
+}

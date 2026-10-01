@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.499137,
+    "path_length": 8.457795843482018,
+    "id": "00847-bCPU9suPUw9_sequence_5_1",
+    "instruction": "Find the toilet in the bathroom that has toilet near kitchen",
+    "navigation_type": "region",
+    "final_goal_dist": 0.21987
+}

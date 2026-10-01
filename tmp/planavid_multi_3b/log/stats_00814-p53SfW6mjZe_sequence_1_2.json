@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.15045714008255764,
+    "path_length": 17.983192294836044,
+    "id": "00814-p53SfW6mjZe_sequence_1_2",
+    "instruction": "Find the hat in the tie: hall & living room that has burgundy leather couch, 'Tie: A & B' means the area spans both rooms A and B",
+    "navigation_type": "region",
+    "final_goal_dist": 0.11932
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 8.25000448524952,
+    "id": "00862-LT9Jq6dN3Ea_sequence_17_0",
+    "instruction": "Find the toilet near freestanding bathtub",
+    "navigation_type": "instance",
+    "final_goal_dist": 19.47285
+}

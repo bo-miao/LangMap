@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 7.462408140301704,
+    "id": "00835-q3zU7Yy5E5s_sequence_11_1",
+    "instruction": "Find the rug in the Bedroom",
+    "navigation_type": "room",
+    "final_goal_dist": 5.45263
+}

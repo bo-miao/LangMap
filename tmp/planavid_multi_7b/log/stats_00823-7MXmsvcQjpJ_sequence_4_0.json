@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.143474,
+    "path_length": 48.42547254264355,
+    "id": "00823-7MXmsvcQjpJ_sequence_4_0",
+    "instruction": "Find the hanging red-green plaid robe",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.05393
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 12.992532208561897,
+    "id": "00849-a8BtkwhxdRV_sequence_18_3",
+    "instruction": "Find the bench in the tie: dining room & living room that has two red couches, 'Tie: A & B' means the area spans both rooms A and B",
+    "navigation_type": "region",
+    "final_goal_dist": 0.46489
+}

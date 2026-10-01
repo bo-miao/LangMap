@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 11.75000274181366,
+    "id": "00848-ziup5kvtCCR_sequence_5_2",
+    "instruction": "Find the bench in the tie: kitchen & living room that has curved kitchen island, 'Tie: A & B' means the area spans both rooms A and B",
+    "navigation_type": "region",
+    "final_goal_dist": 1.54822
+}

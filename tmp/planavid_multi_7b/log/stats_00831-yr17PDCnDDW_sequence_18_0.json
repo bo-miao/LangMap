@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 15.868774652481079,
+    "id": "00831-yr17PDCnDDW_sequence_18_0",
+    "instruction": "Find the two green glass bottles beside stainless sink",
+    "navigation_type": "instance",
+    "final_goal_dist": 18.12601
+}

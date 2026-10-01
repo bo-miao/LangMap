@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.01810574504021178,
+    "path_length": 10.804668426513672,
+    "id": "00878-XB4GS9ShBRE_sequence_13_2",
+    "instruction": "Find the kitchen cabinet in the kitchen that has dining table with turquoise placemats",
+    "navigation_type": "region",
+    "final_goal_dist": 0.04596
+}

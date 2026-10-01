@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.2298787004182946,
+    "path_length": 63.30201314389706,
+    "id": "00871-VBzV5z6i1WS_sequence_8_2",
+    "instruction": "Find the bath towel in the bathroom that has bathtub",
+    "navigation_type": "region",
+    "final_goal_dist": 0.08726
+}

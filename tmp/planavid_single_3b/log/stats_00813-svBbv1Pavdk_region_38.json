@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.5853828970949966,
+    "path_length": 17.271958645433187,
+    "id": "00813-svBbv1Pavdk_region_38",
+    "instruction": "Find the bed in the bedroom that has bed with brown headboard",
+    "final_goal_dist": 0.07663
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.833214,
+    "path_length": 8.740681037306786,
+    "id": "00823-7MXmsvcQjpJ_sequence_19_1",
+    "instruction": "Find the piano",
+    "navigation_type": "object",
+    "final_goal_dist": 0.09246
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.8269198756789525,
+    "path_length": 10.749999299645424,
+    "id": "00848-ziup5kvtCCR_sequence_0_2",
+    "instruction": "Find the nightstand in the bedroom that has brown headboard",
+    "navigation_type": "region",
+    "final_goal_dist": 0.11519
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.41801476459059544,
+    "path_length": 28.236322656273842,
+    "id": "00808-y9hTuugGdiq_sequence_16_1",
+    "instruction": "Find the refrigerator in the kitchen that has dark wood kitchen cabinets",
+    "navigation_type": "region",
+    "final_goal_dist": 0.08303
+}

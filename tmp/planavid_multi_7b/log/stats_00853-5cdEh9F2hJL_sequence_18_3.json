@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 79.57766516506672,
+    "id": "00853-5cdEh9F2hJL_sequence_18_3",
+    "instruction": "Find the closet storage area",
+    "navigation_type": "object",
+    "final_goal_dist": 6.70314
+}

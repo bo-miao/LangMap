@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.5317621765546077,
+    "path_length": 10.499998047947884,
+    "id": "00877-4ok3usBNeis_sequence_17_1",
+    "instruction": "Find the tv in the living room that has black leather couch",
+    "navigation_type": "region",
+    "final_goal_dist": 0.11736
+}

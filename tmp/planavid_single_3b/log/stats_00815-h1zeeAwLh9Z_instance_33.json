@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.7826549395975884,
+    "path_length": 9.317145522683859,
+    "id": "00815-h1zeeAwLh9Z_instance_33",
+    "instruction": "Find the flowerpot in kitchen",
+    "final_goal_dist": 0.11731
+}

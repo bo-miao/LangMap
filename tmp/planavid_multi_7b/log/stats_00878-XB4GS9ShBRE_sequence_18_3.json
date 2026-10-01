@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 11.27460752427578,
+    "id": "00878-XB4GS9ShBRE_sequence_18_3",
+    "instruction": "Find the sideboard in the tie: dining room & living room that has beige fabric couch, 'Tie: A & B' means the area spans both rooms A and B",
+    "navigation_type": "region",
+    "final_goal_dist": 3.10979
+}

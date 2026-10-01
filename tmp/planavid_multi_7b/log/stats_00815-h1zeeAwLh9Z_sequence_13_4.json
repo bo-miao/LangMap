@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.408137,
+    "path_length": 13.250004351139069,
+    "id": "00815-h1zeeAwLh9Z_sequence_13_4",
+    "instruction": "Find the bonsai tree in the Living room",
+    "navigation_type": "room",
+    "final_goal_dist": 0.07879
+}

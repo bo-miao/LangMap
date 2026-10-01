@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.33088480596929654,
+    "path_length": 48.45588941127062,
+    "id": "00814-p53SfW6mjZe_region_71",
+    "instruction": "Find the refrigerator in the laundry room that has side-by-side washing machines",
+    "final_goal_dist": 0.1011
+}

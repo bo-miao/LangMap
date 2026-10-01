@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 64.95802479051054,
+    "id": "00820-mL8ThkuaVTM_sequence_9_0",
+    "instruction": "Find the stainless washing machine",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.67885
+}

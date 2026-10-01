@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 11.036302305758,
+    "id": "00803-k1cupFYWXJ6_sequence_5_4",
+    "instruction": "Find the exhibition table in the Hall",
+    "navigation_type": "room",
+    "final_goal_dist": 0.27006
+}

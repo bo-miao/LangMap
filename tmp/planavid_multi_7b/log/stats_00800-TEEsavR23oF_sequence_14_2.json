@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.069041,
+    "path_length": 37.97211520373821,
+    "id": "00800-TEEsavR23oF_sequence_14_2",
+    "instruction": "Find the armchair in the Hall",
+    "navigation_type": "room",
+    "final_goal_dist": 0.18058
+}

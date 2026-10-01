@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.145335,
+    "path_length": 46.119859114289284,
+    "id": "00853-5cdEh9F2hJL_sequence_16_1",
+    "instruction": "Find the oven and stove in the kitchen that has dark kitchen island",
+    "navigation_type": "region",
+    "final_goal_dist": 0.1077
+}

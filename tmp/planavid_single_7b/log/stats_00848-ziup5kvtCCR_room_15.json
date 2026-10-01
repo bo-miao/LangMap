@@ -1,0 +1,8 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 75.79592256061733,
+    "id": "00848-ziup5kvtCCR_room_15",
+    "instruction": "Find the rug in the Tie: Kitchen & Living room, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 13.253
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 85.25546184927225,
+    "id": "00891-cvZr5TUy5C5_sequence_19_0",
+    "instruction": "Find the dark cabinet below wall-mounted TV",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.06184
+}

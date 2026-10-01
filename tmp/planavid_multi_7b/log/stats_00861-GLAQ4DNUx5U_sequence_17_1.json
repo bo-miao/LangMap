@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 0.0,
+    "id": "00861-GLAQ4DNUx5U_sequence_17_1",
+    "instruction": "Find the bath towel in the Bathroom",
+    "navigation_type": "room",
+    "final_goal_dist": 10.57222
+}

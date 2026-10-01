@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.330223,
+    "path_length": 40.755376655608416,
+    "id": "00853-5cdEh9F2hJL_sequence_6_0",
+    "instruction": "Find the bed with white headboard",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.10087
+}

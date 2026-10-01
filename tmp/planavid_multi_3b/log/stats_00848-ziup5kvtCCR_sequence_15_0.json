@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.34241649883588876,
+    "path_length": 28.500002516433597,
+    "id": "00848-ziup5kvtCCR_sequence_15_0",
+    "instruction": "Find the curved kitchen island counter",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.0967
+}

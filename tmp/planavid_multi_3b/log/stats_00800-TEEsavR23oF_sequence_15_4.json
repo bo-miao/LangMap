@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 81.34861473739147,
+    "id": "00800-TEEsavR23oF_sequence_15_4",
+    "instruction": "Find the bathroom cabinet in the bathroom that has bathtub",
+    "navigation_type": "region",
+    "final_goal_dist": 7.91499
+}

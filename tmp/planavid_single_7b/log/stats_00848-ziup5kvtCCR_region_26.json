@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.5031373261032468,
+    "path_length": 16.50000291876495,
+    "id": "00848-ziup5kvtCCR_region_26",
+    "instruction": "Find the refrigerator in the tie: kitchen & living room that has curved kitchen island, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 0.06897
+}

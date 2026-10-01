@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.078589,
+    "path_length": 65.58724588155746,
+    "id": "00829-QaLdnwvtxbs_sequence_9_4",
+    "instruction": "Find the note",
+    "navigation_type": "object",
+    "final_goal_dist": 0.17592
+}

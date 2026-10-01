@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 53.41776467114687,
+    "id": "00849-a8BtkwhxdRV_sequence_10_3",
+    "instruction": "Find the tray in the Dining room",
+    "navigation_type": "room",
+    "final_goal_dist": 8.74822
+}

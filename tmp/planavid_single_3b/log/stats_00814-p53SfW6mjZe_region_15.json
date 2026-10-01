@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.1234084127726599,
+    "path_length": 37.84309267997742,
+    "id": "00814-p53SfW6mjZe_region_15",
+    "instruction": "Find the cabinet in the living room that has L-shaped couch and red-top trunk",
+    "final_goal_dist": 0.04075
+}

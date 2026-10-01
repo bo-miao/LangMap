@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 21.799999352544546,
+    "id": "00813-svBbv1Pavdk_sequence_8_0",
+    "instruction": "Find the left nightstand near bed with patterned blanket",
+    "navigation_type": "instance",
+    "final_goal_dist": 1.10609
+}

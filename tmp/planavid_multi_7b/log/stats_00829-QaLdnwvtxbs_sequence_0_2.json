@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 20.49999976158142,
+    "id": "00829-QaLdnwvtxbs_sequence_0_2",
+    "instruction": "Find the console table in the hall that has round mirror",
+    "navigation_type": "region",
+    "final_goal_dist": 2.20641
+}

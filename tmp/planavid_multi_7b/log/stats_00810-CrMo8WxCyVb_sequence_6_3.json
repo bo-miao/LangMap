@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.259335,
+    "path_length": 10.241840332746506,
+    "id": "00810-CrMo8WxCyVb_sequence_6_3",
+    "instruction": "Find the cabinet in the Bedroom",
+    "navigation_type": "room",
+    "final_goal_dist": 0.16977
+}

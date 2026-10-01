@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 3.0000001192092896,
+    "id": "00829-QaLdnwvtxbs_sequence_5_1",
+    "instruction": "Find the bed table",
+    "navigation_type": "object",
+    "final_goal_dist": 1.97548
+}

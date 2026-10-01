@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 84.50515111535788,
+    "id": "00831-yr17PDCnDDW_sequence_17_0",
+    "instruction": "Find the white kitchen counter below wall clock",
+    "navigation_type": "instance",
+    "final_goal_dist": 6.32709
+}

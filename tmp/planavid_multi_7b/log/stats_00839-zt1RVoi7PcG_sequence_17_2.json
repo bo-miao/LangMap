@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 26.000081077218056,
+    "id": "00839-zt1RVoi7PcG_sequence_17_2",
+    "instruction": "Find the book in the bedroom that has bed with orange geometric throw",
+    "navigation_type": "region",
+    "final_goal_dist": 0.34144
+}

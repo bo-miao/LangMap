@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.16814760840264484,
+    "path_length": 27.266174718737602,
+    "id": "00803-k1cupFYWXJ6_sequence_3_0",
+    "instruction": "Find the silver bin below fire alarm near carved arch",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.06791
+}

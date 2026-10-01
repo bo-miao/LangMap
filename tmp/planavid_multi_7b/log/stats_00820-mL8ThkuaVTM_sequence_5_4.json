@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.410991,
+    "path_length": 7.267614901065826,
+    "id": "00820-mL8ThkuaVTM_sequence_5_4",
+    "instruction": "Find the oven and stove",
+    "navigation_type": "object",
+    "final_goal_dist": 0.1351
+}

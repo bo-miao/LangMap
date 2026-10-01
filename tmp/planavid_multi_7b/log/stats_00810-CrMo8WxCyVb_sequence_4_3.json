@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.488216,
+    "path_length": 8.686555221676826,
+    "id": "00810-CrMo8WxCyVb_sequence_4_3",
+    "instruction": "Find the bed in the Bedroom",
+    "navigation_type": "room",
+    "final_goal_dist": 0.14075
+}

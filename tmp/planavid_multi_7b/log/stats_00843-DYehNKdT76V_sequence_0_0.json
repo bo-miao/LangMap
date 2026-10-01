@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 1.2197551280260086,
+    "id": "00843-DYehNKdT76V_sequence_0_0",
+    "instruction": "Find the black nightstand with three remote controllers",
+    "navigation_type": "instance",
+    "final_goal_dist": 10.16455
+}

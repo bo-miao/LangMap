@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 6.930053234100342,
+    "id": "00849-a8BtkwhxdRV_sequence_19_2",
+    "instruction": "Find the teapot in the Dining room",
+    "navigation_type": "room",
+    "final_goal_dist": 8.11833
+}

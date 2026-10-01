@@ -1,0 +1,8 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 77.51449544355273,
+    "id": "00808-y9hTuugGdiq_region_57",
+    "instruction": "Find the statue in the tie: dining room & living room that has dining table and teal wall, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 16.16881
+}

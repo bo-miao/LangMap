@@ -1,0 +1,8 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 56.90512201189995,
+    "id": "00808-y9hTuugGdiq_region_64",
+    "instruction": "Find the ice maker in the tie: kitchen & living room that has ping pong table, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 7.11282
+}

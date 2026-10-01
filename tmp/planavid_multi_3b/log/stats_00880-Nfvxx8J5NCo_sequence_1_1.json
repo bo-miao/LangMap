@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.8925493672734174,
+    "path_length": 12.25000149011612,
+    "id": "00880-Nfvxx8J5NCo_sequence_1_1",
+    "instruction": "Find the sink cabinet in the bathroom that has white shower curtain",
+    "navigation_type": "region",
+    "final_goal_dist": 0.15537
+}

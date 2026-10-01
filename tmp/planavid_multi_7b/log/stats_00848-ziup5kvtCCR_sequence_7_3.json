@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.389228,
+    "path_length": 27.250000327825546,
+    "id": "00848-ziup5kvtCCR_sequence_7_3",
+    "instruction": "Find the bathroom cabinet",
+    "navigation_type": "object",
+    "final_goal_dist": 0.06259
+}

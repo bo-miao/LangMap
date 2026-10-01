@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.570058,
+    "path_length": 4.750000387430191,
+    "id": "00877-4ok3usBNeis_sequence_7_2",
+    "instruction": "Find the washbasin",
+    "navigation_type": "object",
+    "final_goal_dist": 0.12749
+}

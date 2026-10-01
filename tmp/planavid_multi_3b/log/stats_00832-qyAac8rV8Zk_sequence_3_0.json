@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 45.38479280471802,
+    "id": "00832-qyAac8rV8Zk_sequence_3_0",
+    "instruction": "Find the right washing machine with blue detergent bottles",
+    "navigation_type": "instance",
+    "final_goal_dist": 1.08323
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.129404,
+    "path_length": 55.49999728798866,
+    "id": "00869-MHPLjHsuG27_sequence_8_0",
+    "instruction": "Find the vintage radio in kitchen",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.09549
+}

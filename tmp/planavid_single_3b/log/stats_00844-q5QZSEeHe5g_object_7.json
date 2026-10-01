@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.5123889602810096,
+    "path_length": 16.914552683010697,
+    "id": "00844-q5QZSEeHe5g_object_7",
+    "instruction": "Find the sink.",
+    "final_goal_dist": 0.14031
+}

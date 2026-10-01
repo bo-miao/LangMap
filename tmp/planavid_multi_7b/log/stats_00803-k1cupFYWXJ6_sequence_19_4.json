@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 6.25833585858345,
+    "id": "00803-k1cupFYWXJ6_sequence_19_4",
+    "instruction": "Find the decorative plant between purple armchairs near carved arch",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.70104
+}

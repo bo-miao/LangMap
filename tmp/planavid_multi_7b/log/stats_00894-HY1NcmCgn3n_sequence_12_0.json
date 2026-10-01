@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 29.621047214372084,
+    "id": "00894-HY1NcmCgn3n_sequence_12_0",
+    "instruction": "Find the bouquet beside Virgin Mary painting",
+    "navigation_type": "instance",
+    "final_goal_dist": 25.07214
+}

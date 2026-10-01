@@ -1,0 +1,8 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 2.9265849962830544,
+    "id": "00853-5cdEh9F2hJL_region_65",
+    "instruction": "Find the l-shaped sofa in the tie: dining room & living room that has rectangular dining table, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 9.12739
+}

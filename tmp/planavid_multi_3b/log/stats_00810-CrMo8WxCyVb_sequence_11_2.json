@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.6580900041114766,
+    "path_length": 11.50000011920929,
+    "id": "00810-CrMo8WxCyVb_sequence_11_2",
+    "instruction": "Find the armchair in the Office",
+    "navigation_type": "room",
+    "final_goal_dist": 0.13029
+}

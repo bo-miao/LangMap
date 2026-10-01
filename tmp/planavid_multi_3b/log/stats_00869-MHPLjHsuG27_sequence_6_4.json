@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 75.88929916918278,
+    "id": "00869-MHPLjHsuG27_sequence_6_4",
+    "instruction": "Find the refrigerator cabinet in the kitchen that has blue-gray kitchen cabinets",
+    "navigation_type": "region",
+    "final_goal_dist": 1.64733
+}

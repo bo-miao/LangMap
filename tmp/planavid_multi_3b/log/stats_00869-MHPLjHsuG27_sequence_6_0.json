@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 33.12350030243397,
+    "id": "00869-MHPLjHsuG27_sequence_6_0",
+    "instruction": "Find the kitchen utensil on countertop by rice cooker",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.63117
+}

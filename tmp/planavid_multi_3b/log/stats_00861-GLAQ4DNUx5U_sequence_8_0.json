@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 32.4999974668026,
+    "id": "00861-GLAQ4DNUx5U_sequence_8_0",
+    "instruction": "Find the white bowl in kitchen",
+    "navigation_type": "instance",
+    "final_goal_dist": 13.86382
+}

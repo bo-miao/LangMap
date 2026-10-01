@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.31472329293924545,
+    "path_length": 23.58096434175968,
+    "id": "00827-BAbdmeyTvMZ_room_28",
+    "instruction": "Find the clock in the Living room",
+    "final_goal_dist": 0.18975
+}

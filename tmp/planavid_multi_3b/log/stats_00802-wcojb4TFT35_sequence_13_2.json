@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 65.65265175792959,
+    "id": "00802-wcojb4TFT35_sequence_13_2",
+    "instruction": "Find the art frame in the Living room",
+    "navigation_type": "room",
+    "final_goal_dist": 2.26442
+}

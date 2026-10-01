@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.524663,
+    "path_length": 19.019176229834557,
+    "id": "00827-BAbdmeyTvMZ_sequence_8_3",
+    "instruction": "Find the bathroom cabinet in the bathroom that has corner bathtub",
+    "navigation_type": "region",
+    "final_goal_dist": 0.05404
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 3.6947078704833984,
+    "id": "00803-k1cupFYWXJ6_sequence_2_4",
+    "instruction": "Find the bin in the Hall",
+    "navigation_type": "room",
+    "final_goal_dist": 5.18804
+}

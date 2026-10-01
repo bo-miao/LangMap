@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 9.063532599247992,
+    "id": "00827-BAbdmeyTvMZ_sequence_19_3",
+    "instruction": "Find the desk in the Living room",
+    "navigation_type": "room",
+    "final_goal_dist": 10.06777
+}

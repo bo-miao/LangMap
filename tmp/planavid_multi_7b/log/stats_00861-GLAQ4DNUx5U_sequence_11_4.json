@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.88364,
+    "path_length": 11.247366487979889,
+    "id": "00861-GLAQ4DNUx5U_sequence_11_4",
+    "instruction": "Find the bath cabinet in the bathroom that has toilet against black mosaic strip",
+    "navigation_type": "region",
+    "final_goal_dist": 0.15823
+}

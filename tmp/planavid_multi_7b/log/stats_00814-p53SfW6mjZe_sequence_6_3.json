@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 64.32877226918936,
+    "id": "00814-p53SfW6mjZe_sequence_6_3",
+    "instruction": "Find the dresser",
+    "navigation_type": "object",
+    "final_goal_dist": 19.16722
+}

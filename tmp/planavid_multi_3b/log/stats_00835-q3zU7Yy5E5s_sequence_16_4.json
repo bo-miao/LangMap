@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 8.164460428059101,
+    "id": "00835-q3zU7Yy5E5s_sequence_16_4",
+    "instruction": "Find the kitchen extractor in the Kitchen",
+    "navigation_type": "room",
+    "final_goal_dist": 4.78897
+}

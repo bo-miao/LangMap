@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.199965,
+    "path_length": 30.05862520635128,
+    "id": "00831-yr17PDCnDDW_sequence_3_1",
+    "instruction": "Find the armchair in the living room that has white two-seater couch",
+    "navigation_type": "region",
+    "final_goal_dist": 0.14298
+}

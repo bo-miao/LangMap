@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.706831,
+    "path_length": 11.258276805281639,
+    "id": "00803-k1cupFYWXJ6_sequence_12_2",
+    "instruction": "Find the ship model in the Hall",
+    "navigation_type": "room",
+    "final_goal_dist": 0.14889
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 73.98135300190188,
+    "id": "00878-XB4GS9ShBRE_sequence_16_2",
+    "instruction": "Find the picture in the Kitchen",
+    "navigation_type": "room",
+    "final_goal_dist": 6.27742
+}

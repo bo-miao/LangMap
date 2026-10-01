@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 47.38241264782846,
+    "id": "00848-ziup5kvtCCR_sequence_10_0",
+    "instruction": "Find the white kettle",
+    "navigation_type": "instance",
+    "final_goal_dist": 15.74553
+}

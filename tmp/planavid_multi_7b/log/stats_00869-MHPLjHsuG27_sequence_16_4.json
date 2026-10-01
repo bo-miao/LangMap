@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.666917,
+    "path_length": 6.49999974668026,
+    "id": "00869-MHPLjHsuG27_sequence_16_4",
+    "instruction": "Find the spice rack",
+    "navigation_type": "object",
+    "final_goal_dist": 0.19564
+}

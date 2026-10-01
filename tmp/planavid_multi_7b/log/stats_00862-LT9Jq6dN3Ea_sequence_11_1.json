@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.130211,
+    "path_length": 22.500598698854446,
+    "id": "00862-LT9Jq6dN3Ea_sequence_11_1",
+    "instruction": "Find the picture in the hall that has wood bench under straw hat",
+    "navigation_type": "region",
+    "final_goal_dist": 0.16687
+}

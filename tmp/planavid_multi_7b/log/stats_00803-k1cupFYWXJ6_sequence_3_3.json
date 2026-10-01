@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 15.986445590853691,
+    "id": "00803-k1cupFYWXJ6_sequence_3_3",
+    "instruction": "Find the table in the Hall",
+    "navigation_type": "room",
+    "final_goal_dist": 6.05646
+}

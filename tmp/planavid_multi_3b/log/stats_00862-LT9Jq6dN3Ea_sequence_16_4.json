@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 18.817901849746704,
+    "id": "00862-LT9Jq6dN3Ea_sequence_16_4",
+    "instruction": "Find the rack in the Hall",
+    "navigation_type": "room",
+    "final_goal_dist": 0.28337
+}

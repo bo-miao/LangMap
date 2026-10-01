@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 25.235890984535217,
+    "id": "00890-6s7QHgap2fW_sequence_7_2",
+    "instruction": "Find the radiator in the dining room that has dining table with yellow tablecloth",
+    "navigation_type": "region",
+    "final_goal_dist": 3.16741
+}

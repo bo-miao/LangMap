@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.691435,
+    "path_length": 9.396495774388313,
+    "id": "00820-mL8ThkuaVTM_sequence_2_0",
+    "instruction": "Find the built-in bathtub",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.15167
+}

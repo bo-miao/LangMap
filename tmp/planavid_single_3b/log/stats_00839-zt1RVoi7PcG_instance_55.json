@@ -1,0 +1,8 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 22.3882078230381,
+    "id": "00839-zt1RVoi7PcG_instance_55",
+    "instruction": "Find the leftmost highchair by island facing refrigerator",
+    "final_goal_dist": 2.04119
+}

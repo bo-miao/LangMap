@@ -1,0 +1,8 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 12.109768658876419,
+    "id": "00862-LT9Jq6dN3Ea_region_39",
+    "instruction": "Find the side table in the tie: dining room & living room that has oval dining table, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 1.09535
+}

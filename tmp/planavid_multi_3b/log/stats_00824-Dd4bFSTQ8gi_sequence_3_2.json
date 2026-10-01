@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.1859462028783377,
+    "path_length": 23.955221191048622,
+    "id": "00824-Dd4bFSTQ8gi_sequence_3_2",
+    "instruction": "Find the rug",
+    "navigation_type": "object",
+    "final_goal_dist": 0.12788
+}

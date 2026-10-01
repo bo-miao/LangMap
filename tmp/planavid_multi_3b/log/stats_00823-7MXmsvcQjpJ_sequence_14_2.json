@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.0066256801301703685,
+    "path_length": 4.250000149011612,
+    "id": "00823-7MXmsvcQjpJ_sequence_14_2",
+    "instruction": "Find the cabinet in the kitchen that has white refrigerator",
+    "navigation_type": "region",
+    "final_goal_dist": 0.19356
+}

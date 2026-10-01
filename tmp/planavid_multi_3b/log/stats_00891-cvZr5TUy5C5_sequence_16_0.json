@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 2.21098056435585,
+    "id": "00891-cvZr5TUy5C5_sequence_16_0",
+    "instruction": "Find the triangular bathtub",
+    "navigation_type": "instance",
+    "final_goal_dist": 8.59191
+}

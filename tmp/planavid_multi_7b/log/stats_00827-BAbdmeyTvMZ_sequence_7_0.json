@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.656685,
+    "path_length": 11.40621629357338,
+    "id": "00827-BAbdmeyTvMZ_sequence_7_0",
+    "instruction": "Find the black couch beside dining table",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.19617
+}

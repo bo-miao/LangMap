@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 74.94523720443249,
+    "id": "00823-7MXmsvcQjpJ_sequence_1_1",
+    "instruction": "Find the vase in the Bedroom",
+    "navigation_type": "room",
+    "final_goal_dist": 2.79069
+}

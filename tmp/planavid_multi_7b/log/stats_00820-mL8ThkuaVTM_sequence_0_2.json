@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.588112,
+    "path_length": 7.0054576098918915,
+    "id": "00820-mL8ThkuaVTM_sequence_0_2",
+    "instruction": "Find the cabinet in the bedroom that has bunk bed",
+    "navigation_type": "region",
+    "final_goal_dist": 0.14456
+}

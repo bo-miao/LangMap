@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.021081,
+    "path_length": 41.51547113060951,
+    "id": "00862-LT9Jq6dN3Ea_sequence_4_3",
+    "instruction": "Find the display cabinet in the living room that has stone fireplace",
+    "navigation_type": "region",
+    "final_goal_dist": 0.12807
+}

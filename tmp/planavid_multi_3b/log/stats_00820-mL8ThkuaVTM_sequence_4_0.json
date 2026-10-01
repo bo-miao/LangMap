@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.70992490315016,
+    "path_length": 7.050003334879875,
+    "id": "00820-mL8ThkuaVTM_sequence_4_0",
+    "instruction": "Find the plant beside bed with patterned pillows",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.24028
+}

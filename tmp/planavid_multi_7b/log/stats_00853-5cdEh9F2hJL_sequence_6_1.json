@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.675884,
+    "path_length": 22.544992193579674,
+    "id": "00853-5cdEh9F2hJL_sequence_6_1",
+    "instruction": "Find the shelf in the Living room",
+    "navigation_type": "room",
+    "final_goal_dist": 0.17472
+}

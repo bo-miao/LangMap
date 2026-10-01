@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 41.05712243914604,
+    "id": "00802-wcojb4TFT35_sequence_13_1",
+    "instruction": "Find the picture in the bathroom that has dark bath vanity",
+    "navigation_type": "region",
+    "final_goal_dist": 0.60387
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.791294,
+    "path_length": 16.77668984234333,
+    "id": "00800-TEEsavR23oF_sequence_15_2",
+    "instruction": "Find the tv in the Hall",
+    "navigation_type": "room",
+    "final_goal_dist": 0.2065
+}

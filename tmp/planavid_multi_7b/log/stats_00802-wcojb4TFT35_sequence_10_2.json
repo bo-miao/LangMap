@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.235366,
+    "path_length": 31.969710424542427,
+    "id": "00802-wcojb4TFT35_sequence_10_2",
+    "instruction": "Find the sink in the bathroom that has dark bath vanity",
+    "navigation_type": "region",
+    "final_goal_dist": 0.19288
+}

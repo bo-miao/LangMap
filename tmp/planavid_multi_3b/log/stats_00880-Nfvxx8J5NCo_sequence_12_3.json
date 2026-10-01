@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 27.499296128749847,
+    "id": "00880-Nfvxx8J5NCo_sequence_12_3",
+    "instruction": "Find the dishwasher",
+    "navigation_type": "object",
+    "final_goal_dist": 1.97307
+}

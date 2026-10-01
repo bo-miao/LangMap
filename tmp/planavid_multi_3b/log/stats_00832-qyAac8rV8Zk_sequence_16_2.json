@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 6.749999940395355,
+    "id": "00832-qyAac8rV8Zk_sequence_16_2",
+    "instruction": "Find the dishwasher in the tie: kitchen & living room that has island with granite countertop, 'Tie: A & B' means the area spans both rooms A and B",
+    "navigation_type": "region",
+    "final_goal_dist": 0.92805
+}

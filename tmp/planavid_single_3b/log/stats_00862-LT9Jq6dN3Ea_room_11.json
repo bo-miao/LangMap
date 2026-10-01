@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.5341996482660899,
+    "path_length": 19.1376943141222,
+    "id": "00862-LT9Jq6dN3Ea_room_11",
+    "instruction": "Find the sofa chair in the Living room",
+    "final_goal_dist": 0.1296
+}

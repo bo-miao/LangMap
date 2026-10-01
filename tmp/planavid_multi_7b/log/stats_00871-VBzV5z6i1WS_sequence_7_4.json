@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 5.548563592135906,
+    "id": "00871-VBzV5z6i1WS_sequence_7_4",
+    "instruction": "Find the wardrobe in the Bathroom",
+    "navigation_type": "room",
+    "final_goal_dist": 3.02473
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.34973466287933513,
+    "path_length": 15.499693788588047,
+    "id": "00835-q3zU7Yy5E5s_sequence_13_4",
+    "instruction": "Find the kitchen appliance in the Kitchen",
+    "navigation_type": "room",
+    "final_goal_dist": 0.16322
+}

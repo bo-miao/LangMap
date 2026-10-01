@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.6400807447127626,
+    "path_length": 7.158045396208763,
+    "id": "00878-XB4GS9ShBRE_region_28",
+    "instruction": "Find the armchair in the tie: dining room & living room that has beige fabric couch, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 0.18463
+}

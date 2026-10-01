@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.29196724000674307,
+    "path_length": 37.12524551898241,
+    "id": "00877-4ok3usBNeis_region_13",
+    "instruction": "Find the clock in the storage room that has freezers",
+    "final_goal_dist": 0.08097
+}

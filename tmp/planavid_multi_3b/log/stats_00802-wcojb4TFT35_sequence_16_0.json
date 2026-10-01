@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.22213972694820228,
+    "path_length": 34.87786470539868,
+    "id": "00802-wcojb4TFT35_sequence_16_0",
+    "instruction": "Find the left beige-and-black leaf-patterned armchair near piano",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.13113
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.7933842957058802,
+    "path_length": 18.264378607273102,
+    "id": "00814-p53SfW6mjZe_sequence_12_1",
+    "instruction": "Find the toilet in the bathroom that has pelican painting",
+    "navigation_type": "region",
+    "final_goal_dist": 0.03153
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 1.6598560959100723,
+    "id": "00861-GLAQ4DNUx5U_sequence_18_0",
+    "instruction": "Find the art frame on nightstand near colorful skateboarder graffiti wall",
+    "navigation_type": "instance",
+    "final_goal_dist": 11.84531
+}

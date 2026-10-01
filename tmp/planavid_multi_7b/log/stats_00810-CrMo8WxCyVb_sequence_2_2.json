@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 70.05799982137978,
+    "id": "00810-CrMo8WxCyVb_sequence_2_2",
+    "instruction": "Find the vase",
+    "navigation_type": "object",
+    "final_goal_dist": 2.1869
+}

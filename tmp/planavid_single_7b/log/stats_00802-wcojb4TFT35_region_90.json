@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.36971731950310394,
+    "path_length": 24.960034482181072,
+    "id": "00802-wcojb4TFT35_region_90",
+    "instruction": "Find the dishwasher in the kitchen that has stainless steel refrigerator",
+    "final_goal_dist": 0.19261
+}

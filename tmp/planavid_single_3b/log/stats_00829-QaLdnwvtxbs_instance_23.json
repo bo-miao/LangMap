@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.33127639018772953,
+    "path_length": 22.31294323503971,
+    "id": "00829-QaLdnwvtxbs_instance_23",
+    "instruction": "Find the top-left picture in four-picture wall set",
+    "final_goal_dist": 0.13555
+}

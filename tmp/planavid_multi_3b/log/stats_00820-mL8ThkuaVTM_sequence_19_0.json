@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.2653823474826261,
+    "path_length": 31.1200100639835,
+    "id": "00820-mL8ThkuaVTM_sequence_19_0",
+    "instruction": "Find the plant between TV and wicker panels",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.16708
+}

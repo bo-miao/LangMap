@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.732337,
+    "path_length": 5.517031759023666,
+    "id": "00853-5cdEh9F2hJL_sequence_18_2",
+    "instruction": "Find the kitchen counter",
+    "navigation_type": "object",
+    "final_goal_dist": 0.09338
+}

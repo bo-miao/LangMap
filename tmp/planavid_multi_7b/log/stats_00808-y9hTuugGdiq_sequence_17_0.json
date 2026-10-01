@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 16.54999642074108,
+    "id": "00808-y9hTuugGdiq_sequence_17_0",
+    "instruction": "Find the silver bin beside white bathtub",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.50101
+}

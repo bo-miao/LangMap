@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 22.505447506904602,
+    "id": "00813-svBbv1Pavdk_sequence_12_3",
+    "instruction": "Find the flowerpot in the Bedroom",
+    "navigation_type": "room",
+    "final_goal_dist": 2.7576
+}

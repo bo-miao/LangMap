@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 43.87678515724838,
+    "id": "00876-mv2HUxq3B53_sequence_11_0",
+    "instruction": "Find the white striped vase below wood-framed mirror",
+    "navigation_type": "instance",
+    "final_goal_dist": 17.82034
+}

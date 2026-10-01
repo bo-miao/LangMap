@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 21.19792415201664,
+    "id": "00802-wcojb4TFT35_sequence_17_0",
+    "instruction": "Find the black side table between black-and-beige leaf-patterned armchairs",
+    "navigation_type": "instance",
+    "final_goal_dist": 7.45861
+}

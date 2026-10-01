@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 11.422488659620285,
+    "id": "00802-wcojb4TFT35_sequence_3_3",
+    "instruction": "Find the book in the Bedroom",
+    "navigation_type": "room",
+    "final_goal_dist": 0.36993
+}

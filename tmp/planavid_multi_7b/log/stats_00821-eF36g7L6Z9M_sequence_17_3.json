@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 47.99999141693115,
+    "id": "00821-eF36g7L6Z9M_sequence_17_3",
+    "instruction": "Find the sitting bench",
+    "navigation_type": "object",
+    "final_goal_dist": 10.14974
+}

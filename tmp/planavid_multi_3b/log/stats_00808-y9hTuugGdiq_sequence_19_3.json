@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 12.499103352427483,
+    "id": "00808-y9hTuugGdiq_sequence_19_3",
+    "instruction": "Find the toilet in the bathroom that has glass-enclosed white bathtub",
+    "navigation_type": "region",
+    "final_goal_dist": 6.83997
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.771887,
+    "path_length": 9.268696665763855,
+    "id": "00815-h1zeeAwLh9Z_sequence_17_4",
+    "instruction": "Find the decorative plant in the kitchen that has microwave and oven",
+    "navigation_type": "region",
+    "final_goal_dist": 0.07483
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 46.09327049180865,
+    "id": "00844-q5QZSEeHe5g_sequence_19_4",
+    "instruction": "Find the wheel",
+    "navigation_type": "object",
+    "final_goal_dist": 4.76156
+}

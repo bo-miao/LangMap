@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 69.13577438890934,
+    "id": "00810-CrMo8WxCyVb_sequence_3_3",
+    "instruction": "Find the sculpture in the Bedroom",
+    "navigation_type": "room",
+    "final_goal_dist": 5.87708
+}

@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.6910089248727499,
+    "path_length": 9.750006347894669,
+    "id": "00873-bxsVRursffK_instance_80",
+    "instruction": "Find the kitchen utensil by stove",
+    "final_goal_dist": 0.19606
+}

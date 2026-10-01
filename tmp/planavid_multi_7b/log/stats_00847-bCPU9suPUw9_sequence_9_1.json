@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 1.2500000894069672,
+    "id": "00847-bCPU9suPUw9_sequence_9_1",
+    "instruction": "Find the cabinet in the Dining room",
+    "navigation_type": "room",
+    "final_goal_dist": 4.78975
+}

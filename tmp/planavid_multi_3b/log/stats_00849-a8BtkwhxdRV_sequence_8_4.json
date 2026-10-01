@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 8.24999974668026,
+    "id": "00849-a8BtkwhxdRV_sequence_8_4",
+    "instruction": "Find the chest",
+    "navigation_type": "object",
+    "final_goal_dist": 2.62018
+}

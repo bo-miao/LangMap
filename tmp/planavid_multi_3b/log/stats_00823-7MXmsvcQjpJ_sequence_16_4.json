@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.3974311065605267,
+    "path_length": 7.036025047302246,
+    "id": "00823-7MXmsvcQjpJ_sequence_16_4",
+    "instruction": "Find the sideboard in the kitchen that has white refrigerator",
+    "navigation_type": "region",
+    "final_goal_dist": 0.15356
+}

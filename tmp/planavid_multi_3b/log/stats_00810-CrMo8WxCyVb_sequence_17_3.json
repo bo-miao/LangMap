@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 0.5,
+    "id": "00810-CrMo8WxCyVb_sequence_17_3",
+    "instruction": "Find the table in the Living room",
+    "navigation_type": "room",
+    "final_goal_dist": 4.57904
+}

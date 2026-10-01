@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.13549688373644198,
+    "path_length": 10.375913428142667,
+    "id": "00827-BAbdmeyTvMZ_sequence_19_4",
+    "instruction": "Find the refrigerator in the Kitchen",
+    "navigation_type": "room",
+    "final_goal_dist": 0.14632
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 7.27400279045105,
+    "id": "00802-wcojb4TFT35_sequence_8_1",
+    "instruction": "Find the bench in the Living room",
+    "navigation_type": "room",
+    "final_goal_dist": 8.5578
+}

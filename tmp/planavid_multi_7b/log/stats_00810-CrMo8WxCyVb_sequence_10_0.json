@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.517085,
+    "path_length": 23.823125287890434,
+    "id": "00810-CrMo8WxCyVb_sequence_10_0",
+    "instruction": "Find the white mantel fireplace",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.18946
+}

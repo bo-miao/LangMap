@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.176945,
+    "path_length": 34.92735880613327,
+    "id": "00813-svBbv1Pavdk_sequence_11_4",
+    "instruction": "Find the toilet in the bathroom that has white shower curtain",
+    "navigation_type": "region",
+    "final_goal_dist": 0.12124
+}

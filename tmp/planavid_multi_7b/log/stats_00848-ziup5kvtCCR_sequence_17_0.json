@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 65.38950861804187,
+    "id": "00848-ziup5kvtCCR_sequence_17_0",
+    "instruction": "Find the towel above bathtub platform",
+    "navigation_type": "instance",
+    "final_goal_dist": 7.50246
+}

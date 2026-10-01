@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.7747132624747343,
+    "path_length": 10.04757784679532,
+    "id": "00810-CrMo8WxCyVb_room_7",
+    "instruction": "Find the bathtub in the Bathroom",
+    "final_goal_dist": 0.09999
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.732206,
+    "path_length": 14.607364222407341,
+    "id": "00820-mL8ThkuaVTM_sequence_18_3",
+    "instruction": "Find the bed table in the Bedroom",
+    "navigation_type": "room",
+    "final_goal_dist": 0.11341
+}

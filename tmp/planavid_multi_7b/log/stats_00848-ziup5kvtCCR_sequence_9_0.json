@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 9.727871848270297,
+    "id": "00848-ziup5kvtCCR_sequence_9_0",
+    "instruction": "Find the bench by dining table",
+    "navigation_type": "instance",
+    "final_goal_dist": 13.4713
+}

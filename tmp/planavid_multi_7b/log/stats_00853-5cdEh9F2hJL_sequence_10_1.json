@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.009829,
+    "path_length": 19.548709079623222,
+    "id": "00853-5cdEh9F2hJL_sequence_10_1",
+    "instruction": "Find the table",
+    "navigation_type": "object",
+    "final_goal_dist": 0.14368
+}

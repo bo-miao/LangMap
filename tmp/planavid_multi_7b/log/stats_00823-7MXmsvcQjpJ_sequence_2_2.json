@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.232096,
+    "path_length": 1.4878365695476532,
+    "id": "00823-7MXmsvcQjpJ_sequence_2_2",
+    "instruction": "Find the desk in the bedroom that has woodland-themed wallpaper",
+    "navigation_type": "region",
+    "final_goal_dist": 0.09372
+}

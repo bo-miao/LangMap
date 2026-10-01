@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 6.000002503395081,
+    "id": "00849-a8BtkwhxdRV_sequence_12_0",
+    "instruction": "Find the stone bench",
+    "navigation_type": "instance",
+    "final_goal_dist": 4.42583
+}

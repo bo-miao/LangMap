@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.024784835396660057,
+    "path_length": 5.500006124377251,
+    "id": "00894-HY1NcmCgn3n_sequence_0_3",
+    "instruction": "Find the picture",
+    "navigation_type": "object",
+    "final_goal_dist": 0.05292
+}

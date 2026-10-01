@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.7273911425891603,
+    "path_length": 3.315628632903099,
+    "id": "00802-wcojb4TFT35_region_2",
+    "instruction": "Find the bed in the bedroom that has bed with purple-and-gray bedding",
+    "final_goal_dist": 0.13094
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.6471017035539072,
+    "path_length": 4.26811645925045,
+    "id": "00800-TEEsavR23oF_sequence_8_0",
+    "instruction": "Find the cross trainer beside couch",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.11486
+}

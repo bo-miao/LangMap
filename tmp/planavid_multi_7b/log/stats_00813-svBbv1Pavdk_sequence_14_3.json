@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.470168,
+    "path_length": 19.249641507864,
+    "id": "00813-svBbv1Pavdk_sequence_14_3",
+    "instruction": "Find the sink in the Bathroom",
+    "navigation_type": "room",
+    "final_goal_dist": 0.22079
+}

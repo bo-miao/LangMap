@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.1131205730962302,
+    "path_length": 53.3855991512537,
+    "id": "00827-BAbdmeyTvMZ_room_25",
+    "instruction": "Find the bath sink in the Bathroom",
+    "final_goal_dist": 0.18346
+}

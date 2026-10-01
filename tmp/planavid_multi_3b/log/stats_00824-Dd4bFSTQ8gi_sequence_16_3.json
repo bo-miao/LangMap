@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.051814920354363345,
+    "path_length": 26.736235678195953,
+    "id": "00824-Dd4bFSTQ8gi_sequence_16_3",
+    "instruction": "Find the flowerpot",
+    "navigation_type": "object",
+    "final_goal_dist": 0.0622
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.08586380585568762,
+    "path_length": 68.24645075201988,
+    "id": "00813-svBbv1Pavdk_sequence_12_1",
+    "instruction": "Find the bath sink",
+    "navigation_type": "object",
+    "final_goal_dist": 0.1202
+}

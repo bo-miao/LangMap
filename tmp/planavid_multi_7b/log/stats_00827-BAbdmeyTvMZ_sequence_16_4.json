@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.243056,
+    "path_length": 3.797781154513359,
+    "id": "00827-BAbdmeyTvMZ_sequence_16_4",
+    "instruction": "Find the kitchen island",
+    "navigation_type": "object",
+    "final_goal_dist": 0.1679
+}

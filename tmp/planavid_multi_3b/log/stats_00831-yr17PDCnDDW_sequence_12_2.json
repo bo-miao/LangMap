@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 59.25874889642,
+    "id": "00831-yr17PDCnDDW_sequence_12_2",
+    "instruction": "Find the kitchen counter in the Kitchen",
+    "navigation_type": "room",
+    "final_goal_dist": 0.2613
+}

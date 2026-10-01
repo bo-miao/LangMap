@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 5.3985553700476885,
+    "id": "00849-a8BtkwhxdRV_sequence_2_2",
+    "instruction": "Find the shelf in the bathroom that has shower cabin against stone wall",
+    "navigation_type": "region",
+    "final_goal_dist": 0.27625
+}

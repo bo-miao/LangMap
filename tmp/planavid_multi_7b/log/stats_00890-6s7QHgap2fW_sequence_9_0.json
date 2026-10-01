@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 16.600005507469177,
+    "id": "00890-6s7QHgap2fW_sequence_9_0",
+    "instruction": "Find the potted plant by window in dining room",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.50893
+}

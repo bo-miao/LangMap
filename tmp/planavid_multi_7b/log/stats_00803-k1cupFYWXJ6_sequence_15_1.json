@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.078662,
+    "path_length": 11.012015163898468,
+    "id": "00803-k1cupFYWXJ6_sequence_15_1",
+    "instruction": "Find the bin",
+    "navigation_type": "object",
+    "final_goal_dist": 0.14776
+}

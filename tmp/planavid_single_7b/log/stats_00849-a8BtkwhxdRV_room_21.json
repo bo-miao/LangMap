@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.29957950541958595,
+    "path_length": 18.528183162212372,
+    "id": "00849-a8BtkwhxdRV_room_21",
+    "instruction": "Find the couch in the Dining room",
+    "final_goal_dist": 0.04307
+}

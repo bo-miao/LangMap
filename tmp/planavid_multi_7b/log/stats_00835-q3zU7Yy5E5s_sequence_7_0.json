@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.535931,
+    "path_length": 13.103729356080294,
+    "id": "00835-q3zU7Yy5E5s_sequence_7_0",
+    "instruction": "Find the blue patterned decorative plate on wooden shelf",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.07007
+}

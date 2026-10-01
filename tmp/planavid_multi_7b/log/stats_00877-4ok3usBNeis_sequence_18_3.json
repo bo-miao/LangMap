@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.579472,
+    "path_length": 10.768876001238823,
+    "id": "00877-4ok3usBNeis_sequence_18_3",
+    "instruction": "Find the nightstand in the bedroom that has forest-deer patterned bed",
+    "navigation_type": "region",
+    "final_goal_dist": 0.1103
+}

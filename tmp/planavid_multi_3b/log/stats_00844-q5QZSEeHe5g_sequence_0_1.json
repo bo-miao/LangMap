@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.03880797722814821,
+    "path_length": 61.42794893682003,
+    "id": "00844-q5QZSEeHe5g_sequence_0_1",
+    "instruction": "Find the photo in the bedroom that has metal-framed bed",
+    "navigation_type": "region",
+    "final_goal_dist": 0.01934
+}

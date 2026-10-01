@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.7894982353038449,
+    "path_length": 9.250000193715096,
+    "id": "00877-4ok3usBNeis_sequence_11_2",
+    "instruction": "Find the blanket in the living room that has black leather couch",
+    "navigation_type": "region",
+    "final_goal_dist": 0.06557
+}

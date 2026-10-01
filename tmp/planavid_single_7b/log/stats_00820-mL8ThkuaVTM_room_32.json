@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.14422011700183057,
+    "path_length": 20.50000367127359,
+    "id": "00820-mL8ThkuaVTM_room_32",
+    "instruction": "Find the kitchen sink in the Tie: Kitchen & Living room, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 0.03751
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.36799481631607683,
+    "path_length": 16.424288630485535,
+    "id": "00802-wcojb4TFT35_sequence_13_0",
+    "instruction": "Find the oval dining table with flowers",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.16629
+}

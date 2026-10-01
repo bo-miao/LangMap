@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 38.846970707178116,
+    "id": "00800-TEEsavR23oF_sequence_7_2",
+    "instruction": "Find the blanket in the office that has computer desk beside couch",
+    "navigation_type": "region",
+    "final_goal_dist": 0.26624
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 9.456205144524574,
+    "id": "00829-QaLdnwvtxbs_sequence_19_0",
+    "instruction": "Find the empty side table beside L-shaped couch",
+    "navigation_type": "instance",
+    "final_goal_dist": 7.4476
+}

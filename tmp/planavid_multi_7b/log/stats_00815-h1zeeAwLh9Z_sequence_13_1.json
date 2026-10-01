@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.691108,
+    "path_length": 10.000003427267075,
+    "id": "00815-h1zeeAwLh9Z_sequence_13_1",
+    "instruction": "Find the flowerpot in the Kitchen",
+    "navigation_type": "room",
+    "final_goal_dist": 0.08203
+}

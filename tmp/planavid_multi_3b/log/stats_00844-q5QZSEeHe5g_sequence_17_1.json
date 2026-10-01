@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.034115314837505496,
+    "path_length": 35.756820511072874,
+    "id": "00844-q5QZSEeHe5g_sequence_17_1",
+    "instruction": "Find the chest",
+    "navigation_type": "object",
+    "final_goal_dist": 0.07886
+}

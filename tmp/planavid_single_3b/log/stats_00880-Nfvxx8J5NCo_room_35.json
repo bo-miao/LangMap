@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.8761626691787825,
+    "path_length": 12.899998262524605,
+    "id": "00880-Nfvxx8J5NCo_room_35",
+    "instruction": "Find the dining table in the Tie: Kitchen & Living room, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 0.22401
+}

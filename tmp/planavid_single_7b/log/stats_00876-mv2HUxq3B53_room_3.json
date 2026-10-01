@@ -1,0 +1,8 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 28.413981892168522,
+    "id": "00876-mv2HUxq3B53_room_3",
+    "instruction": "Find the table in the Tie: Kitchen & Living room, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 10.14306
+}

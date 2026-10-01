@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 20.423872478306293,
+    "id": "00832-qyAac8rV8Zk_sequence_1_2",
+    "instruction": "Find the record player in the bedroom that has plaid-quilted bed",
+    "navigation_type": "region",
+    "final_goal_dist": 8.01365
+}

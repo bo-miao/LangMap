@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.6560893013280458,
+    "path_length": 10.750005707144737,
+    "id": "00877-4ok3usBNeis_region_45",
+    "instruction": "Find the kitchen cabinet in the kitchen that has white oven",
+    "final_goal_dist": 0.06776
+}

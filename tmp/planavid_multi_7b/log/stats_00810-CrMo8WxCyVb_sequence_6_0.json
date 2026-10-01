@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 6.099015228450298,
+    "id": "00810-CrMo8WxCyVb_sequence_6_0",
+    "instruction": "Find the utility sink beside washing machine",
+    "navigation_type": "instance",
+    "final_goal_dist": 12.86075
+}

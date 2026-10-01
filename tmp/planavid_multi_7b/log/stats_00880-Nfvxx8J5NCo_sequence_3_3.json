@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 44.40254594013095,
+    "id": "00880-Nfvxx8J5NCo_sequence_3_3",
+    "instruction": "Find the shelf in the Bathroom",
+    "navigation_type": "room",
+    "final_goal_dist": 20.53343
+}

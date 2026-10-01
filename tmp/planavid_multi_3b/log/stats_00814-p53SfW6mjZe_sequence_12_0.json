@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.19807204123402528,
+    "path_length": 60.36801654752344,
+    "id": "00814-p53SfW6mjZe_sequence_12_0",
+    "instruction": "Find the kitchen cabinet with coffee machine under black pantry cabinet",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.1444
+}

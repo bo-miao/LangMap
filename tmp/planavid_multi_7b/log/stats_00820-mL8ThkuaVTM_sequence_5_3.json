@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 20.042581528425217,
+    "id": "00820-mL8ThkuaVTM_sequence_5_3",
+    "instruction": "Find the tv",
+    "navigation_type": "object",
+    "final_goal_dist": 0.34584
+}

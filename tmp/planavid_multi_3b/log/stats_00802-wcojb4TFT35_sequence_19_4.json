@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.6912820329610018,
+    "path_length": 6.034532800316811,
+    "id": "00802-wcojb4TFT35_sequence_19_4",
+    "instruction": "Find the sink in the Kitchen",
+    "navigation_type": "room",
+    "final_goal_dist": 0.18788
+}

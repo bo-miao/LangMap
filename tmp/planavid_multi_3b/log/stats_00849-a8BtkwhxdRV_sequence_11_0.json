@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 2.250001400709152,
+    "id": "00849-a8BtkwhxdRV_sequence_11_0",
+    "instruction": "Find the round coffee table with lamp by couch",
+    "navigation_type": "instance",
+    "final_goal_dist": 6.06509
+}

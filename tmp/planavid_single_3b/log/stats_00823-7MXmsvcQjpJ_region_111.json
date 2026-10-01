@@ -1,0 +1,8 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 9.513284385204315,
+    "id": "00823-7MXmsvcQjpJ_region_111",
+    "instruction": "Find the oven in the kitchen that has white refrigerator",
+    "final_goal_dist": 1.22155
+}

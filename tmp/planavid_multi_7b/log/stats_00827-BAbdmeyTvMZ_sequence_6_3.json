@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.728927,
+    "path_length": 11.77358202636242,
+    "id": "00827-BAbdmeyTvMZ_sequence_6_3",
+    "instruction": "Find the rug in the living room that has stone fireplace",
+    "navigation_type": "region",
+    "final_goal_dist": 0.21077
+}

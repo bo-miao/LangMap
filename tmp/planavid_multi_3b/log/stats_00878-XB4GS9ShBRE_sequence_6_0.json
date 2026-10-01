@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.21071388239152972,
+    "path_length": 23.936519533395767,
+    "id": "00878-XB4GS9ShBRE_sequence_6_0",
+    "instruction": "Find the toilet with tissue box",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.0835
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.7427230028310099,
+    "path_length": 14.240738853812218,
+    "id": "00844-q5QZSEeHe5g_sequence_4_4",
+    "instruction": "Find the plant in the Bathroom",
+    "navigation_type": "room",
+    "final_goal_dist": 0.09204
+}

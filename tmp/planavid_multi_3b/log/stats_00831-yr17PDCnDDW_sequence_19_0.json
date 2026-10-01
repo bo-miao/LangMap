@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.19794452272296395,
+    "path_length": 52.407807409763336,
+    "id": "00831-yr17PDCnDDW_sequence_19_0",
+    "instruction": "Find the white two-seater couch",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.13649
+}

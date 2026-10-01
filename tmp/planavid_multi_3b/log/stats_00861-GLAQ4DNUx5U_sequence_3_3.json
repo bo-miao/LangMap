@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.6844360751778152,
+    "path_length": 11.999997347593307,
+    "id": "00861-GLAQ4DNUx5U_sequence_3_3",
+    "instruction": "Find the oven in the Kitchen",
+    "navigation_type": "room",
+    "final_goal_dist": 0.13556
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 28.257659271359444,
+    "id": "00880-Nfvxx8J5NCo_sequence_1_4",
+    "instruction": "Find the shelf in the Laundry room",
+    "navigation_type": "room",
+    "final_goal_dist": 1.17964
+}

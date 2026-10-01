@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.4579777056818381,
+    "path_length": 16.250001043081284,
+    "id": "00876-mv2HUxq3B53_sequence_17_1",
+    "instruction": "Find the dining table",
+    "navigation_type": "object",
+    "final_goal_dist": 0.03114
+}

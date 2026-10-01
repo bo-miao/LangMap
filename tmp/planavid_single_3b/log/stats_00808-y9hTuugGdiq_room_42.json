@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.8263737864350875,
+    "path_length": 7.040141180157661,
+    "id": "00808-y9hTuugGdiq_room_42",
+    "instruction": "Find the dining table in the Kitchen",
+    "final_goal_dist": 0.1204
+}

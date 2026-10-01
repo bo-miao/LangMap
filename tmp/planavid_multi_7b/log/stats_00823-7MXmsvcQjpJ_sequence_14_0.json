@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 8.765865534543991,
+    "id": "00823-7MXmsvcQjpJ_sequence_14_0",
+    "instruction": "Find the wooden kitchen counter with built-in oven",
+    "navigation_type": "instance",
+    "final_goal_dist": 1.17053
+}

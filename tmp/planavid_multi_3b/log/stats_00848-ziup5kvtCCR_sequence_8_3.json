@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.2078666093152281,
+    "path_length": 41.691892221570015,
+    "id": "00848-ziup5kvtCCR_sequence_8_3",
+    "instruction": "Find the refrigerator in the Tie: Kitchen & Living room, 'Tie: A & B' means the area spans both rooms A and B",
+    "navigation_type": "room",
+    "final_goal_dist": 0.13599
+}

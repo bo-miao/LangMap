@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.130945,
+    "path_length": 10.263086542487144,
+    "id": "00803-k1cupFYWXJ6_sequence_15_3",
+    "instruction": "Find the armchair in the hall that has beige patterned armchairs",
+    "navigation_type": "region",
+    "final_goal_dist": 0.16111
+}

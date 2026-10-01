@@ -1,0 +1,7 @@
+BASE_TASK_CONFIG_PATH: VLN_CE/habitat_extensions/config/vlnce_task_planavid_langmap_seq.yaml
+EVAL:
+    IDENTIFICATION: langmap_seq
+    SPLIT: val_unseen
+    EARLY_STOP_ROTATION: 25
+    EARLY_STOP_STEPS: 500
+

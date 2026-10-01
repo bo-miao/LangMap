@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.27890020965191065,
+    "path_length": 45.1520544141531,
+    "id": "00814-p53SfW6mjZe_sequence_17_4",
+    "instruction": "Find the towel in the bathroom that has floral prints on black vanity",
+    "navigation_type": "region",
+    "final_goal_dist": 0.23534
+}

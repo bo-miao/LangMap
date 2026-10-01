@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.2392170911346109,
+    "path_length": 18.98377151042223,
+    "id": "00844-q5QZSEeHe5g_sequence_19_3",
+    "instruction": "Find the armchair in the Living room",
+    "navigation_type": "room",
+    "final_goal_dist": 0.10371
+}

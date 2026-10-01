@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 4.9584416300058365,
+    "id": "00823-7MXmsvcQjpJ_sequence_2_1",
+    "instruction": "Find the rack in the Office",
+    "navigation_type": "room",
+    "final_goal_dist": 5.76341
+}

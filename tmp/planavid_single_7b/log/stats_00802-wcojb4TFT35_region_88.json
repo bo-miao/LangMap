@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.4684916077432454,
+    "path_length": 19.46824911236763,
+    "id": "00802-wcojb4TFT35_region_88",
+    "instruction": "Find the refrigerator in the kitchen that has stainless steel refrigerator",
+    "final_goal_dist": 0.19531
+}

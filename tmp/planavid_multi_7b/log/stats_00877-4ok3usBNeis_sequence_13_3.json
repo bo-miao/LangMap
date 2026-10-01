@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.455929,
+    "path_length": 11.000000298023224,
+    "id": "00877-4ok3usBNeis_sequence_13_3",
+    "instruction": "Find the towel in the bathroom that has striped shower curtain",
+    "navigation_type": "region",
+    "final_goal_dist": 0.05124
+}

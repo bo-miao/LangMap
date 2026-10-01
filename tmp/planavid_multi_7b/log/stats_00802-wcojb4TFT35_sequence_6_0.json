@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.276379,
+    "path_length": 8.39422681927681,
+    "id": "00802-wcojb4TFT35_sequence_6_0",
+    "instruction": "Find the purple-accented bed",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.10651
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 71.79237078130245,
+    "id": "00815-h1zeeAwLh9Z_sequence_8_4",
+    "instruction": "Find the towel in the Kitchen",
+    "navigation_type": "room",
+    "final_goal_dist": 5.3427
+}

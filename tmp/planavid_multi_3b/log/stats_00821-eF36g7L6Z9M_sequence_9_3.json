@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 86.49206575378776,
+    "id": "00821-eF36g7L6Z9M_sequence_9_3",
+    "instruction": "Find the cabinet in the Kitchen",
+    "navigation_type": "room",
+    "final_goal_dist": 14.58452
+}

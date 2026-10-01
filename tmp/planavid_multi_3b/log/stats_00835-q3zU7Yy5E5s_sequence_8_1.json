@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 8.374067425727844,
+    "id": "00835-q3zU7Yy5E5s_sequence_8_1",
+    "instruction": "Find the board in the kitchen that has stainless stove",
+    "navigation_type": "region",
+    "final_goal_dist": 1.50812
+}

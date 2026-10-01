@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.0015654293478789892,
+    "path_length": 52.42608363553882,
+    "id": "00894-HY1NcmCgn3n_sequence_5_1",
+    "instruction": "Find the decorative plant",
+    "navigation_type": "object",
+    "final_goal_dist": 0.19803
+}

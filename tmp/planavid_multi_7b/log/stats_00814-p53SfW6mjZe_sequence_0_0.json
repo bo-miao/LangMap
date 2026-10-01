@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 6.7679660501889884,
+    "id": "00814-p53SfW6mjZe_sequence_0_0",
+    "instruction": "Find the chalkboard near table tennis table",
+    "navigation_type": "instance",
+    "final_goal_dist": 2.68446
+}

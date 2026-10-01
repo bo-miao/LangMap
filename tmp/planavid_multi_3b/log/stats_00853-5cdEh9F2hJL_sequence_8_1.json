@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.5991727926933834,
+    "path_length": 17.017685517668724,
+    "id": "00853-5cdEh9F2hJL_sequence_8_1",
+    "instruction": "Find the monitor",
+    "navigation_type": "object",
+    "final_goal_dist": 0.20483
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 18.18765591084957,
+    "id": "00803-k1cupFYWXJ6_sequence_0_2",
+    "instruction": "Find the radiator",
+    "navigation_type": "object",
+    "final_goal_dist": 14.88519
+}

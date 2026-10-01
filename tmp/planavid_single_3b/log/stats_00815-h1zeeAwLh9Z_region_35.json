@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.21012415283250577,
+    "path_length": 32.899922266602516,
+    "id": "00815-h1zeeAwLh9Z_region_35",
+    "instruction": "Find the shelf in the office that has sewing machine",
+    "final_goal_dist": 0.15734
+}

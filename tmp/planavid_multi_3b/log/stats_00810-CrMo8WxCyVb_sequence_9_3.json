@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 78.84175791312009,
+    "id": "00810-CrMo8WxCyVb_sequence_9_3",
+    "instruction": "Find the cabinet in the office that has glass table with white chairs",
+    "navigation_type": "region",
+    "final_goal_dist": 7.47038
+}

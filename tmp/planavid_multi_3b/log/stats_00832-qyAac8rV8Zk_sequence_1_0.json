@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.2724412995807268,
+    "path_length": 27.400001108646393,
+    "id": "00832-qyAac8rV8Zk_sequence_1_0",
+    "instruction": "Find the brown fabric bin by washing machine",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.17689
+}

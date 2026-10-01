@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.320019,
+    "path_length": 30.515828296542168,
+    "id": "00862-LT9Jq6dN3Ea_sequence_3_2",
+    "instruction": "Find the sink in the kitchen that has stainless oven",
+    "navigation_type": "region",
+    "final_goal_dist": 0.10461
+}

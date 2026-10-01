@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.23546754548388812,
+    "path_length": 29.067256905604154,
+    "id": "00814-p53SfW6mjZe_sequence_11_1",
+    "instruction": "Find the bucket",
+    "navigation_type": "object",
+    "final_goal_dist": 0.05086
+}

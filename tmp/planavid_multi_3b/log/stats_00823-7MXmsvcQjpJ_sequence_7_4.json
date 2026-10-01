@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 23.415362998843193,
+    "id": "00823-7MXmsvcQjpJ_sequence_7_4",
+    "instruction": "Find the heater in the bedroom that has burgundy and blue walls",
+    "navigation_type": "region",
+    "final_goal_dist": 1.65609
+}

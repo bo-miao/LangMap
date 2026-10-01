@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 79.85028466582298,
+    "id": "00877-4ok3usBNeis_sequence_15_4",
+    "instruction": "Find the refrigerator in the kitchen that has white oven",
+    "navigation_type": "region",
+    "final_goal_dist": 2.01913
+}

@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.506778951605344,
+    "path_length": 18.493228122591972,
+    "id": "00802-wcojb4TFT35_instance_60",
+    "instruction": "Find the refrigerator in kitchen",
+    "final_goal_dist": 0.18669
+}

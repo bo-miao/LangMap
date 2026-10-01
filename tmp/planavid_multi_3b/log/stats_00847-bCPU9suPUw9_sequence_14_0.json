@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.2507218624797052,
+    "path_length": 17.022602543234825,
+    "id": "00847-bCPU9suPUw9_sequence_14_0",
+    "instruction": "Find the button-tufted armchair by door",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.18279
+}

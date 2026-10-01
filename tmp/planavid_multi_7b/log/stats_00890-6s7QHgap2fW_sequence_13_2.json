@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.307243,
+    "path_length": 10.609941646456718,
+    "id": "00890-6s7QHgap2fW_sequence_13_2",
+    "instruction": "Find the toy",
+    "navigation_type": "object",
+    "final_goal_dist": 0.09885
+}

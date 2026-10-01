@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.6273645686536615,
+    "path_length": 8.25000486895442,
+    "id": "00832-qyAac8rV8Zk_region_33",
+    "instruction": "Find the table in the dining room that has dining table beside staircase",
+    "final_goal_dist": 0.11179
+}

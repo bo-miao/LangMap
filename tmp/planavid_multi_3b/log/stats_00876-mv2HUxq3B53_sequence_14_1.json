@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.19579159412320524,
+    "path_length": 55.234935611486435,
+    "id": "00876-mv2HUxq3B53_sequence_14_1",
+    "instruction": "Find the furnace",
+    "navigation_type": "object",
+    "final_goal_dist": 0.06655
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.60704,
+    "path_length": 14.250004902482033,
+    "id": "00891-cvZr5TUy5C5_sequence_5_3",
+    "instruction": "Find the calendar in the kitchen that has stainless refrigerator",
+    "navigation_type": "region",
+    "final_goal_dist": 0.06611
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 12.44930336624384,
+    "id": "00843-DYehNKdT76V_sequence_16_0",
+    "instruction": "Find the tv on black console",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.32897
+}

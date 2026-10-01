@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 7.531826738060534,
+    "id": "00873-bxsVRursffK_sequence_5_4",
+    "instruction": "Find the chest in the Bedroom",
+    "navigation_type": "room",
+    "final_goal_dist": 6.40112
+}

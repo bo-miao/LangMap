@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.7817457911446375,
+    "path_length": 18.331916138529778,
+    "id": "00839-zt1RVoi7PcG_instance_94",
+    "instruction": "Find the wall clock in hall above thermostat",
+    "final_goal_dist": 0.19456
+}

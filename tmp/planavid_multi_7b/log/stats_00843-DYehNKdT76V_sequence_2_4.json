@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 28.251019030809402,
+    "id": "00843-DYehNKdT76V_sequence_2_4",
+    "instruction": "Find the tv in the bedroom that has black headboard",
+    "navigation_type": "region",
+    "final_goal_dist": 12.40251
+}

@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.5095706574364309,
+    "path_length": 15.06337933987379,
+    "id": "00824-Dd4bFSTQ8gi_instance_35",
+    "instruction": "Find the kitchen counter by bar chairs",
+    "final_goal_dist": 0.09934
+}

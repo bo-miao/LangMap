@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 14.500001922249794,
+    "id": "00815-h1zeeAwLh9Z_sequence_0_3",
+    "instruction": "Find the utility sink in the Laundry room",
+    "navigation_type": "room",
+    "final_goal_dist": 3.39617
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 27.499995037913322,
+    "id": "00815-h1zeeAwLh9Z_sequence_7_2",
+    "instruction": "Find the sideboard in the living room that has TV on circular-motif cabinet",
+    "navigation_type": "region",
+    "final_goal_dist": 0.27914
+}

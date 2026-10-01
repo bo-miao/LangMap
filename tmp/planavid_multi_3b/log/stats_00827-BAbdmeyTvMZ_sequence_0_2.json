@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 13.546805888414383,
+    "id": "00827-BAbdmeyTvMZ_sequence_0_2",
+    "instruction": "Find the toilet in the bathroom that has corner bathtub",
+    "navigation_type": "region",
+    "final_goal_dist": 17.61509
+}

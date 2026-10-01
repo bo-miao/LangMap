@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 30.4904967546463,
+    "id": "00839-zt1RVoi7PcG_sequence_0_4",
+    "instruction": "Find the board in the Rec room",
+    "navigation_type": "room",
+    "final_goal_dist": 5.20642
+}

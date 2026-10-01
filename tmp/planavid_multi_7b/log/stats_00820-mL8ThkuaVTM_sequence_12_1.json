@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.369049,
+    "path_length": 5.000000283122063,
+    "id": "00820-mL8ThkuaVTM_sequence_12_1",
+    "instruction": "Find the fireplace in the Tie: Kitchen & Living room, 'Tie: A & B' means the area spans both rooms A and B",
+    "navigation_type": "room",
+    "final_goal_dist": 0.10675
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.37968080428400625,
+    "path_length": 28.845261365175247,
+    "id": "00880-Nfvxx8J5NCo_sequence_2_0",
+    "instruction": "Find the upper kitchen cabinet right of stovetop",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.19204
+}

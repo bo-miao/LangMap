@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 68.95699170231819,
+    "id": "00800-TEEsavR23oF_sequence_19_0",
+    "instruction": "Find the side table right of black three-seater couch",
+    "navigation_type": "instance",
+    "final_goal_dist": 1.13695
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.15486044985286784,
+    "path_length": 63.688102304935455,
+    "id": "00800-TEEsavR23oF_sequence_16_0",
+    "instruction": "Find the side table left of white fireplace",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.19105
+}

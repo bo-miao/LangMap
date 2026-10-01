@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 11.241089671850204,
+    "id": "00829-QaLdnwvtxbs_sequence_0_0",
+    "instruction": "Find the left nightstand",
+    "navigation_type": "instance",
+    "final_goal_dist": 1.0717
+}

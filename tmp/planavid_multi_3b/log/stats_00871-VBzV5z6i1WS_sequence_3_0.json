@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 33.11485217139125,
+    "id": "00871-VBzV5z6i1WS_sequence_3_0",
+    "instruction": "Find the dresser with TV near white headboard",
+    "navigation_type": "instance",
+    "final_goal_dist": 12.24494
+}

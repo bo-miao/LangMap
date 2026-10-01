@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 9.41343707148917,
+    "id": "00843-DYehNKdT76V_sequence_0_4",
+    "instruction": "Find the cabinet in the walk-in closet that has colorful towels",
+    "navigation_type": "region",
+    "final_goal_dist": 11.24194
+}

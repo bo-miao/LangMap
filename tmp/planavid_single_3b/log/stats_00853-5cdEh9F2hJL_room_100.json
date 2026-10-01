@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.35115650069755916,
+    "path_length": 20.656920267269015,
+    "id": "00853-5cdEh9F2hJL_room_100",
+    "instruction": "Find the bathroom towel in the Bathroom",
+    "final_goal_dist": 0.15013
+}

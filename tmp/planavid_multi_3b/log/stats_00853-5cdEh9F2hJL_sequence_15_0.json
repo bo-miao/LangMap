@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 1.0756677016615868,
+    "id": "00853-5cdEh9F2hJL_sequence_15_0",
+    "instruction": "Find the brown TV cabinet",
+    "navigation_type": "instance",
+    "final_goal_dist": 13.27218
+}

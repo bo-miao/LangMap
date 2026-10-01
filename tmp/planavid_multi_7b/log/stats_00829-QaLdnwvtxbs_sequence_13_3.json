@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.670453,
+    "path_length": 18.97296553850174,
+    "id": "00829-QaLdnwvtxbs_sequence_13_3",
+    "instruction": "Find the picture in the bathroom that has toilet",
+    "navigation_type": "region",
+    "final_goal_dist": 0.14311
+}

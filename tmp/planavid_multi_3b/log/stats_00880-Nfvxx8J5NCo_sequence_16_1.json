@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.7108327898769726,
+    "path_length": 4.233965024352074,
+    "id": "00880-Nfvxx8J5NCo_sequence_16_1",
+    "instruction": "Find the coffee maker",
+    "navigation_type": "object",
+    "final_goal_dist": 0.20381
+}

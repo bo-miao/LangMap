@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 42.35286894440651,
+    "id": "00808-y9hTuugGdiq_sequence_18_4",
+    "instruction": "Find the bathtub in the bathroom that has glass-enclosed white bathtub",
+    "navigation_type": "region",
+    "final_goal_dist": 7.56204
+}

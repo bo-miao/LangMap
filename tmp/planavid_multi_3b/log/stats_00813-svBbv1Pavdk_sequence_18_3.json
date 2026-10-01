@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.7841770924647161,
+    "path_length": 8.469587370753288,
+    "id": "00813-svBbv1Pavdk_sequence_18_3",
+    "instruction": "Find the bath cabinet in the Bathroom",
+    "navigation_type": "room",
+    "final_goal_dist": 0.13908
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 0.0,
+    "id": "00815-h1zeeAwLh9Z_sequence_5_3",
+    "instruction": "Find the couch in the living room that has wood upright piano",
+    "navigation_type": "region",
+    "final_goal_dist": 11.58725
+}

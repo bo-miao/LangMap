@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.151272,
+    "path_length": 9.53473573923111,
+    "id": "00803-k1cupFYWXJ6_sequence_13_3",
+    "instruction": "Find the armchair in the hall that has purple armchairs beside carved arch and stairs",
+    "navigation_type": "region",
+    "final_goal_dist": 0.08615
+}

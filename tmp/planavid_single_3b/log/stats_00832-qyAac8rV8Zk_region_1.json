@@ -1,0 +1,8 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 7.764080371707678,
+    "id": "00832-qyAac8rV8Zk_region_1",
+    "instruction": "Find the tv in the tie: kitchen & living room that has island with granite countertop, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 0.80071
+}

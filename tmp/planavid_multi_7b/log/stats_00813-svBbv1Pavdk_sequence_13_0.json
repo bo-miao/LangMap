@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 44.25487084314227,
+    "id": "00813-svBbv1Pavdk_sequence_13_0",
+    "instruction": "Find the yellow blanket on gray couch",
+    "navigation_type": "instance",
+    "final_goal_dist": 2.52499
+}

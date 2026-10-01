@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.23506146754099708,
+    "path_length": 30.649994805455208,
+    "id": "00800-TEEsavR23oF_instance_51",
+    "instruction": "Find the kitchen cabinet with built-in microwave",
+    "final_goal_dist": 0.23595
+}

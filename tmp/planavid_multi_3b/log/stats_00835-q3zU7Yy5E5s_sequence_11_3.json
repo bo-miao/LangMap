@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.5812959507880799,
+    "path_length": 4.500000536441803,
+    "id": "00835-q3zU7Yy5E5s_sequence_11_3",
+    "instruction": "Find the board in the Kitchen",
+    "navigation_type": "room",
+    "final_goal_dist": 0.2445
+}

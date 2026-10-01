@@ -1,0 +1,8 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 46.72637389227748,
+    "id": "00876-mv2HUxq3B53_room_11",
+    "instruction": "Find the fan in the Tie: Kitchen & Living room, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 5.60435
+}

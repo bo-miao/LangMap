@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.09624746956018881,
+    "path_length": 17.989826038479805,
+    "id": "00847-bCPU9suPUw9_sequence_2_1",
+    "instruction": "Find the cabinet in the bedroom that has bed with white pillows",
+    "navigation_type": "region",
+    "final_goal_dist": 0.09372
+}

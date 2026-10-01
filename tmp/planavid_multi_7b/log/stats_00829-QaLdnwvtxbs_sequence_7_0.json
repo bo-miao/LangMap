@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 1.8499993532896042,
+    "id": "00829-QaLdnwvtxbs_sequence_7_0",
+    "instruction": "Find the double-sink washbasin counter",
+    "navigation_type": "instance",
+    "final_goal_dist": 11.53657
+}

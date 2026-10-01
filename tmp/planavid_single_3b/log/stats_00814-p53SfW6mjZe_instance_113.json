@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.3125845941472497,
+    "path_length": 50.88301545381546,
+    "id": "00814-p53SfW6mjZe_instance_113",
+    "instruction": "Find the top washing machine in stack",
+    "final_goal_dist": 0.10192
+}

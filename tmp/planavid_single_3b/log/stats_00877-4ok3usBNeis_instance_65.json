@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.9113941719388513,
+    "path_length": 8.250004231929779,
+    "id": "00877-4ok3usBNeis_instance_65",
+    "instruction": "Find the kitchen counter left of white stove",
+    "final_goal_dist": 0.21057
+}

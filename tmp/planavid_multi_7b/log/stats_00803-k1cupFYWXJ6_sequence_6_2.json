@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.102651,
+    "path_length": 33.15720062702894,
+    "id": "00803-k1cupFYWXJ6_sequence_6_2",
+    "instruction": "Find the ship model",
+    "navigation_type": "object",
+    "final_goal_dist": 0.08852
+}

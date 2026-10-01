@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.3310873812246878,
+    "path_length": 15.510642129927874,
+    "id": "00835-q3zU7Yy5E5s_sequence_13_0",
+    "instruction": "Find the cabinet with decorative plates",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.07851
+}

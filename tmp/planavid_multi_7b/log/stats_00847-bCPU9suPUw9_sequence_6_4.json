@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 13.249999776482582,
+    "id": "00847-bCPU9suPUw9_sequence_6_4",
+    "instruction": "Find the stove in the kitchen that has black dishwasher",
+    "navigation_type": "region",
+    "final_goal_dist": 0.94104
+}

@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.6387239470631458,
+    "path_length": 6.802401505410671,
+    "id": "00878-XB4GS9ShBRE_region_21",
+    "instruction": "Find the sink in the bathroom that has white-framed mirror",
+    "final_goal_dist": 0.11128
+}

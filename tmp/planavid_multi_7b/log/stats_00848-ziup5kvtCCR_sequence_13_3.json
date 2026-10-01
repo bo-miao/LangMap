@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.20039,
+    "path_length": 13.231651350855827,
+    "id": "00848-ziup5kvtCCR_sequence_13_3",
+    "instruction": "Find the tv",
+    "navigation_type": "object",
+    "final_goal_dist": 0.15541
+}

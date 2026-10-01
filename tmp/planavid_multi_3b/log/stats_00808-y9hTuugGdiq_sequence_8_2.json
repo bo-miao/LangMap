@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 32.215183570981026,
+    "id": "00808-y9hTuugGdiq_sequence_8_2",
+    "instruction": "Find the bin in the kitchen that has dark wood kitchen cabinets",
+    "navigation_type": "region",
+    "final_goal_dist": 5.56325
+}

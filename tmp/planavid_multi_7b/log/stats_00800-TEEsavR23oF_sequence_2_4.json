@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.434834,
+    "path_length": 8.068471223115921,
+    "id": "00800-TEEsavR23oF_sequence_2_4",
+    "instruction": "Find the cross trainer in the Office",
+    "navigation_type": "room",
+    "final_goal_dist": 0.08956
+}

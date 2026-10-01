@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 12.656513199210167,
+    "id": "00876-mv2HUxq3B53_sequence_2_4",
+    "instruction": "Find the picture in the hall that has stone-cell patterned artwork",
+    "navigation_type": "region",
+    "final_goal_dist": 1.75348
+}

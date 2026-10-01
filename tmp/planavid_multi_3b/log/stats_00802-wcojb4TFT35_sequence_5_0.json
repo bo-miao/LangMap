@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.4736333364541978,
+    "path_length": 8.484147146344185,
+    "id": "00802-wcojb4TFT35_sequence_5_0",
+    "instruction": "Find the wooden sewing box in bedroom",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.16521
+}

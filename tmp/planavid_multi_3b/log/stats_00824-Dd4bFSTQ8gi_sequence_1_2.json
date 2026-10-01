@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 0.25,
+    "id": "00824-Dd4bFSTQ8gi_sequence_1_2",
+    "instruction": "Find the rug in the living room that has fireplace against brick wall",
+    "navigation_type": "region",
+    "final_goal_dist": 8.84461
+}

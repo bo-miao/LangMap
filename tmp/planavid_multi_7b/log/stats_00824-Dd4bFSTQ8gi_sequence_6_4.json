@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.107431,
+    "path_length": 26.63222409412265,
+    "id": "00824-Dd4bFSTQ8gi_sequence_6_4",
+    "instruction": "Find the couch in the tie: kitchen & living room that has couch near oven and curved bench, 'Tie: A & B' means the area spans both rooms A and B",
+    "navigation_type": "region",
+    "final_goal_dist": 0.18708
+}

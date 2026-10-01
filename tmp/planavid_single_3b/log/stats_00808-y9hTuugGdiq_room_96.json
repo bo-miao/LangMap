@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.6266641717871393,
+    "path_length": 15.232210740447044,
+    "id": "00808-y9hTuugGdiq_room_96",
+    "instruction": "Find the kitchen sink in the Living room",
+    "final_goal_dist": 0.0735
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 19.00000436604023,
+    "id": "00824-Dd4bFSTQ8gi_sequence_12_2",
+    "instruction": "Find the sofa chair",
+    "navigation_type": "object",
+    "final_goal_dist": 10.71875
+}

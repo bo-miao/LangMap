@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.780184,
+    "path_length": 5.749998539686203,
+    "id": "00824-Dd4bFSTQ8gi_sequence_13_3",
+    "instruction": "Find the flowerpot in the dining room that has black dining table with white plates",
+    "navigation_type": "region",
+    "final_goal_dist": 0.122
+}

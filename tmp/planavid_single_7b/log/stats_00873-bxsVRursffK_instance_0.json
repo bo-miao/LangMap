@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.20196918885173662,
+    "path_length": 40.46785443648696,
+    "id": "00873-bxsVRursffK_instance_0",
+    "instruction": "Find the hat in closet above yellow bag",
+    "final_goal_dist": 0.2304
+}

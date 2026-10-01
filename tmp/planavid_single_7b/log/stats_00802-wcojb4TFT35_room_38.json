@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.826337352806189,
+    "path_length": 9.371528804302216,
+    "id": "00802-wcojb4TFT35_room_38",
+    "instruction": "Find the bath sink in the Bathroom",
+    "final_goal_dist": 0.2316
+}

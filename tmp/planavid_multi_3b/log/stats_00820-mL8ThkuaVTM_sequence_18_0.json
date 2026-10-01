@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 31.70701778680086,
+    "id": "00820-mL8ThkuaVTM_sequence_18_0",
+    "instruction": "Find the TV stand below guitar",
+    "navigation_type": "instance",
+    "final_goal_dist": 10.63267
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.3938538382539296,
+    "path_length": 11.253470033407211,
+    "id": "00844-q5QZSEeHe5g_sequence_12_1",
+    "instruction": "Find the tv in the bedroom that has weight bench",
+    "navigation_type": "region",
+    "final_goal_dist": 0.04068
+}

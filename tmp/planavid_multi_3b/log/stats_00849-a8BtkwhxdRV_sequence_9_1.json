@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.3802199191853219,
+    "path_length": 14.483245134353638,
+    "id": "00849-a8BtkwhxdRV_sequence_9_1",
+    "instruction": "Find the bed in the bedroom that has metal-framed double bed",
+    "navigation_type": "region",
+    "final_goal_dist": 0.05777
+}

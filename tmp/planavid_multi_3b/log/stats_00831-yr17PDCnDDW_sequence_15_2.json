@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.45614450347510815,
+    "path_length": 25.610437378287315,
+    "id": "00831-yr17PDCnDDW_sequence_15_2",
+    "instruction": "Find the flowerpot in the Office",
+    "navigation_type": "room",
+    "final_goal_dist": 0.11044
+}

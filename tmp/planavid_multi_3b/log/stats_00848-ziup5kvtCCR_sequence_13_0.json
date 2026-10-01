@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.25038908604557564,
+    "path_length": 53.732840491458774,
+    "id": "00848-ziup5kvtCCR_sequence_13_0",
+    "instruction": "Find the stainless cooker",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.12196
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.4316960430020358,
+    "path_length": 18.000000044703484,
+    "id": "00829-QaLdnwvtxbs_sequence_4_4",
+    "instruction": "Find the picture in the bathroom that has freestanding bathtub",
+    "navigation_type": "region",
+    "final_goal_dist": 0.10404
+}

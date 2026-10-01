@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 16.97109842300415,
+    "id": "00808-y9hTuugGdiq_sequence_4_0",
+    "instruction": "Find the black stereo under sculpture near dining table",
+    "navigation_type": "instance",
+    "final_goal_dist": 4.3793
+}

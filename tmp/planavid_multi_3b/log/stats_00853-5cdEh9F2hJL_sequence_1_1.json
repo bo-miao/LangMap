@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.22515216523160342,
+    "path_length": 56.83532094955444,
+    "id": "00853-5cdEh9F2hJL_sequence_1_1",
+    "instruction": "Find the fireplace in the Office",
+    "navigation_type": "room",
+    "final_goal_dist": 0.14171
+}

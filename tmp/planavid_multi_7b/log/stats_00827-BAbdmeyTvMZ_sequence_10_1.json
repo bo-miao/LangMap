@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.756802,
+    "path_length": 13.21925587952137,
+    "id": "00827-BAbdmeyTvMZ_sequence_10_1",
+    "instruction": "Find the washer-dryer in the Laundry room",
+    "navigation_type": "room",
+    "final_goal_dist": 0.16671
+}

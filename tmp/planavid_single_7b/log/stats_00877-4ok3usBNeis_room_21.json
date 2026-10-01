@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.5621699742907547,
+    "path_length": 14.500003099441528,
+    "id": "00877-4ok3usBNeis_room_21",
+    "instruction": "Find the washbasin counter in the Bathroom",
+    "final_goal_dist": 0.03585
+}

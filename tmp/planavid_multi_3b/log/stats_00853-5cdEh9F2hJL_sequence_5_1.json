@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 48.827606692910194,
+    "id": "00853-5cdEh9F2hJL_sequence_5_1",
+    "instruction": "Find the monitor in the Living room",
+    "navigation_type": "room",
+    "final_goal_dist": 21.73339
+}

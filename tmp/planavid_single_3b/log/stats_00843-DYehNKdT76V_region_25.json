@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.04325274588519437,
+    "path_length": 77.86113136674595,
+    "id": "00843-DYehNKdT76V_region_25",
+    "instruction": "Find the shelf in the tie: dining room & living room that has glass dining table, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 0.10942
+}

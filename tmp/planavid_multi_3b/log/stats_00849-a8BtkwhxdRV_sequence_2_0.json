@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.8292618642633814,
+    "path_length": 2.649997889995575,
+    "id": "00849-a8BtkwhxdRV_sequence_2_0",
+    "instruction": "Find the tv above a brown wicker armchair",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.15488
+}

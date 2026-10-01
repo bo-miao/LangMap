@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.329379,
+    "path_length": 14.196659952402115,
+    "id": "00878-XB4GS9ShBRE_sequence_11_4",
+    "instruction": "Find the wall clock",
+    "navigation_type": "object",
+    "final_goal_dist": 0.06988
+}

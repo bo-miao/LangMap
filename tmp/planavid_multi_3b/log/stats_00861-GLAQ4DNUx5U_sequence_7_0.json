@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.5043136847650231,
+    "path_length": 14.999997362494469,
+    "id": "00861-GLAQ4DNUx5U_sequence_7_0",
+    "instruction": "Find the double steel kitchen sink",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.04182
+}

@@ -1,0 +1,8 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 20.584136113524437,
+    "id": "00823-7MXmsvcQjpJ_region_86",
+    "instruction": "Find the sink in the bathroom that has double-sink vanity and bathtub",
+    "final_goal_dist": 2.39275
+}

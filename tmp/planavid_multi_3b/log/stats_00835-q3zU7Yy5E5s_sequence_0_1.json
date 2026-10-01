@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.8179708262614268,
+    "path_length": 7.0059069991111755,
+    "id": "00835-q3zU7Yy5E5s_sequence_0_1",
+    "instruction": "Find the kitchen extractor in the kitchen that has stainless stove",
+    "navigation_type": "region",
+    "final_goal_dist": 0.05929
+}

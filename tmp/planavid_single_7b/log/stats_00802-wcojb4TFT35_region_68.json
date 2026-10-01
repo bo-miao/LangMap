@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.31722681723462987,
+    "path_length": 24.234393298625946,
+    "id": "00802-wcojb4TFT35_region_68",
+    "instruction": "Find the couch in the living room that has TV above fireplace",
+    "final_goal_dist": 0.19797
+}

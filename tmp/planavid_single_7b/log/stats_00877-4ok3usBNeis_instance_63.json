@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.5667564666669628,
+    "path_length": 13.206477642059326,
+    "id": "00877-4ok3usBNeis_instance_63",
+    "instruction": "Find the left lower kitchen cabinet with drawers",
+    "final_goal_dist": 0.07433
+}

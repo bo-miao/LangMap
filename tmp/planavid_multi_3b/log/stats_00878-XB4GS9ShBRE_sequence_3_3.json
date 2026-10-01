@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.21212943741918777,
+    "path_length": 19.094754457473755,
+    "id": "00878-XB4GS9ShBRE_sequence_3_3",
+    "instruction": "Find the tv in the Bedroom",
+    "navigation_type": "room",
+    "final_goal_dist": 0.22276
+}

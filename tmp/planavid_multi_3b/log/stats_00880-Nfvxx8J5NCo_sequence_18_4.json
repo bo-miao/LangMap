@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.49616630249568133,
+    "path_length": 22.000004440546036,
+    "id": "00880-Nfvxx8J5NCo_sequence_18_4",
+    "instruction": "Find the toilet in the bathroom that has white shower curtain",
+    "navigation_type": "region",
+    "final_goal_dist": 0.15147
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 7.2484148889780045,
+    "id": "00831-yr17PDCnDDW_sequence_10_2",
+    "instruction": "Find the plant in the Living room",
+    "navigation_type": "room",
+    "final_goal_dist": 10.06014
+}

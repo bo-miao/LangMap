@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.04099,
+    "path_length": 25.752845257520676,
+    "id": "00829-QaLdnwvtxbs_sequence_14_1",
+    "instruction": "Find the cabinet in the Hall",
+    "navigation_type": "room",
+    "final_goal_dist": 0.19299
+}

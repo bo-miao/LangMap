@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.375108265857245,
+    "path_length": 23.575491823256016,
+    "id": "00810-CrMo8WxCyVb_sequence_4_4",
+    "instruction": "Find the desk in the office that has glass table with white chairs",
+    "navigation_type": "region",
+    "final_goal_dist": 0.12287
+}

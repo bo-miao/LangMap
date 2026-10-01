@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 10.268324360251427,
+    "id": "00871-VBzV5z6i1WS_sequence_7_3",
+    "instruction": "Find the bathtub in the Bathroom",
+    "navigation_type": "room",
+    "final_goal_dist": 16.55011
+}

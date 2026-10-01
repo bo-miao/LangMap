@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.202538,
+    "path_length": 66.74054253101349,
+    "id": "00848-ziup5kvtCCR_sequence_14_3",
+    "instruction": "Find the washer-dryer",
+    "navigation_type": "object",
+    "final_goal_dist": 0.03493
+}

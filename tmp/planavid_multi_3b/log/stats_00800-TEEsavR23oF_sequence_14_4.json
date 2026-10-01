@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.45248760296924734,
+    "path_length": 10.749997600913048,
+    "id": "00800-TEEsavR23oF_sequence_14_4",
+    "instruction": "Find the floor mat in the tie: hall & living room that has TV above fireplace, 'Tie: A & B' means the area spans both rooms A and B",
+    "navigation_type": "region",
+    "final_goal_dist": 0.17007
+}

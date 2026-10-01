@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.6852234696690845,
+    "path_length": 9.499999433755875,
+    "id": "00869-MHPLjHsuG27_sequence_12_2",
+    "instruction": "Find the kitchen shelf in the kitchen that has blue-gray kitchen cabinets",
+    "navigation_type": "region",
+    "final_goal_dist": 0.17064
+}

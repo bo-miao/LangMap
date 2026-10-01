@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.4683513335191754,
+    "path_length": 17.250002145767212,
+    "id": "00813-svBbv1Pavdk_sequence_17_2",
+    "instruction": "Find the worktop",
+    "navigation_type": "object",
+    "final_goal_dist": 0.10437
+}

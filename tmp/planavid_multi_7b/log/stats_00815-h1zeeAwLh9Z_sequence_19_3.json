@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 21.063120275735855,
+    "id": "00815-h1zeeAwLh9Z_sequence_19_3",
+    "instruction": "Find the rug in the hall that has fireplace below staircase",
+    "navigation_type": "region",
+    "final_goal_dist": 1.61689
+}

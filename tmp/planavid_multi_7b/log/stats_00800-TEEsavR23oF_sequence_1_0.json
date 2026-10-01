@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.584693,
+    "path_length": 13.303142428398132,
+    "id": "00800-TEEsavR23oF_sequence_1_0",
+    "instruction": "Find the dresser below TV near white-sheeted bed",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.13912
+}

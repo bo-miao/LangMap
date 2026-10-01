@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 0.49999991059303284,
+    "id": "00862-LT9Jq6dN3Ea_sequence_17_1",
+    "instruction": "Find the sink in the bathroom that has blue dual-sink bath vanity",
+    "navigation_type": "region",
+    "final_goal_dist": 8.5797
+}

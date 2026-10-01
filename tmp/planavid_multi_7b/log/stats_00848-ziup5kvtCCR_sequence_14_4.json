@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.481132,
+    "path_length": 19.46357896924019,
+    "id": "00848-ziup5kvtCCR_sequence_14_4",
+    "instruction": "Find the christmas tree in the Tie: Kitchen & Living room, 'Tie: A & B' means the area spans both rooms A and B",
+    "navigation_type": "room",
+    "final_goal_dist": 0.08114
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 4.500001966953278,
+    "id": "00849-a8BtkwhxdRV_sequence_10_0",
+    "instruction": "Find the picture above wine cabinet",
+    "navigation_type": "instance",
+    "final_goal_dist": 5.77935
+}

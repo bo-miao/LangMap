@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 21.223461415618658,
+    "id": "00839-zt1RVoi7PcG_sequence_0_2",
+    "instruction": "Find the monitor in the Bedroom",
+    "navigation_type": "room",
+    "final_goal_dist": 12.06067
+}

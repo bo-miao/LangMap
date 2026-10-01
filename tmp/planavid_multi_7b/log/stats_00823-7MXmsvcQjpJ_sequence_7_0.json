@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.322319,
+    "path_length": 27.031942328438163,
+    "id": "00823-7MXmsvcQjpJ_sequence_7_0",
+    "instruction": "Find the brown bath towel beside double-sink vanity",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.15839
+}

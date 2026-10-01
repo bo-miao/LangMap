@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.24301927379901936,
+    "path_length": 16.814161956310272,
+    "id": "00873-bxsVRursffK_region_60",
+    "instruction": "Find the dishwasher in the tie: kitchen & living room that has dark kitchen island, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 0.14531
+}

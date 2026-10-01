@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.38958414040931805,
+    "path_length": 31.72986724600196,
+    "id": "00813-svBbv1Pavdk_sequence_2_0",
+    "instruction": "Find the gray couch below adventure print",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.16841
+}

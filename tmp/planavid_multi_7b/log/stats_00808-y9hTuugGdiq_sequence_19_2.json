@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 21.99656082689762,
+    "id": "00808-y9hTuugGdiq_sequence_19_2",
+    "instruction": "Find the chest of drawers in the bedroom that has bed with red pillows",
+    "navigation_type": "region",
+    "final_goal_dist": 0.60609
+}

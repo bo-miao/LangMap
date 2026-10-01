@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 0.7500048577785492,
+    "id": "00891-cvZr5TUy5C5_sequence_12_0",
+    "instruction": "Find the toilet near gray shower curtain",
+    "navigation_type": "instance",
+    "final_goal_dist": 9.05975
+}

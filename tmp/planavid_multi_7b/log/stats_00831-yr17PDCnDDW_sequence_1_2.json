@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.361394,
+    "path_length": 11.899354189634323,
+    "id": "00831-yr17PDCnDDW_sequence_1_2",
+    "instruction": "Find the couch in the Living room",
+    "navigation_type": "room",
+    "final_goal_dist": 0.17766
+}

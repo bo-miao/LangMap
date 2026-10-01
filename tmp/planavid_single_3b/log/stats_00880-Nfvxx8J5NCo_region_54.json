@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.731733182333967,
+    "path_length": 4.6197609305381775,
+    "id": "00880-Nfvxx8J5NCo_region_54",
+    "instruction": "Find the sink cabinet in the tie: bathroom & walk-in closet that has double-sink bath vanity, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 0.17438
+}

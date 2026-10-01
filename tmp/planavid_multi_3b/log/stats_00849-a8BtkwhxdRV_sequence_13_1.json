@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 8.481898441910744,
+    "id": "00849-a8BtkwhxdRV_sequence_13_1",
+    "instruction": "Find the bench in the Dining room",
+    "navigation_type": "room",
+    "final_goal_dist": 6.29398
+}

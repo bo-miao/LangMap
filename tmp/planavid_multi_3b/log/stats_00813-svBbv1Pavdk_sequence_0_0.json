@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 23.803916480392218,
+    "id": "00813-svBbv1Pavdk_sequence_0_0",
+    "instruction": "Find the black-and-white cityscape picture near gray couch below world map",
+    "navigation_type": "instance",
+    "final_goal_dist": 5.66678
+}

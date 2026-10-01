@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.12383284073694342,
+    "path_length": 70.66097874194384,
+    "id": "00862-LT9Jq6dN3Ea_room_35",
+    "instruction": "Find the cabinet in the Dining room",
+    "final_goal_dist": 0.1275
+}

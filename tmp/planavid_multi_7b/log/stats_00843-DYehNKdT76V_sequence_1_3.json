@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 0.0,
+    "id": "00843-DYehNKdT76V_sequence_1_3",
+    "instruction": "Find the nightstand in the bedroom that has bed below geometric print",
+    "navigation_type": "region",
+    "final_goal_dist": 1.00811
+}

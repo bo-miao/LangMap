@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 7.026444256771356,
+    "id": "00802-wcojb4TFT35_sequence_8_0",
+    "instruction": "Find the flowerpot with green plant beside fireplace",
+    "navigation_type": "instance",
+    "final_goal_dist": 1.95414
+}

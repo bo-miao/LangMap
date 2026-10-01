@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.42306561566990947,
+    "path_length": 26.559405028820038,
+    "id": "00821-eF36g7L6Z9M_sequence_4_4",
+    "instruction": "Find the shower bar in the tie: bathroom & bedroom that has freestanding bathtub or round mirrors flanking bed, 'Tie: A & B' means the area spans both rooms A and B",
+    "navigation_type": "region",
+    "final_goal_dist": 0.1297
+}

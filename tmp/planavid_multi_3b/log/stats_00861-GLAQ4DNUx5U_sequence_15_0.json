@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 10.5824024528265,
+    "id": "00861-GLAQ4DNUx5U_sequence_15_0",
+    "instruction": "Find the wood shelf right of white printer",
+    "navigation_type": "instance",
+    "final_goal_dist": 5.10012
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 4.250000283122063,
+    "id": "00823-7MXmsvcQjpJ_sequence_1_3",
+    "instruction": "Find the picture in the bedroom that has woodland-themed wallpaper",
+    "navigation_type": "region",
+    "final_goal_dist": 0.3649
+}

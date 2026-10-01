@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 34.14302283525467,
+    "id": "00869-MHPLjHsuG27_sequence_16_0",
+    "instruction": "Find the heater below mirror in hall",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.76453
+}

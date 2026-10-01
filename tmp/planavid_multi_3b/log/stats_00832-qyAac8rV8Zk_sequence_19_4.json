@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.4617410423833325,
+    "path_length": 13.000000044703484,
+    "id": "00832-qyAac8rV8Zk_sequence_19_4",
+    "instruction": "Find the rug in the tie: kitchen & living room that has island with granite countertop, 'Tie: A & B' means the area spans both rooms A and B",
+    "navigation_type": "region",
+    "final_goal_dist": 0.10988
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 1.5499979071319103,
+    "id": "00813-svBbv1Pavdk_sequence_9_0",
+    "instruction": "Find the green plant in closet",
+    "navigation_type": "instance",
+    "final_goal_dist": 10.18609
+}

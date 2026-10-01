@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.7773764268942508,
+    "path_length": 12.150000110268593,
+    "id": "00880-Nfvxx8J5NCo_region_19",
+    "instruction": "Find the kitchen island in the tie: kitchen & living room that has white kitchen island, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 0.19303
+}

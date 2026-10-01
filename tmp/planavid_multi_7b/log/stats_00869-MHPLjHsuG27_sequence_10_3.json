@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.525413,
+    "path_length": 2.0000012814998627,
+    "id": "00869-MHPLjHsuG27_sequence_10_3",
+    "instruction": "Find the lounge chair",
+    "navigation_type": "object",
+    "final_goal_dist": 0.14424
+}

@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.3981145169758523,
+    "path_length": 19.251626387238503,
+    "id": "00844-q5QZSEeHe5g_region_40",
+    "instruction": "Find the bathrobe in the bathroom that has gray bathrobe",
+    "final_goal_dist": 0.14304
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 11.191676288843155,
+    "id": "00843-DYehNKdT76V_sequence_3_2",
+    "instruction": "Find the cabinet in the Walk-in closet",
+    "navigation_type": "room",
+    "final_goal_dist": 8.39755
+}

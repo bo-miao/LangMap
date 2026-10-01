@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.28989908242873197,
+    "path_length": 49.328909158706665,
+    "id": "00831-yr17PDCnDDW_sequence_13_1",
+    "instruction": "Find the armchair",
+    "navigation_type": "object",
+    "final_goal_dist": 0.12412
+}

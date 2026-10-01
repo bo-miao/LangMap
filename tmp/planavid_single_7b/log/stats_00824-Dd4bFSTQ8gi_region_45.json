@@ -1,0 +1,8 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 32.06879003345966,
+    "id": "00824-Dd4bFSTQ8gi_region_45",
+    "instruction": "Find the stove in the tie: kitchen & living room that has couch near oven and curved bench, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 3.99399
+}

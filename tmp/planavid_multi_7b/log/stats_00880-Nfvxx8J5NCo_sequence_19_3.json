@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.183804,
+    "path_length": 51.7499872893095,
+    "id": "00880-Nfvxx8J5NCo_sequence_19_3",
+    "instruction": "Find the bench in the tie: bathroom & walk-in closet that has double-sink bath vanity, 'Tie: A & B' means the area spans both rooms A and B",
+    "navigation_type": "region",
+    "final_goal_dist": 0.1537
+}

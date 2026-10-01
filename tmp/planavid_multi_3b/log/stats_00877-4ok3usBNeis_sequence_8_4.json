@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.40788443258823065,
+    "path_length": 15.500000432133675,
+    "id": "00877-4ok3usBNeis_sequence_8_4",
+    "instruction": "Find the couch in the living room that has red-plaid couch",
+    "navigation_type": "region",
+    "final_goal_dist": 0.08973
+}

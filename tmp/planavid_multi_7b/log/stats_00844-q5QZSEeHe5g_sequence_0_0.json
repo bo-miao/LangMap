@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 36.83718295395374,
+    "id": "00844-q5QZSEeHe5g_sequence_0_0",
+    "instruction": "Find the wooden shelf above bathroom sink",
+    "navigation_type": "instance",
+    "final_goal_dist": 5.80604
+}

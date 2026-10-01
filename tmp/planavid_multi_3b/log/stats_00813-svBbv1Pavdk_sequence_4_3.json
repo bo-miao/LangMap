@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.7069449104723714,
+    "path_length": 6.999999642372131,
+    "id": "00813-svBbv1Pavdk_sequence_4_3",
+    "instruction": "Find the rug",
+    "navigation_type": "object",
+    "final_goal_dist": 0.13877
+}

@@ -1,0 +1,8 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 19.081532031297684,
+    "id": "00802-wcojb4TFT35_region_93",
+    "instruction": "Find the kitchen counter in the kitchen that has stainless steel refrigerator",
+    "final_goal_dist": 2.93627
+}

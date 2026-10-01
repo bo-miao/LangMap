@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.0040366617694127015,
+    "path_length": 6.735287964344025,
+    "id": "00873-bxsVRursffK_sequence_3_1",
+    "instruction": "Find the bean bag chair in the bedroom that has gray floral bedding",
+    "navigation_type": "region",
+    "final_goal_dist": 0.08002
+}

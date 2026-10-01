@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 34.460997968912125,
+    "id": "00877-4ok3usBNeis_sequence_19_4",
+    "instruction": "Find the wall clock",
+    "navigation_type": "object",
+    "final_goal_dist": 0.81934
+}

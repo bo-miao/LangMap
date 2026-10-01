@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.661892,
+    "path_length": 10.98496861755848,
+    "id": "00839-zt1RVoi7PcG_sequence_12_2",
+    "instruction": "Find the shelf in the bathroom that has patterned shower curtain",
+    "navigation_type": "region",
+    "final_goal_dist": 0.16436
+}

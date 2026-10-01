@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.7405897005733322,
+    "path_length": 10.296313591301441,
+    "id": "00824-Dd4bFSTQ8gi_region_53",
+    "instruction": "Find the bed in the bedroom that has bed with gray padded headboard",
+    "final_goal_dist": 0.06753
+}

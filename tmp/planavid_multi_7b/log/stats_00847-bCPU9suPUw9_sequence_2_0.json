@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 4.153910957276821,
+    "id": "00847-bCPU9suPUw9_sequence_2_0",
+    "instruction": "Find the toilet below a geometric print",
+    "navigation_type": "instance",
+    "final_goal_dist": 6.46591
+}

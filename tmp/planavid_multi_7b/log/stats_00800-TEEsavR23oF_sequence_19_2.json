@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.218504,
+    "path_length": 13.750001236796379,
+    "id": "00800-TEEsavR23oF_sequence_19_2",
+    "instruction": "Find the sideboard in the dining room that has dining table near canal scene painting",
+    "navigation_type": "region",
+    "final_goal_dist": 0.20506
+}

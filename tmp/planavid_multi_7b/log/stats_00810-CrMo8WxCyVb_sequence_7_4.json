@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.90106,
+    "path_length": 1.500000149011612,
+    "id": "00810-CrMo8WxCyVb_sequence_7_4",
+    "instruction": "Find the bathtub in the bathroom that has striped shower curtain",
+    "navigation_type": "region",
+    "final_goal_dist": 0.13311
+}

@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.2474192139918857,
+    "path_length": 31.02858356386423,
+    "id": "00877-4ok3usBNeis_region_4",
+    "instruction": "Find the dresser in the storage room that has freezers",
+    "final_goal_dist": 0.10822
+}

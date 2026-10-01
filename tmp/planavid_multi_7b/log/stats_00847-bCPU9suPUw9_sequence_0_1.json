@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 4.9999984204769135,
+    "id": "00847-bCPU9suPUw9_sequence_0_1",
+    "instruction": "Find the nightstand in the bedroom that has bed with white pillows",
+    "navigation_type": "region",
+    "final_goal_dist": 0.94784
+}

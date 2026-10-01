@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.052308,
+    "path_length": 4.000001817941666,
+    "id": "00869-MHPLjHsuG27_sequence_5_1",
+    "instruction": "Find the coffee table in the Living room",
+    "navigation_type": "room",
+    "final_goal_dist": 0.09411
+}

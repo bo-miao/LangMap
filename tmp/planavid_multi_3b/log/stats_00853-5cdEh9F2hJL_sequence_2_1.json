@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 0.7500007152557373,
+    "id": "00853-5cdEh9F2hJL_sequence_2_1",
+    "instruction": "Find the display cabinet",
+    "navigation_type": "object",
+    "final_goal_dist": 5.63626
+}

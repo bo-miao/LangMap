@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 8.499999552965164,
+    "id": "00808-y9hTuugGdiq_sequence_15_4",
+    "instruction": "Find the side table in the Living room",
+    "navigation_type": "room",
+    "final_goal_dist": 1.8659
+}

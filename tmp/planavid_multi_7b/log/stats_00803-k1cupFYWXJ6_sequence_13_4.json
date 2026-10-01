@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 13.035564005374908,
+    "id": "00803-k1cupFYWXJ6_sequence_13_4",
+    "instruction": "Find the black radiator beside beige patterned armchairs",
+    "navigation_type": "instance",
+    "final_goal_dist": 3.81138
+}

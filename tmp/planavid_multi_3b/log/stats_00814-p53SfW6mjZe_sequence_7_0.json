@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 16.883559765294194,
+    "id": "00814-p53SfW6mjZe_sequence_7_0",
+    "instruction": "Find the black sink cabinet near side-by-side washing machines",
+    "navigation_type": "instance",
+    "final_goal_dist": 10.70289
+}

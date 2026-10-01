@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 22.32815755903721,
+    "id": "00823-7MXmsvcQjpJ_sequence_16_1",
+    "instruction": "Find the rocking chair in the living room that has wood piano",
+    "navigation_type": "region",
+    "final_goal_dist": 5.72748
+}

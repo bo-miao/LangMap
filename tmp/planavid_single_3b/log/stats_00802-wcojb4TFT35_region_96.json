@@ -1,0 +1,8 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 40.11124184727669,
+    "id": "00802-wcojb4TFT35_region_96",
+    "instruction": "Find the board in the kitchen that has stainless steel refrigerator",
+    "final_goal_dist": 3.40518
+}

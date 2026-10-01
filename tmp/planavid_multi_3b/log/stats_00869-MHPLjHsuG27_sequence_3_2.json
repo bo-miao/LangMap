@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.7904965182360041,
+    "path_length": 6.5000001192092896,
+    "id": "00869-MHPLjHsuG27_sequence_3_2",
+    "instruction": "Find the oven in the kitchen that has blue-gray kitchen cabinets",
+    "navigation_type": "region",
+    "final_goal_dist": 0.06448
+}

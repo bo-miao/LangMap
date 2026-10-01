@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.21134989708523422,
+    "path_length": 39.35641419887543,
+    "id": "00844-q5QZSEeHe5g_region_111",
+    "instruction": "Find the book in the office that has Albert Einstein portrait",
+    "final_goal_dist": 0.23532
+}

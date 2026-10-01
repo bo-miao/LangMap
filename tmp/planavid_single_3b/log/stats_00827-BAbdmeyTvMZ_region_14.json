@@ -1,0 +1,8 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 67.32181151211262,
+    "id": "00827-BAbdmeyTvMZ_region_14",
+    "instruction": "Find the table in the kitchen that has stainless refrigerator",
+    "final_goal_dist": 2.79466
+}

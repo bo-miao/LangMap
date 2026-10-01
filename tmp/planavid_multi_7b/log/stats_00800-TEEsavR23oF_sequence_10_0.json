@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 25.234654635190964,
+    "id": "00800-TEEsavR23oF_sequence_10_0",
+    "instruction": "Find the side table right of computer desk",
+    "navigation_type": "instance",
+    "final_goal_dist": 9.47723
+}

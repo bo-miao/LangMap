@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.17571834184293145,
+    "path_length": 17.70046437252313,
+    "id": "00827-BAbdmeyTvMZ_region_3",
+    "instruction": "Find the cabinet in the kitchen that has stainless refrigerator",
+    "final_goal_dist": 0.10717
+}

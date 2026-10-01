@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 93.52218040823936,
+    "id": "00821-eF36g7L6Z9M_sequence_16_4",
+    "instruction": "Find the fireplace shelf in the living room that has white couch and stone fireplace",
+    "navigation_type": "region",
+    "final_goal_dist": 9.05198
+}

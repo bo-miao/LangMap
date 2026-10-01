@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 82.9542027413845,
+    "id": "00861-GLAQ4DNUx5U_sequence_4_0",
+    "instruction": "Find the folded blue blanket in closet",
+    "navigation_type": "instance",
+    "final_goal_dist": 6.46599
+}

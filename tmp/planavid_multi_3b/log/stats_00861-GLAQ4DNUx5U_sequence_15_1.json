@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.009143526348524965,
+    "path_length": 4.000000953674316,
+    "id": "00861-GLAQ4DNUx5U_sequence_15_1",
+    "instruction": "Find the closet area for hanging clothes",
+    "navigation_type": "object",
+    "final_goal_dist": 0.09997
+}

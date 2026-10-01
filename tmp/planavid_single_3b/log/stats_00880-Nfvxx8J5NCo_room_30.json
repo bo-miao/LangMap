@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.40104634468795813,
+    "path_length": 24.640400990843773,
+    "id": "00880-Nfvxx8J5NCo_room_30",
+    "instruction": "Find the coffee maker in the Tie: Kitchen & Living room, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 0.16848
+}

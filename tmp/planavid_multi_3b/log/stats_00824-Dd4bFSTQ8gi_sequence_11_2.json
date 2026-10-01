@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 80.5884672254324,
+    "id": "00824-Dd4bFSTQ8gi_sequence_11_2",
+    "instruction": "Find the closet in the bathroom that has starfish print",
+    "navigation_type": "region",
+    "final_goal_dist": 9.81367
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 0.5499996691942215,
+    "id": "00803-k1cupFYWXJ6_sequence_7_0",
+    "instruction": "Find the white square side table below white frameless map",
+    "navigation_type": "instance",
+    "final_goal_dist": 3.89237
+}

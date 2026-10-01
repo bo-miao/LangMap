@@ -1,0 +1,8 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 11.100001484155655,
+    "id": "00829-QaLdnwvtxbs_region_27",
+    "instruction": "Find the bowl of sweets in the tie: dining room & living room that has dining table and TV, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 0.90229
+}

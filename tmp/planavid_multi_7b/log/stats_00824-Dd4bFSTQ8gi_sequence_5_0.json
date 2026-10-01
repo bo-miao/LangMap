@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 15.29171036183834,
+    "id": "00824-Dd4bFSTQ8gi_sequence_5_0",
+    "instruction": "Find the white furry blanket on teal couch",
+    "navigation_type": "instance",
+    "final_goal_dist": 14.64678
+}

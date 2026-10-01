@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.75946,
+    "path_length": 7.749999672174454,
+    "id": "00848-ziup5kvtCCR_sequence_12_2",
+    "instruction": "Find the bed in the bedroom that has bed without headboard",
+    "navigation_type": "region",
+    "final_goal_dist": 0.0471
+}

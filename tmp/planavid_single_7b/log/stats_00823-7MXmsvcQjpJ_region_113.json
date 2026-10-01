@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.8037158908867407,
+    "path_length": 10.462292179465294,
+    "id": "00823-7MXmsvcQjpJ_region_113",
+    "instruction": "Find the kitchen counter in the kitchen that has white refrigerator",
+    "final_goal_dist": 0.17316
+}

@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.890033023310032,
+    "path_length": 8.55000413954258,
+    "id": "00824-Dd4bFSTQ8gi_region_26",
+    "instruction": "Find the table in the dining room that has black dining table with white plates",
+    "final_goal_dist": 0.13244
+}

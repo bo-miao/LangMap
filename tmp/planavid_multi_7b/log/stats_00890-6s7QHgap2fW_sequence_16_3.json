@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.534036,
+    "path_length": 41.773092836141586,
+    "id": "00890-6s7QHgap2fW_sequence_16_3",
+    "instruction": "Find the shelf in the laundry room that has washing machine",
+    "navigation_type": "region",
+    "final_goal_dist": 0.13466
+}

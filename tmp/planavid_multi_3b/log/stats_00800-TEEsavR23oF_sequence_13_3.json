@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.20489755158369866,
+    "path_length": 16.000000089406967,
+    "id": "00800-TEEsavR23oF_sequence_13_3",
+    "instruction": "Find the bath sink in the bathroom that has pedestal sink",
+    "navigation_type": "region",
+    "final_goal_dist": 0.20194
+}

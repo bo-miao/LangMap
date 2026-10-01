@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.8032224707071841,
+    "path_length": 16.63584873266518,
+    "id": "00827-BAbdmeyTvMZ_region_0",
+    "instruction": "Find the cabinet in the laundry room that has washer-dryer unit",
+    "final_goal_dist": 0.2451
+}

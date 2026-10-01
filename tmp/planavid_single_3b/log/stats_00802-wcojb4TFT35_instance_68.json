@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.7067433355580084,
+    "path_length": 12.922834575176239,
+    "id": "00802-wcojb4TFT35_instance_68",
+    "instruction": "Find the kitchen utensil left of stove",
+    "final_goal_dist": 0.13369
+}

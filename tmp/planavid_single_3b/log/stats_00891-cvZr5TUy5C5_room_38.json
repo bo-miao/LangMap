@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.09624091354385322,
+    "path_length": 81.90765284746885,
+    "id": "00891-cvZr5TUy5C5_room_38",
+    "instruction": "Find the microwave in the Kitchen",
+    "final_goal_dist": 0.18313
+}

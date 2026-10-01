@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 43.34930244833231,
+    "id": "00814-p53SfW6mjZe_sequence_1_0",
+    "instruction": "Find the wood shelf near table tennis table",
+    "navigation_type": "instance",
+    "final_goal_dist": 2.02191
+}

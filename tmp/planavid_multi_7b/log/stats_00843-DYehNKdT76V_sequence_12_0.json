@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 11.23884480446577,
+    "id": "00843-DYehNKdT76V_sequence_12_0",
+    "instruction": "Find the glass dining table",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.37985
+}

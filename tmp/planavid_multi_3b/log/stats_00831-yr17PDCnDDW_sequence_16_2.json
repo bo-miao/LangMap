@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 2.066943034529686,
+    "id": "00831-yr17PDCnDDW_sequence_16_2",
+    "instruction": "Find the board in the Office",
+    "navigation_type": "room",
+    "final_goal_dist": 15.26511
+}

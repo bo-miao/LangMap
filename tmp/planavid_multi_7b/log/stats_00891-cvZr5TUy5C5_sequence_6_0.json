@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 11.550005309283733,
+    "id": "00891-cvZr5TUy5C5_sequence_6_0",
+    "instruction": "Find the narrow kitchen cabinet with single wood door directly right of microwave",
+    "navigation_type": "instance",
+    "final_goal_dist": 2.00387
+}

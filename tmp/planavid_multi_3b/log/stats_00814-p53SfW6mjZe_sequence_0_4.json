@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 26.830883431481197,
+    "id": "00814-p53SfW6mjZe_sequence_0_4",
+    "instruction": "Find the shelf in the rec room that has table tennis table",
+    "navigation_type": "region",
+    "final_goal_dist": 1.67604
+}

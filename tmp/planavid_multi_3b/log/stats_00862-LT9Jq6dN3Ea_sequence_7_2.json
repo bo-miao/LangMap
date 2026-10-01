@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.8224725893312681,
+    "path_length": 16.24999937415123,
+    "id": "00862-LT9Jq6dN3Ea_sequence_7_2",
+    "instruction": "Find the cabinet in the Living room",
+    "navigation_type": "room",
+    "final_goal_dist": 0.11268
+}

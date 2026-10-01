@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.536488,
+    "path_length": 16.000002160668373,
+    "id": "00839-zt1RVoi7PcG_sequence_6_1",
+    "instruction": "Find the sink in the bathroom that has patterned shower curtain",
+    "navigation_type": "region",
+    "final_goal_dist": 0.16824
+}

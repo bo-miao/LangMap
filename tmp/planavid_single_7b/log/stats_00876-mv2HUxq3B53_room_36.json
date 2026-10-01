@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.6161828805669123,
+    "path_length": 14.50000400468707,
+    "id": "00876-mv2HUxq3B53_room_36",
+    "instruction": "Find the sink cabinet in the Tie: Kitchen & Living room, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 0.04129
+}

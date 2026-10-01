@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.2564560989749963,
+    "path_length": 24.346002995967865,
+    "id": "00802-wcojb4TFT35_sequence_17_1",
+    "instruction": "Find the cabinet",
+    "navigation_type": "object",
+    "final_goal_dist": 0.08648
+}

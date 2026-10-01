@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.38532560554965917,
+    "path_length": 18.78390933200717,
+    "id": "00815-h1zeeAwLh9Z_region_26",
+    "instruction": "Find the utility sink in the laundry room that has washer and dryer",
+    "final_goal_dist": 0.06183
+}

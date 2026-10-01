@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.3956889930444542,
+    "path_length": 26.408422276377678,
+    "id": "00890-6s7QHgap2fW_room_0",
+    "instruction": "Find the radiator in the Bathroom",
+    "final_goal_dist": 0.16324
+}

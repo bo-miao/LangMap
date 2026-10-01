@@ -1,0 +1,8 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 18.26871126703918,
+    "id": "00853-5cdEh9F2hJL_region_81",
+    "instruction": "Find the office chair in the tie: living room & office that has white fireplace, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 13.14109
+}

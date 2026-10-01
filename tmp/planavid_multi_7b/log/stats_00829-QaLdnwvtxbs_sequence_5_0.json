@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 29.845573604106903,
+    "id": "00829-QaLdnwvtxbs_sequence_5_0",
+    "instruction": "Find the cabinet below three pictures",
+    "navigation_type": "instance",
+    "final_goal_dist": 4.52796
+}

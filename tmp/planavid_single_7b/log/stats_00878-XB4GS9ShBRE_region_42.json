@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.6481583074250175,
+    "path_length": 6.303783682407811,
+    "id": "00878-XB4GS9ShBRE_region_42",
+    "instruction": "Find the refrigerator in the kitchen that has dining table with turquoise placemats",
+    "final_goal_dist": 0.03783
+}

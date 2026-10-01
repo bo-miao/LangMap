@@ -1,0 +1,8 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 3.9259109497070312,
+    "id": "00827-BAbdmeyTvMZ_region_48",
+    "instruction": "Find the trashcan in the kitchen that has stainless refrigerator",
+    "final_goal_dist": 1.08097
+}

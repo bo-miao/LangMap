@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 64.42671864293516,
+    "id": "00814-p53SfW6mjZe_sequence_13_0",
+    "instruction": "Find the turquoise coffee machine",
+    "navigation_type": "instance",
+    "final_goal_dist": 4.98325
+}

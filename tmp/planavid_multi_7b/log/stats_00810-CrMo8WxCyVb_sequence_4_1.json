@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.164195,
+    "path_length": 0.9999999552965164,
+    "id": "00810-CrMo8WxCyVb_sequence_4_1",
+    "instruction": "Find the towel",
+    "navigation_type": "object",
+    "final_goal_dist": 0.13616
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.15494744876332672,
+    "path_length": 43.13610120117664,
+    "id": "00827-BAbdmeyTvMZ_sequence_6_0",
+    "instruction": "Find the beige bathroom cabinet beside corner bathtub",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.18399
+}

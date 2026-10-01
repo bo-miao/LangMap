@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 13.343718349933624,
+    "id": "00844-q5QZSEeHe5g_sequence_11_0",
+    "instruction": "Find the mesh-door cabinet against orange wall",
+    "navigation_type": "instance",
+    "final_goal_dist": 6.31887
+}

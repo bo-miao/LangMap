@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.904143532554037,
+    "path_length": 9.006691664457321,
+    "id": "00877-4ok3usBNeis_sequence_14_2",
+    "instruction": "Find the desk in the office that has black desk",
+    "navigation_type": "region",
+    "final_goal_dist": 0.10725
+}

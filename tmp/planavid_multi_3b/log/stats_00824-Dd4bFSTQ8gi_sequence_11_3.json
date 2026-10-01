@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.0013851511833898242,
+    "path_length": 65.91843577846885,
+    "id": "00824-Dd4bFSTQ8gi_sequence_11_3",
+    "instruction": "Find the kitchen cabinet in the Living room",
+    "navigation_type": "room",
+    "final_goal_dist": 0.20263
+}

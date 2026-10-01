@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.4277650670812866,
+    "path_length": 7.966005101799965,
+    "id": "00878-XB4GS9ShBRE_region_19",
+    "instruction": "Find the cabinet in the tie: dining room & living room that has beige fabric couch, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 0.11831
+}

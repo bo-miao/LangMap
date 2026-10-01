@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.265613,
+    "path_length": 7.5825343281030655,
+    "id": "00820-mL8ThkuaVTM_sequence_11_3",
+    "instruction": "Find the fireplace wall in the tie: kitchen & living room that has TV and dining table, 'Tie: A & B' means the area spans both rooms A and B",
+    "navigation_type": "region",
+    "final_goal_dist": 0.1257
+}

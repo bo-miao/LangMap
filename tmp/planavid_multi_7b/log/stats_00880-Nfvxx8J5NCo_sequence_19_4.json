@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 8.412752881646156,
+    "id": "00880-Nfvxx8J5NCo_sequence_19_4",
+    "instruction": "Find the sign in the tie: bathroom & walk-in closet that has double-sink bath vanity, 'Tie: A & B' means the area spans both rooms A and B",
+    "navigation_type": "region",
+    "final_goal_dist": 1.56539
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 39.688669415190816,
+    "id": "00821-eF36g7L6Z9M_sequence_13_0",
+    "instruction": "Find the gray sitting bench beside four armchairs",
+    "navigation_type": "instance",
+    "final_goal_dist": 15.43195
+}

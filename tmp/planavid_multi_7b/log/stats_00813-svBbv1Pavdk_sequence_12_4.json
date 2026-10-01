@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.536845,
+    "path_length": 9.50000236928463,
+    "id": "00813-svBbv1Pavdk_sequence_12_4",
+    "instruction": "Find the clothes dryer",
+    "navigation_type": "object",
+    "final_goal_dist": 0.16407
+}

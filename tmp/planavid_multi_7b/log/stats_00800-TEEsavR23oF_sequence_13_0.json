@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.795072,
+    "path_length": 10.649997234344482,
+    "id": "00800-TEEsavR23oF_sequence_13_0",
+    "instruction": "Find the tv above fireplace",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.18807
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.2588447057179293,
+    "path_length": 34.51680453121662,
+    "id": "00877-4ok3usBNeis_sequence_10_0",
+    "instruction": "Find the nightstand beside striped-quilted bed",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.21796
+}

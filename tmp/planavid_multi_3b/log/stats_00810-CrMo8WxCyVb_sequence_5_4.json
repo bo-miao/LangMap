@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 18.250000655651093,
+    "id": "00810-CrMo8WxCyVb_sequence_5_4",
+    "instruction": "Find the sink cabinet in the Laundry room",
+    "navigation_type": "room",
+    "final_goal_dist": 0.25353
+}

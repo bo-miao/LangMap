@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 61.999993562698364,
+    "id": "00839-zt1RVoi7PcG_sequence_10_4",
+    "instruction": "Find the monitor in the bedroom that has bed with orange geometric throw",
+    "navigation_type": "region",
+    "final_goal_dist": 12.253
+}

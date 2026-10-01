@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 8.017340149730444,
+    "id": "00813-svBbv1Pavdk_sequence_18_0",
+    "instruction": "Find the dark kitchen cabinet under cutting board",
+    "navigation_type": "instance",
+    "final_goal_dist": 2.09121
+}

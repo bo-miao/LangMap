@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 15.249997958540916,
+    "id": "00853-5cdEh9F2hJL_sequence_15_2",
+    "instruction": "Find the refrigerator in the kitchen that has dark kitchen island",
+    "navigation_type": "region",
+    "final_goal_dist": 0.34739
+}

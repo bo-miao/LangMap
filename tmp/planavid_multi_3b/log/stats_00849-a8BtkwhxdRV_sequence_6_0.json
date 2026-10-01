@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.3821341294847749,
+    "path_length": 14.000099882483482,
+    "id": "00849-a8BtkwhxdRV_sequence_6_0",
+    "instruction": "Find the bushy plant in brown pot",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.10091
+}

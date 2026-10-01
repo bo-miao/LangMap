@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 81.65750058740377,
+    "id": "00821-eF36g7L6Z9M_sequence_14_1",
+    "instruction": "Find the bath vanity in the Bedroom",
+    "navigation_type": "room",
+    "final_goal_dist": 6.33496
+}

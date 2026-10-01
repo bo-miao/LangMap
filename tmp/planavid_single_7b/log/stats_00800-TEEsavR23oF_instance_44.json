@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.28543117335178714,
+    "path_length": 30.187094405293465,
+    "id": "00800-TEEsavR23oF_instance_44",
+    "instruction": "Find the toaster in kitchen",
+    "final_goal_dist": 0.16145
+}

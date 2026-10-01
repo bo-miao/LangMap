@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 79.96104094386101,
+    "id": "00810-CrMo8WxCyVb_sequence_19_1",
+    "instruction": "Find the book in the Living room",
+    "navigation_type": "room",
+    "final_goal_dist": 5.12166
+}

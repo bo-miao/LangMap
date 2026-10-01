@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.4750246422402624,
+    "path_length": 19.659849476069212,
+    "id": "00813-svBbv1Pavdk_sequence_17_0",
+    "instruction": "Find the dark kitchen cabinet with drink left of stove",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.16422
+}

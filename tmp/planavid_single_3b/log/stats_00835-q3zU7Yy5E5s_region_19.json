@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.6887446781314551,
+    "path_length": 9.473432157188654,
+    "id": "00835-q3zU7Yy5E5s_region_19",
+    "instruction": "Find the cabinet in the kitchen that has stainless stove",
+    "final_goal_dist": 0.05709
+}

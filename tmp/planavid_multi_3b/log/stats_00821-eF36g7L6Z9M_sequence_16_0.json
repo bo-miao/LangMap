@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 53.57333117723465,
+    "id": "00821-eF36g7L6Z9M_sequence_16_0",
+    "instruction": "Find the bath side table by freestanding bathtub",
+    "navigation_type": "instance",
+    "final_goal_dist": 6.48295
+}

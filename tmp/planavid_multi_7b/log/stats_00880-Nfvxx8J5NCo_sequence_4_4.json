@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.727761,
+    "path_length": 22.011337593197823,
+    "id": "00880-Nfvxx8J5NCo_sequence_4_4",
+    "instruction": "Find the picture in the bathroom that has white shower curtain",
+    "navigation_type": "region",
+    "final_goal_dist": 0.20748
+}

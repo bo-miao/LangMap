@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.594642483706876,
+    "path_length": 15.057555481791496,
+    "id": "00891-cvZr5TUy5C5_region_108",
+    "instruction": "Find the coffee table in the tie: bathroom & rec room that has heart-shaped wall-shelf, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 0.16577
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 23.019043043255806,
+    "id": "00831-yr17PDCnDDW_sequence_11_3",
+    "instruction": "Find the flowerpot in the living room that has white two-seater couch",
+    "navigation_type": "region",
+    "final_goal_dist": 2.73843
+}

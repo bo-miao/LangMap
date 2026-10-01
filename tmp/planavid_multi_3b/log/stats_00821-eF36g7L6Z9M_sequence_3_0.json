@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 43.919246792793274,
+    "id": "00821-eF36g7L6Z9M_sequence_3_0",
+    "instruction": "Find the kitchen cabinet above microwave",
+    "navigation_type": "instance",
+    "final_goal_dist": 2.55127
+}

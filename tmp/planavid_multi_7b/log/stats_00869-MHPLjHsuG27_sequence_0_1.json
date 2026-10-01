@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.638357,
+    "path_length": 11.749999850988388,
+    "id": "00869-MHPLjHsuG27_sequence_0_1",
+    "instruction": "Find the microwave in the kitchen that has blue-gray kitchen cabinets",
+    "navigation_type": "region",
+    "final_goal_dist": 0.13066
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 13.72037074714899,
+    "id": "00849-a8BtkwhxdRV_sequence_16_4",
+    "instruction": "Find the bowl",
+    "navigation_type": "object",
+    "final_goal_dist": 5.70878
+}

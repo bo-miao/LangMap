@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.631373486215045,
+    "path_length": 10.157360080629587,
+    "id": "00849-a8BtkwhxdRV_sequence_14_3",
+    "instruction": "Find the pot in the Dining room",
+    "navigation_type": "room",
+    "final_goal_dist": 0.23312
+}

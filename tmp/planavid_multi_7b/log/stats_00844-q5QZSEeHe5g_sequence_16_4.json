@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 21.500000342726707,
+    "id": "00844-q5QZSEeHe5g_sequence_16_4",
+    "instruction": "Find the picture in the bathroom that has gray bathrobe",
+    "navigation_type": "region",
+    "final_goal_dist": 0.83941
+}

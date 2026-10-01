@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 5.499999865889549,
+    "id": "00808-y9hTuugGdiq_sequence_1_3",
+    "instruction": "Find the side table",
+    "navigation_type": "object",
+    "final_goal_dist": 13.43144
+}

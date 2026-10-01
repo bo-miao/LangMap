@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.6620350050135422,
+    "path_length": 6.049995958805084,
+    "id": "00873-bxsVRursffK_region_50",
+    "instruction": "Find the l-shaped sofa in the tie: kitchen & living room that has dark kitchen island, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 0.15501
+}

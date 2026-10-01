@@ -1,0 +1,8 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 20.822731405496597,
+    "id": "00808-y9hTuugGdiq_region_72",
+    "instruction": "Find the dishwasher in the tie: kitchen & living room that has ping pong table, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 8.01759
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 7.579708099365234,
+    "id": "00802-wcojb4TFT35_sequence_14_1",
+    "instruction": "Find the kitchen counter in the Kitchen",
+    "navigation_type": "room",
+    "final_goal_dist": 3.1691
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.236527,
+    "path_length": 29.97633098065853,
+    "id": "00869-MHPLjHsuG27_sequence_12_0",
+    "instruction": "Find the built-in oven",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.12795
+}

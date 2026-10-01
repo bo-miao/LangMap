@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 0.15000295639038086,
+    "id": "00832-qyAac8rV8Zk_sequence_4_0",
+    "instruction": "Find the single-sink bath cabinet",
+    "navigation_type": "instance",
+    "final_goal_dist": 8.23359
+}

@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.39408709173833856,
+    "path_length": 21.44357691705227,
+    "id": "00808-y9hTuugGdiq_region_78",
+    "instruction": "Find the kitchen counter in the tie: kitchen & living room that has ping pong table, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 0.14999
+}

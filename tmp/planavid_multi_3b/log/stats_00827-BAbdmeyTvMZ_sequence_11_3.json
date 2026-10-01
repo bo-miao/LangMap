@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.7859921691405758,
+    "path_length": 12.869045838713646,
+    "id": "00827-BAbdmeyTvMZ_sequence_11_3",
+    "instruction": "Find the washer-dryer",
+    "navigation_type": "object",
+    "final_goal_dist": 0.21983
+}

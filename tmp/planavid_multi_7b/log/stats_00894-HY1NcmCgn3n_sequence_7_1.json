@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.020755,
+    "path_length": 50.23041766881943,
+    "id": "00894-HY1NcmCgn3n_sequence_7_1",
+    "instruction": "Find the pedestal",
+    "navigation_type": "object",
+    "final_goal_dist": 0.12769
+}

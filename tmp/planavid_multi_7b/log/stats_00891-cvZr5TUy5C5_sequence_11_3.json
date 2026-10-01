@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 56.834358245134354,
+    "id": "00891-cvZr5TUy5C5_sequence_11_3",
+    "instruction": "Find the case in the Walk-in closet",
+    "navigation_type": "room",
+    "final_goal_dist": 0.74042
+}

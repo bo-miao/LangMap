@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 37.89214353263378,
+    "id": "00878-XB4GS9ShBRE_sequence_10_0",
+    "instruction": "Find the patterned iron board",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.39277
+}

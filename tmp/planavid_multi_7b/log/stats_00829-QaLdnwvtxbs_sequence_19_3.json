@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 6.249999433755875,
+    "id": "00829-QaLdnwvtxbs_sequence_19_3",
+    "instruction": "Find the coffee table in the tie: dining room & living room that has dining table and TV, 'Tie: A & B' means the area spans both rooms A and B",
+    "navigation_type": "region",
+    "final_goal_dist": 2.61387
+}

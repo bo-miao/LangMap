@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.8831744497240093,
+    "path_length": 6.25851434469223,
+    "id": "00802-wcojb4TFT35_sequence_2_4",
+    "instruction": "Find the shelf in the bedroom that has black bookshelf",
+    "navigation_type": "region",
+    "final_goal_dist": 0.13657
+}

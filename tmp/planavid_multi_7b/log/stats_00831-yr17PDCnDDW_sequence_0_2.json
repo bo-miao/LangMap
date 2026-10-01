@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 36.167348742485046,
+    "id": "00831-yr17PDCnDDW_sequence_0_2",
+    "instruction": "Find the brochure in the Living room",
+    "navigation_type": "room",
+    "final_goal_dist": 1.53378
+}

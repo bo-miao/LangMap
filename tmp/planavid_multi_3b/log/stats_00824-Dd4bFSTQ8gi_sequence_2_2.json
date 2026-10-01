@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.2541931339416155,
+    "path_length": 10.817721106112003,
+    "id": "00824-Dd4bFSTQ8gi_sequence_2_2",
+    "instruction": "Find the picture in the tie: kitchen & living room that has couch near oven and curved bench, 'Tie: A & B' means the area spans both rooms A and B",
+    "navigation_type": "region",
+    "final_goal_dist": 0.15599
+}

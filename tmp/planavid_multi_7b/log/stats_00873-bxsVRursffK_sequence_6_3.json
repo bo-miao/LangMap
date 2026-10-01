@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 23.645997817628086,
+    "id": "00873-bxsVRursffK_sequence_6_3",
+    "instruction": "Find the cabinet",
+    "navigation_type": "object",
+    "final_goal_dist": 6.36062
+}

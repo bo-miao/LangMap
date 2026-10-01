@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.05255,
+    "path_length": 9.999999791383743,
+    "id": "00829-QaLdnwvtxbs_sequence_14_2",
+    "instruction": "Find the washbasin",
+    "navigation_type": "object",
+    "final_goal_dist": 0.11339
+}

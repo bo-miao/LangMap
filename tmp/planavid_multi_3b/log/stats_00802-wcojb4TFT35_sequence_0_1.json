@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 1.2499998211860657,
+    "id": "00802-wcojb4TFT35_sequence_0_1",
+    "instruction": "Find the blanket in the Bedroom",
+    "navigation_type": "room",
+    "final_goal_dist": 5.54827
+}

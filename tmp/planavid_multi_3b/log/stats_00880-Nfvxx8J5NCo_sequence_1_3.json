@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 89.20497767627239,
+    "id": "00880-Nfvxx8J5NCo_sequence_1_3",
+    "instruction": "Find the black-framed picture with red bridge",
+    "navigation_type": "instance",
+    "final_goal_dist": 3.22383
+}

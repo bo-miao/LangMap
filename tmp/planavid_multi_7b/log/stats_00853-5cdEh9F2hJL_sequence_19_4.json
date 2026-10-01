@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.190525,
+    "path_length": 42.30526503920555,
+    "id": "00853-5cdEh9F2hJL_sequence_19_4",
+    "instruction": "Find the ceiling fan in the Dining room",
+    "navigation_type": "room",
+    "final_goal_dist": 0.07563
+}

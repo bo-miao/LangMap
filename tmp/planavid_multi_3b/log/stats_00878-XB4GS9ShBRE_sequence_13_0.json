@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.3822081608894584,
+    "path_length": 8.08579720184207,
+    "id": "00878-XB4GS9ShBRE_sequence_13_0",
+    "instruction": "Find the rustic wood TV cabinet near beige couch",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.09145
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.0797729158333813,
+    "path_length": 2.499999925494194,
+    "id": "00803-k1cupFYWXJ6_sequence_8_1",
+    "instruction": "Find the map in the hall that has purple armchairs beneath wall maps",
+    "navigation_type": "region",
+    "final_goal_dist": 0.12152
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 2.6069903671741486,
+    "id": "00821-eF36g7L6Z9M_sequence_8_3",
+    "instruction": "Find the toilet in the bathroom that has vessel sink",
+    "navigation_type": "region",
+    "final_goal_dist": 7.21781
+}

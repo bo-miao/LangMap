@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.6222017893484049,
+    "path_length": 19.4995519220829,
+    "id": "00862-LT9Jq6dN3Ea_sequence_12_4",
+    "instruction": "Find the oven and stove in the Kitchen",
+    "navigation_type": "room",
+    "final_goal_dist": 0.14334
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.014033595063113347,
+    "path_length": 4.010015368461609,
+    "id": "00878-XB4GS9ShBRE_sequence_17_1",
+    "instruction": "Find the cabinet",
+    "navigation_type": "object",
+    "final_goal_dist": 0.082
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.10287165233009449,
+    "path_length": 6.000000238418579,
+    "id": "00827-BAbdmeyTvMZ_sequence_5_1",
+    "instruction": "Find the table in the Living room",
+    "navigation_type": "room",
+    "final_goal_dist": 0.21417
+}

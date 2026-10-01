@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.758961,
+    "path_length": 15.510180667042732,
+    "id": "00824-Dd4bFSTQ8gi_sequence_14_3",
+    "instruction": "Find the fireplace wall",
+    "navigation_type": "object",
+    "final_goal_dist": 0.12441
+}

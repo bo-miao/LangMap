@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 8.242528695613146,
+    "id": "00835-q3zU7Yy5E5s_sequence_16_0",
+    "instruction": "Find the teal washcloth above kitchen sink",
+    "navigation_type": "instance",
+    "final_goal_dist": 4.91256
+}

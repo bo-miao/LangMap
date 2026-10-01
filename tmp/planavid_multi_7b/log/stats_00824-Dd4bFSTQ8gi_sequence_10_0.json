@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 1.150003470480442,
+    "id": "00824-Dd4bFSTQ8gi_sequence_10_0",
+    "instruction": "Find the brown couch below horse painting",
+    "navigation_type": "instance",
+    "final_goal_dist": 11.34258
+}

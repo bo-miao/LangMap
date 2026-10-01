@@ -1,0 +1,8 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 56.789662793278694,
+    "id": "00810-CrMo8WxCyVb_region_51",
+    "instruction": "Find the sink cabinet in the laundry room that has washing machine",
+    "final_goal_dist": 12.90779
+}

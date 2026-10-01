@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.263125508347213,
+    "path_length": 34.46546768769622,
+    "id": "00808-y9hTuugGdiq_region_61",
+    "instruction": "Find the fireplace in the tie: dining room & living room that has dining table and teal wall, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 0.09584
+}

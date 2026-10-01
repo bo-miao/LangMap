@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 6.5692276284098625,
+    "id": "00829-QaLdnwvtxbs_sequence_18_0",
+    "instruction": "Find the L-shaped couch",
+    "navigation_type": "instance",
+    "final_goal_dist": 7.73322
+}

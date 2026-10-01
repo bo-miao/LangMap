@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.2839900182460907,
+    "path_length": 43.57443419098854,
+    "id": "00853-5cdEh9F2hJL_sequence_13_3",
+    "instruction": "Find the computer desk in the tie: living room & office that has white fireplace, 'Tie: A & B' means the area spans both rooms A and B",
+    "navigation_type": "region",
+    "final_goal_dist": 0.11363
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.009001,
+    "path_length": 32.24999965727329,
+    "id": "00891-cvZr5TUy5C5_sequence_15_3",
+    "instruction": "Find the art frame in the bedroom that has bed with red pillows",
+    "navigation_type": "region",
+    "final_goal_dist": 0.15427
+}

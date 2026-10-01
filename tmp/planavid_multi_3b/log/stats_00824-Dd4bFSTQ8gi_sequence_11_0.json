@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 11.070360474288464,
+    "id": "00824-Dd4bFSTQ8gi_sequence_11_0",
+    "instruction": "Find the white beadboard refrigerator cabinet",
+    "navigation_type": "instance",
+    "final_goal_dist": 7.82945
+}

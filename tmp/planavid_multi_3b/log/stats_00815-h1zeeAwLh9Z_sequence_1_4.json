@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 77.73357881605625,
+    "id": "00815-h1zeeAwLh9Z_sequence_1_4",
+    "instruction": "Find the toilet in the bathroom that has wide single-sink vanity",
+    "navigation_type": "region",
+    "final_goal_dist": 0.40228
+}

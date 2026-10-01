@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 20.843206763267517,
+    "id": "00829-QaLdnwvtxbs_sequence_13_0",
+    "instruction": "Find the top-right picture in four-picture wall set",
+    "navigation_type": "instance",
+    "final_goal_dist": 2.30099
+}

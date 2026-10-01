@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.298345,
+    "path_length": 28.235610887408257,
+    "id": "00862-LT9Jq6dN3Ea_sequence_5_4",
+    "instruction": "Find the desk chair in the kitchen that has stainless oven",
+    "navigation_type": "region",
+    "final_goal_dist": 0.13911
+}

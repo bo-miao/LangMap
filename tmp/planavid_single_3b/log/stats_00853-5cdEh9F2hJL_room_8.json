@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.803842298420812,
+    "path_length": 11.276478437706828,
+    "id": "00853-5cdEh9F2hJL_room_8",
+    "instruction": "Find the shower wall cubby in the Bathroom",
+    "final_goal_dist": 0.1181
+}

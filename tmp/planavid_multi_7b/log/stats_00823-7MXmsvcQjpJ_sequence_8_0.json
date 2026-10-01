@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 15.600000828504562,
+    "id": "00823-7MXmsvcQjpJ_sequence_8_0",
+    "instruction": "Find the bathtub",
+    "navigation_type": "instance",
+    "final_goal_dist": 1.73239
+}

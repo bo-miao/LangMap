@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 20.121124386787415,
+    "id": "00823-7MXmsvcQjpJ_sequence_7_2",
+    "instruction": "Find the book rack in the Bedroom",
+    "navigation_type": "room",
+    "final_goal_dist": 0.52672
+}

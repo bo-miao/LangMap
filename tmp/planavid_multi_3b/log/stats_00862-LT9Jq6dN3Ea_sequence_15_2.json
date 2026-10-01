@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.15285287993044358,
+    "path_length": 35.73930266499519,
+    "id": "00862-LT9Jq6dN3Ea_sequence_15_2",
+    "instruction": "Find the picture in the dining room that has rectangular dining table",
+    "navigation_type": "region",
+    "final_goal_dist": 0.15086
+}

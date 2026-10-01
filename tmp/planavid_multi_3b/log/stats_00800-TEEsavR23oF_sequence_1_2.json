@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.5400675182349096,
+    "path_length": 15.127634108066559,
+    "id": "00800-TEEsavR23oF_sequence_1_2",
+    "instruction": "Find the pc tower in the Office",
+    "navigation_type": "room",
+    "final_goal_dist": 0.23897
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.194417,
+    "path_length": 47.65032894909382,
+    "id": "00844-q5QZSEeHe5g_sequence_3_0",
+    "instruction": "Find the gray bathrobe",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.07846
+}

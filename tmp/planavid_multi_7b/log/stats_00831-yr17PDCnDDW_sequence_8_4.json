@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.306353,
+    "path_length": 32.297448202967644,
+    "id": "00831-yr17PDCnDDW_sequence_8_4",
+    "instruction": "Find the brochure in the living room that has white two-seater couch",
+    "navigation_type": "region",
+    "final_goal_dist": 0.18783
+}

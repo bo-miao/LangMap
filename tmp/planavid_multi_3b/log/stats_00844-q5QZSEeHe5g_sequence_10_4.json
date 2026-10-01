@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.7288825500866745,
+    "path_length": 5.7405960857868195,
+    "id": "00844-q5QZSEeHe5g_sequence_10_4",
+    "instruction": "Find the plant in the bathroom that has gray bathrobe",
+    "navigation_type": "region",
+    "final_goal_dist": 0.13825
+}

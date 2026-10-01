@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 16.80437963269651,
+    "id": "00815-h1zeeAwLh9Z_sequence_7_0",
+    "instruction": "Find the blue hand towel above wide single-sink vanity",
+    "navigation_type": "instance",
+    "final_goal_dist": 8.55317
+}

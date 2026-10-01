@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.741293,
+    "path_length": 6.014764621853828,
+    "id": "00878-XB4GS9ShBRE_sequence_17_4",
+    "instruction": "Find the dining table in the Kitchen",
+    "navigation_type": "room",
+    "final_goal_dist": 0.11885
+}

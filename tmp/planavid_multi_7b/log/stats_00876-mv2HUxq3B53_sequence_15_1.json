@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 10.749999806284904,
+    "id": "00876-mv2HUxq3B53_sequence_15_1",
+    "instruction": "Find the carpet in the bedroom that has black-framed canopy bed",
+    "navigation_type": "region",
+    "final_goal_dist": 14.31304
+}

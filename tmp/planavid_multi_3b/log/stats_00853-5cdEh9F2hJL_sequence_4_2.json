@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 35.98146931827068,
+    "id": "00853-5cdEh9F2hJL_sequence_4_2",
+    "instruction": "Find the coffee table in the Dining room",
+    "navigation_type": "room",
+    "final_goal_dist": 0.27382
+}

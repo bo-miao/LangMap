@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.1743767109758833,
+    "path_length": 67.63166564516723,
+    "id": "00814-p53SfW6mjZe_sequence_10_0",
+    "instruction": "Find the red-and-black bucket in kitchen with pantry shelf",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.07139
+}

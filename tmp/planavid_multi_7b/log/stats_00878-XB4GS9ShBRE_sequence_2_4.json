@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 4.968529641628265,
+    "id": "00878-XB4GS9ShBRE_sequence_2_4",
+    "instruction": "Find the bed in the bedroom that has light-gray bed headboard",
+    "navigation_type": "region",
+    "final_goal_dist": 4.41341
+}

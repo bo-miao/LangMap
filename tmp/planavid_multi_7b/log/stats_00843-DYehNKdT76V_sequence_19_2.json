@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 75.43240449856967,
+    "id": "00843-DYehNKdT76V_sequence_19_2",
+    "instruction": "Find the shelf in the Tie: Dining room & Living room, 'Tie: A & B' means the area spans both rooms A and B",
+    "navigation_type": "room",
+    "final_goal_dist": 0.54769
+}

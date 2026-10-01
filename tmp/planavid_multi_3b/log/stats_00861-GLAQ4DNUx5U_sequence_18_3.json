@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 22.000006049871445,
+    "id": "00861-GLAQ4DNUx5U_sequence_18_3",
+    "instruction": "Find the wardrobe in the Walk-in closet",
+    "navigation_type": "room",
+    "final_goal_dist": 7.42235
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.574566,
+    "path_length": 9.507586255669594,
+    "id": "00869-MHPLjHsuG27_sequence_1_4",
+    "instruction": "Find the l-shaped sofa in the tie: dining room & living room that has glass dining table, 'Tie: A & B' means the area spans both rooms A and B",
+    "navigation_type": "region",
+    "final_goal_dist": 0.02895
+}

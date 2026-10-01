@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 63.544416323304176,
+    "id": "00862-LT9Jq6dN3Ea_sequence_18_1",
+    "instruction": "Find the bathtub in the bathroom that has built-in bathtub",
+    "navigation_type": "region",
+    "final_goal_dist": 0.42028
+}

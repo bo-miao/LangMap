@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.45027668463963133,
+    "path_length": 21.040398612618446,
+    "id": "00800-TEEsavR23oF_room_51",
+    "instruction": "Find the flag in the Kitchen",
+    "final_goal_dist": 0.15894
+}

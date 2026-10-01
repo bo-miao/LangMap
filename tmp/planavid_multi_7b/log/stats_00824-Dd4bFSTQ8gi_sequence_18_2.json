@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.68314,
+    "path_length": 18.982880532741547,
+    "id": "00824-Dd4bFSTQ8gi_sequence_18_2",
+    "instruction": "Find the bed",
+    "navigation_type": "object",
+    "final_goal_dist": 0.13552
+}

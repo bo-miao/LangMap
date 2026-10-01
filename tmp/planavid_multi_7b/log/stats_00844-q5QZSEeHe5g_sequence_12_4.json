@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 9.92953310906887,
+    "id": "00844-q5QZSEeHe5g_sequence_12_4",
+    "instruction": "Find the board in the Hall",
+    "navigation_type": "room",
+    "final_goal_dist": 0.28582
+}

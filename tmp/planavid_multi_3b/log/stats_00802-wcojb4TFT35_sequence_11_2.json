@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 82.25353919145516,
+    "id": "00802-wcojb4TFT35_sequence_11_2",
+    "instruction": "Find the art frame in the living room that has TV above fireplace",
+    "navigation_type": "region",
+    "final_goal_dist": 5.17485
+}

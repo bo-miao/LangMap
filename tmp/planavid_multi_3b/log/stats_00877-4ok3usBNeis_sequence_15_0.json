@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.8030417722306176,
+    "path_length": 11.75000549852848,
+    "id": "00877-4ok3usBNeis_sequence_15_0",
+    "instruction": "Find the tv stand near couches",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.12032
+}

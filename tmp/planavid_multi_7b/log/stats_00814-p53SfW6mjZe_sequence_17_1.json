@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.565997,
+    "path_length": 18.05017778277397,
+    "id": "00814-p53SfW6mjZe_sequence_17_1",
+    "instruction": "Find the table in the bedroom that has black metal-framed bed with striped bedding",
+    "navigation_type": "region",
+    "final_goal_dist": 0.10459
+}

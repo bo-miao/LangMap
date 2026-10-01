@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.13187669648968306,
+    "path_length": 43.25539866834879,
+    "id": "00873-bxsVRursffK_sequence_4_3",
+    "instruction": "Find the handbag",
+    "navigation_type": "object",
+    "final_goal_dist": 0.11761
+}

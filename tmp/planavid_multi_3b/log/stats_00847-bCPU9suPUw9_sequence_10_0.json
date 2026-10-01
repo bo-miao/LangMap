@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 70.46212017536163,
+    "id": "00847-bCPU9suPUw9_sequence_10_0",
+    "instruction": "Find the towel on kitchen countertop",
+    "navigation_type": "instance",
+    "final_goal_dist": 3.44169
+}

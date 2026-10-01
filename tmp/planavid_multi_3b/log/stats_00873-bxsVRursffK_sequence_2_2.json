@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 23.20097576826811,
+    "id": "00873-bxsVRursffK_sequence_2_2",
+    "instruction": "Find the book",
+    "navigation_type": "object",
+    "final_goal_dist": 1.85433
+}

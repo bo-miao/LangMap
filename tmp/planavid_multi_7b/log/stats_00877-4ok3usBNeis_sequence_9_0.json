@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.417786,
+    "path_length": 18.29820477962494,
+    "id": "00877-4ok3usBNeis_sequence_9_0",
+    "instruction": "Find the red-plaid couch",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.14812
+}

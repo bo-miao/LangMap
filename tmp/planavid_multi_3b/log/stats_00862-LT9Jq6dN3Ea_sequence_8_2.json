@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.6016698238984935,
+    "path_length": 21.499997541308403,
+    "id": "00862-LT9Jq6dN3Ea_sequence_8_2",
+    "instruction": "Find the speaker in the living room that has stone fireplace",
+    "navigation_type": "region",
+    "final_goal_dist": 0.15223
+}

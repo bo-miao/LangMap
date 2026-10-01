@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.8384870632896924,
+    "path_length": 10.600002780556679,
+    "id": "00810-CrMo8WxCyVb_region_77",
+    "instruction": "Find the oven and stove in the kitchen that has dining table and refrigerator",
+    "final_goal_dist": 0.13932
+}

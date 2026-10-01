@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.460004,
+    "path_length": 6.019144117832184,
+    "id": "00849-a8BtkwhxdRV_sequence_3_3",
+    "instruction": "Find the wardrobe in the bedroom that has brown slatted headboard",
+    "navigation_type": "region",
+    "final_goal_dist": 0.21693
+}

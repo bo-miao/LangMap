@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 28.979163751006126,
+    "id": "00849-a8BtkwhxdRV_sequence_18_4",
+    "instruction": "Find the bowl in the Hall",
+    "navigation_type": "room",
+    "final_goal_dist": 5.85188
+}

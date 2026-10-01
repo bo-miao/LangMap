@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 48.599576249718666,
+    "id": "00862-LT9Jq6dN3Ea_sequence_1_0",
+    "instruction": "Find the shelf in shower cabin near bath vanity with black countertop",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.55769
+}

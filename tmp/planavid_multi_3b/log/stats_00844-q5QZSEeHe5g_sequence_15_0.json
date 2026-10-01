@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.710261608353944,
+    "path_length": 6.249399840831757,
+    "id": "00844-q5QZSEeHe5g_sequence_15_0",
+    "instruction": "Find the gray slatted bench against beige wall",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.08222
+}

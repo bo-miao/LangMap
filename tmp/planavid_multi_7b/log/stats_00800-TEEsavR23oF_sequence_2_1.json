@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 84.48295232653618,
+    "id": "00800-TEEsavR23oF_sequence_2_1",
+    "instruction": "Find the wardrobe in the Office",
+    "navigation_type": "room",
+    "final_goal_dist": 13.06833
+}

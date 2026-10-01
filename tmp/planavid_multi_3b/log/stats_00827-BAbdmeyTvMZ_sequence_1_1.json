@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.24486103136659154,
+    "path_length": 18.32015990652144,
+    "id": "00827-BAbdmeyTvMZ_sequence_1_1",
+    "instruction": "Find the couch in the Living room",
+    "navigation_type": "room",
+    "final_goal_dist": 0.20512
+}

@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.40385209611467987,
+    "path_length": 25.399992361664772,
+    "id": "00880-Nfvxx8J5NCo_room_31",
+    "instruction": "Find the dishwasher in the Tie: Kitchen & Living room, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 0.15382
+}

@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.7419887732323666,
+    "path_length": 7.756988078355789,
+    "id": "00878-XB4GS9ShBRE_region_23",
+    "instruction": "Find the toilet in the bathroom that has bathtub",
+    "final_goal_dist": 0.14821
+}

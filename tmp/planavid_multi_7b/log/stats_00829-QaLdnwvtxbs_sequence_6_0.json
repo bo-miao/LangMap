@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.767569,
+    "path_length": 14.85000030696392,
+    "id": "00829-QaLdnwvtxbs_sequence_6_0",
+    "instruction": "Find the bath mat beside bathtub",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.11959
+}

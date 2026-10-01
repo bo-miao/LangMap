@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.007450786922076817,
+    "path_length": 24.765532180666924,
+    "id": "00802-wcojb4TFT35_sequence_2_2",
+    "instruction": "Find the picture in the Bedroom",
+    "navigation_type": "room",
+    "final_goal_dist": 0.10261
+}

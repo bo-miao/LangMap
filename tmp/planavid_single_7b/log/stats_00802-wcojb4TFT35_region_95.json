@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.48161659745438207,
+    "path_length": 14.647265374660492,
+    "id": "00802-wcojb4TFT35_region_95",
+    "instruction": "Find the stove in the kitchen that has stainless steel refrigerator",
+    "final_goal_dist": 0.21895
+}

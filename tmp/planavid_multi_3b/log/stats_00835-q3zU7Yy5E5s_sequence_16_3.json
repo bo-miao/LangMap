@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.7603626617565087,
+    "path_length": 7.248339042067528,
+    "id": "00835-q3zU7Yy5E5s_sequence_16_3",
+    "instruction": "Find the fireplace in the living room that has stone fireplace",
+    "navigation_type": "region",
+    "final_goal_dist": 0.0942
+}

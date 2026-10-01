@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.828751,
+    "path_length": 11.64769859611988,
+    "id": "00832-qyAac8rV8Zk_sequence_0_0",
+    "instruction": "Find the TV cabinet near plaid-quilted bed",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.19447
+}

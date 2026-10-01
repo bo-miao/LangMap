@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.12887701746346944,
+    "path_length": 82.52970928698778,
+    "id": "00829-QaLdnwvtxbs_sequence_2_4",
+    "instruction": "Find the fire extinguisher",
+    "navigation_type": "object",
+    "final_goal_dist": 0.16952
+}

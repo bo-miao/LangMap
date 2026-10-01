@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 69.13049854338169,
+    "id": "00808-y9hTuugGdiq_sequence_1_0",
+    "instruction": "Find the empty white marble coffee table",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.33687
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 14.649996146559715,
+    "id": "00880-Nfvxx8J5NCo_sequence_3_0",
+    "instruction": "Find the kitchen cabinet above bananas",
+    "navigation_type": "instance",
+    "final_goal_dist": 2.39807
+}

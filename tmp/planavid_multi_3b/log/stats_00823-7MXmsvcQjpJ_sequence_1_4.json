@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 6.241236016154289,
+    "id": "00823-7MXmsvcQjpJ_sequence_1_4",
+    "instruction": "Find the table in the bedroom that has wood bench below mirror",
+    "navigation_type": "region",
+    "final_goal_dist": 1.43046
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 13.737514838576317,
+    "id": "00849-a8BtkwhxdRV_sequence_15_2",
+    "instruction": "Find the chest in the hall that has wooden chest with decorative bowl",
+    "navigation_type": "region",
+    "final_goal_dist": 2.94223
+}

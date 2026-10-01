@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.7041794439858814,
+    "path_length": 6.552342131733894,
+    "id": "00847-bCPU9suPUw9_room_25",
+    "instruction": "Find the kitchen cabinet in the Kitchen",
+    "final_goal_dist": 0.1134
+}

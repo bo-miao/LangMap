@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 70.66544536687434,
+    "id": "00880-Nfvxx8J5NCo_sequence_8_3",
+    "instruction": "Find the sign in the tie: kitchen & living room that has white kitchen island, 'Tie: A & B' means the area spans both rooms A and B",
+    "navigation_type": "region",
+    "final_goal_dist": 10.23758
+}

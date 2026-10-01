@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.28205866799436496,
+    "path_length": 24.261609807610512,
+    "id": "00848-ziup5kvtCCR_sequence_17_4",
+    "instruction": "Find the clock in the tie: kitchen & living room that has curved kitchen island, 'Tie: A & B' means the area spans both rooms A and B",
+    "navigation_type": "region",
+    "final_goal_dist": 0.08242
+}

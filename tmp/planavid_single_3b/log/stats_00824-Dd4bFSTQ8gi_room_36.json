@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.4423392451231557,
+    "path_length": 15.96340966410935,
+    "id": "00824-Dd4bFSTQ8gi_room_36",
+    "instruction": "Find the refrigerator in the Living room",
+    "final_goal_dist": 0.05634
+}

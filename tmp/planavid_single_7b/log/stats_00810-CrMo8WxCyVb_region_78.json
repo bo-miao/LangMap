@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.4407854465111137,
+    "path_length": 16.100003570318222,
+    "id": "00810-CrMo8WxCyVb_region_78",
+    "instruction": "Find the kitchen island in the kitchen that has dining table and refrigerator",
+    "final_goal_dist": 0.16874
+}

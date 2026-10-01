@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.7645522198550609,
+    "path_length": 8.016772210597992,
+    "id": "00873-bxsVRursffK_region_1",
+    "instruction": "Find the toilet in the bathroom that has pedestal sink",
+    "final_goal_dist": 0.16465
+}

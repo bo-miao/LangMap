@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.8300570855005571,
+    "path_length": 7.781191021203995,
+    "id": "00800-TEEsavR23oF_sequence_6_3",
+    "instruction": "Find the computer desk in the office that has computer desk beside couch",
+    "navigation_type": "region",
+    "final_goal_dist": 0.10437
+}

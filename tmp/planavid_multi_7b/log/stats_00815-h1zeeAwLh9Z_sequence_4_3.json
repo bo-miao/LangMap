@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.003217,
+    "path_length": 37.55768771469593,
+    "id": "00815-h1zeeAwLh9Z_sequence_4_3",
+    "instruction": "Find the rug in the Living room",
+    "navigation_type": "room",
+    "final_goal_dist": 0.11664
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.06360936949588161,
+    "path_length": 1.499999463558197,
+    "id": "00813-svBbv1Pavdk_sequence_13_1",
+    "instruction": "Find the plant in the Office",
+    "navigation_type": "room",
+    "final_goal_dist": 0.10071
+}

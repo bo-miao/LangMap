@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 22.79907700419426,
+    "id": "00824-Dd4bFSTQ8gi_sequence_4_0",
+    "instruction": "Find the striped flowerpot left of teal couch",
+    "navigation_type": "instance",
+    "final_goal_dist": 16.1285
+}

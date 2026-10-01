@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 11.994832903146744,
+    "id": "00848-ziup5kvtCCR_sequence_8_4",
+    "instruction": "Find the chest of drawers in the Bedroom",
+    "navigation_type": "room",
+    "final_goal_dist": 6.04211
+}

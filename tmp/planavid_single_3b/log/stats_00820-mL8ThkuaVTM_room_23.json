@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.5403302166616027,
+    "path_length": 10.873075976967812,
+    "id": "00820-mL8ThkuaVTM_room_23",
+    "instruction": "Find the couch in the Rec room",
+    "final_goal_dist": 0.15119
+}

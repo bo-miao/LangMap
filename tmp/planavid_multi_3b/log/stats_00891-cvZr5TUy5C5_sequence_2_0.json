@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 8.800003983080387,
+    "id": "00891-cvZr5TUy5C5_sequence_2_0",
+    "instruction": "Find the round dining table",
+    "navigation_type": "instance",
+    "final_goal_dist": 5.97852
+}

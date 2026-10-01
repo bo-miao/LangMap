@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.017383,
+    "path_length": 28.40948808938265,
+    "id": "00894-HY1NcmCgn3n_sequence_12_2",
+    "instruction": "Find the pedestal in the Hall",
+    "navigation_type": "room",
+    "final_goal_dist": 0.23015
+}

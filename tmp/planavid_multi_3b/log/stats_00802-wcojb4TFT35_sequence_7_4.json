@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.17642330548698978,
+    "path_length": 59.99419093132019,
+    "id": "00802-wcojb4TFT35_sequence_7_4",
+    "instruction": "Find the bathroom cabinet in the bathroom that has dark bath vanity",
+    "navigation_type": "region",
+    "final_goal_dist": 0.17626
+}

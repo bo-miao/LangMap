@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.135914,
+    "path_length": 0.49999986588954926,
+    "id": "00891-cvZr5TUy5C5_sequence_18_3",
+    "instruction": "Find the art frame in the Bathroom",
+    "navigation_type": "room",
+    "final_goal_dist": 0.08109
+}

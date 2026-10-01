@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.4950848299537447,
+    "path_length": 24.782696276903152,
+    "id": "00831-yr17PDCnDDW_sequence_7_4",
+    "instruction": "Find the rack in the office that has tall white book rack",
+    "navigation_type": "region",
+    "final_goal_dist": 0.04596
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 87.24213176965714,
+    "id": "00876-mv2HUxq3B53_sequence_13_4",
+    "instruction": "Find the wine rack in the walk-in closet that has black safe",
+    "navigation_type": "region",
+    "final_goal_dist": 8.72314
+}

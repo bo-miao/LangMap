@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.190432,
+    "path_length": 38.19782857596874,
+    "id": "00844-q5QZSEeHe5g_sequence_4_2",
+    "instruction": "Find the shelf in the bathroom that has gray bathrobe",
+    "navigation_type": "region",
+    "final_goal_dist": 0.17661
+}

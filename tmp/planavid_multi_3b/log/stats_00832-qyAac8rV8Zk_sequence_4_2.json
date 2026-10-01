@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.522875209819791,
+    "path_length": 7.0013227462768555,
+    "id": "00832-qyAac8rV8Zk_sequence_4_2",
+    "instruction": "Find the bath cabinet in the bathroom that has double-sink bath vanity",
+    "navigation_type": "region",
+    "final_goal_dist": 0.19973
+}

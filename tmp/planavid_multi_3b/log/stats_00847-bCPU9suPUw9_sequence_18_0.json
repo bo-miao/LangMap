@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 21.6638066098094,
+    "id": "00847-bCPU9suPUw9_sequence_18_0",
+    "instruction": "Find the gray floor mat by sliding door",
+    "navigation_type": "instance",
+    "final_goal_dist": 7.75561
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.5385710537280878,
+    "path_length": 12.50000174343586,
+    "id": "00814-p53SfW6mjZe_sequence_18_1",
+    "instruction": "Find the throw blanket in the Living room",
+    "navigation_type": "room",
+    "final_goal_dist": 0.12992
+}

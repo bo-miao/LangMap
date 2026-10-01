@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 33.95061882957816,
+    "id": "00839-zt1RVoi7PcG_sequence_19_0",
+    "instruction": "Find the shelf above bathtub",
+    "navigation_type": "instance",
+    "final_goal_dist": 8.2232
+}

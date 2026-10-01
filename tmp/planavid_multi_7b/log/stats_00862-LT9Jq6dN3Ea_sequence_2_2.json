@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.711074,
+    "path_length": 2.9999997466802597,
+    "id": "00862-LT9Jq6dN3Ea_sequence_2_2",
+    "instruction": "Find the oven and stove",
+    "navigation_type": "object",
+    "final_goal_dist": 0.16494
+}

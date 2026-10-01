@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.300828,
+    "path_length": 20.74539902806282,
+    "id": "00827-BAbdmeyTvMZ_sequence_14_0",
+    "instruction": "Find the white dishwasher",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.14994
+}

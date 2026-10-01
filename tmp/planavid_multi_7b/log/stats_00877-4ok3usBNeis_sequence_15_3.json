@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 17.747789293527603,
+    "id": "00877-4ok3usBNeis_sequence_15_3",
+    "instruction": "Find the armchair in the Office",
+    "navigation_type": "room",
+    "final_goal_dist": 5.28015
+}

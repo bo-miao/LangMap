@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.6759963109780365,
+    "path_length": 7.758090496063232,
+    "id": "00823-7MXmsvcQjpJ_region_47",
+    "instruction": "Find the book in the bedroom that has woodland-themed wallpaper",
+    "final_goal_dist": 0.01532
+}

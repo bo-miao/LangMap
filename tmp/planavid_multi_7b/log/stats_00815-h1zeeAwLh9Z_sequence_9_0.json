@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.345848,
+    "path_length": 25.822376158088446,
+    "id": "00815-h1zeeAwLh9Z_sequence_9_0",
+    "instruction": "Find the shower cabin near wide single-sink vanity",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.09204
+}

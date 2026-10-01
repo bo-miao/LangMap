@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.58084,
+    "path_length": 14.615246295928955,
+    "id": "00844-q5QZSEeHe5g_sequence_2_0",
+    "instruction": "Find the small white cabinet on bathroom wall",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.03054
+}

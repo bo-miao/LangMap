@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 9.49646863155067,
+    "id": "00848-ziup5kvtCCR_sequence_2_0",
+    "instruction": "Find the light-gray armchair",
+    "navigation_type": "instance",
+    "final_goal_dist": 6.13853
+}

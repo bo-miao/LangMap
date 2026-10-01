@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 15.50755199790001,
+    "id": "00835-q3zU7Yy5E5s_sequence_15_4",
+    "instruction": "Find the kitchen extractor",
+    "navigation_type": "object",
+    "final_goal_dist": 0.4077
+}

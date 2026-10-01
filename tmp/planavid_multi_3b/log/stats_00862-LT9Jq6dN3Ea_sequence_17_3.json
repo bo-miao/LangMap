@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 0.25000008940696716,
+    "id": "00862-LT9Jq6dN3Ea_sequence_17_3",
+    "instruction": "Find the table in the Bedroom",
+    "navigation_type": "room",
+    "final_goal_dist": 13.97797
+}

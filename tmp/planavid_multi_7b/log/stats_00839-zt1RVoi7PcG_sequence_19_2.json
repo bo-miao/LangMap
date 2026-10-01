@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.496788,
+    "path_length": 15.72269531339407,
+    "id": "00839-zt1RVoi7PcG_sequence_19_2",
+    "instruction": "Find the tv in the bedroom that has seashell-and-starfish bedding",
+    "navigation_type": "region",
+    "final_goal_dist": 0.11493
+}

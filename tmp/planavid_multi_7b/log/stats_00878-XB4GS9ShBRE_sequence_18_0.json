@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 7.853179539786652,
+    "id": "00878-XB4GS9ShBRE_sequence_18_0",
+    "instruction": "Find the stainless steel dishwasher",
+    "navigation_type": "instance",
+    "final_goal_dist": 6.12681
+}

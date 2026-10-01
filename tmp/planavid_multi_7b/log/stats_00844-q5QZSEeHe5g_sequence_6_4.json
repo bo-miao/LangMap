@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 4.495194286108017,
+    "id": "00844-q5QZSEeHe5g_sequence_6_4",
+    "instruction": "Find the dressing table in the Bedroom",
+    "navigation_type": "room",
+    "final_goal_dist": 5.51358
+}

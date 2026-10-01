@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 29.25000348687172,
+    "id": "00808-y9hTuugGdiq_sequence_17_1",
+    "instruction": "Find the stereo in the tie: dining room & living room that has dining table and teal wall, 'Tie: A & B' means the area spans both rooms A and B",
+    "navigation_type": "region",
+    "final_goal_dist": 4.5119
+}

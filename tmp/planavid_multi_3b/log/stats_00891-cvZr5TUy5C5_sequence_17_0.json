@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 79.73615780472755,
+    "id": "00891-cvZr5TUy5C5_sequence_17_0",
+    "instruction": "Find the blue baseball hat",
+    "navigation_type": "instance",
+    "final_goal_dist": 14.55837
+}

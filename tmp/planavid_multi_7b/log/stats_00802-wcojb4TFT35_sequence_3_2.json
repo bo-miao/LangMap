@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.173493,
+    "path_length": 31.750005900859833,
+    "id": "00802-wcojb4TFT35_sequence_3_2",
+    "instruction": "Find the bath towel",
+    "navigation_type": "object",
+    "final_goal_dist": 0.15384
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.16525290700025067,
+    "path_length": 47.59999392181635,
+    "id": "00839-zt1RVoi7PcG_sequence_18_0",
+    "instruction": "Find the striped hand towel on the right side of black vanity",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.18568
+}

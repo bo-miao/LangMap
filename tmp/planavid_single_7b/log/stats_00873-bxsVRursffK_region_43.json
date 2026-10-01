@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.3732975530413878,
+    "path_length": 18.014443445950747,
+    "id": "00873-bxsVRursffK_region_43",
+    "instruction": "Find the bathtub in the bathroom that has bathtub",
+    "final_goal_dist": 0.22235
+}

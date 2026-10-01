@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 73.28100345283747,
+    "id": "00815-h1zeeAwLh9Z_sequence_1_0",
+    "instruction": "Find the black flower stand beside wood slatted bench",
+    "navigation_type": "instance",
+    "final_goal_dist": 11.75575
+}

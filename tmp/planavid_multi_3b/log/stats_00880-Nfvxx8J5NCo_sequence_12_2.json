@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 69.3547680657357,
+    "id": "00880-Nfvxx8J5NCo_sequence_12_2",
+    "instruction": "Find the doormat in the Hall",
+    "navigation_type": "room",
+    "final_goal_dist": 19.90548
+}

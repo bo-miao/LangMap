@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 29.368326341733336,
+    "id": "00820-mL8ThkuaVTM_sequence_8_0",
+    "instruction": "Find the yellow wine picture with woman smiling above kitchen sink",
+    "navigation_type": "instance",
+    "final_goal_dist": 11.06694
+}

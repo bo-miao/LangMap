@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 45.73154202103615,
+    "id": "00878-XB4GS9ShBRE_sequence_2_1",
+    "instruction": "Find the bath towel in the walk-in closet that has iron board",
+    "navigation_type": "region",
+    "final_goal_dist": 5.22453
+}

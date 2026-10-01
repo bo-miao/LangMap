@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 11.707586288452148,
+    "id": "00815-h1zeeAwLh9Z_sequence_13_0",
+    "instruction": "Find the burgundy armchair on green carpet",
+    "navigation_type": "instance",
+    "final_goal_dist": 11.19065
+}

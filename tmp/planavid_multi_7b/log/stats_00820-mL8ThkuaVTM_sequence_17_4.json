@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 20.765572026371956,
+    "id": "00820-mL8ThkuaVTM_sequence_17_4",
+    "instruction": "Find the couch in the rec room that has TV beside guitar",
+    "navigation_type": "region",
+    "final_goal_dist": 9.11651
+}

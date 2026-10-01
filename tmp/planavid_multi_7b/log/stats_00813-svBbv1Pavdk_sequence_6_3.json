@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 70.75000111758709,
+    "id": "00813-svBbv1Pavdk_sequence_6_3",
+    "instruction": "Find the microwave in the Kitchen",
+    "navigation_type": "room",
+    "final_goal_dist": 0.40996
+}

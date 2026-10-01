@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.15972311241624085,
+    "path_length": 25.500006154179573,
+    "id": "00880-Nfvxx8J5NCo_sequence_8_2",
+    "instruction": "Find the wooden cabinet above wall-mounted TV",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.16325
+}

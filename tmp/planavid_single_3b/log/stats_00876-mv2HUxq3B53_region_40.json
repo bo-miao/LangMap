@@ -1,0 +1,8 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 17.031477313488722,
+    "id": "00876-mv2HUxq3B53_region_40",
+    "instruction": "Find the side table in the tie: kitchen & living room that has dining table, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 2.66242
+}

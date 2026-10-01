@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.828157,
+    "path_length": 9.2084847278893,
+    "id": "00835-q3zU7Yy5E5s_sequence_6_0",
+    "instruction": "Find the sheepskin rug in front of fireplace",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.1484
+}

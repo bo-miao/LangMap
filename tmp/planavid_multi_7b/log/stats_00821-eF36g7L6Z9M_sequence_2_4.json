@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 68.21557641401887,
+    "id": "00821-eF36g7L6Z9M_sequence_2_4",
+    "instruction": "Find the shelf in the Kitchen",
+    "navigation_type": "room",
+    "final_goal_dist": 9.08815
+}

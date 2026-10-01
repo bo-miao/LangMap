@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.4148322304627411,
+    "path_length": 17.895039200782776,
+    "id": "00880-Nfvxx8J5NCo_sequence_8_0",
+    "instruction": "Find the cabinets under island sink",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.17197
+}

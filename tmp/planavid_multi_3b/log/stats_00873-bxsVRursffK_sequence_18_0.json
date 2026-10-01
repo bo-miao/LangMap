@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.30103814222686304,
+    "path_length": 25.384824484586716,
+    "id": "00873-bxsVRursffK_sequence_18_0",
+    "instruction": "Find the fireplace on blue wall",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.12689
+}

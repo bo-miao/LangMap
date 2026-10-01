@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 13.989943996071815,
+    "id": "00839-zt1RVoi7PcG_sequence_11_3",
+    "instruction": "Find the bed in the bedroom that has bed with orange geometric throw",
+    "navigation_type": "region",
+    "final_goal_dist": 8.31572
+}

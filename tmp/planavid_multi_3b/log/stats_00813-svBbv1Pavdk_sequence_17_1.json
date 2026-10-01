@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 53.920852303504944,
+    "id": "00813-svBbv1Pavdk_sequence_17_1",
+    "instruction": "Find the bathtub in the bathroom that has white shower curtain",
+    "navigation_type": "region",
+    "final_goal_dist": 12.30445
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.195103,
+    "path_length": 36.80985535681248,
+    "id": "00853-5cdEh9F2hJL_sequence_12_3",
+    "instruction": "Find the dining table in the Living room",
+    "navigation_type": "room",
+    "final_goal_dist": 0.15539
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.7888762151897291,
+    "path_length": 7.652686789631844,
+    "id": "00800-TEEsavR23oF_sequence_11_0",
+    "instruction": "Find the brown couch with diamond-patterned throw",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.07967
+}

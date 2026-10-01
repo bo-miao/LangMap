@@ -1,0 +1,8 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 27.94474048912525,
+    "id": "00802-wcojb4TFT35_region_30",
+    "instruction": "Find the table in the kitchen that has stainless steel refrigerator",
+    "final_goal_dist": 3.39477
+}

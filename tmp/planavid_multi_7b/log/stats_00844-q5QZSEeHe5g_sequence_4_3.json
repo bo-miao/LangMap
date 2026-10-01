@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.161936,
+    "path_length": 59.036230370402336,
+    "id": "00844-q5QZSEeHe5g_sequence_4_3",
+    "instruction": "Find the highchair",
+    "navigation_type": "object",
+    "final_goal_dist": 0.02526
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 70.6921874023974,
+    "id": "00853-5cdEh9F2hJL_sequence_0_3",
+    "instruction": "Find the wardrobe in the walk-in closet that has clothes and shoes",
+    "navigation_type": "region",
+    "final_goal_dist": 18.78226
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 66.4866907101823,
+    "id": "00839-zt1RVoi7PcG_sequence_7_3",
+    "instruction": "Find the photo in the Bedroom",
+    "navigation_type": "room",
+    "final_goal_dist": 4.38177
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.535901,
+    "path_length": 11.250038340687752,
+    "id": "00820-mL8ThkuaVTM_sequence_19_4",
+    "instruction": "Find the woven-panel screen beside TV",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.16211
+}

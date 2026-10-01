@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.104744,
+    "path_length": 19.00000323355198,
+    "id": "00832-qyAac8rV8Zk_sequence_17_4",
+    "instruction": "Find the refrigerator in the tie: kitchen & living room that has island with granite countertop, 'Tie: A & B' means the area spans both rooms A and B",
+    "navigation_type": "region",
+    "final_goal_dist": 0.0598
+}

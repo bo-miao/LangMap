@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.320603,
+    "path_length": 39.367162331938744,
+    "id": "00853-5cdEh9F2hJL_sequence_14_3",
+    "instruction": "Find the ceiling fan in the office that has island with white chairs",
+    "navigation_type": "region",
+    "final_goal_dist": 0.07314
+}

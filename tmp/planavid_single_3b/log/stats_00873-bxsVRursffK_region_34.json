@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.6747286541609441,
+    "path_length": 6.32397735118866,
+    "id": "00873-bxsVRursffK_region_34",
+    "instruction": "Find the table in the tie: kitchen & living room that has dark kitchen island, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 0.22854
+}

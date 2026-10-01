@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.022775,
+    "path_length": 6.826282113790512,
+    "id": "00873-bxsVRursffK_sequence_8_1",
+    "instruction": "Find the cabinet in the bedroom that has striped quilted bedding",
+    "navigation_type": "region",
+    "final_goal_dist": 0.18705
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.9315203387451374,
+    "path_length": 0.2499999850988388,
+    "id": "00823-7MXmsvcQjpJ_sequence_5_1",
+    "instruction": "Find the guitar",
+    "navigation_type": "object",
+    "final_goal_dist": 0.18011
+}

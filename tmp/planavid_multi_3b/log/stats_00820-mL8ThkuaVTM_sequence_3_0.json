@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.4203885422833002,
+    "path_length": 11.55000264942646,
+    "id": "00820-mL8ThkuaVTM_sequence_3_0",
+    "instruction": "Find the blue countertop cabinet near bed with patterned pillows",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.05588
+}

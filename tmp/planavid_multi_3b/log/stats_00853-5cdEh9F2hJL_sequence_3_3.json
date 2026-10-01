@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 18.741664335131645,
+    "id": "00853-5cdEh9F2hJL_sequence_3_3",
+    "instruction": "Find the office chair in the Office",
+    "navigation_type": "room",
+    "final_goal_dist": 10.15485
+}

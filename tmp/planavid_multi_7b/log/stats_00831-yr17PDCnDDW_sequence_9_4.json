@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.328759,
+    "path_length": 13.271601885557175,
+    "id": "00831-yr17PDCnDDW_sequence_9_4",
+    "instruction": "Find the white ball armchair beside photo collage",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.10923
+}

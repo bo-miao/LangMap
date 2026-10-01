@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.8821777210949846,
+    "path_length": 9.500003602355719,
+    "id": "00832-qyAac8rV8Zk_sequence_13_0",
+    "instruction": "Find the kitchen cabinet directly to the left of the stove",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.05606
+}

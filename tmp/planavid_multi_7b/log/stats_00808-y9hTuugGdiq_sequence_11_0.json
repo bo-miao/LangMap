@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 30.039012655615807,
+    "id": "00808-y9hTuugGdiq_sequence_11_0",
+    "instruction": "Find the oven above dark kitchen cabinets",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.66534
+}

@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.512511705875519,
+    "path_length": 9.141697376966476,
+    "id": "00869-MHPLjHsuG27_region_54",
+    "instruction": "Find the basin in the bathroom that has bathtub",
+    "final_goal_dist": 0.19245
+}

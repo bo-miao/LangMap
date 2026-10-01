@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.8452079989065484,
+    "path_length": 10.708052217960358,
+    "id": "00823-7MXmsvcQjpJ_region_108",
+    "instruction": "Find the dining table in the kitchen that has white refrigerator",
+    "final_goal_dist": 0.19622
+}

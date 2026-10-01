@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.007032523158069162,
+    "path_length": 19.500007450580597,
+    "id": "00802-wcojb4TFT35_sequence_4_1",
+    "instruction": "Find the picture",
+    "navigation_type": "object",
+    "final_goal_dist": 0.11057
+}

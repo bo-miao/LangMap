@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.32122315769248244,
+    "path_length": 29.296354244928807,
+    "id": "00832-qyAac8rV8Zk_room_48",
+    "instruction": "Find the stove in the Living room",
+    "final_goal_dist": 0.15634
+}

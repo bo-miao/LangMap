@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.6817802201630518,
+    "path_length": 6.250000208616257,
+    "id": "00831-yr17PDCnDDW_sequence_7_3",
+    "instruction": "Find the board",
+    "navigation_type": "object",
+    "final_goal_dist": 0.08419
+}

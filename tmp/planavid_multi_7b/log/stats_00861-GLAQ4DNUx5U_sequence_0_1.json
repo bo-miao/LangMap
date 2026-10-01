@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.057836,
+    "path_length": 9.00000111758709,
+    "id": "00861-GLAQ4DNUx5U_sequence_0_1",
+    "instruction": "Find the cabinet",
+    "navigation_type": "object",
+    "final_goal_dist": 0.1681
+}

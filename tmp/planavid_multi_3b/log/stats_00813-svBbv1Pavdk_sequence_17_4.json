@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.6442063694647641,
+    "path_length": 8.750000432133675,
+    "id": "00813-svBbv1Pavdk_sequence_17_4",
+    "instruction": "Find the stove",
+    "navigation_type": "object",
+    "final_goal_dist": 0.09441
+}

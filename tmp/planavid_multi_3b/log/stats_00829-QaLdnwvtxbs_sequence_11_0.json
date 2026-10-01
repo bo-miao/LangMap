@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 39.784836515784264,
+    "id": "00829-QaLdnwvtxbs_sequence_11_0",
+    "instruction": "Find the bath mat beside walk-in shower",
+    "navigation_type": "instance",
+    "final_goal_dist": 11.80904
+}

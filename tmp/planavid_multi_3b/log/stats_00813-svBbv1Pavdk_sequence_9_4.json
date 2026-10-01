@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 78.22714859247208,
+    "id": "00813-svBbv1Pavdk_sequence_9_4",
+    "instruction": "Find the shower curtain in the Bathroom",
+    "navigation_type": "room",
+    "final_goal_dist": 7.94265
+}

@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.5421224179646623,
+    "path_length": 11.457251965999603,
+    "id": "00802-wcojb4TFT35_region_92",
+    "instruction": "Find the worktop in the kitchen that has stainless steel refrigerator",
+    "final_goal_dist": 0.17216
+}

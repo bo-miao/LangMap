@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.17457520842683982,
+    "path_length": 37.181598991155624,
+    "id": "00891-cvZr5TUy5C5_sequence_10_3",
+    "instruction": "Find the sink cabinet",
+    "navigation_type": "object",
+    "final_goal_dist": 0.11494
+}

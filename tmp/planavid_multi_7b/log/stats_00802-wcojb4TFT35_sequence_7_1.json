@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.022952,
+    "path_length": 8.55091655254364,
+    "id": "00802-wcojb4TFT35_sequence_7_1",
+    "instruction": "Find the armchair in the Living room",
+    "navigation_type": "room",
+    "final_goal_dist": 0.02425
+}

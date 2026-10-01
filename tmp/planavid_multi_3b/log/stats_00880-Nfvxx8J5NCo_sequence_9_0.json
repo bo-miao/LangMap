@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 13.109561786055565,
+    "id": "00880-Nfvxx8J5NCo_sequence_9_0",
+    "instruction": "Find the stainless dishwasher",
+    "navigation_type": "instance",
+    "final_goal_dist": 3.18076
+}

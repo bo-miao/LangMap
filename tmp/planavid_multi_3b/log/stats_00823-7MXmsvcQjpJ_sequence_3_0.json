@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.5179127034062208,
+    "path_length": 14.403863281011581,
+    "id": "00823-7MXmsvcQjpJ_sequence_3_0",
+    "instruction": "Find the bath sink on brown countertop beside red tiles",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.06566
+}

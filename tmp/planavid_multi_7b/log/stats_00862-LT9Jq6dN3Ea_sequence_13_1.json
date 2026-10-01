@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.394245,
+    "path_length": 31.458776891231537,
+    "id": "00862-LT9Jq6dN3Ea_sequence_13_1",
+    "instruction": "Find the bathroom cabinet",
+    "navigation_type": "object",
+    "final_goal_dist": 0.14595
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 19.164600506424904,
+    "id": "00832-qyAac8rV8Zk_sequence_1_4",
+    "instruction": "Find the media console in the bedroom that has plaid-quilted bed",
+    "navigation_type": "region",
+    "final_goal_dist": 0.45434
+}

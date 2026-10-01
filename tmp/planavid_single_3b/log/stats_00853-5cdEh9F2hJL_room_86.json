@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.48005594063064544,
+    "path_length": 18.458366928622127,
+    "id": "00853-5cdEh9F2hJL_room_86",
+    "instruction": "Find the kitchen shelf in the Kitchen",
+    "final_goal_dist": 0.09375
+}

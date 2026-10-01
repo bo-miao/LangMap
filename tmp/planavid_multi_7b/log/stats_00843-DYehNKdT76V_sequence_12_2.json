@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 77.13967305608094,
+    "id": "00843-DYehNKdT76V_sequence_12_2",
+    "instruction": "Find the oven in the Kitchen",
+    "navigation_type": "room",
+    "final_goal_dist": 1.4683
+}

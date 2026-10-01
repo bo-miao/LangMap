@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 94.1178794130683,
+    "id": "00821-eF36g7L6Z9M_sequence_15_2",
+    "instruction": "Find the wardrobe",
+    "navigation_type": "object",
+    "final_goal_dist": 4.7087
+}

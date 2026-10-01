@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.6783385974864512,
+    "path_length": 17.067026507109404,
+    "id": "00815-h1zeeAwLh9Z_region_53",
+    "instruction": "Find the towel in the bathroom that has wide single-sink vanity",
+    "final_goal_dist": 0.07839
+}

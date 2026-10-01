@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 85.80515971779823,
+    "id": "00821-eF36g7L6Z9M_sequence_4_0",
+    "instruction": "Find the silver microwave",
+    "navigation_type": "instance",
+    "final_goal_dist": 13.86382
+}

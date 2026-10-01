@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.001904,
+    "path_length": 54.45044483989477,
+    "id": "00820-mL8ThkuaVTM_sequence_4_3",
+    "instruction": "Find the picture",
+    "navigation_type": "object",
+    "final_goal_dist": 0.16961
+}

@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.34914742554816364,
+    "path_length": 17.440017115324736,
+    "id": "00832-qyAac8rV8Zk_region_29",
+    "instruction": "Find the countertop in the tie: kitchen & living room that has island with granite countertop, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 0.04447
+}

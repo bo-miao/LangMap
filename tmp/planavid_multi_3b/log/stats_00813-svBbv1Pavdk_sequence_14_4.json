@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.7112889659033147,
+    "path_length": 0.2500002384185791,
+    "id": "00813-svBbv1Pavdk_sequence_14_4",
+    "instruction": "Find the kitchen sink in the kitchen that has glass dining table",
+    "navigation_type": "region",
+    "final_goal_dist": 0.17558
+}

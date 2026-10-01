@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.9040581011096773,
+    "path_length": 10.000003930181265,
+    "id": "00832-qyAac8rV8Zk_instance_34",
+    "instruction": "Find the kitchen cabinet directly to the right of the stove",
+    "final_goal_dist": 0.12724
+}

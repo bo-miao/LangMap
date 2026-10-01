@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.21849974786673623,
+    "path_length": 31.432308092713356,
+    "id": "00800-TEEsavR23oF_instance_40",
+    "instruction": "Find the wall clock in kitchen",
+    "final_goal_dist": 0.24615
+}

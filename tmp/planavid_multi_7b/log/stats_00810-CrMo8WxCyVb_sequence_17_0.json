@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.456198,
+    "path_length": 16.600005015730858,
+    "id": "00810-CrMo8WxCyVb_sequence_17_0",
+    "instruction": "Find the white kitchen cabinet holding kitchen utensils beside refrigerator",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.16477
+}

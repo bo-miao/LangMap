@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.6028214202267788,
+    "path_length": 4.750000238418579,
+    "id": "00829-QaLdnwvtxbs_sequence_17_3",
+    "instruction": "Find the console table in the Hall",
+    "navigation_type": "room",
+    "final_goal_dist": 0.10361
+}

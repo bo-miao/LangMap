@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.3676582596535585,
+    "path_length": 20.861723124980927,
+    "id": "00880-Nfvxx8J5NCo_region_27",
+    "instruction": "Find the refrigerator in the tie: kitchen & living room that has white kitchen island, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 0.17681
+}

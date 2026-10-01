@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 71.6372342184186,
+    "id": "00873-bxsVRursffK_sequence_9_2",
+    "instruction": "Find the picture in the Rec room",
+    "navigation_type": "room",
+    "final_goal_dist": 4.49931
+}

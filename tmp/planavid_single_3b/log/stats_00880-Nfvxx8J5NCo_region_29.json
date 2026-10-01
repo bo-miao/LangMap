@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.40697039402915913,
+    "path_length": 21.649998247623444,
+    "id": "00880-Nfvxx8J5NCo_region_29",
+    "instruction": "Find the coffee maker in the tie: kitchen & living room that has white kitchen island, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 0.17878
+}

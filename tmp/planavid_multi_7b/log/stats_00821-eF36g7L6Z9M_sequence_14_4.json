@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 82.44609172642231,
+    "id": "00821-eF36g7L6Z9M_sequence_14_4",
+    "instruction": "Find the shelf in the kitchen that has microwave and white dining table",
+    "navigation_type": "region",
+    "final_goal_dist": 14.31202
+}

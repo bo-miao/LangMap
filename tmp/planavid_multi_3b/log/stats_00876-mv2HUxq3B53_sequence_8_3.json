@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 32.0637666285038,
+    "id": "00876-mv2HUxq3B53_sequence_8_3",
+    "instruction": "Find the kitchen island in the tie: kitchen & living room that has dining table, 'Tie: A & B' means the area spans both rooms A and B",
+    "navigation_type": "region",
+    "final_goal_dist": 3.57721
+}

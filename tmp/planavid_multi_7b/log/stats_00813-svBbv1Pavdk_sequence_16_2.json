@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.358522,
+    "path_length": 21.723237335681915,
+    "id": "00813-svBbv1Pavdk_sequence_16_2",
+    "instruction": "Find the flowerpot in the Living room",
+    "navigation_type": "room",
+    "final_goal_dist": 0.14539
+}

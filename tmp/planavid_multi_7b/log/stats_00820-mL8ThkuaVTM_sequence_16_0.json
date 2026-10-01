@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.252788,
+    "path_length": 30.941218495368958,
+    "id": "00820-mL8ThkuaVTM_sequence_16_0",
+    "instruction": "Find the dark cabinet below lighthouse print in bedroom",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.17028
+}

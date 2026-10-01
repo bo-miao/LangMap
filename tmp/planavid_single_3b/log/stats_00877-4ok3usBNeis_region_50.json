@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.44142866762557115,
+    "path_length": 17.500005692243576,
+    "id": "00877-4ok3usBNeis_region_50",
+    "instruction": "Find the oven and stove in the kitchen that has white oven",
+    "final_goal_dist": 0.10644
+}

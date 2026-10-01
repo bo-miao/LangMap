@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 18.05495673045516,
+    "id": "00815-h1zeeAwLh9Z_sequence_19_0",
+    "instruction": "Find the kitchen sink under window with plants",
+    "navigation_type": "instance",
+    "final_goal_dist": 3.16561
+}

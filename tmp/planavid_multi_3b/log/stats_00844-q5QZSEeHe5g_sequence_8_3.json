@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 20.28347209095955,
+    "id": "00844-q5QZSEeHe5g_sequence_8_3",
+    "instruction": "Find the decoration in the bedroom that has metal-framed bed",
+    "navigation_type": "region",
+    "final_goal_dist": 16.87079
+}

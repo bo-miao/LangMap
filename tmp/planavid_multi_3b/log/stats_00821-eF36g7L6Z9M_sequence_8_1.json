@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 17.005933806300163,
+    "id": "00821-eF36g7L6Z9M_sequence_8_1",
+    "instruction": "Find the dining table in the Kitchen",
+    "navigation_type": "room",
+    "final_goal_dist": 19.95847
+}

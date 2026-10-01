@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.6861876535270097,
+    "path_length": 10.294052254408598,
+    "id": "00813-svBbv1Pavdk_room_46",
+    "instruction": "Find the stove in the Kitchen",
+    "final_goal_dist": 0.22831
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 6.500001221895218,
+    "id": "00891-cvZr5TUy5C5_sequence_4_3",
+    "instruction": "Find the oven in the kitchen that has stainless refrigerator",
+    "navigation_type": "region",
+    "final_goal_dist": 1.21408
+}

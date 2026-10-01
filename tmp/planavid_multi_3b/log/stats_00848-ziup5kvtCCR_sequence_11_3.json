@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 43.250004559755325,
+    "id": "00848-ziup5kvtCCR_sequence_11_3",
+    "instruction": "Find the cabinet in the Hall",
+    "navigation_type": "room",
+    "final_goal_dist": 3.58393
+}

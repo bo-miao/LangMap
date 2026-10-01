@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.28998528344869684,
+    "path_length": 17.945901051163673,
+    "id": "00878-XB4GS9ShBRE_sequence_7_0",
+    "instruction": "Find the white shower curtain",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.15443
+}

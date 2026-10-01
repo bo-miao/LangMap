@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.32800903391672753,
+    "path_length": 17.80922906473279,
+    "id": "00835-q3zU7Yy5E5s_sequence_3_0",
+    "instruction": "Find the blue toilet",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.09836
+}

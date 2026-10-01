@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 40.100464567542076,
+    "id": "00800-TEEsavR23oF_sequence_18_1",
+    "instruction": "Find the kitchen sink in the Kitchen",
+    "navigation_type": "room",
+    "final_goal_dist": 2.19804
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 19.850012466311455,
+    "id": "00821-eF36g7L6Z9M_sequence_10_0",
+    "instruction": "Find the yellow umbrella stand by cushioned bench",
+    "navigation_type": "instance",
+    "final_goal_dist": 1.41599
+}

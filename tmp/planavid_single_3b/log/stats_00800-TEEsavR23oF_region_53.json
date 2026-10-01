@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.7585882152481839,
+    "path_length": 14.415059000253677,
+    "id": "00800-TEEsavR23oF_region_53",
+    "instruction": "Find the wall clock in the kitchen that has refrigerator and granite countertop",
+    "final_goal_dist": 0.19236
+}

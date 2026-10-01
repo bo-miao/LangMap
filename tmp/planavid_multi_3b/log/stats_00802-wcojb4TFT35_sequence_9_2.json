@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.5129372890544395,
+    "path_length": 1.9999993741512299,
+    "id": "00802-wcojb4TFT35_sequence_9_2",
+    "instruction": "Find the flowerpot",
+    "navigation_type": "object",
+    "final_goal_dist": 0.20472
+}

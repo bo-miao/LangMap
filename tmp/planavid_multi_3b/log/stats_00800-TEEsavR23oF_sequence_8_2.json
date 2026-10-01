@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.8051821221127202,
+    "path_length": 8.540863677859306,
+    "id": "00800-TEEsavR23oF_sequence_8_2",
+    "instruction": "Find the bath towel in the bathroom that has blue shower curtain",
+    "navigation_type": "region",
+    "final_goal_dist": 0.15682
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.424955,
+    "path_length": 9.197919890284538,
+    "id": "00835-q3zU7Yy5E5s_sequence_12_2",
+    "instruction": "Find the bathroom towel in the bathroom that has blue bathtub",
+    "navigation_type": "region",
+    "final_goal_dist": 0.12047
+}

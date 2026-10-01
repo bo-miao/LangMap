@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.359271,
+    "path_length": 16.250000700354576,
+    "id": "00832-qyAac8rV8Zk_sequence_14_3",
+    "instruction": "Find the refrigerator in the Living room",
+    "navigation_type": "room",
+    "final_goal_dist": 0.11912
+}

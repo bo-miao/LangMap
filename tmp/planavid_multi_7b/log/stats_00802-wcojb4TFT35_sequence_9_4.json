@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.210768,
+    "path_length": 9.399264946579933,
+    "id": "00802-wcojb4TFT35_sequence_9_4",
+    "instruction": "Find the stove",
+    "navigation_type": "object",
+    "final_goal_dist": 0.12082
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 8.908067971467972,
+    "id": "00877-4ok3usBNeis_sequence_6_3",
+    "instruction": "Find the rug in the Storage room",
+    "navigation_type": "room",
+    "final_goal_dist": 1.86327
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 3.3441804565954953,
+    "id": "00878-XB4GS9ShBRE_sequence_16_0",
+    "instruction": "Find the blue floor mat beside sliding door",
+    "navigation_type": "instance",
+    "final_goal_dist": 7.08497
+}

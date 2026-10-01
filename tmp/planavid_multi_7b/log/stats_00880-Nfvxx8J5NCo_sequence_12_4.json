@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.258121,
+    "path_length": 24.500002652406693,
+    "id": "00880-Nfvxx8J5NCo_sequence_12_4",
+    "instruction": "Find the clock",
+    "navigation_type": "object",
+    "final_goal_dist": 0.17652
+}

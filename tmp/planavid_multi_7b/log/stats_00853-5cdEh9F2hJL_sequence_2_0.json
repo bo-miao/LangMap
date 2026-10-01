@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 79.58303957991302,
+    "id": "00853-5cdEh9F2hJL_sequence_2_0",
+    "instruction": "Find the closet storage area with shoe organizer by clothes",
+    "navigation_type": "instance",
+    "final_goal_dist": 11.51048
+}

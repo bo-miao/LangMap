@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.6853781139889933,
+    "path_length": 5.764885131269693,
+    "id": "00835-q3zU7Yy5E5s_sequence_10_0",
+    "instruction": "Find the white floral armchair beside decorative plate",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.13557
+}

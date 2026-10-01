@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 82.73447714745998,
+    "id": "00802-wcojb4TFT35_sequence_18_0",
+    "instruction": "Find the yellow banana",
+    "navigation_type": "instance",
+    "final_goal_dist": 5.96733
+}

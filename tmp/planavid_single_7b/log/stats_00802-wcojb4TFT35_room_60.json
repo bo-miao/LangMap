@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.5762582495248416,
+    "path_length": 10.176460400223732,
+    "id": "00802-wcojb4TFT35_room_60",
+    "instruction": "Find the piano in the Living room",
+    "final_goal_dist": 0.08907
+}

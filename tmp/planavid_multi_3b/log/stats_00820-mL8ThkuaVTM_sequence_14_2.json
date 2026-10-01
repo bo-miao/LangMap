@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.23662986694698804,
+    "path_length": 38.75368978083134,
+    "id": "00820-mL8ThkuaVTM_sequence_14_2",
+    "instruction": "Find the kitchen cabinet in the Tie: Kitchen & Living room, 'Tie: A & B' means the area spans both rooms A and B",
+    "navigation_type": "room",
+    "final_goal_dist": 0.03446
+}

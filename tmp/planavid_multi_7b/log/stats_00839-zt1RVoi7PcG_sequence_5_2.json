@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 83.07174926623702,
+    "id": "00839-zt1RVoi7PcG_sequence_5_2",
+    "instruction": "Find the mini fridge in the rec room that has dark snack wall",
+    "navigation_type": "region",
+    "final_goal_dist": 10.82538
+}

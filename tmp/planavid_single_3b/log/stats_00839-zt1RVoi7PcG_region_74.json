@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.14520023206639252,
+    "path_length": 59.87528224289417,
+    "id": "00839-zt1RVoi7PcG_region_74",
+    "instruction": "Find the sink in the bathroom that has toilet near dining table",
+    "final_goal_dist": 0.20761
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.539343,
+    "path_length": 8.248767584562302,
+    "id": "00877-4ok3usBNeis_sequence_4_2",
+    "instruction": "Find the carpet",
+    "navigation_type": "object",
+    "final_goal_dist": 0.09113
+}

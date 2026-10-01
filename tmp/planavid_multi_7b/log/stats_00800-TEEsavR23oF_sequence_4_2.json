@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.312109,
+    "path_length": 22.542454972863197,
+    "id": "00800-TEEsavR23oF_sequence_4_2",
+    "instruction": "Find the wardrobe in the bedroom that has white-sheeted bed",
+    "navigation_type": "region",
+    "final_goal_dist": 0.08164
+}

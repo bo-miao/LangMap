@@ -1,0 +1,8 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 14.272284284234047,
+    "id": "00823-7MXmsvcQjpJ_region_122",
+    "instruction": "Find the coffee machine in the kitchen that has white refrigerator",
+    "final_goal_dist": 0.87055
+}

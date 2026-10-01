@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 41.99999240040779,
+    "id": "00877-4ok3usBNeis_sequence_19_0",
+    "instruction": "Find the kitchen cabinet directly right of microwave",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.26278
+}

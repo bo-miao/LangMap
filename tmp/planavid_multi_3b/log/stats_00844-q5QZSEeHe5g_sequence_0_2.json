@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 75.4594225473702,
+    "id": "00844-q5QZSEeHe5g_sequence_0_2",
+    "instruction": "Find the toilet in the bathroom that has gray bathrobe",
+    "navigation_type": "region",
+    "final_goal_dist": 8.17005
+}

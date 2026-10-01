@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.30380124380406387,
+    "path_length": 19.25826585292816,
+    "id": "00839-zt1RVoi7PcG_sequence_9_2",
+    "instruction": "Find the table in the rec room that has dark snack wall",
+    "navigation_type": "region",
+    "final_goal_dist": 0.16192
+}

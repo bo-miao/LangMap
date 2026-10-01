@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.6663663869565554,
+    "path_length": 7.700363278388977,
+    "id": "00802-wcojb4TFT35_region_85",
+    "instruction": "Find the piano in the living room that has wooden upright piano",
+    "final_goal_dist": 0.1427
+}

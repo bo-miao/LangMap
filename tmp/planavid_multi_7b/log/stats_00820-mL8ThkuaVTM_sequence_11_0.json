@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.695883,
+    "path_length": 4.500002136453986,
+    "id": "00820-mL8ThkuaVTM_sequence_11_0",
+    "instruction": "Find the stainless kitchen sink",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.2273
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.5913021092118652,
+    "path_length": 12.750000312924385,
+    "id": "00808-y9hTuugGdiq_sequence_11_1",
+    "instruction": "Find the fireplace in the Dining room",
+    "navigation_type": "room",
+    "final_goal_dist": 0.10419
+}

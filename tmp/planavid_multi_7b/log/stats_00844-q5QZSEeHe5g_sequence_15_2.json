@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 17.99125699698925,
+    "id": "00844-q5QZSEeHe5g_sequence_15_2",
+    "instruction": "Find the shelving in the bedroom that has metal-framed bed",
+    "navigation_type": "region",
+    "final_goal_dist": 0.76156
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.023328004169853502,
+    "path_length": 6.737705618143082,
+    "id": "00810-CrMo8WxCyVb_sequence_2_1",
+    "instruction": "Find the dresser",
+    "navigation_type": "object",
+    "final_goal_dist": 0.08434
+}

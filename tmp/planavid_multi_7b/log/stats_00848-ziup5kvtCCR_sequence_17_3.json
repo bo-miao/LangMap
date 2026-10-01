@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.342265,
+    "path_length": 24.99743916094303,
+    "id": "00848-ziup5kvtCCR_sequence_17_3",
+    "instruction": "Find the nightstand in the Bedroom",
+    "navigation_type": "room",
+    "final_goal_dist": 0.08229
+}

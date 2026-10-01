@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 11.445712745189667,
+    "id": "00877-4ok3usBNeis_sequence_1_1",
+    "instruction": "Find the rug in the storage room that has freezers",
+    "navigation_type": "region",
+    "final_goal_dist": 1.60729
+}

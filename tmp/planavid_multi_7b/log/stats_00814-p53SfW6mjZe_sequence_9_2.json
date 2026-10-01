@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.815991,
+    "path_length": 30.26345083490014,
+    "id": "00814-p53SfW6mjZe_sequence_9_2",
+    "instruction": "Find the tv in the living room that has stone fireplace",
+    "navigation_type": "region",
+    "final_goal_dist": 0.13497
+}

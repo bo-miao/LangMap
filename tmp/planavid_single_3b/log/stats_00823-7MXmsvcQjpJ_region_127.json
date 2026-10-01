@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.5853027696254133,
+    "path_length": 1.7999992072582245,
+    "id": "00823-7MXmsvcQjpJ_region_127",
+    "instruction": "Find the couch in the living room that has fireplace set into red walls",
+    "final_goal_dist": 0.10883
+}

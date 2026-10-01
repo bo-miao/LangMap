@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.8130043715060276,
+    "path_length": 13.772618278861046,
+    "id": "00844-q5QZSEeHe5g_room_120",
+    "instruction": "Find the stove in the Kitchen",
+    "final_goal_dist": 0.16985
+}

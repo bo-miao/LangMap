@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 81.41015467047691,
+    "id": "00839-zt1RVoi7PcG_sequence_5_3",
+    "instruction": "Find the book",
+    "navigation_type": "object",
+    "final_goal_dist": 12.25119
+}

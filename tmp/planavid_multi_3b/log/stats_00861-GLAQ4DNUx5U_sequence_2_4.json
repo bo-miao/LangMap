@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.7370344617230179,
+    "path_length": 17.209240838885307,
+    "id": "00861-GLAQ4DNUx5U_sequence_2_4",
+    "instruction": "Find the sofa chair in the living room that has curved gray couch",
+    "navigation_type": "region",
+    "final_goal_dist": 0.11226
+}

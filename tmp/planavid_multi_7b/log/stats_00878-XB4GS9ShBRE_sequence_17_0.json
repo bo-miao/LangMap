@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.190944,
+    "path_length": 17.939613851252943,
+    "id": "00878-XB4GS9ShBRE_sequence_17_0",
+    "instruction": "Find the silver refrigerator",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.06893
+}

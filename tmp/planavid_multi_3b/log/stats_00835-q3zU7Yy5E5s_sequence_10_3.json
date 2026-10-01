@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.32023940535123707,
+    "path_length": 16.208217069506645,
+    "id": "00835-q3zU7Yy5E5s_sequence_10_3",
+    "instruction": "Find the shelf in the living room that has stone fireplace",
+    "navigation_type": "region",
+    "final_goal_dist": 0.10122
+}

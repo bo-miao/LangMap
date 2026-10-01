@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.128184,
+    "path_length": 47.094282605685294,
+    "id": "00814-p53SfW6mjZe_sequence_7_1",
+    "instruction": "Find the bathroom cabinet in the bathroom that has floral prints on black vanity",
+    "navigation_type": "region",
+    "final_goal_dist": 0.20519
+}

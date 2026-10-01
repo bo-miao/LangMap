@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.2507229393553931,
+    "path_length": 18.989722102880478,
+    "id": "00810-CrMo8WxCyVb_sequence_11_4",
+    "instruction": "Find the picture in the hall that has colorful dog-themed bags",
+    "navigation_type": "region",
+    "final_goal_dist": 0.10684
+}

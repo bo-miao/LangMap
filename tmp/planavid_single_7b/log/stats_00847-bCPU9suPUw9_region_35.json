@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.8530915376946465,
+    "path_length": 6.044082444161177,
+    "id": "00847-bCPU9suPUw9_region_35",
+    "instruction": "Find the couch in the tie: dining room & living room that has L-shaped gray couch, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 0.11128
+}

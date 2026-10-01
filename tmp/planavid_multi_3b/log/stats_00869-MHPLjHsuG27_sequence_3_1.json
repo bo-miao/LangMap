@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.6573516036410179,
+    "path_length": 7.999999389052391,
+    "id": "00869-MHPLjHsuG27_sequence_3_1",
+    "instruction": "Find the l-shaped sofa in the Living room",
+    "navigation_type": "room",
+    "final_goal_dist": 0.08076
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.2680139184321324,
+    "path_length": 33.03424593433738,
+    "id": "00813-svBbv1Pavdk_sequence_16_0",
+    "instruction": "Find the black stove",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.17064
+}

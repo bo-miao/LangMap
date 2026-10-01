@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 5.750001475214958,
+    "id": "00849-a8BtkwhxdRV_sequence_8_0",
+    "instruction": "Find the red couch with tan pillows",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.25887
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 0.0500006377696991,
+    "id": "00808-y9hTuugGdiq_sequence_19_0",
+    "instruction": "Find the white bath cabinet under sink near white bathtub",
+    "navigation_type": "instance",
+    "final_goal_dist": 12.23779
+}

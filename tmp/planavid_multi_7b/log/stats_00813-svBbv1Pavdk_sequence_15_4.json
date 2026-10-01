@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 16.749998286366463,
+    "id": "00813-svBbv1Pavdk_sequence_15_4",
+    "instruction": "Find the decoration in the bedroom that has bed with brown headboard",
+    "navigation_type": "region",
+    "final_goal_dist": 9.29754
+}

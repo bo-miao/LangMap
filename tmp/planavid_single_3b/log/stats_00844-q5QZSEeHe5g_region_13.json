@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.32551569209703385,
+    "path_length": 30.132710287347436,
+    "id": "00844-q5QZSEeHe5g_region_13",
+    "instruction": "Find the shelf in the living room that has brick fireplace",
+    "final_goal_dist": 0.12058
+}

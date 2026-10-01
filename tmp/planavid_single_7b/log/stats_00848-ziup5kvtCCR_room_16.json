@@ -1,0 +1,8 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 16.500002114102244,
+    "id": "00848-ziup5kvtCCR_room_16",
+    "instruction": "Find the bench in the Tie: Kitchen & Living room, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 4.0268
+}

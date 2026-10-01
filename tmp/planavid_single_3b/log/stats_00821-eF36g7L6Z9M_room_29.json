@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.2788390485143416,
+    "path_length": 52.05961485207081,
+    "id": "00821-eF36g7L6Z9M_room_29",
+    "instruction": "Find the range hood in the Kitchen",
+    "final_goal_dist": 0.15143
+}

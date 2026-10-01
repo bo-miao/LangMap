@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 10.800003491342068,
+    "id": "00891-cvZr5TUy5C5_sequence_5_0",
+    "instruction": "Find the stove with red kettle",
+    "navigation_type": "instance",
+    "final_goal_dist": 1.80738
+}

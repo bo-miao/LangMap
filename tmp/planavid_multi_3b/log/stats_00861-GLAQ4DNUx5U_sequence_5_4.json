@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 86.91092172265053,
+    "id": "00861-GLAQ4DNUx5U_sequence_5_4",
+    "instruction": "Find the shelf in the Walk-in closet",
+    "navigation_type": "room",
+    "final_goal_dist": 5.39578
+}

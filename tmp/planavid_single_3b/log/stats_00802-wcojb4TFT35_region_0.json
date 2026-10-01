@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.4844097204509677,
+    "path_length": 11.594728276133537,
+    "id": "00802-wcojb4TFT35_region_0",
+    "instruction": "Find the laundry basket in the walk-in closet that has clothes near bathtub",
+    "final_goal_dist": 0.16206
+}

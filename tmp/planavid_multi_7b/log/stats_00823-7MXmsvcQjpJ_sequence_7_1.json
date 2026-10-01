@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 11.482160031795502,
+    "id": "00823-7MXmsvcQjpJ_sequence_7_1",
+    "instruction": "Find the display table in the Hall",
+    "navigation_type": "room",
+    "final_goal_dist": 2.93939
+}

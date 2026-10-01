@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.560857,
+    "path_length": 7.7499997317790985,
+    "id": "00877-4ok3usBNeis_sequence_17_3",
+    "instruction": "Find the kitchen counter in the kitchen that has white oven",
+    "navigation_type": "region",
+    "final_goal_dist": 0.07939
+}

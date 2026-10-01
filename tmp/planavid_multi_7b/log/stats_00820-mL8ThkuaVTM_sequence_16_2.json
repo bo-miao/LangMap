@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.799268,
+    "path_length": 9.248924151062965,
+    "id": "00820-mL8ThkuaVTM_sequence_16_2",
+    "instruction": "Find the toilet in the bathroom that has walk-in shower",
+    "navigation_type": "region",
+    "final_goal_dist": 0.14532
+}

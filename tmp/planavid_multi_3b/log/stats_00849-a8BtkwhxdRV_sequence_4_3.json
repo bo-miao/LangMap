@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.16673357816322437,
+    "path_length": 2.496796175837517,
+    "id": "00849-a8BtkwhxdRV_sequence_4_3",
+    "instruction": "Find the armchair in the bedroom that has brown slatted headboard",
+    "navigation_type": "region",
+    "final_goal_dist": 0.15549
+}

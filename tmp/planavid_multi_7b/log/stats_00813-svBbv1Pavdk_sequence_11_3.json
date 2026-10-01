@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.639379,
+    "path_length": 11.737099528312683,
+    "id": "00813-svBbv1Pavdk_sequence_11_3",
+    "instruction": "Find the tv stand",
+    "navigation_type": "object",
+    "final_goal_dist": 0.08664
+}

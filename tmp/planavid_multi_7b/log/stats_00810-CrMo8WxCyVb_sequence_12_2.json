@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.718882,
+    "path_length": 8.49968507885933,
+    "id": "00810-CrMo8WxCyVb_sequence_12_2",
+    "instruction": "Find the kitchen island",
+    "navigation_type": "object",
+    "final_goal_dist": 0.15777
+}

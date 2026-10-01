@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.25170743137114976,
+    "path_length": 47.28746743500233,
+    "id": "00890-6s7QHgap2fW_region_33",
+    "instruction": "Find the book in the living room that has two dark couches",
+    "final_goal_dist": 0.16601
+}

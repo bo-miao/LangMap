@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 15.188480913639069,
+    "id": "00827-BAbdmeyTvMZ_sequence_5_0",
+    "instruction": "Find the left-side bathroom cabinet under sink near corner bathtub",
+    "navigation_type": "instance",
+    "final_goal_dist": 1.28724
+}

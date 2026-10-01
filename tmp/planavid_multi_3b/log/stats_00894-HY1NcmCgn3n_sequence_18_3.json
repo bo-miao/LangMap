@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 38.25785279273987,
+    "id": "00894-HY1NcmCgn3n_sequence_18_3",
+    "instruction": "Find the pedestal in the hall that has Virgin Mary paintings",
+    "navigation_type": "region",
+    "final_goal_dist": 11.3785
+}

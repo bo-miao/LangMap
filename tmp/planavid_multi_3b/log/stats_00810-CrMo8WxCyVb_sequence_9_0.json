@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 36.85742891393602,
+    "id": "00810-CrMo8WxCyVb_sequence_9_0",
+    "instruction": "Find the tall brown cabinet near glass table with white chairs",
+    "navigation_type": "instance",
+    "final_goal_dist": 2.71123
+}

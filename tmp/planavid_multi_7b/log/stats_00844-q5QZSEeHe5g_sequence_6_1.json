@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.611583,
+    "path_length": 7.000001966953278,
+    "id": "00844-q5QZSEeHe5g_sequence_6_1",
+    "instruction": "Find the blanket in the Bedroom",
+    "navigation_type": "room",
+    "final_goal_dist": 0.12774
+}

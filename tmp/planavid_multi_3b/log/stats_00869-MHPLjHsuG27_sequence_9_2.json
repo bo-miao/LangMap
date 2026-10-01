@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.8325443329137593,
+    "path_length": 8.738399520516396,
+    "id": "00869-MHPLjHsuG27_sequence_9_2",
+    "instruction": "Find the stove in the Kitchen",
+    "navigation_type": "room",
+    "final_goal_dist": 0.11476
+}

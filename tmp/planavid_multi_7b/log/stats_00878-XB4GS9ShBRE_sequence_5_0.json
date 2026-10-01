@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.47121,
+    "path_length": 7.515635818243027,
+    "id": "00878-XB4GS9ShBRE_sequence_5_0",
+    "instruction": "Find the bath vanity against tiled wall",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.13899
+}

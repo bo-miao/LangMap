@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.12366383419829692,
+    "path_length": 37.9567344263196,
+    "id": "00802-wcojb4TFT35_sequence_2_1",
+    "instruction": "Find the nightstand",
+    "navigation_type": "object",
+    "final_goal_dist": 0.19094
+}

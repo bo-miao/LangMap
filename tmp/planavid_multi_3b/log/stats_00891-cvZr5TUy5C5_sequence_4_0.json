@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.3996074687327868,
+    "path_length": 25.288824681192636,
+    "id": "00891-cvZr5TUy5C5_sequence_4_0",
+    "instruction": "Find the lower stainless steel oven",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.12865
+}

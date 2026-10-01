@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.7964480732537756,
+    "path_length": 9.093335043638945,
+    "id": "00832-qyAac8rV8Zk_sequence_12_0",
+    "instruction": "Find the brown dresser in bedroom",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.19164
+}

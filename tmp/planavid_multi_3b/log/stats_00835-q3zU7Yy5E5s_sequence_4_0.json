@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 2.2880792319774628,
+    "id": "00835-q3zU7Yy5E5s_sequence_4_0",
+    "instruction": "Find the beige bathroom towel by blue toilet",
+    "navigation_type": "instance",
+    "final_goal_dist": 5.43497
+}

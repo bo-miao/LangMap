@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 24.999997064471245,
+    "id": "00876-mv2HUxq3B53_sequence_15_2",
+    "instruction": "Find the left armchair beside L-shaped couch",
+    "navigation_type": "instance",
+    "final_goal_dist": 2.45263
+}

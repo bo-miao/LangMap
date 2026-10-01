@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.336475,
+    "path_length": 7.500003904104233,
+    "id": "00800-TEEsavR23oF_sequence_17_1",
+    "instruction": "Find the kitchen cabinet in the Kitchen",
+    "navigation_type": "room",
+    "final_goal_dist": 0.16229
+}

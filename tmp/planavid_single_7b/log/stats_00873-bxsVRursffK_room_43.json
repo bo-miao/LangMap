@@ -1,0 +1,8 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 91.71633918583393,
+    "id": "00873-bxsVRursffK_room_43",
+    "instruction": "Find the microwave in the Tie: Kitchen & Living room, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 4.76591
+}

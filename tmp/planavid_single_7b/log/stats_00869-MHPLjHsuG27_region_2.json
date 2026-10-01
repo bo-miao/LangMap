@@ -1,0 +1,8 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 37.40100701153278,
+    "id": "00869-MHPLjHsuG27_region_2",
+    "instruction": "Find the radiator in the tie: dining room & living room that has glass dining table, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 0.74136
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 73.52682382706553,
+    "id": "00829-QaLdnwvtxbs_sequence_15_4",
+    "instruction": "Find the toilet",
+    "navigation_type": "object",
+    "final_goal_dist": 11.26173
+}

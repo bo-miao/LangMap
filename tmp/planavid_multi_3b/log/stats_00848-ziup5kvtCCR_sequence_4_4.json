@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 0.9999997317790985,
+    "id": "00848-ziup5kvtCCR_sequence_4_4",
+    "instruction": "Find the sink in the Tie: Kitchen & Living room, 'Tie: A & B' means the area spans both rooms A and B",
+    "navigation_type": "room",
+    "final_goal_dist": 10.96718
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.001337,
+    "path_length": 41.700162172317505,
+    "id": "00813-svBbv1Pavdk_sequence_15_1",
+    "instruction": "Find the cabinet",
+    "navigation_type": "object",
+    "final_goal_dist": 0.0501
+}

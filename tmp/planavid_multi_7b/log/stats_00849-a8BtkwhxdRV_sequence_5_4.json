@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 9.500000596046448,
+    "id": "00849-a8BtkwhxdRV_sequence_5_4",
+    "instruction": "Find the bed in the bedroom that has brown slatted headboard",
+    "navigation_type": "region",
+    "final_goal_dist": 0.27845
+}

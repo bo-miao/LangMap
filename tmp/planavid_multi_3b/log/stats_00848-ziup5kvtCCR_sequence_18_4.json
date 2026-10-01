@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.3715132431972942,
+    "path_length": 22.427623227238655,
+    "id": "00848-ziup5kvtCCR_sequence_18_4",
+    "instruction": "Find the kitchen island in the tie: kitchen & living room that has curved kitchen island, 'Tie: A & B' means the area spans both rooms A and B",
+    "navigation_type": "region",
+    "final_goal_dist": 0.17947
+}

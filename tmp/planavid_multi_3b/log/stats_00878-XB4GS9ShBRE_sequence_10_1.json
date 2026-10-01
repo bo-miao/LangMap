@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.5679042741191677,
+    "path_length": 8.216095134615898,
+    "id": "00878-XB4GS9ShBRE_sequence_10_1",
+    "instruction": "Find the throw blanket in the Bedroom",
+    "navigation_type": "room",
+    "final_goal_dist": 0.15261
+}

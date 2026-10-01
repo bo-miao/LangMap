@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 42.68135339021683,
+    "id": "00891-cvZr5TUy5C5_sequence_8_4",
+    "instruction": "Find the black console table behind sofa",
+    "navigation_type": "instance",
+    "final_goal_dist": 18.73554
+}

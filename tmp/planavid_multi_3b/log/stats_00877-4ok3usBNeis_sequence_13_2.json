@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 20.500000476837158,
+    "id": "00877-4ok3usBNeis_sequence_13_2",
+    "instruction": "Find the sink in the kitchen that has white oven",
+    "navigation_type": "region",
+    "final_goal_dist": 0.61816
+}

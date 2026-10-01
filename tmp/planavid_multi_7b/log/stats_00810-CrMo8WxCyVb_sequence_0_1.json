@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 73.9786586612463,
+    "id": "00810-CrMo8WxCyVb_sequence_0_1",
+    "instruction": "Find the sculpture",
+    "navigation_type": "object",
+    "final_goal_dist": 3.92711
+}

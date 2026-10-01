@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.323818,
+    "path_length": 4.711771532893181,
+    "id": "00848-ziup5kvtCCR_sequence_17_1",
+    "instruction": "Find the rug",
+    "navigation_type": "object",
+    "final_goal_dist": 0.0911
+}

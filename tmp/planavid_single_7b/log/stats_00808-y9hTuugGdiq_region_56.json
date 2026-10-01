@@ -1,0 +1,8 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 54.12385876476765,
+    "id": "00808-y9hTuugGdiq_region_56",
+    "instruction": "Find the amplifier in the tie: dining room & living room that has dining table and teal wall, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 3.57959
+}

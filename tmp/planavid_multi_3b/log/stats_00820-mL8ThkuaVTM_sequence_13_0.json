@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 64.48456900380552,
+    "id": "00820-mL8ThkuaVTM_sequence_13_0",
+    "instruction": "Find the black kitchen knife set",
+    "navigation_type": "instance",
+    "final_goal_dist": 1.40443
+}

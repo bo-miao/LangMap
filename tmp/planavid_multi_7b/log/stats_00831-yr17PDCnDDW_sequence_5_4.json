@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 20.164766281843185,
+    "id": "00831-yr17PDCnDDW_sequence_5_4",
+    "instruction": "Find the flowerpot in the Living room",
+    "navigation_type": "room",
+    "final_goal_dist": 2.08912
+}

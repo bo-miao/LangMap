@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 18.954623602330685,
+    "id": "00853-5cdEh9F2hJL_sequence_11_0",
+    "instruction": "Find the cabinet below a painting of a person in white carrying red food",
+    "navigation_type": "instance",
+    "final_goal_dist": 10.81271
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 12.529844403266907,
+    "id": "00853-5cdEh9F2hJL_sequence_0_4",
+    "instruction": "Find the ceiling fan in the bedroom that has black-framed bed",
+    "navigation_type": "region",
+    "final_goal_dist": 0.33517
+}

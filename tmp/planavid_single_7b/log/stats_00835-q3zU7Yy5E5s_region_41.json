@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.8696519686376968,
+    "path_length": 8.907237637788057,
+    "id": "00835-q3zU7Yy5E5s_region_41",
+    "instruction": "Find the sink in the kitchen that has stainless stove",
+    "final_goal_dist": 0.19186
+}

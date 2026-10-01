@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 14.94441768527031,
+    "id": "00803-k1cupFYWXJ6_sequence_16_4",
+    "instruction": "Find the ship model near purple armchairs and wall maps",
+    "navigation_type": "instance",
+    "final_goal_dist": 4.77511
+}

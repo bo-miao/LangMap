@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.39177185521593094,
+    "path_length": 19.04973865672946,
+    "id": "00815-h1zeeAwLh9Z_room_59",
+    "instruction": "Find the piano stool in the Living room",
+    "final_goal_dist": 0.09283
+}

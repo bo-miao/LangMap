@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.486934,
+    "path_length": 15.55993501842022,
+    "id": "00814-p53SfW6mjZe_sequence_14_1",
+    "instruction": "Find the kitchen sink in the kitchen that has white cabinets and lake map",
+    "navigation_type": "region",
+    "final_goal_dist": 0.10194
+}

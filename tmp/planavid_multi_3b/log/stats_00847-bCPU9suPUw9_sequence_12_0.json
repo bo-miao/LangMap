@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 68.09392403066158,
+    "id": "00847-bCPU9suPUw9_sequence_12_0",
+    "instruction": "Find the toilet beside diamond-patterned shower curtain",
+    "navigation_type": "instance",
+    "final_goal_dist": 3.40554
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.414895,
+    "path_length": 21.902454435825348,
+    "id": "00848-ziup5kvtCCR_sequence_19_1",
+    "instruction": "Find the christmas tree in the tie: kitchen & living room that has curved kitchen island, 'Tie: A & B' means the area spans both rooms A and B",
+    "navigation_type": "region",
+    "final_goal_dist": 0.09778
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 52.685685312375426,
+    "id": "00848-ziup5kvtCCR_sequence_16_0",
+    "instruction": "Find the brown nightstand right of bed",
+    "navigation_type": "instance",
+    "final_goal_dist": 9.85798
+}

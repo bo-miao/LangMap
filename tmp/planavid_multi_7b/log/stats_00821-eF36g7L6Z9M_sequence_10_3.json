@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 1.7499997317790985,
+    "id": "00821-eF36g7L6Z9M_sequence_10_3",
+    "instruction": "Find the bath vanity in the bathroom that has vessel sink",
+    "navigation_type": "region",
+    "final_goal_dist": 6.32551
+}

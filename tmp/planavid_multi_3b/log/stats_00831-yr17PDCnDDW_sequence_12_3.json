@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 44.32504938542843,
+    "id": "00831-yr17PDCnDDW_sequence_12_3",
+    "instruction": "Find the couch in the living room that has white two-seater couch",
+    "navigation_type": "region",
+    "final_goal_dist": 1.36499
+}

@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.39901278072988916,
+    "path_length": 17.037813924252987,
+    "id": "00815-h1zeeAwLh9Z_region_67",
+    "instruction": "Find the fireplace wall in the hall that has fireplace below staircase",
+    "final_goal_dist": 0.1473
+}

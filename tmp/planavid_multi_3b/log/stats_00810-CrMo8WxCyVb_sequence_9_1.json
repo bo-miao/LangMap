@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.4287895111001242,
+    "path_length": 16.741249158978462,
+    "id": "00810-CrMo8WxCyVb_sequence_9_1",
+    "instruction": "Find the cabinet in the bedroom that has white bed with beige headboard",
+    "navigation_type": "region",
+    "final_goal_dist": 0.09357
+}

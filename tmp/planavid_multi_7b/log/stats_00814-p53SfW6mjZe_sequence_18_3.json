@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.362737,
+    "path_length": 36.63573110848665,
+    "id": "00814-p53SfW6mjZe_sequence_18_3",
+    "instruction": "Find the book",
+    "navigation_type": "object",
+    "final_goal_dist": 0.13435
+}

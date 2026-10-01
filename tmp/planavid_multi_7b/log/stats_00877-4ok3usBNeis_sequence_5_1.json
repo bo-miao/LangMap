@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 31.04663287103176,
+    "id": "00877-4ok3usBNeis_sequence_5_1",
+    "instruction": "Find the rack in the storage room that has freezers",
+    "navigation_type": "region",
+    "final_goal_dist": 2.51713
+}

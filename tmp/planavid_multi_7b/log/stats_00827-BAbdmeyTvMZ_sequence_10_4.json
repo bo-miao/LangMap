@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.530443,
+    "path_length": 14.571949066128582,
+    "id": "00827-BAbdmeyTvMZ_sequence_10_4",
+    "instruction": "Find the chest of drawers",
+    "navigation_type": "object",
+    "final_goal_dist": 0.20398
+}

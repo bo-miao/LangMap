@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 29.931016966700554,
+    "id": "00824-Dd4bFSTQ8gi_sequence_17_2",
+    "instruction": "Find the carpet",
+    "navigation_type": "object",
+    "final_goal_dist": 1.57421
+}

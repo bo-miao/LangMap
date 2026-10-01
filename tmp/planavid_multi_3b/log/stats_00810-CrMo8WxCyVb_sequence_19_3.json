@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.6880448973283868,
+    "path_length": 10.74999350309372,
+    "id": "00810-CrMo8WxCyVb_sequence_19_3",
+    "instruction": "Find the desk in the office that has office desk facing world map",
+    "navigation_type": "region",
+    "final_goal_dist": 0.13004
+}

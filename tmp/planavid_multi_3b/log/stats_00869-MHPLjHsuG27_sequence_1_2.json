@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 10.99596843123436,
+    "id": "00869-MHPLjHsuG27_sequence_1_2",
+    "instruction": "Find the recliner in the Living room",
+    "navigation_type": "room",
+    "final_goal_dist": 1.44669
+}

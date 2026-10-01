@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 12.099996350705624,
+    "id": "00839-zt1RVoi7PcG_sequence_9_0",
+    "instruction": "Find the dark cabinet with drawers below TV on blue wall",
+    "navigation_type": "instance",
+    "final_goal_dist": 5.52765
+}

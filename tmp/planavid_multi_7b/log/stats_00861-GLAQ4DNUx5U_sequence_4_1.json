@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.007651,
+    "path_length": 8.749996915459633,
+    "id": "00861-GLAQ4DNUx5U_sequence_4_1",
+    "instruction": "Find the couch in the Living room",
+    "navigation_type": "room",
+    "final_goal_dist": 0.01543
+}

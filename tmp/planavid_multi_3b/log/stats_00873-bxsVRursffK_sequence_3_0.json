@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 11.750003065913916,
+    "id": "00873-bxsVRursffK_sequence_3_0",
+    "instruction": "Find the left nightstand by striped quilted bed",
+    "navigation_type": "instance",
+    "final_goal_dist": 9.93395
+}

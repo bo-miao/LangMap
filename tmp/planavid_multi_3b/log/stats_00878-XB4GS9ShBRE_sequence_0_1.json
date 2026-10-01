@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.022612270872811594,
+    "path_length": 15.50247049331665,
+    "id": "00878-XB4GS9ShBRE_sequence_0_1",
+    "instruction": "Find the armchair",
+    "navigation_type": "object",
+    "final_goal_dist": 0.08768
+}

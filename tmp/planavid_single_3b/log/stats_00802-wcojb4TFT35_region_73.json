@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.5151917269209437,
+    "path_length": 14.7698914562352,
+    "id": "00802-wcojb4TFT35_region_73",
+    "instruction": "Find the fireplace in the living room that has TV above fireplace",
+    "final_goal_dist": 0.17432
+}

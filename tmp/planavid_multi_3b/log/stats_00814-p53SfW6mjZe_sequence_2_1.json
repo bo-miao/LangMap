@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 76.79394502192736,
+    "id": "00814-p53SfW6mjZe_sequence_2_1",
+    "instruction": "Find the bowl in the Living room",
+    "navigation_type": "room",
+    "final_goal_dist": 12.52227
+}

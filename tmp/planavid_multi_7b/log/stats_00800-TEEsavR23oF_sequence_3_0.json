@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.367385,
+    "path_length": 21.303644061088562,
+    "id": "00800-TEEsavR23oF_sequence_3_0",
+    "instruction": "Find the micky mouse plush toy beside bed",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.13488
+}

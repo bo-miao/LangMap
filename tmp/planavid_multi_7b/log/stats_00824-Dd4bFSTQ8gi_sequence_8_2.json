@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 74.1559277959168,
+    "id": "00824-Dd4bFSTQ8gi_sequence_8_2",
+    "instruction": "Find the cabinet in the bathroom that has bathtub",
+    "navigation_type": "region",
+    "final_goal_dist": 8.16157
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.006899,
+    "path_length": 22.75000263750553,
+    "id": "00847-bCPU9suPUw9_sequence_14_1",
+    "instruction": "Find the cabinet",
+    "navigation_type": "object",
+    "final_goal_dist": 0.15199
+}

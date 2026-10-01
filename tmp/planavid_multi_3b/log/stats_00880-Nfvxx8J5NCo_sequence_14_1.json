@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 80.20936182141304,
+    "id": "00880-Nfvxx8J5NCo_sequence_14_1",
+    "instruction": "Find the trashcan",
+    "navigation_type": "object",
+    "final_goal_dist": 5.60496
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.5872202219109004,
+    "path_length": 3.766973555088043,
+    "id": "00832-qyAac8rV8Zk_sequence_10_1",
+    "instruction": "Find the washing machine",
+    "navigation_type": "object",
+    "final_goal_dist": 0.16536
+}

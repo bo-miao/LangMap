@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.5836619416237263,
+    "path_length": 10.30949780344963,
+    "id": "00873-bxsVRursffK_sequence_10_2",
+    "instruction": "Find the bath vanity in the bathroom that has double-sink bath vanity",
+    "navigation_type": "region",
+    "final_goal_dist": 0.01318
+}

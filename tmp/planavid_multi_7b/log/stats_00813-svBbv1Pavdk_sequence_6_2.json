@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.67266,
+    "path_length": 14.250001385807991,
+    "id": "00813-svBbv1Pavdk_sequence_6_2",
+    "instruction": "Find the nightstand in the bedroom that has bed with patterned blanket",
+    "navigation_type": "region",
+    "final_goal_dist": 0.10684
+}

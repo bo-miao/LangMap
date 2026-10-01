@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 23.41090588271618,
+    "id": "00803-k1cupFYWXJ6_sequence_9_4",
+    "instruction": "Find the beige couch with red pillows",
+    "navigation_type": "instance",
+    "final_goal_dist": 12.21205
+}

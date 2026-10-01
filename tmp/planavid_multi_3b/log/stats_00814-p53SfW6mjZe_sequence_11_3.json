@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 9.275733292102814,
+    "id": "00814-p53SfW6mjZe_sequence_11_3",
+    "instruction": "Find the cabinet in the bathroom that has pelican painting",
+    "navigation_type": "region",
+    "final_goal_dist": 10.60872
+}

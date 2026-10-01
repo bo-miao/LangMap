@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 20.717476293444633,
+    "id": "00890-6s7QHgap2fW_sequence_18_4",
+    "instruction": "Find the tv stand in the Living room",
+    "navigation_type": "room",
+    "final_goal_dist": 0.37552
+}

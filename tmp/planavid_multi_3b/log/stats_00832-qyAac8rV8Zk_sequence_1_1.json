@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.6698432932905083,
+    "path_length": 10.500000268220901,
+    "id": "00832-qyAac8rV8Zk_sequence_1_1",
+    "instruction": "Find the countertop in the bathroom that has double-sink bath vanity",
+    "navigation_type": "region",
+    "final_goal_dist": 0.1534
+}

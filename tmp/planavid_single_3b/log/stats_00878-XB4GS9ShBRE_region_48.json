@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.5680044221090791,
+    "path_length": 6.51610155403614,
+    "id": "00878-XB4GS9ShBRE_region_48",
+    "instruction": "Find the exercise bike in the rec room that has exercise bike",
+    "final_goal_dist": 0.14349
+}

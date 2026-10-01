@@ -1,0 +1,7 @@
+.idea/
+__pycache__/
+*.pyc
+data/*
+model_zoo/*
+!model_zoo/__init__.py
+tmp/eval_*

@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.2533498946780688,
+    "path_length": 27.664727583993226,
+    "id": "00827-BAbdmeyTvMZ_room_23",
+    "instruction": "Find the bathtub in the Bathroom",
+    "final_goal_dist": 0.10481
+}

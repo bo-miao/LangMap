@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.8009100328225148,
+    "path_length": 5.5000003427267075,
+    "id": "00813-svBbv1Pavdk_sequence_5_4",
+    "instruction": "Find the desk",
+    "navigation_type": "object",
+    "final_goal_dist": 0.08428
+}

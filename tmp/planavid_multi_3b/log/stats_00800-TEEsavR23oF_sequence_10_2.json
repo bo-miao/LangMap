@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.23064898718781396,
+    "path_length": 43.996288385242224,
+    "id": "00800-TEEsavR23oF_sequence_10_2",
+    "instruction": "Find the picture in the Office",
+    "navigation_type": "room",
+    "final_goal_dist": 0.05949
+}

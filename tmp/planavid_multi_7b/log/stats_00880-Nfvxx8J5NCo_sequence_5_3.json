@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.409869,
+    "path_length": 11.749996289610863,
+    "id": "00880-Nfvxx8J5NCo_sequence_5_3",
+    "instruction": "Find the coffee table in the tie: kitchen & living room that has white kitchen island, 'Tie: A & B' means the area spans both rooms A and B",
+    "navigation_type": "region",
+    "final_goal_dist": 0.18106
+}

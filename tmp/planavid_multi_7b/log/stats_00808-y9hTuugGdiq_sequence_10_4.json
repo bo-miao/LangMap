@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.775385,
+    "path_length": 6.2500036507844925,
+    "id": "00808-y9hTuugGdiq_sequence_10_4",
+    "instruction": "Find the bath sink in the bathroom that has glass-enclosed white bathtub",
+    "navigation_type": "region",
+    "final_goal_dist": 0.04717
+}

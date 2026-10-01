@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.02356,
+    "path_length": 7.996552675962448,
+    "id": "00869-MHPLjHsuG27_sequence_14_3",
+    "instruction": "Find the heater",
+    "navigation_type": "object",
+    "final_goal_dist": 0.1407
+}

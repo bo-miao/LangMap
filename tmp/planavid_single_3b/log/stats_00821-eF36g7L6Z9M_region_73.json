@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.8381688566817378,
+    "path_length": 8.476728036999702,
+    "id": "00821-eF36g7L6Z9M_region_73",
+    "instruction": "Find the washbasin in the bathroom that has two adjacent gray vanities",
+    "final_goal_dist": 0.11985
+}

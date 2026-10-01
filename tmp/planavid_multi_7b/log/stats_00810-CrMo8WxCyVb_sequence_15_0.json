@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 11.076490253210068,
+    "id": "00810-CrMo8WxCyVb_sequence_15_0",
+    "instruction": "Find the white kitchen cabinet under stainless sink",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.85987
+}

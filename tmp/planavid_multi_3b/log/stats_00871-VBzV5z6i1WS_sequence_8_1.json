@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 19.298546999692917,
+    "id": "00871-VBzV5z6i1WS_sequence_8_1",
+    "instruction": "Find the picture in the Living room",
+    "navigation_type": "room",
+    "final_goal_dist": 4.1455
+}

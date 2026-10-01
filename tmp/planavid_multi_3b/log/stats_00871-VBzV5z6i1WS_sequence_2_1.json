@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.22550148998194391,
+    "path_length": 24.037684440612793,
+    "id": "00871-VBzV5z6i1WS_sequence_2_1",
+    "instruction": "Find the display cabinet",
+    "navigation_type": "object",
+    "final_goal_dist": 0.12029
+}

@@ -1,0 +1,8 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 34.09505469724536,
+    "id": "00876-mv2HUxq3B53_room_29",
+    "instruction": "Find the ventilation hood in the Tie: Kitchen & Living room, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 18.71658
+}

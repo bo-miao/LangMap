@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.21752863108780418,
+    "path_length": 19.25912968814373,
+    "id": "00814-p53SfW6mjZe_sequence_10_2",
+    "instruction": "Find the picture",
+    "navigation_type": "object",
+    "final_goal_dist": 0.02547
+}

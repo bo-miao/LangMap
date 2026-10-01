@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.001480116986911008,
+    "path_length": 48.90889355447143,
+    "id": "00824-Dd4bFSTQ8gi_sequence_3_1",
+    "instruction": "Find the desk",
+    "navigation_type": "object",
+    "final_goal_dist": 0.16284
+}

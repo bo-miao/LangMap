@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.6063983874559308,
+    "path_length": 16.29526123404503,
+    "id": "00808-y9hTuugGdiq_room_60",
+    "instruction": "Find the bin in the Kitchen",
+    "final_goal_dist": 0.12658
+}

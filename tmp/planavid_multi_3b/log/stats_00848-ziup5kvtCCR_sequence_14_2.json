@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.47931545929489977,
+    "path_length": 5.250002771615982,
+    "id": "00848-ziup5kvtCCR_sequence_14_2",
+    "instruction": "Find the bed in the Bedroom",
+    "navigation_type": "room",
+    "final_goal_dist": 0.10579
+}

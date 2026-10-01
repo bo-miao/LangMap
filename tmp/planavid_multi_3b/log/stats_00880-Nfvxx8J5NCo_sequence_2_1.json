@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 38.46417640149593,
+    "id": "00880-Nfvxx8J5NCo_sequence_2_1",
+    "instruction": "Find the art frame in the tie: kitchen & living room that has white kitchen island, 'Tie: A & B' means the area spans both rooms A and B",
+    "navigation_type": "region",
+    "final_goal_dist": 2.44886
+}

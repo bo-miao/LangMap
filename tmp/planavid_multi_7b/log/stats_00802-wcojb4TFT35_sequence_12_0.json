@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.20668,
+    "path_length": 30.33485683053732,
+    "id": "00802-wcojb4TFT35_sequence_12_0",
+    "instruction": "Find the bookshelf near TV above fireplace",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.17981
+}

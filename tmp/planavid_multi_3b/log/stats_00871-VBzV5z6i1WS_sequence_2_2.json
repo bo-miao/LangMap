@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.1103696602025649,
+    "path_length": 51.50102560222149,
+    "id": "00871-VBzV5z6i1WS_sequence_2_2",
+    "instruction": "Find the stovetop",
+    "navigation_type": "object",
+    "final_goal_dist": 0.10054
+}

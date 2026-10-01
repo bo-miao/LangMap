@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 37.16887612640858,
+    "id": "00891-cvZr5TUy5C5_sequence_3_4",
+    "instruction": "Find the vase in the Living room",
+    "navigation_type": "room",
+    "final_goal_dist": 12.27105
+}

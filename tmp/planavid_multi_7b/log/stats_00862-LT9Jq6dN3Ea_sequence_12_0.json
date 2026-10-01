@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 88.30333610624075,
+    "id": "00862-LT9Jq6dN3Ea_sequence_12_0",
+    "instruction": "Find the white plates in kitchen",
+    "navigation_type": "instance",
+    "final_goal_dist": 10.6169
+}

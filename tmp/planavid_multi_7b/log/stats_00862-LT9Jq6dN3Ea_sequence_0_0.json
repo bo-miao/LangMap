@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.422554,
+    "path_length": 20.58399958908558,
+    "id": "00862-LT9Jq6dN3Ea_sequence_0_0",
+    "instruction": "Find the gray sofa chair by abstract painting",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.10284
+}

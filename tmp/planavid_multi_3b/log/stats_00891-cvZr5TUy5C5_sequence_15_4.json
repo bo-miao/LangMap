@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 64.08774377405643,
+    "id": "00891-cvZr5TUy5C5_sequence_15_4",
+    "instruction": "Find the bathtub in the tie: bathroom & bedroom that has white-and-beige bedding near double-sink bath vanity, 'Tie: A & B' means the area spans both rooms A and B",
+    "navigation_type": "region",
+    "final_goal_dist": 0.82463
+}

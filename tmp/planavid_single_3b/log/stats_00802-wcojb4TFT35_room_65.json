@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.5584876114647707,
+    "path_length": 12.029229924082756,
+    "id": "00802-wcojb4TFT35_room_65",
+    "instruction": "Find the dishwasher in the Kitchen",
+    "final_goal_dist": 0.19121
+}

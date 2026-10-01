@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.306595581321301,
+    "path_length": 25.750003784894943,
+    "id": "00849-a8BtkwhxdRV_sequence_19_0",
+    "instruction": "Find the metal-framed double bed",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.13444
+}

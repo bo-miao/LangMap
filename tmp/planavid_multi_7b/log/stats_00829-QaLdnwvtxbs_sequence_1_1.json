@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.796695,
+    "path_length": 4.749999925494194,
+    "id": "00829-QaLdnwvtxbs_sequence_1_1",
+    "instruction": "Find the washbasin counter in the bathroom that has toilet",
+    "navigation_type": "region",
+    "final_goal_dist": 0.15551
+}

@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.4870648738392579,
+    "path_length": 15.000001845881343,
+    "id": "00848-ziup5kvtCCR_region_8",
+    "instruction": "Find the fireplace in the tie: kitchen & living room that has curved kitchen island, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 0.10814
+}

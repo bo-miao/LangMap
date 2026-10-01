@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 17.06587389111519,
+    "id": "00853-5cdEh9F2hJL_sequence_9_2",
+    "instruction": "Find the couch in the tie: living room & office that has white fireplace, 'Tie: A & B' means the area spans both rooms A and B",
+    "navigation_type": "region",
+    "final_goal_dist": 0.38685
+}

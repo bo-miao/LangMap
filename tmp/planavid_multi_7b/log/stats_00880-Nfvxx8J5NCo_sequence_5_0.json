@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.366276,
+    "path_length": 20.89999622106552,
+    "id": "00880-Nfvxx8J5NCo_sequence_5_0",
+    "instruction": "Find the refrigerator",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.15251
+}

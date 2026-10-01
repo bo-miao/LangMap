@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.3283539457501559,
+    "path_length": 27.931531809270382,
+    "id": "00844-q5QZSEeHe5g_region_12",
+    "instruction": "Find the shelf in the kitchen that has white refrigerator",
+    "final_goal_dist": 0.12573
+}

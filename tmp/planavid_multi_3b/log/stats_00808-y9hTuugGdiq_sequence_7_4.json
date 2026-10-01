@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.7842759312051107,
+    "path_length": 20.122810006141663,
+    "id": "00808-y9hTuugGdiq_sequence_7_4",
+    "instruction": "Find the shower stall",
+    "navigation_type": "object",
+    "final_goal_dist": 0.20927
+}

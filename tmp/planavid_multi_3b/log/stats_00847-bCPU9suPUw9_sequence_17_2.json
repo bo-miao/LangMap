@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 28.416512956144288,
+    "id": "00847-bCPU9suPUw9_sequence_17_2",
+    "instruction": "Find the rug in the Dining room",
+    "navigation_type": "room",
+    "final_goal_dist": 2.07253
+}

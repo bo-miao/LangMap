@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.53635,
+    "path_length": 15.757904514670372,
+    "id": "00848-ziup5kvtCCR_sequence_19_2",
+    "instruction": "Find the dishwasher in the tie: kitchen & living room that has curved kitchen island, 'Tie: A & B' means the area spans both rooms A and B",
+    "navigation_type": "region",
+    "final_goal_dist": 0.12141
+}

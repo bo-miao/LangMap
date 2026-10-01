@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 11.005878359079361,
+    "id": "00803-k1cupFYWXJ6_sequence_0_4",
+    "instruction": "Find the table in the hall that has purple armchairs beside carved arch and stairs",
+    "navigation_type": "region",
+    "final_goal_dist": 5.42676
+}

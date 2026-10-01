@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.600583,
+    "path_length": 6.484955120831728,
+    "id": "00835-q3zU7Yy5E5s_sequence_5_0",
+    "instruction": "Find the red-blue oriental rug under armchairs",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.13333
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.18769326426302668,
+    "path_length": 61.6175489500165,
+    "id": "00843-DYehNKdT76V_sequence_9_0",
+    "instruction": "Find the steel sink in kitchen",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.13873
+}

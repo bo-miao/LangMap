@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.3956490996527988,
+    "path_length": 11.800070688128471,
+    "id": "00835-q3zU7Yy5E5s_region_55",
+    "instruction": "Find the rack in the storage room that has ladder",
+    "final_goal_dist": 0.08421
+}

@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.12662242416218608,
+    "path_length": 27.947590483352542,
+    "id": "00820-mL8ThkuaVTM_region_28",
+    "instruction": "Find the firewood holder in the tie: kitchen & living room that has TV and dining table, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 0.21498
+}

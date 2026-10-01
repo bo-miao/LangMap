@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.7429579968172703,
+    "path_length": 11.750004990026355,
+    "id": "00848-ziup5kvtCCR_room_1",
+    "instruction": "Find the clock in the Tie: Kitchen & Living room, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 0.13739
+}

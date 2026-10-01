@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 3.511014074087143,
+    "id": "00803-k1cupFYWXJ6_sequence_12_0",
+    "instruction": "Find the white side table between purple armchair and ship model",
+    "navigation_type": "instance",
+    "final_goal_dist": 3.25461
+}

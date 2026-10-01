@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.236898,
+    "path_length": 27.796309530735016,
+    "id": "00815-h1zeeAwLh9Z_sequence_4_4",
+    "instruction": "Find the sink in the Laundry room",
+    "navigation_type": "room",
+    "final_goal_dist": 0.099
+}

@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.7220224841193958,
+    "path_length": 9.359008848667145,
+    "id": "00820-mL8ThkuaVTM_room_16",
+    "instruction": "Find the bed table in the Bedroom",
+    "final_goal_dist": 0.13648
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 15.242100670933723,
+    "id": "00861-GLAQ4DNUx5U_sequence_19_1",
+    "instruction": "Find the cabinet in the Walk-in closet",
+    "navigation_type": "room",
+    "final_goal_dist": 12.3493
+}

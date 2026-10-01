@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.53423,
+    "path_length": 18.765182562172413,
+    "id": "00843-DYehNKdT76V_sequence_8_0",
+    "instruction": "Find the black media shelf below TV",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.12891
+}

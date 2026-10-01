@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 9.85068492591381,
+    "id": "00827-BAbdmeyTvMZ_sequence_17_1",
+    "instruction": "Find the picture in the living room that has brown armchair on geometric rug",
+    "navigation_type": "region",
+    "final_goal_dist": 5.66702
+}

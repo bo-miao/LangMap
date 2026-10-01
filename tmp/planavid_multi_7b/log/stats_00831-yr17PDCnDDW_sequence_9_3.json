@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 38.98143348097801,
+    "id": "00831-yr17PDCnDDW_sequence_9_3",
+    "instruction": "Find the table in the office that has tv on green wall",
+    "navigation_type": "region",
+    "final_goal_dist": 8.3851
+}

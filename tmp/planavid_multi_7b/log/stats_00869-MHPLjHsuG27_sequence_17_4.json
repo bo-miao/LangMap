@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.563519,
+    "path_length": 10.500000789761543,
+    "id": "00869-MHPLjHsuG27_sequence_17_4",
+    "instruction": "Find the dishrag in the Kitchen",
+    "navigation_type": "room",
+    "final_goal_dist": 0.12511
+}

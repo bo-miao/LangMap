@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.7973380376900224,
+    "path_length": 6.750001400709152,
+    "id": "00802-wcojb4TFT35_sequence_1_2",
+    "instruction": "Find the shower curtain in the bathroom that has white tufted shower curtain",
+    "navigation_type": "region",
+    "final_goal_dist": 0.14829
+}

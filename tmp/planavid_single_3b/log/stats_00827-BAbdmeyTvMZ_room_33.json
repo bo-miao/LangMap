@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.481309474020319,
+    "path_length": 11.5773406624794,
+    "id": "00827-BAbdmeyTvMZ_room_33",
+    "instruction": "Find the kitchen counter in the Kitchen",
+    "final_goal_dist": 0.08613
+}

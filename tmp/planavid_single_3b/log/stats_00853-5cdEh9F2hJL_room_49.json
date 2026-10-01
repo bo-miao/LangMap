@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.28894085737204356,
+    "path_length": 24.352613998577,
+    "id": "00853-5cdEh9F2hJL_room_49",
+    "instruction": "Find the wall clock in the Living room",
+    "final_goal_dist": 0.03223
+}

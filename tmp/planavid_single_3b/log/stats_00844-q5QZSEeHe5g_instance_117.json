@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.1769964320586395,
+    "path_length": 41.85304848104715,
+    "id": "00844-q5QZSEeHe5g_instance_117",
+    "instruction": "Find the upper kitchen cabinet by the left window",
+    "final_goal_dist": 0.24635
+}

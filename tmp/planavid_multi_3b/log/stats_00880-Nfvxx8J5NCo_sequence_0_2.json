@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 33.19665831327438,
+    "id": "00880-Nfvxx8J5NCo_sequence_0_2",
+    "instruction": "Find the wall clock in the Hall",
+    "navigation_type": "room",
+    "final_goal_dist": 4.71223
+}

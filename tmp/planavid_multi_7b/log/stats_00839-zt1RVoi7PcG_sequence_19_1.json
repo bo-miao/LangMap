@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.587603,
+    "path_length": 14.24905501306057,
+    "id": "00839-zt1RVoi7PcG_sequence_19_1",
+    "instruction": "Find the exercise equipment in the Rec room",
+    "navigation_type": "room",
+    "final_goal_dist": 0.13048
+}

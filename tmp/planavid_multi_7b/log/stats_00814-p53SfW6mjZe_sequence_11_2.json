@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 79.08783495798707,
+    "id": "00814-p53SfW6mjZe_sequence_11_2",
+    "instruction": "Find the coffee machine in the kitchen that has black pantry cabinet with jars",
+    "navigation_type": "region",
+    "final_goal_dist": 10.89202
+}

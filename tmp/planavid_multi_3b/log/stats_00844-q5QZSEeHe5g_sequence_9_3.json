@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.7191414048492438,
+    "path_length": 9.721939012408257,
+    "id": "00844-q5QZSEeHe5g_sequence_9_3",
+    "instruction": "Find the bathrobe in the Bathroom",
+    "navigation_type": "room",
+    "final_goal_dist": 0.15202
+}

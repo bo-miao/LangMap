@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 69.682539048139,
+    "id": "00831-yr17PDCnDDW_sequence_14_4",
+    "instruction": "Find the black coffee machine",
+    "navigation_type": "instance",
+    "final_goal_dist": 13.86697
+}

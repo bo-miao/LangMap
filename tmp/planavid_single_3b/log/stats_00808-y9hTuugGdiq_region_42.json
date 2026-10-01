@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.1442019104285573,
+    "path_length": 53.904982551932335,
+    "id": "00808-y9hTuugGdiq_region_42",
+    "instruction": "Find the cabinet in the tie: kitchen & living room that has ping pong table, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 0.02835
+}

@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.7879958402744568,
+    "path_length": 15.76818642579019,
+    "id": "00814-p53SfW6mjZe_room_65",
+    "instruction": "Find the oven and stove in the Kitchen",
+    "final_goal_dist": 0.04478
+}

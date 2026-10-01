@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 4.103123024106026,
+    "id": "00880-Nfvxx8J5NCo_sequence_14_0",
+    "instruction": "Find the large wall clock",
+    "navigation_type": "instance",
+    "final_goal_dist": 5.35375
+}

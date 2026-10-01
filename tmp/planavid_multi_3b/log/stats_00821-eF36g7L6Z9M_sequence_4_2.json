@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 17.279684022068977,
+    "id": "00821-eF36g7L6Z9M_sequence_4_2",
+    "instruction": "Find the armchair in the living room that has white couch and stone fireplace",
+    "navigation_type": "region",
+    "final_goal_dist": 2.80682
+}

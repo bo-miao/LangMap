@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.779459,
+    "path_length": 15.756957948207855,
+    "id": "00824-Dd4bFSTQ8gi_sequence_12_0",
+    "instruction": "Find the tall white kitchen cabinet left of fridge",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.11043
+}

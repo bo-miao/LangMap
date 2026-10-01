@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.7708715813744688,
+    "path_length": 14.272107020020485,
+    "id": "00814-p53SfW6mjZe_sequence_16_1",
+    "instruction": "Find the fireplace wall in the Living room",
+    "navigation_type": "room",
+    "final_goal_dist": 0.19136
+}

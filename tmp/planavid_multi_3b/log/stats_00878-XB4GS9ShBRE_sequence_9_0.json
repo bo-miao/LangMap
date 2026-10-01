@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.46110357671996377,
+    "path_length": 11.446910976432264,
+    "id": "00878-XB4GS9ShBRE_sequence_9_0",
+    "instruction": "Find the cream armchair with a striped pillow",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.11642
+}

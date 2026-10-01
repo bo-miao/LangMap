@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.057545,
+    "path_length": 2.749999910593033,
+    "id": "00873-bxsVRursffK_sequence_1_3",
+    "instruction": "Find the bath vanity",
+    "navigation_type": "object",
+    "final_goal_dist": 0.14243
+}

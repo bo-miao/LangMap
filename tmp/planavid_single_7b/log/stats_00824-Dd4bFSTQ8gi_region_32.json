@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.7440841805387051,
+    "path_length": 11.541883409023285,
+    "id": "00824-Dd4bFSTQ8gi_region_32",
+    "instruction": "Find the refrigerator in the tie: kitchen & living room that has couch near oven and curved bench, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 0.15859
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 3.439644366502762,
+    "id": "00853-5cdEh9F2hJL_sequence_17_1",
+    "instruction": "Find the decorative bowl in the Living room",
+    "navigation_type": "room",
+    "final_goal_dist": 6.15144
+}

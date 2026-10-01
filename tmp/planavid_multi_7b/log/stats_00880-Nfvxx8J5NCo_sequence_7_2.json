@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.545278,
+    "path_length": 4.750000953674316,
+    "id": "00880-Nfvxx8J5NCo_sequence_7_2",
+    "instruction": "Find the oven and stove in the tie: kitchen & living room that has white kitchen island, 'Tie: A & B' means the area spans both rooms A and B",
+    "navigation_type": "region",
+    "final_goal_dist": 0.20339
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 16.199704617261887,
+    "id": "00869-MHPLjHsuG27_sequence_11_2",
+    "instruction": "Find the radiator in the kitchen that has blue-gray kitchen cabinets",
+    "navigation_type": "region",
+    "final_goal_dist": 1.12581
+}

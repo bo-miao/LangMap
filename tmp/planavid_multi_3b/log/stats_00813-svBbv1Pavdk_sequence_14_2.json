@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.886583121910954,
+    "path_length": 4.750000029802322,
+    "id": "00813-svBbv1Pavdk_sequence_14_2",
+    "instruction": "Find the refrigerator in the Kitchen",
+    "navigation_type": "room",
+    "final_goal_dist": 0.14678
+}

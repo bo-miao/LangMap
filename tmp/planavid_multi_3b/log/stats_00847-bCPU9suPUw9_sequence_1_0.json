@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 5.644504278898239,
+    "id": "00847-bCPU9suPUw9_sequence_1_0",
+    "instruction": "Find the cartoon-print bed",
+    "navigation_type": "instance",
+    "final_goal_dist": 4.25268
+}

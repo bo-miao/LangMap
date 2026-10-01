@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.822227,
+    "path_length": 9.755158320069313,
+    "id": "00890-6s7QHgap2fW_sequence_9_2",
+    "instruction": "Find the toilet in the bathroom that has floating bath sink",
+    "navigation_type": "region",
+    "final_goal_dist": 0.11232
+}

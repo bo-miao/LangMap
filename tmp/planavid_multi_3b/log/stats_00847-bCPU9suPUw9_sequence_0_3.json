@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.9452733238393499,
+    "path_length": 4.5390705317258835,
+    "id": "00847-bCPU9suPUw9_sequence_0_3",
+    "instruction": "Find the sink in the Bathroom",
+    "navigation_type": "room",
+    "final_goal_dist": 0.05077
+}

@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 18.136088989675045,
+    "id": "00876-mv2HUxq3B53_sequence_0_0",
+    "instruction": "Find the upper geometric picture with triangular shapes",
+    "navigation_type": "instance",
+    "final_goal_dist": 4.84251
+}

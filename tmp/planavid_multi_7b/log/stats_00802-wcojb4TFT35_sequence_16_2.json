@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.313991,
+    "path_length": 2.250349774956703,
+    "id": "00802-wcojb4TFT35_sequence_16_2",
+    "instruction": "Find the bookshelf",
+    "navigation_type": "object",
+    "final_goal_dist": 0.19394
+}

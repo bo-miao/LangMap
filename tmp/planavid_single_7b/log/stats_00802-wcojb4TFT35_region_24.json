@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.7385788609128499,
+    "path_length": 5.350002631545067,
+    "id": "00802-wcojb4TFT35_region_24",
+    "instruction": "Find the shelf in the walk-in closet that has clothes near bathtub",
+    "final_goal_dist": 0.10546
+}

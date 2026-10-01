@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 2.692474976181984,
+    "id": "00835-q3zU7Yy5E5s_sequence_3_3",
+    "instruction": "Find the nightstand in the bedroom that has red floral-patterned bedding",
+    "navigation_type": "region",
+    "final_goal_dist": 1.55086
+}

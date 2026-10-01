@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.2762552384420056,
+    "path_length": 50.251252099871635,
+    "id": "00894-HY1NcmCgn3n_sequence_1_3",
+    "instruction": "Find the shelf",
+    "navigation_type": "object",
+    "final_goal_dist": 0.14115
+}

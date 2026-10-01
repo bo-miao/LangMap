@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 65.80902645364404,
+    "id": "00827-BAbdmeyTvMZ_sequence_1_0",
+    "instruction": "Find the right-side washer-dryer",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.72917
+}

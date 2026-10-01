@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 1.4999998062849045,
+    "id": "00847-bCPU9suPUw9_sequence_11_2",
+    "instruction": "Find the toilet in the bathroom that has brown shower curtain",
+    "navigation_type": "region",
+    "final_goal_dist": 15.14318
+}

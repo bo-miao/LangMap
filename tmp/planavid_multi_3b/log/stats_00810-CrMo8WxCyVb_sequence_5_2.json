@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 6.750000357627869,
+    "id": "00810-CrMo8WxCyVb_sequence_5_2",
+    "instruction": "Find the dresser in the bedroom that has white dresser below mirror",
+    "navigation_type": "region",
+    "final_goal_dist": 6.3563
+}

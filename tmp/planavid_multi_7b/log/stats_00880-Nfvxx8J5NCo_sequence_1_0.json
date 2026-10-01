@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.546094,
+    "path_length": 17.83027310669422,
+    "id": "00880-Nfvxx8J5NCo_sequence_1_0",
+    "instruction": "Find the coffee table with wood tray",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.19647
+}

@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.24483944167757407,
+    "path_length": 46.26057028770447,
+    "id": "00839-zt1RVoi7PcG_region_14",
+    "instruction": "Find the monitor in the office that has white printer",
+    "final_goal_dist": 0.16629
+}

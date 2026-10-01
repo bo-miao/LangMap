@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 15.748901277780533,
+    "id": "00800-TEEsavR23oF_sequence_14_3",
+    "instruction": "Find the bath towel in the Bathroom",
+    "navigation_type": "room",
+    "final_goal_dist": 11.75858
+}

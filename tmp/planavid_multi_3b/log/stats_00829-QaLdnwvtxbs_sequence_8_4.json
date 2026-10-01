@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 8.457138136029243,
+    "id": "00829-QaLdnwvtxbs_sequence_8_4",
+    "instruction": "Find the tv in the bedroom that has bed and TV",
+    "navigation_type": "region",
+    "final_goal_dist": 9.63091
+}

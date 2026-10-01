@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.49483234654849306,
+    "path_length": 14.500005438923836,
+    "id": "00877-4ok3usBNeis_instance_59",
+    "instruction": "Find the leftmost lower kitchen cabinet",
+    "final_goal_dist": 0.09267
+}

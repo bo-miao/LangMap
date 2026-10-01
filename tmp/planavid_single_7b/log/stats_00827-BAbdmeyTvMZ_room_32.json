@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.4691350242843281,
+    "path_length": 15.035681530833244,
+    "id": "00827-BAbdmeyTvMZ_room_32",
+    "instruction": "Find the dishwasher in the Kitchen",
+    "final_goal_dist": 0.04049
+}

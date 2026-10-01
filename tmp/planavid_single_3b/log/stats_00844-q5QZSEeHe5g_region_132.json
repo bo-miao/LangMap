@@ -1,0 +1,8 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 41.099293410778046,
+    "id": "00844-q5QZSEeHe5g_region_132",
+    "instruction": "Find the drawing in the kitchen that has white refrigerator",
+    "final_goal_dist": 1.29553
+}

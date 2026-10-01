@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.711653,
+    "path_length": 8.749996230006218,
+    "id": "00861-GLAQ4DNUx5U_sequence_12_4",
+    "instruction": "Find the kitchen island",
+    "navigation_type": "object",
+    "final_goal_dist": 0.0875
+}

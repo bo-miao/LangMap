@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.17592239203418641,
+    "path_length": 46.36542969942093,
+    "id": "00877-4ok3usBNeis_sequence_9_1",
+    "instruction": "Find the bench",
+    "navigation_type": "object",
+    "final_goal_dist": 0.05773
+}

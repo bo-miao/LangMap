@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 12.120499327778816,
+    "id": "00880-Nfvxx8J5NCo_sequence_0_0",
+    "instruction": "Find the wall-mounted tv",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.5016
+}

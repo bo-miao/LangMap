@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.5218827337563962,
+    "path_length": 25.762658178806305,
+    "id": "00824-Dd4bFSTQ8gi_sequence_4_4",
+    "instruction": "Find the closet in the Bedroom",
+    "navigation_type": "room",
+    "final_goal_dist": 0.16261
+}

@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.4945671346287048,
+    "path_length": 13.745566099882126,
+    "id": "00808-y9hTuugGdiq_sequence_10_0",
+    "instruction": "Find the dark kitchen cabinet under stove",
+    "navigation_type": "instance",
+    "final_goal_dist": 0.12148
+}

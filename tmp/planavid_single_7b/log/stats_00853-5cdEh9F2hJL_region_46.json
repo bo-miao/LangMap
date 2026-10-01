@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.23852688986839526,
+    "path_length": 32.99041484110057,
+    "id": "00853-5cdEh9F2hJL_region_46",
+    "instruction": "Find the bed in the bedroom that has black-framed bed",
+    "final_goal_dist": 0.10179
+}

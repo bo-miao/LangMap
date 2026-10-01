@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.6705592715317829,
+    "path_length": 15.693588644266129,
+    "id": "00880-Nfvxx8J5NCo_region_8",
+    "instruction": "Find the rug in the tie: kitchen & living room that has white kitchen island, 'Tie: A & B' means the area spans both rooms A and B",
+    "final_goal_dist": 0.16872
+}

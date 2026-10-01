@@ -1,0 +1,8 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 9.763689830899239,
+    "id": "00823-7MXmsvcQjpJ_region_114",
+    "instruction": "Find the kitchen extractor in the kitchen that has white refrigerator",
+    "final_goal_dist": 1.92004
+}

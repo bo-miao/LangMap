@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 78.78014706075191,
+    "id": "00843-DYehNKdT76V_sequence_10_0",
+    "instruction": "Find the black stove",
+    "navigation_type": "instance",
+    "final_goal_dist": 10.12764
+}

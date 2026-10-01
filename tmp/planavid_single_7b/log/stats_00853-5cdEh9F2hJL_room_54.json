@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.8463963843639601,
+    "path_length": 12.973801836371422,
+    "id": "00853-5cdEh9F2hJL_room_54",
+    "instruction": "Find the flowerpot in the Living room",
+    "final_goal_dist": 0.06765
+}

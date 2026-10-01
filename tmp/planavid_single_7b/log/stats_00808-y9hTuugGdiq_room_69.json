@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.3058188996925592,
+    "path_length": 27.90480673313141,
+    "id": "00808-y9hTuugGdiq_room_69",
+    "instruction": "Find the stovetop in the Kitchen",
+    "final_goal_dist": 0.10981
+}

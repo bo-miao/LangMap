@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.588453773493454,
+    "path_length": 15.5353141464293,
+    "id": "00853-5cdEh9F2hJL_sequence_17_3",
+    "instruction": "Find the wardrobe in the Office",
+    "navigation_type": "room",
+    "final_goal_dist": 0.09493
+}

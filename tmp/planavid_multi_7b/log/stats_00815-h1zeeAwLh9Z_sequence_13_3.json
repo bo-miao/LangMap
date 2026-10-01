@@ -1,0 +1,9 @@
+{
+    "success": 1.0,
+    "spl": 0.260442,
+    "path_length": 23.750004664063454,
+    "id": "00815-h1zeeAwLh9Z_sequence_13_3",
+    "instruction": "Find the kitchen island in the Kitchen",
+    "navigation_type": "room",
+    "final_goal_dist": 0.09029
+}

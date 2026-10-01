@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 48.575880985707045,
+    "id": "00824-Dd4bFSTQ8gi_sequence_15_4",
+    "instruction": "Find the book in the Living room",
+    "navigation_type": "room",
+    "final_goal_dist": 11.89564
+}

@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.5636526015767471,
+    "path_length": 20.49261106364429,
+    "id": "00848-ziup5kvtCCR_room_41",
+    "instruction": "Find the bathroom counter in the Bathroom",
+    "final_goal_dist": 0.14559
+}

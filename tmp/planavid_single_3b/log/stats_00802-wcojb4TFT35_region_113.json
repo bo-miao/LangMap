@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.4990389983375969,
+    "path_length": 3.599752254784107,
+    "id": "00802-wcojb4TFT35_region_113",
+    "instruction": "Find the trashcan in the garage that has parked car",
+    "final_goal_dist": 0.24139
+}

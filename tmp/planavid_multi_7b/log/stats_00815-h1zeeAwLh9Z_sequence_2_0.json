@@ -1,0 +1,9 @@
+{
+    "success": 0.0,
+    "spl": 0.0,
+    "path_length": 15.750002704560757,
+    "id": "00815-h1zeeAwLh9Z_sequence_2_0",
+    "instruction": "Find the white-blue flowerpot with circle pattern beside wood slatted bench",
+    "navigation_type": "instance",
+    "final_goal_dist": 1.66353
+}

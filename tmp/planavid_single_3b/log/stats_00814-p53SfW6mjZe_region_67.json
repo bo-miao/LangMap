@@ -1,0 +1,8 @@
+{
+    "success": 1.0,
+    "spl": 0.5815542132636579,
+    "path_length": 20.35000468790531,
+    "id": "00814-p53SfW6mjZe_region_67",
+    "instruction": "Find the bathroom cabinet in the bathroom that has bathtub",
+    "final_goal_dist": 0.14642
+}
