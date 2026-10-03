@@ -26,6 +26,20 @@ The LangMap annotations and tasks are available on [Hugging Face](https://huggin
 ## ⭐ LangMap
 ![LangMap](figures/langmap.png "LangMap tasks")
 
+## 📊 Results
+
+Evaluation on LangMap with concise descriptions (main baselines from Table 2 of the paper). Local Nav.: simulator pathfinder (Shortest) or learned policy (Learned).
+
+| Method | Input | Local Nav. | Multi-Goal SR | SeqSR@2 | Multi-Goal SPL | Single-Goal SR | Single-Goal SPL |
+|---|---|---|:-:|:-:|:-:|:-:|:-:|
+| 3D-Mem-7B | RGB-D (pano.) + mask + 3D map | Shortest | 30.1 | 5.1 | 17.3 | 13.7 | 6.2 |
+| MTU3D | RGB-D (pano.) + mask + 3D map | Shortest | 41.2 | 11.0 | **24.3** | 29.9 | 15.3 |
+| Uni-NaVid | RGB (single) | Learned | 34.4 | 10.4 | 15.0 | 30.3 | 15.3 |
+| **PlaNaVid-3B** | RGB (single) | Learned | 41.5 | 14.4 | 17.5 | 31.3 | 15.2 |
+| **PlaNaVid-7B** | RGB (single) | Learned | **42.8** | **14.6** | 18.1 | **31.7** | **15.4** |
+
+We release the per-task results of PlaNaVid in [`tmp/`](tmp) (`planavid_{multi,single}_{3b,7b}`); see [Analyze Results](#4-analyze-results) to reproduce the PlaNaVid numbers above.
+
 
 ## 1. Prepare Data
 
@@ -102,7 +116,7 @@ Please follow [INSTALL.md](INSTALL.md) to set up the environment and download th
 
 PlaNaVid uses a VLM planner for memory-guided waypoint and heading selection. Before running evaluation, either set your API key and URL in the `client_QwenAPI` configuration in `planner.py` or serve the VLM locally using vLLM (e.g., `base_url="http://127.0.0.1:8000/v1"`).
 
-> **Note.** `tmp/` contains our per-task results reported in the paper. New results are written to `tmp/eval_planavid_*`.
+> **Note.** New results are written to `tmp/eval_planavid_*`.
 
 Run PlaNaVid on LangMap multi-goal episodes:
 
